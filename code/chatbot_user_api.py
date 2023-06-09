@@ -16,6 +16,9 @@ st.subheader("Insurance Q/A")
 with st.sidebar:
     openai_api_key = st.text_input('OpenAI API Key',key='chatbot_api_key',type="password")
 
+os.environ["OPENAI_API_KEY"] = openai_api_key
+openai.api_key=os.environ["OPENAI_API_KEY"]
+
 if 'responses' not in st.session_state:
     st.session_state['responses'] = ["Hello!!, how can I assist you?"]
 
@@ -39,7 +42,6 @@ with textcontainer:
     if uploaded_file and question and not openai_api_key:
         st.info("please place your openai API key here to continue.....")
     if uploaded_file and question and openai_api_key:
-        openai.api_key = openai_api_key
         with st.spinner("typing..."):
             save_uploadedfile(uploaded_file)
             documents = SimpleDirectoryReader("temp").load_data()
