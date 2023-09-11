@@ -1,0 +1,381 @@
+{
+    "Rank": 737,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03213951",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IUSCC-0615"
+                },
+                "Organization": {
+                    "OrgFullName": "Indiana University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Ex-vivo Investigation of Beta Probe for Prostate Cancer Resection and Evaluation of PSMA-PET for Diagnosis of Intraprostatic Lesions",
+                "OfficialTitle": "Pilot Ex-Vivo Investigation of an Experimental Beta Probe for Assessment and Guidance of Prostate Cancer Resection"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 18, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 13, 2019",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 13, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 8, 2017",
+                "StudyFirstSubmitQCDate": "July 8, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 11, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 25, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 28, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Clinton Bahler",
+                    "ResponsiblePartyInvestigatorTitle": "Assistant Professor of Medicine",
+                    "ResponsiblePartyInvestigatorAffiliation": "Indiana University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Indiana University",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "IntraMedical Imaging, LLC",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "68Ga-PSMA is a radiopharmaceutical used with PET imaging for the detection of prostate cancer under a compassionate IND in patients who have presented with biochemical failure. In this study, the use of 68Ga-PSMA-11 will be extended to newly diagnosed patients with high risk prostate cancer. Patients enrolled to this study will undergo a 68Ga-PSMA-11 PET/CT or PET/MRI scan for research purposes (in addition to the routine CT or MRI that is routinely done for staging), and a second 68Ga-PSMA-11 administration just prior to surgery for experimental ex-vivo beta probe testing of resected tissue. Immediately following resection of the prostate, the intact tissue will be scanned using a PET camera designed for animal research in order to record the 68Ga-PSMA-11 distribution in the isolated tissue at higher resolution than can be attained using whole-body PET imaging. The experimental beta probe will then be use to measure 68Ga-PSMA-11 counts of the resected tissue.",
+                "DetailedDescription": "Primary Objective To assess beta ray detection of prostate cancer ex-vivo using experimental beta probe immediately after prostate cancer removal as determined by pathologist.\n\nSecondary Objectives\n\nCompare preoperative standard of care staging via CT or MRI to 68Ga-PSMA-11 PET (CT or MRI) findings.\nCompare preoperative 68Ga-PSMA-11 PET (CT or MRI) lesion measurements with postoperative high-resolution PET of ex-vivo tissue.\nTo compare the findings of each of the 68Ga-PSMA-11 detection methods to the surgical observations and the clinical tissue histopathology findings.\n\nExploratory Objective Correlation of beta probe measurements with preoperative 68Ga-PSMA-11 PET (CT or MRI) lesion measurements, postoperative PET/CT ex-vivo images, surgical observations, and pathology findings."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Surgical resection",
+                        "Margins of resection",
+                        "Beta radiopharmaceutical",
+                        "Beta probe device",
+                        "Ex-vivo"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "28",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Prostate cancer",
+                            "ArmGroupDescription": "Gleason grade group 1-5 on prostate biopsy or prostate cancer recurrence.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Experimental beta probe",
+                                    "Diagnostic Test: PSMA-PET"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Experimental beta probe",
+                            "InterventionDescription": "3mCi (or similar) dose of 68Ga-PSMA-11 will be given prior to resection of cancer. Experimental beta probe designed to detect 68Ga-PSMA-11 will be used on prostate tissue after it has been surgically removed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prostate cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "PSMA-PET",
+                            "InterventionDescription": "PSMA-PET imaging done prior to surgery and compared to whole mount imaging.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of patients where prostate cancer was detected using the beta probe on excised prostate tissue",
+                            "PrimaryOutcomeTimeFrame": "1 day"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients who had cancer detected by both the standard of care imaging (CT or MRI) and the 68Ga-PSMA-11 PET (CT or MRI) imaging",
+                            "SecondaryOutcomeTimeFrame": "1 day"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients who had cancer detected by the beta probe on excised prostate tissue compared with surgical observations",
+                            "SecondaryOutcomeTimeFrame": "1 day"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients who had cancer detected by the beta probe on excised prostate tissue compared with clinical tissue histopathology observations",
+                            "SecondaryOutcomeTimeFrame": "1 day"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Comparison of pre-operative 68Ga-PSMA-11 (CT or MRI) lesions measurements with post-operative ex-vivo PET of prostate tissue",
+                            "SecondaryOutcomeTimeFrame": "1 day"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria\n\nTo be considered eligible to participate in this study, a patient must meet all the inclusion criteria listed below:\n\n\u2265 18 years of age\nMust provide written informed consent\nPresence of high grade prostate cancer (Gleason grade group 1-5) on prostate biopsy or prostate cancer recurrence.\nScheduled for prostate cancer removal\nWilling and able to lie still for approximately 30 minutes in an enclosed space for the 68Ga-PSMA-11 PET CT or MRI\n\nExclusion Criteria\n\nParticipation in another investigational trial involving research exposure to ionizing radiation concurrently or within 30 days.\nSignificant acute or chronic medical, neurologic, or psychiatric illness in the subject that, in the judgment of the Principal Investigator, could compromise subject safety, limit the subject's ability to complete the study, and/or compromise the objectives of the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This patient population will have Prostate cancer with planned surgical resection (GG2-5) of prostate cancer as part of routine clinical care or active surveillance/HIFU (GG1-3).",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Clinton D. Bahler, MD, MS",
+                            "OverallOfficialAffiliation": "Indiana Unversity",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Indiana University Health Hospital",
+                            "LocationCity": "Indianapolis",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46202",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Indiana University Melvin and Bren Simon Cancer Center",
+                            "LocationCity": "Indianapolis",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46202",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "31430234",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Bahler CD, Green M, Hutchins GD, Cheng L, Magers MJ, Fletcher J, Koch MO. Prostate Specific Membrane Antigen Targeted Positron Emission Tomography of Primary Prostate Cancer: Assessing Accuracy with Whole Mount Pathology. J Urol. 2020 Jan;203(1):92-99. doi: 10.1097/JU.0000000000000501. Epub 2019 Aug 20."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M351799",
+                            "InterventionBrowseLeafName": "Gallium 68 PSMA-11",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20948",
+                            "InterventionBrowseLeafName": "Radiopharmaceuticals",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

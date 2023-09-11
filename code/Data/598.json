@@ -1,0 +1,900 @@
+{
+    "Rank": 598,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04161417",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GN17on293"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Glasgow",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Precision-Panc Master Protocol: Personalising Treatment for Pancreatic Cancer",
+                "OfficialTitle": "Precision-Panc Master Protocol: Personalising Treatment For Pancreatic Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 28, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 24, 2019",
+                "StudyFirstSubmitQCDate": "November 11, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 13, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 17, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 18, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Judith Dixon-Hughes",
+                    "ResponsiblePartyInvestigatorTitle": "Project Manager",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Glasgow"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Judith Dixon-Hughes",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Cancer Research UK",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "NHS Greater Glasgow and Clyde",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The Precision-Panc Master Protocol is a \"portal\" protocol for patients with known or suspected pancreatic cancer to be accrued through multiple centres in the UK, with the option of being subsequently enrolled into PRIMUS (Pancreatic canceR Individualised Multi-arm Umbrella Studies) examining different treatment regimens and/or biomarker development. Eligible patients will undergo tumour biopsy and blood collection prospectively for molecular profiling at a central laboratory and the results may be used to inform enrolment to PRIMUS studies."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasms Pancreatic"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "The study is seen as interventional as patients may have more tissue taken at diagnositic biopsy than if they were not part of the trial or may have an extra biopsy if there is not enough material available from their diagnostic biopsy.",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "2500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Biopsy Material Required for Registration",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "The Precision-Panc Master Protocol aims to recruit, consent and screen patients with pancreatic cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Patients with suspected or confirmed pancreatic cancer will be be asked to provide biopsy material for molecular profiling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Patients with suspected or confirmed pancreatic cancer will be be asked to provide biopsy material for molecular profiling",
+                            "InterventionDescription": "Patients with suspected or confirmed pancreatic cancer will be be asked to provide biopsy material for molecular profiling. This will enable patient enrolment into a currently available PRIMUS study",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Biopsy Material Required for Registration"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proving that patients with pancreatic cancer can have their tissue molecularly assessed and be followed up in a clinical trial setting",
+                            "PrimaryOutcomeDescription": "The number of patients screened and registered to the master protocol will be recorded. The number of patients who we are able to molecular assess will be recorded and all patients will be followed up in the master protocol until death.",
+                            "PrimaryOutcomeTimeFrame": "At end of study (5 years)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival",
+                            "SecondaryOutcomeDescription": "To assess the overall survival (OS) in patients enrolled in Precision-Panc and relate this to molecular profile information.",
+                            "SecondaryOutcomeTimeFrame": "From date of registration until date of death from any cause, assessed up to 5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants with biopsy related adverse events as assesed by CTCAE v4.03",
+                            "SecondaryOutcomeDescription": "To assess the safety of obtaining tumour biopsies suitable for molecular profiling within a standard patient treatment pathway.",
+                            "SecondaryOutcomeTimeFrame": "At time of biopsy, usually within one week of screening"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Progression Free Survival",
+                            "OtherOutcomeDescription": "To assess the progression-free survival (PFS) in patients enrolled in Precision-Panc and relate this to molecular profile information",
+                            "OtherOutcomeTimeFrame": "At time of progression (this is estimated at around 6-9 months for this group of patients)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAdult patients (age >16 years).\n\nEither:\n\nPresence of a hypodense pancreatic mass highly suspicious of primary pancreatic cancer with or without distant metastasis as assessed by a Pancreatic Multi-Disciplinary Team (MDT).\n\nOr\n\no Histologically or cytologically confirmed pancreatic ductal adenocarcinoma and its variants.\n\nPatient is willing and able to undergo additional tumour biopsy (from the primary or a metastatic site) aimed at obtaining sufficient tissue for molecular profiling if this is required.\nPatient is deemed suitable to receive chemotherapy and/or radiotherapy, and/or surgery pending stage of disease at presentation.\nPatient is deemed potentially eligible for a currently open PRIMUS study\nPatient has signed informed consent for screening research tumour biopsy (Consent 1).\nPatient has signed informed consent for Precision-Panc Master Protocol molecular profiling (Consent 2).",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "16 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Judith Dixon-Hughes",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "01413302718",
+                            "CentralContactEMail": "judith.dixon@glasgow.ac.uk"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "David Chang",
+                            "OverallOfficialAffiliation": "University of Glasgow",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Juan Valle",
+                            "OverallOfficialAffiliation": "University of Manchester",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Aberdeen Royal Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Aberdeen",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Angela Cheyne",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "angela.cheyne@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Bassam Alkari",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Northern Ireland Cancer Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Belfast",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marie Shannon",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Marie.Shannon@belfasttrust.hscni.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Richard Turkington",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Queen Elizabeth Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Birmingham",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Catia Guerreiro",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Catia.Guerreiro@uhb.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Yuk Ting Ma",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Bournemouth Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bournemouth",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rebecca Milne",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "rebecca.milne@rbch.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Tamas Hickish",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Bristol Oncology Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bristol",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Francesca Delogu",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Francesca.Delogu@UHBristol.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Stephen Falk",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Addenbrooke's Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cambridge",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Emma Wong",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "emma.wong@addenbrookes.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Bristi Basu",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Castle Hill Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cottingham",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Magda Kolodziej",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "magdalena.kolodziej@hey.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Anthony Maraveyas",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ninewells Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Dundee",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Helen Cumming",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "helencumming@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Asa Dahle-Smith",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Western General",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Edinburgh",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Olga Demyanov",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Alan Christie",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Glasgow Royal Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Glasgow",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Susan Thornton",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Susan.Thornton@ggc.scot.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Colin McKay",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Huddersfield Royal Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Huddersfield",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Zuleikha Mulla",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "zuleikha.mulla@cht.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Emma Rathbone",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Raigmore Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Inverness",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Laura McLennan",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Stephen McNally",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "St James's Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Leeds",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Anne Crossley",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "anne.crossley1@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Andrew Smith",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Liverpool Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Liverpool",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ruth Stafferton",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Ruth.Stafferton@liverpool.ac.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Paula Ganeh",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Guy's Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Francesca Curran",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "francesca.curran@gstt.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Deb Sarker",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Imperial College Healthcare Trust",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sarah Stimpson",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "sarah.stimpson@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Harpreet Wasan",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "King's College Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ane Zamalloa",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "ane.zamalloa@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Andreas Prachalias",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Free London Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tahmin Ahmed",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "tahmin.ahmed1@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Giuseppe Fusai",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Marsden Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Richard Crux",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Richard.Crux@rmh.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Naureen Starling",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "St Bart's Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sultana Begum",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "sultana.begum16@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Hemant Kocher",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "St George's Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Robert Varro",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "robert.varro@stgeorges.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Anna-Mary Young",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University College London Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Emen Mohamad",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "emen.mohamad@nhs.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Daniel Hochhauser",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Manchester Royal Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Manchester",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alice Panes",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Alice.Panes@mft.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Derek O'Reilly",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "The Christie, Manchester",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Manchester",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Helen Staiger",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Helen.Staiger@christie.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Juan Valle",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Milton Keynes Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milton Keynes",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Chloe Green",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Chloe.Green@mkuh.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Wasiru Saka",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Freeman Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Newcastle",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jasmin Snowdon",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Jasmin.Snowdon@nuth.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Kofi Oppong",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Nottingham Hospitals NHS Trust",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nottingham",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Kerri Jenkins",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Kerri.Jenkins@nuh.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Arvind Arora",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Churchill Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Oxford",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Richard Cousins",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "trialadministrator08@oncology.ox.ac.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Kinnari Patel",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Pool Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Poole",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rachel Barnsley",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Rachel.Barnsley@poole.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Lachlan Ayres",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Weston Park",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sheffield",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Cyper Allan",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "c.allan@sheffield.ac.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Jonathan Wadsley",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University Hospital Southampton",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Southampton",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Liane Armstrong",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "liane.armstrong@uhs.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Andrew Bateman",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Morriston Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Swansea",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Karen Phillips",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Karen.Phillips6@wales.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Bilal Al-Sarireh",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Albert Edward Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Wigan",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Louise Devereaux",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Louise.Devereaux@wwl.nhs.uk"
+                                    },
+                                    {
+                                        "LocationContactName": "Richard Keld",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "When the clinical study report at end of study is complete all data will be available to other researchers. Researchers should contact study Trial Management Group for access. All genomic data will be made available through ICGC ARGO.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Informed Consent Form (ICF)",
+                        "Clinical Study Report (CSR)"
+                    ]
+                },
+                "IPDSharingTimeFrame": "On study completion",
+                "IPDSharingAccessCriteria": "Request to TMG"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

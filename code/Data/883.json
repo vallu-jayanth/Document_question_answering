@@ -1,0 +1,794 @@
+{
+    "Rank": 883,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02365207",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "14-002"
+                },
+                "Organization": {
+                    "OrgFullName": "The University of Texas Health Science Center at San Antonio",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Intravesical BCG Administration to Patients With Invasive Bladder Cancer",
+                "OfficialTitle": "Evaluating Local and Regional Immune Responses to Intravesical BCG Administration to Patients With Invasive Bladder Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2018",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Poor accrual of subjects and lack of funding",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 30, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 25, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 3, 2015",
+                "StudyFirstSubmitQCDate": "February 10, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 18, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "September 23, 2019",
+                "ResultsFirstSubmitQCDate": "October 17, 2019",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "November 5, 2019",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 17, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 5, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "The University of Texas Health Science Center at San Antonio",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Patients with invasive bladder cancer will be given 3-6 treatments (based on treatment response) BCG intravesically followed by a cystectomy.",
+                "DetailedDescription": "Patients with muscle invasive (\u2265T1) bladder cancer will be given 3-6 treatments (based on treatment response) intravesical TICE\u00ae BCG. BCG is an attenuated, live culture preparation of the Bacillus of Calmette and Guerin (BCG) strain of Mycobacterium bovis.\n\nAfter completion of BCG treatments the patient will undergo a cystectomy. A portion of bladder tumor tissue and lymph nodes will be collected for research purposes during the cystectomy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "6",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "BCG treatment of invasive bladder cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: BCG strain of Mycobacterium bovis"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "BCG strain of Mycobacterium bovis",
+                            "InterventionDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "BCG treatment of invasive bladder cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "BCG"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Ability of BCG to Enhance Tumor Specific Immunity",
+                            "PrimaryOutcomeDescription": "The tumor specific immunity is measured by the change in T cell proliferation post-treatment compared to the pre-treatment assessment, which will require a sample size of at least 10",
+                            "PrimaryOutcomeTimeFrame": "At cystectomy at 3-6 weeks after BCG treatment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHave suspected or known invasive (\u2265T1) bladder cancer\nBe able to give informed consent\nBe age 18 or older\nNot be in an immunosuppressed state (e.g. HIV+, use of chronic steroids >1 month)\n\nExclusion Criteria:\n\nHave non-invasive (<T1) bladder cancer\nUnable to give informed consent\n< 18 or older\nIs in an immunosuppressed state (e.g. HIV+, use of chronic steroids >1 month)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Robert Svatek, MD",
+                            "OverallOfficialAffiliation": "University of Texas",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "MARC - The University of Texas Health Science Center",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78229",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "BCG Treatment of Invasive Bladder Cancer",
+                            "FlowGroupDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG\n\nBCG strain of Mycobacterium bovis: Invasive bladder cancer treated with 3-6 weeks of intravesical BCG"
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "6"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "2"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Withdrawal by Subject",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Physician Decision",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "BCG Treatment of Invasive Bladder Cancer",
+                            "BaselineGroupDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG\n\nBCG strain of Mycobacterium bovis: Invasive bladder cancer treated with 3-6 weeks of intravesical BCG"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "6"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Customized",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Full Range",
+                            "BaselineMeasureUnitOfMeasure": "Years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "63.5",
+                                                                "BaselineMeasurementLowerLimit": "51",
+                                                                "BaselineMeasurementUpperLimit": "84"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race/Ethnicity, Customized",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Hispanic",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "White-non Hispanic",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Ability of BCG to Enhance Tumor Specific Immunity",
+                            "OutcomeMeasureDescription": "The tumor specific immunity is measured by the change in T cell proliferation post-treatment compared to the pre-treatment assessment, which will require a sample size of at least 10",
+                            "OutcomeMeasurePopulationDescription": "Data were not analyzed, since the study closed prematurely due to poor accrual and lack of funding. Since the change in T-cell proliferation required a sample size of at least 10 and only 4 subjects who were randomized completed. No data were analyzed for this study, since that sample size was not achieved.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "At cystectomy at 3-6 weeks after BCG treatment",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "BCG Treatment of Invasive Bladder Cancer",
+                                        "OutcomeGroupDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG\n\nBCG strain of Mycobacterium bovis: Invasive bladder cancer treated with 3-6 weeks of intravesical BCG"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventsTimeFrame": "Adverse events were collected during BCG administration at 3-6 weeks prior to cystectomy. Adverse events are only reported in the 5 subjects who received study drug.",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "BCG Treatment of Invasive Bladder Cancer",
+                            "EventGroupDescription": "Invasive bladder cancer treated with 3-6 weeks of intravesical BCG\n\nBCG strain of Mycobacterium bovis: Invasive bladder cancer treated with 3-6 weeks of intravesical BCG",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "5",
+                            "EventGroupSeriousNumAffected": "3",
+                            "EventGroupSeriousNumAtRisk": "5",
+                            "EventGroupOtherNumAffected": "5",
+                            "EventGroupOtherNumAtRisk": "5"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Abdominal fluid collection",
+                            "SeriousEventOrganSystem": "Surgical and medical procedures",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventNotes": "Unanticipated: Subject was hospitalized with symptoms unrelated to study intervention: Abdominal fluid collection, body ache, chills, leg pain and surgical wound skin dehiscence",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "2",
+                                        "SeriousEventStatsNumAffected": "2",
+                                        "SeriousEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Respiratory failure",
+                            "SeriousEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventNotes": "Unanticipated: unrelated to study intervention (subject hospitalized post surgery)",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Acute renal failure",
+                            "SeriousEventOrganSystem": "Renal and urinary disorders",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventNotes": "Unanticipated: related to surgical procedure, not study intervention",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Gross hematuria",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Exploratory laparotomy",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventNotes": "Unanticipated: unrelated to study drug: diagnosis of anemia prompted an exploratory laparotomy",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dysuria",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventNotes": "Painful and frequent urination which resolved within 24 hours",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal cramps",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventNotes": "Abdominal cramps",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "5"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Robert Svatek",
+                    "PointOfContactOrganization": "University of Texas Health San Antonio",
+                    "PointOfContactEMail": "svatek@uthscsa.edu",
+                    "PointOfContactPhone": "210-567-5676"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "January 23, 2017",
+                            "LargeDocUploadDate": "09/12/2019 12:24",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M4483",
+                            "InterventionBrowseLeafName": "BCG Vaccine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

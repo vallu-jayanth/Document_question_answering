@@ -1,0 +1,351 @@
+{
+    "Rank": 929,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01734915",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "12-353"
+                },
+                "Organization": {
+                    "OrgFullName": "Massachusetts General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Detecting EGFR T790M Mutations From Circulating Tumor Cells",
+                "OfficialTitle": "Detecting EGFR T790M Mutations From Circulating Tumor Cells"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2012"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 4, 2012",
+                "StudyFirstSubmitQCDate": "November 25, 2012",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 28, 2012",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "September 23, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 26, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Lecia V. Sequist",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Massachusetts General Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Massachusetts General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Dana-Farber Cancer Institute",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Memorial Sloan Kettering Cancer Center",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "M.D. Anderson Cancer Center",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this research study is to determine if the EGFR mutation can be detected in CTCs. CTCs are cancer cells that are shed from solid tumors and float freely in the bloodstream. A device called the CTC-chip has been developed to find CTCs in the blood of patients with cancer. This is an experimental device. Using this device, the investigators will test participants' blood to try and find CTCs with the EGFR mutation and compare them with the results from the biopsy your doctor has recommended. The long-term goal of this research is to develop a way to test for the EGFR mutation that is less invasive than a tumor biopsy.",
+                "DetailedDescription": "In order to participate in this study you need to have a diagnosis of NSCLC that has spread or is unable to be surgically removed. In addition, your cancer must have an EGFR mutation and you must have a scheduled (or recently performed) biopsy to check on the presence of any other mutations related to targeted drug resistance.\n\nAfter you sign consent to participate in this study we will draw a blood sample (three tubes of blood). This is about 6 teaspoons of blood.\n\nThe number of CTCs in your blood will not be reported to you since it is not known if this number has any meaning or if it impacts your medical care in any way. These results will not become part of your medical record. They will be kept in a separate, secure location.\n\nWe will collect information from your medical records and store it in a research record that we create about you. The study team will use this information to compare details about your medical history with the results of the experiments done on your blood.\n\nGenetic material (DNA) will be removed from the CTCs found in your blood. This genetic material will be stored at the Massachusetts General Hospital and studied along with samples from other participants on this research study. Your samples will not be labeled with your name or any information that identifies you. Your samples will have a study-specific code number on them. The code linking your name to the sample will be kept in a secure location, available only to the investigators of the study and select study team members.\n\nAfter the blood draw we will follow your status every 6 months by reviewing your medical records."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Non Small Cell Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Advanced",
+                        "EGFR mutation"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Circulating Tumor Cells (CTCs)"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "NSCLC",
+                            "ArmGroupDescription": "Subjects with advanced NSCLC, will undergo blood draw",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Circulating tumor cell chip"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Circulating tumor cell chip",
+                            "InterventionDescription": "three tubes (6 teaspoons) of peripheral blood are drawn and are analyzed using the CTC chip",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "NSCLC"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Herringbone circulating tumor cell chip, herringbone CTC chip, HBCTC chip"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of patients with detectable EGFR mutations in their CTCs",
+                            "PrimaryOutcomeDescription": "Calculate the number of patients in the study population with detectable EGFR mutations in the CTCs in order to demonstrate the feasibility of testing for EGFR mutations from captured CTCs",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Number of patients with CTC-derived EGFR genotyping matching their tumor-derived EGFR genotyping",
+                            "PrimaryOutcomeDescription": "Determine the concordance of EGFR genotyping from CTCs compared to tumor tissue",
+                            "PrimaryOutcomeTimeFrame": "2 yearss"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients with EGFR gentoype results detectable from plasma cfDNA",
+                            "SecondaryOutcomeDescription": "Explore the feasibility of EGFR genotyping from plasma circulating free DNA (cfDNA)",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically confirmed NSCLC that is metastatic or unresectable\nHave agreed to undergo a clinically recommended invasive repeat tumor itssue biopsy\n\nExclusion Criteria:\n\n-",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Receiving treatment for NSCLC at one of the participating cancer centers",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Massachusetts General Hospital",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber Cancer Institute",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02215",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "MD Anderson Cancer Center",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77030",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009360",
+                            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "C000023359",
+                            "InterventionMeshTerm": "Iproplatin"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M231175",
+                            "InterventionBrowseLeafName": "Iproplatin",
+                            "InterventionBrowseLeafAsFound": "Signaling",
+                            "InterventionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

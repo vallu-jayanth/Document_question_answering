@@ -1,0 +1,363 @@
+{
+    "Rank": 101,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00656604",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC BRE 0358"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "P30CA068485",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA068485"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-BRE-0358"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-IRB-030472"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of Patients With Breast Cancer Using DCE-MRI, MRS, and Proteomics",
+                "OfficialTitle": "Evaluation of Patients With Breast Cancer Using Dynamic Contrast-Enhanced Magnetic Resonance Imaging, Magnetic Resonance Spectroscopy, and Proteomics"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2013",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2003"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 2005",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2008",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "April 10, 2008",
+                "StudyFirstSubmitQCDate": "April 10, 2008",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 11, 2008",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 4, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 5, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "A Bapsi Chakravarthy, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Diagnostic procedures, such as dynamic contrast-enhanced magnetic resonance imaging(DCE-MRI), magnetic resonance spectroscopy (MRS), and tissue proteomics, may help doctors find and diagnose breast cancer and plan the best treatment.\n\nPURPOSE: This clinical trial is studying MRI and MRS with or without tissue proteomics analysis to see how well they work in evaluating healthy women and women who are undergoing surgery for breast cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nTo correlate data obtained by DCE-MRI and MRS in healthy women and in women who are undergoing surgery for breast cancer with data obtained by conventional X-ray mammography, tissue proteomics, and histopathology.\nTo evaluate the impact of MRSI data on treatment planning for radiotherapy and/or surgery.\n\nOUTLINE: Healthy participants undergo dynamic contrast-enhanced (DCE)-MRI and magnetic resonance spectroscopic (MRS) for longitudinal studies of breast imaging and spectroscopy.\n\nPatients with breast cancers undergo DCE-MRI and MRS prior to initiation of treatment (i.e., surgery, chemotherapy, or radiotherapy). After treatment has begun, patients then undergo repeat imaging (not more than 1 per month) for follow-up assessments and longitudinal studies.\n\nBreast tissue samples are collected from patients undergoing surgery. Samples are evaluated by histopathological and proteomic analysis for correlation with DCE-MRI and MRS findings.\n\nThe study interventions are discontinued after definitive surgery is performed.\n\nPROJECTED ACCRUAL: A total of 10 healthy participants and 40 patients with breast cancer will be accrued for this study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "recurrent breast cancer",
+                        "stage I breast cancer",
+                        "stage II breast cancer",
+                        "stage IIIA breast cancer",
+                        "stage IIIB breast cancer",
+                        "stage IIIC breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Women with breast cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients undergo DCE-MRI and MRS prior to their breast cancer surgery.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: proteomic profiling",
+                                    "Procedure: lumpectomy or mastectomy",
+                                    "Procedure: dynamic contrast-enhanced magnetic resonance imaging",
+                                    "Procedure: histopathologic examination",
+                                    "Procedure: magnetic resonance spectroscopy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy volunteers",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Women without breast cancer undergo DCE-MRI and MRS."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "proteomic profiling",
+                            "InterventionDescription": "at the time of each procedure.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women with breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "proteomic analysis"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "lumpectomy or mastectomy",
+                            "InterventionDescription": "removal of breast tumor or removal of the entire breast in which the tumor is located",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women with breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "None noted"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "dynamic contrast-enhanced magnetic resonance imaging",
+                            "InterventionDescription": "Prior to initiation of treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women with breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "DCE-MRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "histopathologic examination",
+                            "InterventionDescription": "After the breast tumor has been removed, examination of the tumor under a microscope to determine the type and grade of breast cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women with breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Not noted"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "magnetic resonance spectroscopy",
+                            "InterventionDescription": "Prior to initiation of treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women with breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRS"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation of data obtained by DCE-MRI and magnetic resonance spectroscopy (MRS) with data obtained by conventional X-ray mammography, tissue proteomics, and histopathology in women with breast cancer",
+                            "PrimaryOutcomeDescription": "Imaging and spectroscopic studies are performed before surgery. After surgery, this data will be compared and contrast with data obtained from conventional mammograms and the patient's tissue.",
+                            "PrimaryOutcomeTimeFrame": "At time of breast surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of the impact of MRS data on treatment planning for radiotherapy and/or surgery in women with breast cancer",
+                            "SecondaryOutcomeDescription": "Investigators will evaluate the effectiveness of spectroscopic data used to plan for the patient's post-imaging surgery and/or post-surgical radiotherapy.",
+                            "SecondaryOutcomeTimeFrame": "After the last scan"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nMeets 1 of the following criteria:\n\nWomen with breast tumors planning to undergo surgical resection\nHealthy volunteers, including any constitutionally healthy female with no history of breast cancer\nHormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\nFemale\nMenopausal status not specified\nNot pregnant or nursing\nNegative pregnancy test\nFertile patients must use effective contraception\nNot acutely ill\nNo non-magnetic resonance-compatible ferromagnetic materials present in the body\n\nPRIOR CONCURRENT THERAPY:\n\nPrior chemotherapy and/or radiotherapy allowed",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "A. Bapsi Chakravarthy, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt-Ingram Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11600",
+                            "ConditionBrowseLeafName": "Mitral Valve Insufficiency",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC14",
+                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

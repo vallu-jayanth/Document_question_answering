@@ -1,0 +1,366 @@
+{
+    "Rank": 174,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03356808",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GIMI-IRB-17023"
+                },
+                "Organization": {
+                    "OrgFullName": "Shenzhen Geno-Immune Medical Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Antigen-specific T Cells Against Lung Cancer",
+                "OfficialTitle": "Multicenter Trial of Cancer Antigen-specific T Cells in the Treatment of Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 15, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 1, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 24, 2017",
+                "StudyFirstSubmitQCDate": "November 24, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 29, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 18, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 19, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Lung-Ji Chang",
+                    "ResponsiblePartyInvestigatorTitle": "President",
+                    "ResponsiblePartyInvestigatorAffiliation": "Shenzhen Geno-Immune Medical Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Shenzhen Geno-Immune Medical Institute",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this clinical trial is to assess the feasibility, safety and efficacy of cancer antigen-specific T cells targeting lung cancer. The cancer targeting antigens are identified through immunostaining of patient's cancer specimens. Another goal of the study is to learn more about the persistence and function of the ex vivo manipulated antigen-specific T cells in the body.",
+                "DetailedDescription": "Lung cancer is a malignancy characterized by uncontrolled cell growth in tissues of the lung. There are two main types of lung cancer, small-cell lung carcinoma (SCLC) and non-small-cell lung carcinoma (NSCLC). In 2012, lung cancer occurred in 1.8 million people and resulted in 1.6 million deaths worldwide. Common treatments include surgery, chemotherapy, and radiotherapy, but in relapsed cancer patients, such treatments often have limited successes.\n\nIn this study, the participant's peripheral blood mononuclear cells will be collected for antigen-specific T cell preparation, and/or modified using an advanced lentiviral vector system. Then the antigen-specific T cells, called engineered immune effectors (EIEs) or chimeric antigen receptor modified-T cells (CAR T), which can recognize specific molecules that are expressed by the lung cancer cells, are given back to the participant by intravenous infusion.\n\nThe purpose of this clinical trial is to assess the feasibility, safety and efficacy of T cell immunotherapy targeting single or multiple cancer antigens. The lung cancer antigens include known tumor antigens such as MAGE-A1, MAGE-A4, MucI, GD2, and mesothelin, as well as novel cancer antigens. Another goal of the study is to learn more about the persistence and function of the specific CAR T cells in the body."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung cancer",
+                        "CAR-T",
+                        "mesothelin",
+                        "Muc1",
+                        "GD2",
+                        "MAGE-A4"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung cancer-specific T cells",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Peripheral blood mononuclear cells (PBMCs) of patients, who have cancer antigen identified lung cancer, will be obtained through apheresis, and T cells will be activated and ex vivo engineered.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Lung cancer-specific T cells"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Lung cancer-specific T cells",
+                            "InterventionDescription": "1 infusion, for 1x10^6~1x10^7 cells/kg via IV",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Lung cancer-specific T cells"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Safety of engineered T cells in patients using CTCAE version 4.0 standard to evaluate the level of adverse events",
+                            "PrimaryOutcomeDescription": "Physiological parameter (measuring cytokine response)",
+                            "PrimaryOutcomeTimeFrame": "3 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Persistence and proliferation of engineered antigen-specific T cells in patients",
+                            "SecondaryOutcomeDescription": "The expansion and functional persistence of ex vivo engineered T cells in the peripheral blood of patients will be examined on Day 7, 14, 21, 28, 60 and 90 after infusion.",
+                            "SecondaryOutcomeTimeFrame": "3 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Anti-tumor effects",
+                            "SecondaryOutcomeDescription": "Objective response, such as complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD) will be assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with stage III, IV or relapsed lung cancer confirmed by histology and biopsy.\nAge: \u2265 18 years and \u2264 80 years.\n4 weeks at least since last chemotherapy or radiotherapy and 2 weeks at least since last systemic steroid hormone and other immunosuppressive therapy.\nSide Effects of Chemotherapy have subsided.\nCancer specific antigens are identified and shown to express at high levels (>2+) in malignant tissues by immuno-histochemical staining or flow cytometry.\nKarnofsky/Lansky \u2265 50%.\nExpected survival \u2265 6 weeks.\n\nInitial hematopoietic conditions with\n\nneutrophils (ANC) \u2265 1\u00d710^6/L;\nplatelet (PLT) \u2265 1\u00d710^8/L.\n\nProper renal and hepatic functions (ULN denotes \"upper limit of normal range\") with\n\nserum creatinine \u2264 2\u00d7ULN;\nserum bilirubin \u2264 3\u00d7ULN;\n\nAST/ALT \u2264 5\u00d7ULN.\n\n10. Oxygen saturation \u2265 90%. 11. Written, informed consent obtained prior to any study-specific procedures.\n\nExclusion Criteria:\n\nAirway obstruction caused by tumor.\nHistory of epilepsy or other central nervous system diseases.\nPatients who require systemic corticosteroid or other immunosuppressive therapy.\nHistory of prolonged or serious heart disease during QT.\nhistory of serious cyclophosphamide toxicity.\nCurrent or recent treatment (within the 28-day period prior to Day 0) with another investigational drug or previous participation in any immune cell therapy study.\n\nInadequate liver and renal function with\n\nserum creatinine > 2.5 mg/dl;\nserum (total) bilirubin > 2.0 mg/dl;\n\nAST & ALT > 3 x ULN.\n\n8. Pregnant or lactating females. 9. Serious active infection during screening. 10. Active HIV, Hepatitis B virus (HBV), Hepatitis C virus (HCV) infection or uncontrolled infection.\n\n11. Patients, in the opinion of investigators, may not be eligible or not able to comply with the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Lung-Ji Chang, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-075586725195",
+                            "CentralContactEMail": "c@szgimi.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Lung-Ji Chang, PhD",
+                            "OverallOfficialAffiliation": "Shenzhen Geno-Immune Medical Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Qichun Cai, MD",
+                            "OverallOfficialAffiliation": "Jinshazhou Hospital of Guangzhou University of Chinese Medicine",
+                            "OverallOfficialRole": "Study Director"
+                        },
+                        {
+                            "OverallOfficialName": "Xun Lai, MD",
+                            "OverallOfficialAffiliation": "Yunnan Cancer Hospital & The Third Affiliated Hospital of Kunming Medical University & Yunnan Cancer Center",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Jinshazhou Hospital of Guangzhou University of Chinese Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510415",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Qichun Cai, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-13802830754"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Shenzhen Geno-immune Medical Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shenzhen",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "518000",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Lung-Ji Chang, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-075586725195",
+                                        "LocationContactEMail": "c@szgimi.org"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Yunnan Cancer Hospital & The Third Affiliated Hospital of Kunming Medical University & Yunnan Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Kunming",
+                            "LocationState": "Yunnan",
+                            "LocationZip": "650000",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Xun Lai, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "13577096609",
+                                        "LocationContactEMail": "1729112214@qq.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2453",
+                            "ConditionBrowseLeafName": "Gaucher Disease Type 2",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

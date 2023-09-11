@@ -1,0 +1,438 @@
+{
+    "Rank": 472,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05633680",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "handan1"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "20200187",
+                            "SecondaryIdType": "Other Grant/Funding Number",
+                            "SecondaryIdDomain": "2020 Hebei Provincial Health Commission Youth Project Fund Project"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Handan First Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Circulating Tumor Cells Screen for Breast Cancer",
+                "OfficialTitle": "Detection of Folate Receptor-positive Circulating Tumor Cells as a Biomarker for Diagnosis",
+                "Acronym": "CTCSFBC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 20, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 20, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 20, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 21, 2022",
+                "StudyFirstSubmitQCDate": "November 21, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 1, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 10, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 13, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "kunwu-yan",
+                    "ResponsiblePartyInvestigatorTitle": "Research Project Leader",
+                    "ResponsiblePartyInvestigatorAffiliation": "Handan First Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Handan First Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A prospective study was used to collect patients considering breast cancer admitted to our general surgery department from 2019-6 to 2023-8, to identify the case group (breast cancer) and the control group (non-breast cancer), to compare the differences in CTC in peripheral blood between the two groups, and to draw conclusions after statistical analysis.",
+                "DetailedDescription": "This project is a prospective study by collecting clinical data from breast cancer and non-breast cancer patients admitted to our general surgery department from 2020 to 2023, and drawing peripheral blood for CTC testing. The clinical data of 200 patients were initially collected and grouped, with the study group positioned as breast cancer patients (patients with pathologically determined breast cancer) and the control group as non-breast cancer patients (patients with benign breast tumors and healthy women), to investigate the expression of CTC in breast cancer and correlation with the degree of metastasis, as well as to further understand the relationship between CTC in peripheral blood and breast cancer clinicopathology. The circulating tumor cell enrichment was compared between the two groups, and the data were derived for statistical analysis to draw conclusions, as well as to identify shortcomings and make improvements to the existing problems."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Neoplasm",
+                        "Neoplastic Cells, Circulating"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast cancer",
+                        "Circulating tumor cells"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "3 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast cancer group",
+                            "ArmGroupDescription": "Breast cancer is finally determined through breast puncture biopsy or excisional tissue biopsy and sent for pathological diagnosis",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Peripheral blood sampling for circulating tumor cells"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Non-breast cancer group",
+                            "ArmGroupDescription": "By breast puncture biopsy or excisional tissue biopsy and sent to pathology for final determination of benign tumor. and healthy women",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Peripheral blood sampling for circulating tumor cells"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Peripheral blood sampling for circulating tumor cells",
+                            "InterventionDescription": "Patients had 3-4 ml of venous blood drawn on day 1 after admission, ethylene diamine tetra acetic acid (EDTA) was used for anticoagulation, samples were stored at 4 \u2103, and CTCs analysis was performed within 24 hours after collection. .FU/3 ml was used as the unit for CTC quantification.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast cancer group",
+                                    "Non-breast cancer group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Enrichment of circulating tumor cells",
+                            "PrimaryOutcomeDescription": "The main test was the enrichment of circulating tumor cells in the peripheral blood of the two groups of patients.FU/3 ml was used as the unit for CTC quantification.",
+                            "PrimaryOutcomeTimeFrame": "1 week"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nClinical diagnosis of breast cancer Must be able to cooperate with the examination\n\nExclusion Criteria:\n\npatients were currently undergoing or had prior cancer treatment; patients had other conditions which investigators thought not suitable for the study.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "85 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients with a clinical diagnosis of breast cancer, patients with benign breast disease (BBD), and healthy females were recruited for this study, Patients with benign breast disease and healthy women as negative controls.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "kunwu yan, Master",
+                            "OverallOfficialAffiliation": "Handan First Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Kunwu Yan",
+                            "LocationCity": "Handan",
+                            "LocationState": "Hebei",
+                            "LocationZip": "056000",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "22019144",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Early Breast Cancer Trialists' Collaborative Group (EBCTCG); Darby S, McGale P, Correa C, Taylor C, Arriagada R, Clarke M, Cutter D, Davies C, Ewertz M, Godwin J, Gray R, Pierce L, Whelan T, Wang Y, Peto R. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death: meta-analysis of individual patient data for 10,801 women in 17 randomised trials. Lancet. 2011 Nov 12;378(9804):1707-16. doi: 10.1016/S0140-6736(11)61629-2. Epub 2011 Oct 19."
+                        },
+                        {
+                            "ReferencePMID": "33538338",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. doi: 10.3322/caac.21660. Epub 2021 Feb 4."
+                        },
+                        {
+                            "ReferencePMID": "23851396",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chen C, Ke J, Zhou XE, Yi W, Brunzelle JS, Li J, Yong EL, Xu HE, Melcher K. Structural basis for molecular recognition of folic acid by folate receptors. Nature. 2013 Aug 22;500(7463):486-9. doi: 10.1038/nature12327. Epub 2013 Jul 14."
+                        },
+                        {
+                            "ReferencePMID": "24801577",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Haber DA, Velculescu VE. Blood-based analyses of cancer: circulating tumor cells and circulating tumor DNA. Cancer Discov. 2014 Jun;4(6):650-61. doi: 10.1158/2159-8290.CD-13-1014. Epub 2014 May 6."
+                        },
+                        {
+                            "ReferencePMID": "30054636",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sparano J, O'Neill A, Alpaugh K, Wolff AC, Northfelt DW, Dang CT, Sledge GW, Miller KD. Association of Circulating Tumor Cells With Late Recurrence of Estrogen Receptor-Positive Breast Cancer: A Secondary Analysis of a Randomized Clinical Trial. JAMA Oncol. 2018 Dec 1;4(12):1700-1706. doi: 10.1001/jamaoncol.2018.2574."
+                        },
+                        {
+                            "ReferencePMID": "29800954",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Goodman CR, Seagle BL, Friedl TWP, Rack B, Lato K, Fink V, Cristofanilli M, Donnelly ED, Janni W, Shahabi S, Strauss JB. Association of Circulating Tumor Cell Status With Benefit of Radiotherapy and Survival in Early-Stage Breast Cancer. JAMA Oncol. 2018 Aug 1;4(8):e180163. doi: 10.1001/jamaoncol.2018.0163. Epub 2018 Aug 9."
+                        },
+                        {
+                            "ReferencePMID": "31088479",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Banko P, Lee SY, Nagygyorgy V, Zrinyi M, Chae CH, Cho DH, Telekes A. Technologies for circulating tumor cell separation from whole blood. J Hematol Oncol. 2019 May 14;12(1):48. doi: 10.1186/s13045-019-0735-4."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009360",
+                            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafAsFound": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M8308",
+                            "InterventionBrowseLeafName": "Folic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17236",
+                            "InterventionBrowseLeafName": "Vitamin B Complex",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M21009",
+                            "InterventionBrowseLeafName": "Acetic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M303058",
+                            "InterventionBrowseLeafName": "Retinol acetate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M208984",
+                            "InterventionBrowseLeafName": "Ethylene",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T446",
+                            "InterventionBrowseLeafName": "Folic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T447",
+                            "InterventionBrowseLeafName": "Folinic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T448",
+                            "InterventionBrowseLeafName": "Folate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T475",
+                            "InterventionBrowseLeafName": "Vitamin B9",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T436",
+                            "InterventionBrowseLeafName": "Acetic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Micro",
+                            "InterventionBrowseBranchName": "Micronutrients"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infe",
+                            "InterventionBrowseBranchName": "Anti-Infective Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Vi",
+                            "InterventionBrowseBranchName": "Vitamins"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

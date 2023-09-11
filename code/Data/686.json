@@ -1,0 +1,415 @@
+{
+    "Rank": 686,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04384926",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CSC-20200324"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Birmingham",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Outcomes of Elective Cancer Surgery During the COVID-19 Pandemic Crisis",
+                "OfficialTitle": "Outcomes of Elective Cancer Surgery During the COVID-19 Pandemic Crisis: an International, Multicentre, Observational Cohort Study (CovidSurg-Cancer)",
+                "Acronym": "CovidSurg-Can"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 30, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 11, 2020",
+                "StudyFirstSubmitQCDate": "May 11, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 12, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 11, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 12, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Birmingham",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "CovidSurg-Cancer is an international, multicentre, observational cohort study designed to evaluate the 30-day COVID-19 infection rates in elective cancer surgery during the COVID-19 pandemic.\n\nCentres can elect to include one or more cancer types in the study, in any combination, depending on local expertise and capacity. During the pilot study, investigators should enrol patients with confirmed diagnoses of:\n\nColorectal cancer\nOesophagogastric cancer\n\nAs a rapid response study to the COVID-19 pandemic, included cancer types will evolve throughout the course of the CovidSurg-Cancer study period, for example, to include breast, liver, pancreatic, gynaecological, urological cancers, or sarcomas.",
+                "DetailedDescription": "The rapid emergence of the COVID-19 virus has led to a global impact on elective surgical care.\n\nWe have very little evidence to guide us. The magnitude and effects of these changes are uncertain. The safety of operating on patients electively with the risks of COVID-19 postoperative pneumonia is unknown.\n\nHigh-quality data will allow policy planning at regional and hospital level for both this outbreak and future pandemics. CovidSurg-Cancer will run in parallel to CovidSurg (which is capturing outcomes of patients undergoing surgery for all indications with concurrent COVID-19).\n\nThe primary aim is to evaluate the 30-day COVID-19 infection rates in elective cancer surgery during the COVID-19 pandemic.\n\nSecondary aims include; comparison of the 30-day postoperative mortality rate in cancer surgery patients that develop COVID-19 infection versus those who do not; an exploration of the scale of resource constraints related to the COVID-19 pandemic, and their impact on outcomes of elective cancer surgery; to explore variation in the selection of patients for continuing elective cancer surgery during the COVID-19 pandemic; to evaluate the impact of the COVID-19 pandemic on treatment pathways for cancers with a decision for surgical resection with curative intent.\n\nThis investigator-led, non-commercial, non-interventional study is extremely low to zero risk. This study does not collect any patient identifiable information and data will not be analysed at hospital-level."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "COVID-19",
+                        "Coronavirus",
+                        "Cancer",
+                        "Surgery"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Elective",
+                        "Cancer Surgery"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Other"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cohort 1",
+                            "ArmGroupDescription": "Adult patients (aged \u226518 years), planned for curative cancer surgery, that have surgery completed during the COVID-19 pandemic",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Elective Cancer Surgery"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort 2",
+                            "ArmGroupDescription": "Adult patients (aged \u226518 years), planned for curative cancer surgery, that have surgery delayed or cancelled during the COVID-19 pandemic",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Elective Cancer Surgery"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Elective Cancer Surgery",
+                            "InterventionDescription": "Planned, curative cancer surgery",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort 1",
+                                    "Cohort 2"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "30-day postoperative COVID-19 infection rate",
+                            "PrimaryOutcomeDescription": "Frequency of COVID-19 infection within 30 days",
+                            "PrimaryOutcomeTimeFrame": "30 days"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "30-day postoperative mortality rate",
+                            "SecondaryOutcomeDescription": "Number of deaths at 30-days post surgery",
+                            "SecondaryOutcomeTimeFrame": "30-days"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Postoperative critical care utilisation rate in high-risk cancer surgery patients.",
+                            "SecondaryOutcomeDescription": "Critical care utilisation in high-risk cancer surgery patients",
+                            "SecondaryOutcomeTimeFrame": "30-days"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients with delay of greater than 4 weeks from decision for surgery to date of surgery",
+                            "SecondaryOutcomeDescription": "Number of patients with a delay of more than 4 weeks from the decision taken for surgery to the date of surgery",
+                            "SecondaryOutcomeTimeFrame": "More than 4 weeks from decision date"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of non-operated patients with progression to incurable disease by 3-months after decision for surgery",
+                            "SecondaryOutcomeDescription": "Number of non-operated patients with progression to incurable disease by 3-months after decision for surgery",
+                            "SecondaryOutcomeTimeFrame": "Up to 3-months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Centre Inclusion Criteria:\n\n- Any centre performing elective cancer surgery\n\nInclusion Criteria (patient):\n\nAdults (age \u226518 years) with a confirmed diagnosis of an included cancer type\nDecision made for surgical management with a curative intent\n\nExclusion Criteria:\n\nSurgery planned with non-curative intent\nPlanned neoadjuvant therapy without a firm date for surgery, or awaiting restaging",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients planned for curative cancer surgery that have surgery completed during the COVID-19 pandemic\nPatients planned for curative cancer surgery that have surgery delayed or cancelled during the COVID-19 pandemic",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Aneel Bhangu",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+44 1216272949",
+                            "CentralContactEMail": "A.A.Bhangu@bham.ac.uk"
+                        },
+                        {
+                            "CentralContactName": "Dmitri Nepogodiev",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+44 1216272949",
+                            "CentralContactEMail": "D.Nepogodiev@bham.ac.uk"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Aneel Bhangu",
+                            "OverallOfficialAffiliation": "University of Birmingham",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hospital del Henares",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Madrid",
+                            "LocationCountry": "Spain",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ana Minaya-Bravo",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Ana Minaya-Bravo",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34624250",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "COVIDSurg Collaborative. Effect of COVID-19 pandemic lockdowns on planned cancer surgery for 15 tumour types in 61 countries: an international, prospective, cohort study. Lancet Oncol. 2021 Nov;22(11):1507-1517. doi: 10.1016/S1470-2045(21)00493-9. Epub 2021 Oct 5."
+                        },
+                        {
+                            "ReferencePMID": "33021869",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Glasbey JC, Nepogodiev D, Simoes JFF, Omar O, Li E, Venn ML, Pgdme, Abou Chaar MK, Capizzi V, Chaudhry D, Desai A, Edwards JG, Evans JP, Fiore M, Videria JF, Ford SJ, Ganly I, Griffiths EA, Gujjuri RR, Kolias AG, Kaafarani HMA, Minaya-Bravo A, McKay SC, Mohan HM, Roberts KJ, San Miguel-Mendez C, Pockney P, Shaw R, Smart NJ, Stewart GD, Sundar Mrcog S, Vidya R, Bhangu AA; COVIDSurg Collaborative. Elective Cancer Surgery in COVID-19-Free Surgical Pathways During the SARS-CoV-2 Pandemic: An International, Multicenter, Comparative Cohort Study. J Clin Oncol. 2021 Jan 1;39(1):66-78. doi: 10.1200/JCO.20.01933. Epub 2020 Oct 6."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "No individual participant data will be made available to other researchers"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000086382",
+                            "ConditionMeshTerm": "COVID-19"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000011024",
+                            "ConditionAncestorTerm": "Pneumonia, Viral"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011014",
+                            "ConditionAncestorTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018352",
+                            "ConditionAncestorTerm": "Coronavirus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003333",
+                            "ConditionAncestorTerm": "Coronaviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030341",
+                            "ConditionAncestorTerm": "Nidovirales Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012327",
+                            "ConditionAncestorTerm": "RNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M2562",
+                            "ConditionBrowseLeafName": "COVID-19",
+                            "ConditionBrowseLeafAsFound": "COVID-19",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20180",
+                            "ConditionBrowseLeafName": "Coronavirus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13604",
+                            "ConditionBrowseLeafName": "Pneumonia, Viral",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6245",
+                            "ConditionBrowseLeafName": "Coronaviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23375",
+                            "ConditionBrowseLeafName": "Nidovirales Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14839",
+                            "ConditionBrowseLeafName": "RNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

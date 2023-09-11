@@ -1,0 +1,264 @@
+{
+    "Rank": 585,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03943082",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "189819"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2019-00171",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI Clinical Trials Reporting Program"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of California, San Francisco",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Impact of Phone Call About Financial Reimbursement Program on Access to Cancer Clinical Trials",
+                "OfficialTitle": "A Pilot Feasibility Study for Improving Patient Access to Cancer Clinical Trials (iMPACT): A Financial Reimbursement Program for Patients in Cancer Therapeutic Clinical Trials"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2021",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Accrual for Feasibility Met",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 8, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 26, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 26, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 7, 2019",
+                "StudyFirstSubmitQCDate": "May 7, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 9, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 9, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 16, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of California, San Francisco",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Lazarex Cancer Foundation",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This trial studies how well a follow-up phone call regarding financial reimbursement program (FRP) works in improving cancer patients' access to therapeutic cancer clinical trials. Follow-up phone call intervention regarding FRP may improve recruitment of cancer patients to cancer therapeutic clinical trials.",
+                "DetailedDescription": "There are limited financial models that address the economic hardship associated with clinical research participation and how it might restrict clinical research access. The Lazarex Foundation offers a financial reimbursement program (FRP) to help patients and caregivers cover the out-of-pocket costs associated with clinical trial participation for almost ten years.\n\niMPACT is a pilot study to assess the overall feasibility of conducting a multi-center trial of the Lazarex sliding scale FRP among sociodemographically diverse patients of all cancer types enrolling/potentially enrolling in therapeutic clinical trials (TCTs). The study will formalize informing patients or parents/legal guardians of patients about the Lazarex sliding-scale FRP in order to evaluate whether operationalizing intensive follow-up about the Lazarex FRP improves recruitment to cancer TCTs.\n\nAll patients or parents/legal guardians of patients will be offered information about the FRP at initial time of TCT discussion/consent for the iMPACT study, however, participants will be randomized 1:1 to receive an additional follow-up call about the FRP or no follow-up call (usual care). Participants who are randomized to usual care will be provided a phone number for the Lazarex Foundation that they or their parent or legal guardian may contact directly. Therefore all patients or parents/legal guardians of patients in the study have access to FRP eligibility assessment through the Lazarex Foundation.\n\nParticipants or parents/legal guardians of participants will be surveyed at baseline (time of consent to iMPACT) and interviewed 30 days after consent to iMPACT. If a participant enrolls in a therapeutic clinical trial, he/she will also be given an additional survey after TCT participation and interviewed up to 90 days after TCT participation."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Malignant Neoplasm",
+                        "Hematopoietic and Lymphoid Cell Neoplasm"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "252",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cohort A : Usual Care (FRP Only)",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Patients or parents/legal guardians of patients receive FRP brochure at the time of iMPACT consent.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Cancer Educational Materials",
+                                    "Behavioral: Questionnaire"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort A: Usual Care + Intervention (FRP + Follow-up)",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients or parents/legal guardians of patients receive FRP brochure at the time of iMPACT consent and a follow-up phone call on day 3 after iMPACT consent.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Cancer Educational Materials",
+                                    "Other: Follow-Up Care",
+                                    "Behavioral: Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Cancer Educational Materials",
+                            "InterventionDescription": "Receive FRP brochure",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort A : Usual Care (FRP Only)",
+                                    "Cohort A: Usual Care + Intervention (FRP + Follow-up)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Follow-Up Care",
+                            "InterventionDescription": "Receive follow-up phone call",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort A: Usual Care + Intervention (FRP + Follow-up)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Questionnaire",
+                            "InterventionDescription": "Ancillary studies",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort A : Usual Care (FRP Only)",
+                                    "Cohort A: Usual Care + Intervention (FRP + Follow-up)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Questionnaires"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of patients who sign consent to improving Patient Access to Cancer Clinical Trials (iMPACT) study among patients who are offered enrollment",
+                            "PrimaryOutcomeDescription": "The point estimate and 95% confidence interval (CI) of the proportion will be obtained within each site, furthermore, by cancer type and by phase of the clinical trial within each site.",
+                            "PrimaryOutcomeTimeFrame": "Up to 90 days after therapeutic clinical trial (TCT) participation"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients who sign consent for cancer TCT as well as by cancer type and phase of clinical trial within each arm",
+                            "SecondaryOutcomeDescription": "Two-sample proportion test between two arms will be used between two arms within each site. The point estimate and 95% confidence interval (CI) of the proportion will be obtained within each site by cancer type and by phase of the clinical trial.",
+                            "SecondaryOutcomeTimeFrame": "At day 30"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nCOHORT A:\n\nEligible patients to be randomized for the iMPACT study must:\n\nCarry a diagnosis of cancer\nPatient is considered potentially eligible for a cancer therapeutic clinical trial (TCT) and is being offered an opportunity to sign an informed consent document for the cancer TCT\n\nEligible patients to receive FRP (these documents will be requested by Lazarex Foundation, however research coordinator at site can help patient collect documents):\n\nHave a household income =< 700% of the 2018 Health and Human Services (HHS) Poverty Guidelines\nWilling to provide proof of household income. Acceptable proof of income documents are: first two pages of signed copy of income tax return, or if a return is not filed, a copy of the most recent pay stub, unemployment check, Supplemental Security Income (SSI), Social Security Disability (SSD), or public assistance benefit notification. If a patient is not employed, they must submit a signed letter stating their current financial situation",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "7 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Hala Borno, MD",
+                            "OverallOfficialAffiliation": "University of California, San Francisco",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "USC / Norris Comprehensive Cancer Center",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90033",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of California, San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94143",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

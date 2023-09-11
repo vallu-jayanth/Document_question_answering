@@ -1,0 +1,609 @@
+{
+    "Rank": 285,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01462903",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "SenU-200902002-2"
+                },
+                "Organization": {
+                    "OrgFullName": "Sun Yat-sen University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Study of Adoptive Immunotherapy With Autologous Tumor Infiltrating Lymphocytes in Solid Tumors",
+                "OfficialTitle": "A Phase I Study of Adoptive Immunotherapy With Autologous Tumor Infiltrating Lymphocytes in Solid Tumors"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2014",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2011"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2014",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2014",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 29, 2011",
+                "StudyFirstSubmitQCDate": "October 27, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 1, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 21, 2014",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 24, 2014",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Jiang Li",
+                    "ResponsiblePartyInvestigatorTitle": "Sun yat-sen University cancer center, biotherapy center",
+                    "ResponsiblePartyInvestigatorAffiliation": "Sun Yat-sen University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sun Yat-sen University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Background: T cell based adoptive immunotherapy including CTL and TIL may stimulated the immune system and stop cancer cells from growing.\n\nObjective: Phase I clinical trial to investigate the toxicity and immune response of therapy with autologous tumor infiltrating lymphocytes as adjuvant treatment for metastatic nasopharyngeal carcinoma and hepatocellular carcinoma after primary operation, radiotherapy and chemotherapy.\n\nMethodology: Phase I clinical trial in patients with advanced nasopharyngeal carcinoma, hepatocellular carcinoma, breast cancer and other solid cancers. The investigators isolated lymphocytes from fresh tumor tissues, activated and expanded TILs in vitro; and infused the enough number (10e9 to 10e10) of TIL back patients.",
+                "DetailedDescription": "Tumor infiltrating lymphocytes were isolated from tumor tissues from tumor biopsy or operation. These TILs were cultured in human IL-2 medium for 2 to 3 weeks, and reactivated by OKT3, irradiated feeder cells from the PBMCs of healthy donors and LCL set from EBV-transformed normal B cells, and expanded in human IL-2 medium for another 15 days. 10e9 to 10e10 TILs were yielded. The phenotype, function and sterile were detected before these TILs infused patients. After accepting operation or first round of routine chemotherapy and radiotherapy, the patients were treated with autologous TILs 10e9-10e10 via intravenous in 30 min, q weekX2 weeks, and followed by two weeks with daily sc low-dose interleukine-2.\n\nPatients will be evaluated for toxicity and immune response. Peripheral blood of patients using multimer analysis and/or ELISPOT assays. Additional, we will be able to determine anti-tumor effects from immunotherapy by evaluating the clinical response of patients with stable or progressive disease at the time of TILs infusion. Lastly, we will assess additional tumor markers in patients with relapsed/refractory disease by immunohistochemical staining of tumor sections from previous diagnostic or therapeutic biopsy samples to determine the incidence of additional tumor antigen targets that may be used in future studies."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Nasopharyngeal Carcinoma",
+                        "Hepatocellular Carcinoma",
+                        "Breast Carcinoma"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "TIL",
+                        "NPC",
+                        "hepatocellular carcinoma",
+                        "immunotherapy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Drug, T cell immunoterhapy",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: tumor infiltrating lymphocytes, IL-2"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "tumor infiltrating lymphocytes, IL-2",
+                            "InterventionDescription": "Biological: Infusion of Tumor Infiltrating Lymphocytes (10e9-10e10 cells) by iv in 30 Minutes. Followed by daily sc injections of 2 MIE Interleukin-2 for two weeks.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Drug, T cell immunoterhapy"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "TIL immunotherapy for cancers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "\u2022 the safety and tolerability of autologous tumor infiltrating lymphocytes (TIL) in combination with Interleukin-2(IL-2) in patients with nasopharyngeal carcinoma (NPC).",
+                            "PrimaryOutcomeDescription": "Twenty of participants with adverse events as a measure of safety and tolerability according to standard NIH criteria including fever, mucositis, dermatitis, vomiting and hematologic toxicity leucopenia, neutropenia and lymphocytoponia etc. and a Quality of Life assessment. Adverse events will be reported on the case report form. The problility of observing at least one subject experience an adverse event in a sample of 20 subjects is 0.99, if the probability of the event occurring is assumed to be 0.2. There will be 95% power to detect a change in the proportion of adverse events in the group from 0 before treatment to 0.2 after treatment.",
+                            "PrimaryOutcomeTimeFrame": "{Time Frame: 12 months}"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "\u2022 immune efficacy and anti-tumor effects of autologous tumor infiltrating lymphocytes (TIL) in combination with Interleukin-2(IL-2) in patients with nasopharyngeal carcinoma (NPC).",
+                            "SecondaryOutcomeDescription": "Treatment response will be measured by immune response including the frequency of EBV antigen-specific T cells and ELISPOT detection for IFNg, EBV DNA concentration and tumor size. These data will be examined for normality and transformed if required.",
+                            "SecondaryOutcomeTimeFrame": "[ Time Frame: 12 Months]"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with nasopharyngeal carcinoma in stage IVa or Ivb and patients with metastatic hepatocellular carcinoma were planned for tumor biopsy or primary surgeon\nAge 18 to 70 years.\nWilling to sign a durable power of attorney\nAble to understand and sign the Informed Consent Document\nLife expectancy of greater than three months\nPatients of both genders must be willing to practice birth control from the time of enrollment on this study and for up to four months after receiving the preparative regimen.\n\nSerology:\n\nSeronegative for HIV antibody.\nWomen of child-bearing potential must have a negative pregnancy test because of the potentially dangerous effects of the preparative chemotherapy on the fetus.\n\nHematology:\n\nWBC (> 3000/mm(3)).\nPlatelet count greater than 100,000/mm.\nHemoglobin greater than 8.0 g/dl.\n\nChemistry:\n\nSerum ALT/AST less or equal to 2.5 times the upper limit of normal.\nSerum creatinine less than or equal to 1.6 mg/dl.\nTotal bilirubin less than or equal to 1.5 mg/dl, except in patients with Gilbert's Syndrome who must have a total bilirubin less than 3.0 mg/dl.\n\nExclusion Criteria:\n\nPrevious treatment with IL-12.\nWomen of child-bearing potential who are pregnant or breastfeeding because of the potentially dangerous effects of the preparative chemotherapy on the fetus or infant.\nActive systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system, myocardial infarction, cardiac arrhythmias, obstructive or restrictive pulmonary disease.\nAny form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease).\nConcurrent opportunistic infections (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who have decreased immune competence may be less responsive to the experimental treatment and more susceptible to its toxicities).\nConcurrent systemic steroid therapy.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jiang Li, Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "862087343174",
+                            "CentralContactEMail": "lijiang@sysucc.org.cn"
+                        },
+                        {
+                            "CentralContactName": "Yi-Xin Zeng, Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "862087343333",
+                            "CentralContactEMail": "zengYX@sysucc.org.cn"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yi-Xin Zeng, Ph.D.",
+                            "OverallOfficialAffiliation": "Sun Yat-sen University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sun Yat-Sen University, Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510060",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jiang Li, Ph.D.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-20-87343174",
+                                        "LocationContactEMail": "lijiang@sysucc.org.cn"
+                                    },
+                                    {
+                                        "LocationContactName": "Yi-Xin Zeng, Ph.D.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Jiang Li, Ph.D.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sun Yat-Sen University, Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510060",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jiang Li, Ph.D.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-20-87343174",
+                                        "LocationContactEMail": "lijiang@sysucc.org.cn"
+                                    },
+                                    {
+                                        "LocationContactName": "Hai-Qiang Mai, Doctor",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-20-87343360",
+                                        "LocationContactEMail": "maihq@sysucc.org.cn"
+                                    },
+                                    {
+                                        "LocationContactName": "Hai-qiang Mai, Doctor",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "21325070",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Weber J, Atkins M, Hwu P, Radvanyi L, Sznol M, Yee C; Immunotherapy Task Force of the NCI Investigational Drug Steering Committee. White paper on adoptive cell therapy for cancer with tumor-infiltrating lymphocytes: a report of the CTEP subcommittee on adoptive cell therapy. Clin Cancer Res. 2011 Apr 1;17(7):1664-73. doi: 10.1158/1078-0432.CCR-10-2272. Epub 2011 Feb 15."
+                        },
+                        {
+                            "ReferencePMID": "20668005",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dudley ME, Gross CA, Langhan MM, Garcia MR, Sherry RM, Yang JC, Phan GQ, Kammula US, Hughes MS, Citrin DE, Restifo NP, Wunderlich JR, Prieto PA, Hong JJ, Langan RC, Zlott DA, Morton KE, White DE, Laurencot CM, Rosenberg SA. CD8+ enriched \"young\" tumor infiltrating lymphocytes can mediate regression of metastatic melanoma. Clin Cancer Res. 2010 Dec 15;16(24):6122-31. doi: 10.1158/1078-0432.CCR-10-1297. Epub 2010 Jul 28."
+                        },
+                        {
+                            "ReferencePMID": "19342963",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Besser MJ, Shapira-Frommer R, Treves AJ, Zippel D, Itzhaki O, Schallmach E, Kubi A, Shalmon B, Hardan I, Catane R, Segal E, Markel G, Apter S, Nun AB, Kuchuk I, Shimoni A, Nagler A, Schachter J. Minimally cultured or selected autologous tumor-infiltrating lymphocytes after a lympho-depleting chemotherapy regimen in metastatic melanoma patients. J Immunother. 2009 May;32(4):415-23. doi: 10.1097/CJI.0b013e31819c8bda."
+                        },
+                        {
+                            "ReferencePMID": "19304471",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Rosenberg SA, Dudley ME. Adoptive cell therapy for the treatment of patients with metastatic melanoma. Curr Opin Immunol. 2009 Apr;21(2):233-40. doi: 10.1016/j.coi.2009.03.002. Epub 2009 Mar 21."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000006528",
+                            "ConditionMeshTerm": "Carcinoma, Hepatocellular"
+                        },
+                        {
+                            "ConditionMeshId": "D000077274",
+                            "ConditionMeshTerm": "Nasopharyngeal Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000230",
+                            "ConditionAncestorTerm": "Adenocarcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008113",
+                            "ConditionAncestorTerm": "Liver Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008107",
+                            "ConditionAncestorTerm": "Liver Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009303",
+                            "ConditionAncestorTerm": "Nasopharyngeal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010610",
+                            "ConditionAncestorTerm": "Pharyngeal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010039",
+                            "ConditionAncestorTerm": "Otorhinolaryngologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006258",
+                            "ConditionAncestorTerm": "Head and Neck Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009302",
+                            "ConditionAncestorTerm": "Nasopharyngeal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010608",
+                            "ConditionAncestorTerm": "Pharyngeal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009057",
+                            "ConditionAncestorTerm": "Stomatognathic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010038",
+                            "ConditionAncestorTerm": "Otorhinolaryngologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9303",
+                            "ConditionBrowseLeafName": "Carcinoma, Hepatocellular",
+                            "ConditionBrowseLeafAsFound": "Hepatocellular Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1730",
+                            "ConditionBrowseLeafName": "Nasopharyngeal Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Nasopharyngeal Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10803",
+                            "ConditionBrowseLeafName": "Liver Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10797",
+                            "ConditionBrowseLeafName": "Liver Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11944",
+                            "ConditionBrowseLeafName": "Nasopharyngeal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13207",
+                            "ConditionBrowseLeafName": "Pharyngeal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12652",
+                            "ConditionBrowseLeafName": "Otorhinolaryngologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9038",
+                            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11943",
+                            "ConditionBrowseLeafName": "Nasopharyngeal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13205",
+                            "ConditionBrowseLeafName": "Pharyngeal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11707",
+                            "ConditionBrowseLeafName": "Stomatognathic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12651",
+                            "ConditionBrowseLeafName": "Otorhinolaryngologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4047",
+                            "ConditionBrowseLeafName": "Nasopharyngeal Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Nasopharyngeal Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC07",
+                            "ConditionBrowseBranchName": "Mouth and Tooth Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC09",
+                            "ConditionBrowseBranchName": "Ear, Nose, and Throat Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000091369",
+                            "InterventionMeshTerm": "Immunomodulating Agents"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafAsFound": "Potential",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M10101",
+                            "InterventionBrowseLeafName": "Interleukin-2",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Analg",
+                            "InterventionBrowseBranchName": "Analgesics"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

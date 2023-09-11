@@ -1,0 +1,489 @@
+{
+    "Rank": 679,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05083143",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "COVIDTC2021"
+                },
+                "Organization": {
+                    "OrgFullName": "Ankara Training and Research Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "The Impact of the COVID-19 Pandemic on Testicular Cancer",
+                "OfficialTitle": "The Impact of the COVID-19 Pandemic on Oncologic Outcomes of Testicular Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 15, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 25, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "October 17, 2021",
+                "StudyFirstSubmitQCDate": "October 17, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 19, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 20, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 27, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Ali Kaan Yildiz",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Ankara Training and Research Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ankara Training and Research Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In this study, investigators aim to reveal how the COVID-19 pandemic process affects testicular cancer presentations, tumor stages, the time elapsed between diagnosis and intervention, tumor recurrence and progression, which are oncological outcomes.",
+                "DetailedDescription": "The rapid spread of the 2019 coronavirus disease (COVID-19) caused by a novel betacoronavirus known as the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has had dramatic effects on individuals and health systems around the world. Beyond those infected with SARS-CoV-2,the intense demand for limited health system resources has led to reduced capacity, rapid depletion of healthcare systems and hospitals becoming a source of virus transmission.\n\nUrology associations and reference centers have issued recommendations to inform urology care during the COVID-19 outbreak. It is essential that urologists give priority to patient safety. Potential delays in the diagnosis and treatment of urological conditions and the additional burden on healthcare resources must be balanced against the risks of exposure to COVID-19. While this situation aims to conserve healthcare resources, it has created the risk of delaying cancer treatment. As a result, the transformation of health services and the increasing interest of the public in avoiding exposure to the disease has led to a decrease in the number of hospital admissions.\n\nThe effects of the pandemic on patients with testicular cancer due to a decrease in emergency room and urology clinic admissions are not clear. During theCOVID-19 outbreak, the EAU (European Association of Urology) panel of testicular cancer published an evidence-based guideline. According to this guideline, four priority groups were formed and a certain period of delaying treatment was defined for patients in each group according to their priorities."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Testicular Cancer",
+                        "COVID-19"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Testicular Cancer",
+                        "COVID-19",
+                        "Radical Orchiectomy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "50",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "COVID-19 Testicular Cancer",
+                            "ArmGroupDescription": "Patients diagnosed with testicular cancer in the COVID-19 period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: COVID-19 pandemic"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "PreCOVID-19 Testicular Cancer",
+                            "ArmGroupDescription": "Patients diagnosed with testicular cancer before the COVID-19 period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: COVID-19 pandemic"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "COVID-19 pandemic",
+                            "InterventionDescription": "Patients diagnosed with testicular cancer in the urology clinic during and before the COVID-19 pandemic will be retrospectively evaluated and compared.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "COVID-19 Testicular Cancer",
+                                    "PreCOVID-19 Testicular Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of tumor stages",
+                            "PrimaryOutcomeDescription": "Rate of tumor stages in patients who diagnosed with testicular cancer",
+                            "PrimaryOutcomeTimeFrame": "2 month"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients diagnosed with testicular cancer in the urology clinic.\n\nExclusion Criteria:\n\nPrevious history of genitourinary system tumor\nPrevious history of radiotherapy or chemotherapy",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "65 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients diagnosed with testicular cancer in the urology clinic",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ali Kaan Y\u0131ld\u0131z",
+                            "OverallOfficialAffiliation": "Ankara Training and Resarch Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Ankara Training and Research Hospital",
+                            "LocationCity": "Ankara",
+                            "LocationState": "Altindag",
+                            "LocationZip": "06230",
+                            "LocationCountry": "Turkey"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "32692208",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yue H, Bai X, Wang J, Yu Q, Liu W, Pu J, Wang X, Hu J, Xu D, Li X, Kang N, Li L, Lu W, Feng T, Ding L, Li X, Qi X; Gansu Provincial Medical Treatment Expert Group of COVID-19. Clinical characteristics of coronavirus disease 2019 in Gansu province, China. Ann Palliat Med. 2020 Jul;9(4):1404-1412. doi: 10.21037/apm-20-887. Epub 2020 Jul 13."
+                        },
+                        {
+                            "ReferencePMID": "2304163",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Moul JW, Paulson DF, Dodge RK, Walther PJ. Delay in diagnosis and survival in testicular cancer: impact of effective therapy and changes during 18 years. J Urol. 1990 Mar;143(3):520-3. doi: 10.1016/s0022-5347(17)40007-3."
+                        },
+                        {
+                            "ReferencePMID": "32414626",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wallis CJD, Novara G, Marandino L, Bex A, Kamat AM, Karnes RJ, Morgan TM, Mottet N, Gillessen S, Bossi A, Roupret M, Powles T, Necchi A, Catto JWF, Klaassen Z. Risks from Deferring Treatment for Genitourinary Cancers: A Collaborative Review to Aid Triage and Management During the COVID-19 Pandemic. Eur Urol. 2020 Jul;78(1):29-42. doi: 10.1016/j.eururo.2020.04.063. Epub 2020 May 3."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000086382",
+                            "ConditionMeshTerm": "COVID-19"
+                        },
+                        {
+                            "ConditionMeshId": "D000013736",
+                            "ConditionMeshTerm": "Testicular Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000011024",
+                            "ConditionAncestorTerm": "Pneumonia, Viral"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011014",
+                            "ConditionAncestorTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018352",
+                            "ConditionAncestorTerm": "Coronavirus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003333",
+                            "ConditionAncestorTerm": "Coronaviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030341",
+                            "ConditionAncestorTerm": "Nidovirales Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012327",
+                            "ConditionAncestorTerm": "RNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013733",
+                            "ConditionAncestorTerm": "Testicular Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006058",
+                            "ConditionAncestorTerm": "Gonadal Disorders"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M2562",
+                            "ConditionBrowseLeafName": "COVID-19",
+                            "ConditionBrowseLeafAsFound": "COVID-19",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16196",
+                            "ConditionBrowseLeafName": "Testicular Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Testicular Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13604",
+                            "ConditionBrowseLeafName": "Pneumonia, Viral",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20180",
+                            "ConditionBrowseLeafName": "Coronavirus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6245",
+                            "ConditionBrowseLeafName": "Coronaviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23375",
+                            "ConditionBrowseLeafName": "Nidovirales Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14839",
+                            "ConditionBrowseLeafName": "RNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16193",
+                            "ConditionBrowseLeafName": "Testicular Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8853",
+                            "ConditionBrowseLeafName": "Gonadal Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

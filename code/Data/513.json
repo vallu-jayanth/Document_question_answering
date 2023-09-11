@@ -1,0 +1,336 @@
+{
+    "Rank": 513,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05513638",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2019-SR-396"
+                },
+                "Organization": {
+                    "OrgFullName": "The First Affiliated Hospital with Nanjing Medical University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Artificial Intelligence-Based Computer-Aided Diagnosis of Prostate Cancer",
+                "OfficialTitle": "Safety and Accuracy of Artificial Intelligence-aided Precision MRI Assessment for the Optimization of Prostate Biopsy in Men With Suspicion of Prostate Cancer: a Multicenter Randomized Controlled Trial."
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 22, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 22, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 22, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 22, 2022",
+                "StudyFirstSubmitQCDate": "August 22, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 24, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 21, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "The First Affiliated Hospital with Nanjing Medical University",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "The First Affiliated Hospital of Soochow University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "One-fifth of all men will develop clinically significant prostate cancers (CsPC) in their lifetime. An estimated 268,490 new prostate cancer (PCa) cases and 34,500 deaths are expected in the United States during the year 2022, making PCa the second most common cause of cancer-related deaths in men. MRI with the Prostate Imaging Reporting and Data System (PI-RADS) is a current widely used communicative tool for both CsPC detection and guiding targeted prostate biopsy. The high level of expertise required for accurate interpretation and persistent inter-reader variability has limited consistency and it has hindered the widespread adoption of PI-RADS. Artificial intelligence (AI) shows a broad prospect for medical interpretation and triage in various challenging tasks , including the PCa detection and staging with MRI. While rapid technical advances are furthering the application of AI medical imaging, their implementation in clinical practice remains a major hurdle. Besides, the prospect of data-derived AI tool is to assist human experts rather than replace them, and whether AI can match or exceed the human experts is still a matter of debate. Therefore, despite strong potential, there is urgent need for research to better quantify the accuracy, generalizability and clinical applicability before the clinical use of an AI in a real-world clinical setting."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "the Application of Artificial Intelligence in the Diagnosis of Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "artificial intelligence",
+                        "prostate cancer",
+                        "magnetic resonance imaging"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "2000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "The First Affiliated Hospital of Nanjing Medical University",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: the clinical use of artificial intelligence in the diagnosis of prostate cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "The First Affiliated Hospital of Soochow University",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: the clinical use of artificial intelligence in the diagnosis of prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "the clinical use of artificial intelligence in the diagnosis of prostate cancer",
+                            "InterventionDescription": "Each study site will enroll consecutive eligible patients and randomize them to either (a) a group with human-based interpretation or (b) a group with human-artificial intelligence interactive interpretation, both of which are utilized as standards of care.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "The First Affiliated Hospital of Nanjing Medical University",
+                                    "The First Affiliated Hospital of Soochow University"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "biopsy or surgery confirmed newly-diagnosed prostate cancer and clinically significant prostate cancer",
+                            "PrimaryOutcomeDescription": "Biopsy or surgery confirmed newly-diagnosed prostate cancer and clinically significant prostate cancer will serve as our primary outcome. Details of follow up and disease progression for a period of two years following mp-MRI will also be collected. For patients with no suspicious lesions on mp-MRI or biopsy-negative, follow-up prostatic specific antigen for a period of two years will also be collected.",
+                            "PrimaryOutcomeTimeFrame": "Aug,22nd,2022-Aug,22nd,2024"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "surgery confirmed T and N staging of prostate cancer",
+                            "SecondaryOutcomeDescription": "surgery confirmed T and N staging of prostate cancer",
+                            "SecondaryOutcomeTimeFrame": "Aug,22nd,2022-Aug,22nd,2024"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "positive rate of prostate biopsy",
+                            "SecondaryOutcomeDescription": "positive rate of prostate biopsy in each arm",
+                            "SecondaryOutcomeTimeFrame": "Aug,22nd,2022-Aug,22nd,2024"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "the total reviewing time",
+                            "SecondaryOutcomeDescription": "The total reviewing time of radiologists will be measured in this aim. The reviewing time will be defined as the time from initiation of interpretating prostate mp-MRI to the time the radiologists finish reviewing and assigning a PI-RADS score.",
+                            "SecondaryOutcomeTimeFrame": "Aug,22nd,2022-Aug,22nd,2024"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nClinical suspicious of prostate cancer, presenting with an elevated prostatic specific antigen and/or abnormal digital rectal examination\n\nExclusion Criteria:\n\n(1) <60 years of age; (2) a previous surgery, radiotherapy or drug therapy for prostate cancer (interventions for benign prostatic hyperplasia or bladder outflow obstruction were deemed acceptable); (3) incomplete mp-MRI examination or artifacts of the images.",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "60 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients \u2265 60 years of age who are clinical suspicious of prostate cancer, presenting with an elevated prostatic specific antigen and/or abnormal digital rectal examination during the study enrollment period, will be eligible for inclusion. Patients will be excluded from screening if they are: (1) <60 years of age; (2) a previous surgery, radiotherapy or drug therapy for prostate cancer (interventions for benign prostatic hyperplasia or bladder outflow obstruction were deemed acceptable); (3) incomplete mp-MRI examination or artifacts of the images.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Yu-Dong Zhang",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nanjing",
+                            "LocationZip": "210029",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yu-Dong Zhang, MD;PHD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "15805151704",
+                                        "LocationContactEMail": "njmu_zyd@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000004194",
+                            "ConditionMeshTerm": "Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

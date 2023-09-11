@@ -1,0 +1,375 @@
+{
+    "Rank": 627,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05667350",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RSCD2021021"
+                },
+                "Organization": {
+                    "OrgFullName": "Eastern Hepatobiliary Surgery Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "AssesSment of Early-deteCtion basEd oN liquiD Biopsy in Biliary Tract Cancer (ASCEND-BTC)",
+                "OfficialTitle": "Exploration and Validation of a Diagnosis Model for Biliary Tract Cancer Based on Combined Liquid Biopsy in Peripheral Blood: A Multi-center Prospective Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 28, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "December 19, 2022",
+                "StudyFirstSubmitQCDate": "December 19, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 28, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 28, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 30, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Xiaoqing Jiang",
+                    "ResponsiblePartyInvestigatorTitle": "Director",
+                    "ResponsiblePartyInvestigatorAffiliation": "Eastern Hepatobiliary Surgery Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Eastern Hepatobiliary Surgery Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Guangzhou Burning Rock Bioengineering Co., Ltd",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "ASCEND-BTC is a prospective, multi-center, observational study aimed at detecting early biliary tract cancer by combined assays of serum protein and cell-free DNA (cfDNA) methylation. The study will enroll approximately 492 participants diagnosed with biliary tract cancer and benign diseases."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Biliary Tract Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Plasma, white blood cells and fresh frozen tumor tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "492",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer arm",
+                            "ArmGroupDescription": "Baseline blood samples will be collected from participants newly diagnosed with biliary tract cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Blood drawing"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Benign disease arm",
+                            "ArmGroupDescription": "Baseline blood samples will be collected from participants newly diagnosed with benign biliary tract diseases.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Blood drawing"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Blood drawing",
+                            "InterventionDescription": "Blood drawing before anti-cancer therapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer arm"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Blood drawing",
+                            "InterventionDescription": "Blood drawing before radical treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Benign disease arm"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The sensitivity and specificity of the combined model in detection of biliary tract cancers.",
+                            "PrimaryOutcomeTimeFrame": "24 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The sensitivity and specificity of the combined model in detection of different subtypes of biliary tract cancers.",
+                            "SecondaryOutcomeTimeFrame": "24 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The sensitivity and specificity of the combined model in detection of different stages of biliary tract cancers.",
+                            "SecondaryOutcomeTimeFrame": "24 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria for Cancer Arm Participants:\n\nAge 40-75 years at the day of consenting to the study.\nAble to provide a written informed consent\nPathologically confirmed biliary tract cancers.\nNo prior or ongoing anti-cancer therapy (local or systematic) prior to study blood draw.\n\nExclusion Criteria for Cancer Arm Participants:\n\nPregnancy or lactating women.\nRecipients of organ transplant or prior non-autologous (allogeneic) bone marrow transplant or stem cell transplant.\nRecipients of blood transfusion within 7 days prior to study blood draw.\nRecipients of any anti-cancer therapy within 30 days prior to study blood draw, due to diseases other than cancers.\nWith other known malignant tumors or multiple primary tumors.\n\nInclusion Criteria for Benign Arm Participants:\n\nAge 40-75 years at the day of consenting to the study.\nAble to provide a written informed consent.\nConfirmed diagnosis of benign biliary tract diseases.\nNo prior radical treatment of the benign diseases prior to study blood draw.\n\nExclusion Criteria for Benign Arm Participants:\n\nPregnancy or lactating women.\nRecipients of organ transplant or prior non-autologous (allogeneic) bone marrow transplant or stem cell transplant.\nRecipients of blood transfusion within 7 days prior to study blood draw.\nRecipients of any anti-cancer therapy within 30 days prior to study blood draw, due to diseases other than cancers.\nConfirmed diagnosis of malignancies or precancerous lesion.\nA history of malignant tumors.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Eligible participants will be recruited from participating medical centers and assigned into two arms, including participants with new diagnosis of biliary tract cancer and benign biliary tract diseases.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Bin Li, MD/PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-021-65564166",
+                            "CentralContactEMail": "libinjeff@126.com"
+                        },
+                        {
+                            "CentralContactName": "Yuzi Zhang, MD/PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-021-60293798",
+                            "CentralContactEMail": "Z_Zhangyuzi@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Xiaoqing Jiang, MD/PhD",
+                            "OverallOfficialAffiliation": "Eastern Hepatobiliary Surgery Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Bin Li, MD/PhD",
+                            "OverallOfficialAffiliation": "Eastern Hepatobiliary Surgery Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510120",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Leibo Xu, MD/PhD",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Yuzi Zhang, MD/PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-021-60293798",
+                                        "LocationContactEMail": "Z_Zhangyuzi@163.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Eastern Hepatobiliary Surgery Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shanghai",
+                            "LocationState": "Shanghai",
+                            "LocationZip": "200438",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Bin Li, MD/PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-021-65564166",
+                                        "LocationContactEMail": "libinjeff@126.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Yuzi Zhang, MD/PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-021-60293798",
+                                        "LocationContactEMail": "Z_Zhangyuzi@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001661",
+                            "ConditionMeshTerm": "Biliary Tract Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001660",
+                            "ConditionAncestorTerm": "Biliary Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4637",
+                            "ConditionBrowseLeafName": "Biliary Tract Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4636",
+                            "ConditionBrowseLeafName": "Biliary Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T761",
+                            "ConditionBrowseLeafName": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafAsFound": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

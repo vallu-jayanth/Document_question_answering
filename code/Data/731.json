@@ -1,0 +1,376 @@
+{
+    "Rank": 731,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00826579",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Rhein4031"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Basel, Switzerland",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Swiss Prospective, Multicenter Study Sentinel Lymph Node Procedure in Colon Cancer",
+                "OfficialTitle": "Swiss Prospective, Multicenter Study Sentinel Lymph Node Procedure in Colon Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 2000"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2009",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2009",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 13, 2009",
+                "StudyFirstSubmitQCDate": "January 20, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 22, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 11, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 12, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Basel, Switzerland",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The study is a feasibility and validation study of the sentinel lymph node (SLN) procedure in all stages of colon cancer. If the SLN can be reliably identified, it could be submitted to a more accurate histopathological examination (multiple sections, special staining). The detection of micrometastases in the SLN (occult stage III, upstaging) is possible. Patients with micrometastases should be considered at higher risk.\n\nAdditionally, a search for occult metastatic tumor cells in the bone marrow is performed."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colonic Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Sentinel lymph node",
+                        "Lymph node analysis",
+                        "Bone marrow analysis"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "192",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colon cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Colon cancer patients of all stages",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Sentinel lymph node procedure",
+                                    "Procedure: Bone marrow aspiration"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Sentinel lymph node procedure",
+                            "InterventionDescription": "After careful mobilization of the affected colon segment, isosulfan blue 1% is injected in vivo into the subserosa circumferentially around the tumor. Lymph nodes in the mesentery staining blue within the first minutes are marked as SLN. The procedure is followed by a resection of the affected colon segment with standard lymphadenectomy.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colon cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Lymphazurin 1%, Ben Venue Labs Inc., Bedford OH"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Bone marrow aspiration",
+                            "InterventionDescription": "Prior to surgery, bone marrow is aspirated from both iliac crests. Bone marrow aspirates are analyzed for the presence of occult metastatic colon cancer cells.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colon cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To assess the extent of upstaging due to the SLN procedure for colon cancer.",
+                            "PrimaryOutcomeTimeFrame": "1 month"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To evaluate the accuracy of the SLN procedure for colon cancer. To identify factors influencing the success of the procedure. To correlate SLN results with the presence of colon cancer cell in bone marrow aspirates. To assess OS and DFS.",
+                            "SecondaryOutcomeTimeFrame": "1 month, 3 and 5 years after surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nColon cancer at any stage diagnosed histologically or high degree of suspicion for colon cancer at endoscopy, which cannot be confirmed with certainty in the biopsy. The diagnosis of cancer must be certain in the definitive histology.\nPossibility of transabdominal injection of the dye (cancers below the peritoneal reflection in which the injection of dye must be carried out through rectoscopy, are therefore excluded).\nPatient's informed consent\n\nExclusion Criteria:\n\nPrior intrabdominal tumor surgery\nOther preexisting malignancies\nHypersensitivity/allergy to dye (isosulfan blue)\nPregnancy\nBreast-feeding\nNo patient's informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Carsten T. Viehl, MD",
+                            "OverallOfficialAffiliation": "aktuell: Spitalzentrum Biel-Bienne",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Markus Zuber, MD",
+                            "OverallOfficialAffiliation": "Kantonsspital Olten",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Carsten T. Viehl, MD",
+                            "LocationCity": "Basel",
+                            "LocationZip": "4031",
+                            "LocationCountry": "Switzerland"
+                        },
+                        {
+                            "LocationFacility": "Urban Laffer, MD",
+                            "LocationCity": "Biel",
+                            "LocationZip": "2501",
+                            "LocationCountry": "Switzerland"
+                        },
+                        {
+                            "LocationFacility": "Markus Zuber, MD",
+                            "LocationCity": "Olten",
+                            "LocationZip": "4600",
+                            "LocationCountry": "Switzerland"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28593306",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Weixler B, Viehl CT, Warschkow R, Guller U, Ramser M, Sauter G, Zuber M. Comparative Analysis of Tumor Cell Dissemination to the Sentinel Lymph Nodes and to the Bone Marrow in Patients With Nonmetastasized Colon Cancer: A Prospective Multicenter Study. JAMA Surg. 2017 Oct 1;152(10):912-920. doi: 10.1001/jamasurg.2017.1514."
+                        },
+                        {
+                            "ReferencePMID": "23354923",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Viehl CT, Guller U, Langer I, Laffer U, Oertli D, Zuber M. Factors influencing the success of in vivo sentinel lymph node procedure in colon cancer patients: Swiss prospective, multicenter study sentinel lymph node procedure in colon cancer. World J Surg. 2013 Apr;37(4):873-7. doi: 10.1007/s00268-013-1910-3."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000003110",
+                            "ConditionMeshTerm": "Colonic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M6028",
+                            "ConditionBrowseLeafName": "Colonic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colonic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

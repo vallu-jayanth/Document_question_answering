@@ -1,0 +1,383 @@
+{
+    "Rank": 131,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04318834",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2020-6112"
+                },
+                "Organization": {
+                    "OrgFullName": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Molecular Profiling of Advanced Biliary Tract Cancers",
+                "OfficialTitle": "Comprehensive Molecular Profiling of Advanced Biliary Tract Cancers for Better Treatment Selection: a McGill University Health Centre Study (COMPASS-B-MUHC)",
+                "Acronym": "COMPASS-B-MUHC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 24, 2020",
+                "StudyFirstSubmitQCDate": "March 23, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 24, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 2, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 4, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "George Zogopoulos",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Cancer Research Society",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Biliary tract cancer (BTC) accounts for <1% of all cancers, but remains a highly fatal malignancy. Surgical resection is the only hope for cure, but most patients present with advanced disease when curative-intent surgery is not possible. The therapeutic options for patients with advanced disease are limited, primarily to chemotherapeutic regimens, which are based on empiric evidence without the use of biomarkers. These current treatment strategies have been largely ineffective in controlling the disease, resulting in poor survival outcomes of less than 1 year. An understanding of the molecular characteristics of biliary tract cancer may enable stratification of patients into therapies that target specific molecular alterations with greater efficacies and improved clinical outcomes. This study aims to investigate the feasibility and clinical utility of prospective molecular profiling of advanced biliary tract cancer. The primary endpoint of this study is to demonstrate the feasibility of returning whole genome sequencing results within 8 weeks of tumour biopsy for second-line treatment consideration (n=30 patients). In parallel, tumour whole transcriptome sequencing will be performed to identify actionable molecular alterations (e.g., fusion transcripts). Once the primary endpoint is met, the study will be expanded. Current funding allows expansion to 40 patients in total."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Biliary Tract Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Biliary tract cancer",
+                        "Cholangiocarcinoma",
+                        "Molecular Profiling",
+                        "Whole Genome Sequencing",
+                        "Whole Transcriptome Sequencing"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Other",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Individuals with advanced biliary tract cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Following a tumour biopsy for molecular profiling, chemo-naive patients with advanced biliary tract cancer will receive first-line gemcitabine-based chemotherapy or an investigational drug on a participating clinical trial.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Tumour and germline molecular profiling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Tumour and germline molecular profiling",
+                            "InterventionDescription": "Tumour whole genome sequencing, germline whole genome sequencing, tumour whole transcriptome sequencing",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Individuals with advanced biliary tract cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of participants with tumour whole genome sequencing returned within 8 weeks",
+                            "PrimaryOutcomeDescription": "We have estimated that 30 patients will be required to reach the primary end point, which will be met if we demonstrate that tumor whole genome sequencing data is available at 8 weeks from the tumour biopsy for 80% of patients.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Disease control rate",
+                            "SecondaryOutcomeDescription": "Number of patients that achieve stability of disease (cancer) by imaging (RECIST criteria) with first-line standard chemotherapy, consisting of gemcitabine backbone.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression-free survival rate",
+                            "SecondaryOutcomeDescription": "Progression free survival (PFS) defined as the interval between the date of registration and the earliest date of disease progression or death due to any cause of patients treated with 1st line chemotherapy.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival rate",
+                            "SecondaryOutcomeDescription": "Overall survival (OS) defined as the interval between the date of registration and the date of death of patients treated with 1st line chemotherapy.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients in whom at least 1 actionable mutation is identified",
+                            "SecondaryOutcomeDescription": "based on whole genome sequencing or RNA sequencing analyses.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients who received a targeted therapy (after first-line treatment)",
+                            "SecondaryOutcomeDescription": "based on the identification of an actionable mutation by whole genome sequencing or RNA sequencing.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients must have a histological or radiological diagnosis of inoperable or metastatic BTC.\nPatient must have a tumour that is amenable to a core needle biopsy.\nPatients must have a measurable lesion by RECIST 1.1 in addition to the lesion that is going to be biopsied.\nPatients must be fit to safely undergo a tumour biopsy as judged by the investigator.\nEastern Cooperative Group (ECOG) performance status \u2264 1.\nLife expectancy of greater than 90 days.\nWithin 14 days of the proposed biopsy date, patients must have normal organ and marrow function.\nPatients must undergo systemic treatment with gemcitabine-based regimens as first-line standard systemic palliative treatment with or without other investigational agents within a clinical trial.\nAbility to understand and willing to sign a written informed consent document.\n\nExclusion Criteria:\n\nPatients with one or more contraindications to tumour biopsy.\nPatients who have had any prior chemotherapy or other anti-cancer agent in the advanced stage setting.\nPatients who are currently on anti-cancer treatment.\nPatients with known brain metastases.\nUncontrolled concurrent illness that would limit compliance with study requirements.\nAny other condition that would contraindicate the patient's participation due to safety concerns or compliance with clinical study procedures.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "George Zogopoulos, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "514-934-1934",
+                            "CentralContactPhoneExt": "76333",
+                            "CentralContactEMail": "george.zogopoulos@mcgill.ca"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "McGill University Health Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Montr\u00e9al",
+                            "LocationState": "Quebec",
+                            "LocationZip": "H4A 3J1",
+                            "LocationCountry": "Canada",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jennifer Gardner",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "514-934-1934",
+                                        "LocationContactPhoneExt": "76333",
+                                        "LocationContactEMail": "jennifer.gardner@affiliate.mcgill.ca"
+                                    },
+                                    {
+                                        "LocationContactName": "Adeline Cuggia, MSc",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "514-934-1934",
+                                        "LocationContactPhoneExt": "76333",
+                                        "LocationContactEMail": "cancer.pancreas@mcgill.ca"
+                                    },
+                                    {
+                                        "LocationContactName": "George Zogopoulos, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Yifan Wang, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001661",
+                            "ConditionMeshTerm": "Biliary Tract Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001660",
+                            "ConditionAncestorTerm": "Biliary Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M20116",
+                            "ConditionBrowseLeafName": "Cholangiocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4637",
+                            "ConditionBrowseLeafName": "Biliary Tract Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4636",
+                            "ConditionBrowseLeafName": "Biliary Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T755",
+                            "ConditionBrowseLeafName": "Bile Duct Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T761",
+                            "ConditionBrowseLeafName": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafAsFound": "Biliary Tract Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2986",
+                            "InterventionBrowseLeafName": "Gemcitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

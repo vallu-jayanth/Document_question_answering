@@ -1,0 +1,379 @@
+{
+    "Rank": 443,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05072197",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "(818)109A-57"
+                },
+                "Organization": {
+                    "OrgFullName": "Cheng-Hsin General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Mobile Application Support for Women With Breast Cancer Undergoing Chemotherapy",
+                "OfficialTitle": "The Effectiveness of a Mobile Application as a Support Tool for the Treatment of Women With Breast Cancer Undergoing Chemotherapy: A Randomized Controlled Trial"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 16, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 13, 2021",
+                "StudyFirstSubmitQCDate": "October 5, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 8, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 14, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 16, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cheng-Hsin General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Mobile phones have become an essential tool for everyday life. The convenience and easy accessibility of the data and information received through mobile phones have made mobile applications as the latest trend to provide education for patients in medical centers. In Taiwan, breast cancer incidence has been the highest among all cancers and the fourth leading cause of cancer deaths in women. Women with breast cancer who are undergoing chemotherapy suffer from a number of symptoms throughout the chemotherapy treatment that detrimentally affects their quality of life. Thus, providing social support and nursing care aids for these vulnerable women is imperative to help them face their breast cancer challenges. This study will develop a Mobile device application providing medical care information and social support for breast cancer women during their chemotherapy treatment to help them receive individually tailored information related to chemotherapy and support from healthcare professionals and peers. This study will use a mixed-methods design to develop a Mobile device application based on breast cancer literature and the clinical experiences of breast cancer patients to fulfill the needs women may experience during the chemotherapy treatment. Women with breast cancer will be invited to help refine the Mobile device application's content based on their experiences and feedback about the mobile application. Upon completing the mobile application development, women with breast cancer patients will be recruited to participate in a randomized controlled trial to examine the effectiveness of the mobile application. The results of this study will provide a foundation to deliver a remote, personalized, and continuous health care model to improve the self-efficacy, social support, and quality of life of women with breast cancer, and ultimately enhancing the overall quality of care and patient satisfaction with the medical care participants receive.",
+                "DetailedDescription": "This application has four modules: 1) a Learning forum; 2) a Ask-the-Expert forum; 3) a Website link forum; 4) a Encouragement forum. The intervention group will receive routine care plus access to the \"B with you\" program during their six cycles of chemotherapy. Self-efficacy, social support, and quality of life will be measured at baseline, then the 3rd and 6th cycles of chemotherapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "mobile applications",
+                        "self-efficacy",
+                        "social support",
+                        "quality of life"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Supportive Care",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Triple",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Care Provider",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "70",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Mobile device application group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "routine care and mobile device application providing medical care information and social support for breast cancer women during their chemotherapy treatment",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Mobile device as a support tool for the treatment of women with breast cancer undergoing chemotherapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "control group",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "routine care for breast cancer women during their chemotherapy treatment"
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Mobile device as a support tool for the treatment of women with breast cancer undergoing chemotherapy",
+                            "InterventionDescription": "This study will develop a Mobile device application providing medical care information and social support for breast cancer women during their chemotherapy treatment to help them receive individually tailored information related to chemotherapy and support from healthcare professionals and peers.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Mobile device application group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Change from the baseline score of the Symptom-Management Self-Efficacy Scale-Breast Cancer, SMSES-BC at the third chemotherapy (T1) and the sixth chemotherapy (T2).",
+                            "PrimaryOutcomeDescription": "The SMSES-BC scale is a 27-question tool used to assess the self-confidence level of the symptom self-care process of women with breast cancer when participants have side effects and other related symptoms during chemotherapy. There are three parts: seeking problem-solving and related resources (7 questions), dealing with symptoms related to chemotherapy (15 questions), and dealing with emotions and interpersonal troubles (5 questions). The Likert scale method is used to score. 0 points mean very unconfident, 10 points mean very confident, and the score ranges from 0 to 270 points. The higher score obtained according to the scale, the more confident of symptom management during chemotherapy among the women with breast cancer",
+                            "PrimaryOutcomeTimeFrame": "Data will be collected before chemotherapy (baseline), the third chemotherapy (T1), and the sixth chemotherapy (T2)."
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change from the baseline score of the Social Support Scale at the third chemotherapy (T1) and the sixth chemotherapy (T2).",
+                            "PrimaryOutcomeDescription": "The Social Support Scale is concerned with ways in which others affect persons' responses to stressful events. In the Social Support Scale, there is16 questions. The social support scale is divided into spouses, relatives and friends, and medical staff. The four social support functions it covers include: emotional support (questions 1-4), information support (questions 5-8), substantive support (questions 9-12), and evaluative support (13-16 questions); based on the subjective perception of the patient, the degree of support from spouses, relatives and friends, and medical staff is measured. The score is based on the Likert five-point method. The total score ranges from 16 to 80 points. The higher the score, the higher the degree of social support.",
+                            "PrimaryOutcomeTimeFrame": "Data will be collected before chemotherapy (baseline), the third chemotherapy (T1), and the sixth chemotherapy (T2)."
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change from the baseline score of the Functional Assessment of Cancer Therapy - Breast, FACT-B at the third chemotherapy (T1) and the sixth chemotherapy (T2).",
+                            "PrimaryOutcomeDescription": "The quality of life variables in this study will use the Functional Assessment of Cancer Therapy-Breast (FACT-B), a measurement tool for breast cancer patients' health-related quality of life. It can be used to understand the quality of life of breast cancer patients in the past week. There are 37 questions in total, divided into five aspects, including: physical health (7 questions), social/family health (7 questions), emotional health (6 questions), functional health (7 questions), and additional concerns ( 10 questions). The Likert five-point method is used for scoring (0-not at all, 1-a little, 2-some, 3-equivalent, and 4-very). The score range is 0-148 points, based on each score of the respondent's self-evaluation. The higher the total score, the better the quality of life of breast cancer patients.",
+                            "PrimaryOutcomeTimeFrame": "Data will be collected before chemotherapy (baseline), the third chemotherapy (T1), and the sixth chemotherapy (T2)."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The User Version of the Mobile Application Rating Scale, uMARS",
+                            "SecondaryOutcomeDescription": "The Mobile Application Rating Scale-User version is a simple and reliable quality assessment tool for health-related mobile applications. There are a total of 26 questions on the scale, using a 5-point scoring method (1-Insufficient, 2-Poor, 3-Acceptable, 4-Good, 5-Excellent), in order to adapt to the different situations of each mobile application. There is also an option of \"not applicable\" for one question. Divided into four objective quality aspects-participation (5 questions), functionality (4 questions), aesthetics (3 questions), information quality (4 questions), a subjective quality facet (4 questions) and a The impact of healthy behavior (6 questions), there are a total of 6 dimensions. The score is presented by the average score of each quality dimension and the total scale, the highest is 5 points, and the lowest is 1 point. The higher the average score, the better the quality.",
+                            "SecondaryOutcomeTimeFrame": "Data will be collected at the sixth chemotherapy."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nat least 20 years of age.\ndiagnosed with breast cancer for the first time.\ntreated with chemotherapy at the study sites.\nable to access the internet with a mobile phone.\nFluent in spoken and written Chinese .\n\nExclusion Criteria:\n\npatients with cognitive dysfunction.\ndiagnosed mental health problems.\nhaving with other cancers.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "20 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Ya-Hui Liang, BS",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+886952823710",
+                            "CentralContactEMail": "liang6823@yahoo.com.tw"
+                        },
+                        {
+                            "CentralContactName": "Chun-Yi Tai, Ph.D",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+886-228227101",
+                            "CentralContactPhoneExt": "3171",
+                            "CentralContactEMail": "yii@ntunhs.edu.tw"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ya-Hui Liang, BS",
+                            "OverallOfficialAffiliation": "Cheng-Hsin General Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cheng Hsin General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Taipei",
+                            "LocationCountry": "Taiwan",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ya-Hui Liang, BS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+886952823710",
+                                        "LocationContactEMail": "liang6823@yahoo.com.tw"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30413519",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Akechi T, Yamaguchi T, Uchida M, Imai F, Momino K, Katsuki F, Sakurai N, Miyaji T, Horikoshi M, Furukawa TA, Iwata H, Uchitomi Y. Smartphone problem-solving and behavioural activation therapy to reduce fear of recurrence among patients with breast cancer (SMartphone Intervention to LEssen fear of cancer recurrence: SMILE project): protocol for a randomised controlled trial. BMJ Open. 2018 Nov 8;8(11):e024794. doi: 10.1136/bmjopen-2018-024794."
+                        },
+                        {
+                            "ReferencePMID": "29242041",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Long-term outcomes for neoadjuvant versus adjuvant chemotherapy in early breast cancer: meta-analysis of individual patient data from ten randomised trials. Lancet Oncol. 2018 Jan;19(1):27-39. doi: 10.1016/S1470-2045(17)30777-5. Epub 2017 Dec 11."
+                        },
+                        {
+                            "ReferencePMID": "32104209",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Binotto M, Reinert T, Werutsky G, Zaffaroni F, Schwartsmann G. Health-related quality of life before and during chemotherapy in patients with early-stage breast cancer. Ecancermedicalscience. 2020 Jan 27;14:1007. doi: 10.3332/ecancer.2020.1007. eCollection 2020."
+                        },
+                        {
+                            "ReferencePMID": "9060536",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Brady MJ, Cella DF, Mo F, Bonomi AE, Tulsky DS, Lloyd SR, Deasy S, Cobleigh M, Shiomoto G. Reliability and validity of the Functional Assessment of Cancer Therapy-Breast quality-of-life instrument. J Clin Oncol. 1997 Mar;15(3):974-86. doi: 10.1200/JCO.1997.15.3.974."
+                        },
+                        {
+                            "ReferencePMID": "32201165",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Handa S, Okuyama H, Yamamoto H, Nakamura S, Kato Y. Effectiveness of a Smartphone Application as a Support Tool for Patients Undergoing Breast Cancer Chemotherapy: A Randomized Controlled Trial. Clin Breast Cancer. 2020 Jun;20(3):201-208. doi: 10.1016/j.clbc.2020.01.004. Epub 2020 Feb 26."
+                        },
+                        {
+                            "ReferencePMID": "32130181",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hou IC, Lin HY, Shen SH, Chang KJ, Tai HC, Tsai AJ, Dykes PC. Quality of Life of Women After a First Diagnosis of Breast Cancer Using a Self-Management Support mHealth App in Taiwan: Randomized Controlled Trial. JMIR Mhealth Uhealth. 2020 Mar 4;8(3):e17084. doi: 10.2196/17084."
+                        },
+                        {
+                            "ReferencePMID": "21922244",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ng R, Lee CF, Wong NS, Luo N, Yap YS, Lo SK, Chia WK, Yee A, Krishna L, Goh C, Cheung YB. Measurement properties of the English and Chinese versions of the Functional Assessment of Cancer Therapy-Breast (FACT-B) in Asian breast cancer patients. Breast Cancer Res Treat. 2012 Jan;131(2):619-25. doi: 10.1007/s10549-011-1764-z. Epub 2011 Sep 16."
+                        },
+                        {
+                            "ReferencePMID": "31482403",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sakai H, Umeda M, Okuyama H, Nakamura S. Differences in perception of breast cancer treatment between patients, physicians, and nurses and unmet information needs in Japan. Support Care Cancer. 2020 May;28(5):2331-2338. doi: 10.1007/s00520-019-05029-z. Epub 2019 Sep 3."
+                        },
+                        {
+                            "ReferencePMID": "27287964",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stoyanov SR, Hides L, Kavanagh DJ, Wilson H. Development and Validation of the User Version of the Mobile Application Rating Scale (uMARS). JMIR Mhealth Uhealth. 2016 Jun 10;4(2):e72. doi: 10.2196/mhealth.5849."
+                        },
+                        {
+                            "ReferencePMID": "31693265",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yanez B, Oswald LB, Baik SH, Buitrago D, Iacobelli F, Perez-Tamayo A, Guitelman J, Penedo FJ, Buscemi J. Brief culturally informed smartphone interventions decrease breast cancer symptom burden among Latina breast cancer survivors. Psychooncology. 2020 Jan;29(1):195-203. doi: 10.1002/pon.5281. Epub 2019 Nov 15."
+                        },
+                        {
+                            "ReferencePMID": "17377841",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wan C, Zhang D, Yang Z, Tu X, Tang W, Feng C, Wang H, Tang X. Validation of the simplified Chinese version of the FACT-B for measuring quality of life for patients with breast cancer. Breast Cancer Res Treat. 2007 Dec;106(3):413-8. doi: 10.1007/s10549-007-9511-1. Epub 2007 Mar 22."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T6034",
+                            "ConditionBrowseLeafName": "Quality of Life",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

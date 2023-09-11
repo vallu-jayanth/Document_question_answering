@@ -1,0 +1,345 @@
+{
+    "Rank": 244,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05573789",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "TR19/9"
+                },
+                "Organization": {
+                    "OrgFullName": "Hellenic Cooperative Oncology Group",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Tumor Molecular Profiling in Patients With Prostate Cancer",
+                "OfficialTitle": "Investigation of Mutations in DNA Damage Repair Genes and Other Actionable Molecular Aberrations as Biomarkers in Patients With Prostate Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 1, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "October 6, 2022",
+                "StudyFirstSubmitQCDate": "October 6, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 10, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 17, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 19, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hellenic Cooperative Oncology Group",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "NIPD Genetics",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The aim of the study was to evaluate the prevalence, the prognostic and predictive value of gene alterations in unselected patients with prostate cancer. Patients with histologically confirmed prostate cancer, treated at Hellenic Cooperative Oncology Group (HeCOG)-affiliated departments, were included. The presence of gene alterations was assessed using the ForeSENTIA\u00ae Prostate panel developed by NIPD Genetic.",
+                "DetailedDescription": "Data on tumor molecular profiling of European patients with prostate cancer is limited. The aim of the study was to evaluate the prevalence, the prognostic and predictive value of gene alterations in unselected patients with prostate cancer. Patients with histologically confirmed prostate cancer, treated at Hellenic Cooperative Oncology Group (HeCOG)-affiliated departments, were included. The presence of gene alterations was assessed using the ForeSENTIA\u00ae Prostate panel developed by NIPD Genetic. The primary endpoint was the prevalence of gene alterations in homologous recombination repair (HRR) genes. Secondary endpoint was overall survival."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer",
+                        "Metastatic Prostate Adenocarcinoma"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "tumor molecular profiling",
+                        "Mutations",
+                        "homologous recombination repair",
+                        "BRCA2",
+                        "Prognostic"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "FFPE tumor blocks from patients with recurrent locally advanced, metastatic and/or high-grade operable prostate cancer"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "220",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with prostate cancer",
+                            "ArmGroupDescription": "Patients with recurrent locally advanced, metastatic and/or high-grade operable prostate cancer and available formalin-fixed paraffin-embedded tumor tissue. Patients received treatment at Hellenic Cooperative Oncology Group (HeCOG)-affiliated departments of oncology. Tumor molecular profiling was performed.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Tumor molecular profiling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Tumor molecular profiling",
+                            "InterventionDescription": "Tumor molecular profiling was assessed using the ForeSENTIA\u00ae Prostate panel developed by NIPD Genetic",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with prostate cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Next-generation sequencing"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Overall survival",
+                            "PrimaryOutcomeDescription": "Time from diagnosis to the date of death, through the completion of the study",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Prevalence of somatic mutations in clinically relevant genes",
+                            "SecondaryOutcomeDescription": "Number of patients with somatic mutations",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMetastatic prostate cancer Recurrent prostate cancer Locally advanced prostate cancer High-risk operable prostate cancer Available FFPE tumor tissue\n\nExclusion Criteria:\n\nAbsence of tumor tissue available for analysis Lack of informed consent Lack of clinicopathological data",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "GenderBased": "Yes",
+                "GenderDescription": "Prostate cancer",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with recurrent locally advanced, metastatic and/or high-grade operable prostate cancer",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hellenic Cooperative Oncology Group",
+                            "LocationCity": "Athens",
+                            "LocationZip": "11524",
+                            "LocationCountry": "Greece"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M8371",
+                            "InterventionBrowseLeafName": "Formaldehyde",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infe",
+                            "InterventionBrowseBranchName": "Anti-Infective Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

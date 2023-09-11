@@ -1,0 +1,386 @@
+{
+    "Rank": 604,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01182519",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "10-115"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Lung Inflammation and Lung Metastases From Breast Cancer",
+                "OfficialTitle": "Association of Smoking, Lung Inflammation and Lung Metastases From Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "August 13, 2010",
+                "StudyFirstSubmitQCDate": "August 13, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 16, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 11, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 12, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Weill Medical College of Cornell University",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Vanderbilt University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to find out if there is a link between cigarette smoking, inflammation and the spread of breast cancer to the lung. We think that women who are current or former smokers may be at increased risk for breast cancer spreading to the lung compared to women who have never smoked. Smoking causes inflammation in the lung in some women. Researchers at Memorial Sloan-Kettering (MSKCC) think that smoking-related lung inflammation may increase the chance of breast cancer spreading to the lung. In order to find out whether inflammation plays a role in breast cancer spreading to the lung, we will measure a urinary marker of lung inflammation. This will allow us to determine if this marker is more commonly elevated in women with breast cancer that has spread to the lung compared to those without breast cancer in the lung. We will also collect DNA from blood to have the opportunity to determine if there are differences in DNA in women with or without breast cancer that has spread to the other sites including the lung. We will also collect blood to determine if we can identify risk factors for the spread of breast cancer to the lungs."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "lung inflammation",
+                        "lung metastases",
+                        "10-115"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Urine and Blood"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "400",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Diagnosed with metastatic breast cancer",
+                            "ArmGroupDescription": "The primary objective of this study is to examine the association between urinary PGE-M and the presence or absence of lung metastases in patients with breast cancer. These patients will be subdivided into a set with lung metastases (group 1A; clinically assessed as per guidelines below) versus those with no evidence of lung metastases (group 1B; \"no known lung metastases\"). Group #2 (control) will have been treated for early stage breast cancer and will have no known metastases.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: questionnaire, blood draw and urine sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "History of early breast cancer",
+                            "ArmGroupDescription": "History of early breast cancer and currently no evidence of disease",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: questionnaire, blood draw and urine sample"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "questionnaire, blood draw and urine sample",
+                            "InterventionDescription": "Patients will be asked to participate on a single day. After study registration they will be asked to complete the questionnaire. All participants will complete a questionnaire detailing tobacco and NSAID exposure, as well as detailing any other inflammatory conditions of the lung. Then the patient will give a single blood sample (up to 3 tubes) and a single urine sample.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Diagnosed with metastatic breast cancer",
+                                    "History of early breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The association between urinary PGE-M and the presence or absence of lung metastases",
+                            "PrimaryOutcomeDescription": "in patients with breast cancer",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The putative link between smoking and site-specific metastases from breast cancer",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Polymorphisms for genes linked to inflammation (germ line DNA SNPs)",
+                            "SecondaryOutcomeDescription": "with the presence or absence of lung metastases.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nRegistered patient at MSKCC\nHistologically proven breast cancer. It is not necessary that pathology be reviewed at MSKCC\nAge \u226518 years Group 1 (A and B)\nDiagnosed with metastatic breast cancer on biopsy or imaging study.\nPatients will be considered to have lung metastases, and will be assigned to group 1A if any of the following criteria are met, otherwise patients will be assigned to group 1B \"No known Lung Metastases,\" Biopsy-proven lung metastasis.\nPleural effusion with cytologic evidence of malignancy.\nPleural effusion, exudative in character, without alternative explanation and attributed, in the opinion of the clinician to metastatic disease.\nSymptoms attributable to lung metastases and a radiological pattern interpreted by a radiologist as suspicious for metastatic disease.\nAny pulmonary nodule on chest radiograph, CT scan, PET-CT or MRI, which is interpreted by the clinician and radiologist to be metastatic in etiology, whether or not a biopsy was performed, and regardless of symptoms.\nA radiographic pattern interpreted by a radiologist as consistent with lymphangitic carcinomatosis.\n\nGroup 2 (Controls)\n\nHistory of early breast cancer and currently no evidence of disease\n\nExclusion Criteria:\n\nInability to provide written informed consent.\nInability to complete smoking and NSAID questionnaire.\nSteroid use within the previous 4 weeks.\nRadiotherapy to the breast, chest wall or axilla within the previous 3 months.\nMen with breast cancer.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients who meet the above inclusion and exclusion criteria will be approached by a member of the study team and be asked to participate.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Clifford Hudis, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan-Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org/mskcc/html/44.cfm"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011014",
+                            "ConditionMeshTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionMeshId": "D000007249",
+                            "ConditionMeshTerm": "Inflammation"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafAsFound": "Lung Inflammation",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9983",
+                            "ConditionBrowseLeafName": "Inflammation",
+                            "ConditionBrowseLeafAsFound": "Inflammation",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

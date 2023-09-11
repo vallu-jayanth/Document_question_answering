@@ -1,0 +1,290 @@
+{
+    "Rank": 260,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02986230",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "15-010"
+                },
+                "Organization": {
+                    "OrgFullName": "HealthPartners Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Cancer Prevention Clinical Decision Support",
+                "OfficialTitle": "Implementing Cancer Prevention Using Patient-Provider Clinical Decision Support",
+                "Acronym": "CPW"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2021",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 1, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 31, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 28, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 6, 2016",
+                "StudyFirstSubmitQCDate": "December 7, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 8, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 9, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 12, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "HealthPartners Institute",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The objective of this project is to implement and evaluate the effectiveness of a sophisticated Web-based, electronic health record (EHR)-linked clinical decision support (CDS) system designed to improve primary and secondary cancer preventive care.\n\nThis project will engage a rural population with substantial healthcare disparities and gaps in the receipt of primary and secondary cancer prevention. Results will advance dissemination and implementation research methods that can reduce health disparities and improve healthcare for millions in medically under-served areas.",
+                "DetailedDescription": "The objective of this project is to implement and evaluate the effectiveness of a sophisticated Web-based, electronic health record (EHR)-linked clinical decision support (CDS) system designed to improve primary and secondary cancer preventive care. To achieve this objective, a link from EHR data to evidence-based cancer prevention algorithms in a secure Web site is created to: (a) identify at the point of care all eligible patients not up to date on their cancer prevention interventions; and (b) present to both patient and primary care provider (PCP) and/or a key member of the primary care team, certified medical assistant (CMA), appropriate evidence-based primary cancer prevention interventions and cancer screening options at the point of care. The Cancer Prevention-CDS will focus on breast cancer screening in women aged 50-74, colorectal cancer screening for both sexes aged 50-75, cervical cancer screening for women aged 21-65, human papilloma virus (HPV) vaccination for both sexes aged 11-26, and referrals for weight management and smoking cessation in all adults aged 18 and older. Effectiveness is assessed by cluster-randomizing 30 primary care clinics with roughly 285 PCPs and 153,000 study-eligible patients into one of three experimental conditions: Group 1: PCP-focused CDS intervention in which the PCP triggers use of the CDS system and engages patients in appropriate cancer prevention strategies. Group 2: SDMT-focused CDS intervention in which the CMA triggers use of the CDS system along with additional shared decision making tools and interacts with the patient to engage them in appropriate cancer prevention strategies before seeing their PCP, who will approve or discuss the plan with their patient. Group 3: clinics provide usual care with no intervention-related activity related to cancer prevention. With 10 clinics, 95 PCPs, and 51,000 potentially eligible patients per study arm, this study will formally test the hypothesis that Groups 1 and 2 are superior to Group 3 over an 18-month follow-up period with respect to: (a) significantly higher rates of appropriate screening for breast, cervix, and colorectal cancer, as defined by the United States Preventive Services Task Force; and (b) significantly higher rates of human papillomavirus (HPV) vaccination in males and females aged 11-26 years. The investigators further posit that Groups 1 and 2 will have higher short-term health care costs but better long-term cost-effectiveness than Group 3. The Consolidated Framework for Implementation Research (CFIR) and RE-AIM conceptual frameworks will be used to guide implementation planning, organization, conduct, and impact evaluation of the intervention in a large rural healthcare system.\n\nThis project will engage a rural population with substantial healthcare disparities and gaps in the receipt of primary and secondary cancer prevention. Results will advance dissemination and implementation research methods that can reduce health disparities and improve healthcare for millions in medically under-served areas."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer Prevention"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer prevention",
+                        "Clinical Decision Support",
+                        "Rural Health",
+                        "Shared Decision Making"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Factorial Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30252",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "PCP-focused group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The PCP-focused group will receive a point of care clinical decision support tool called cancer prevention wizard (CP Wizard) that is integrated into the EHR. The CP Wizard provides evidenced- based recommendations to the provider and patient related to overdue cancer prevention screening services.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Cancer prevention wizard (CPW)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "SDMT-focused group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The SDMT-focused group will receive a point of care clinical decision support tool called cancer prevention wizard (CP Wizard) that is integrated into the EHR. The CP Wizard provides evidenced- based recommendations to the provider and patient related to overdue cancer prevention screening services. The SDMT-focused arm also provides shared decision making tools to patient and provider at the time of the visit.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Cancer prevention wizard (CPW)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Cancer prevention wizard (CPW)",
+                            "InterventionDescription": "The cancer prevention wizard is a point of care clinical decision support system designed to identify patients that are due for preventative cancer services and provides evidenced-based recommendations to the patient and provider.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PCP-focused group",
+                                    "SDMT-focused group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Cancer screening tests",
+                            "PrimaryOutcomeTimeFrame": "within 18 months of index date"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nmeet above age criteria\npcp practice at randomized clinic\n\nExclusion Criteria:\n\ncurrent or past cancer diagnosis (excludes nonmelanoma skin cancer)\nhospice care or cancer chemotherapy\nAlzheimer's disease codes\nmajor cardiovascular event in 12 months prior to index date",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "11 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Thomas E Elliott, MD",
+                            "OverallOfficialAffiliation": "HealthPartners Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Heidi Ekstrom",
+                            "LocationCity": "Minneapolis",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55425",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35302909",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Harry ML, Asche SE, Freitag LA, Sperl-Hillen JM, Saman DM, Ekstrom HL, Chrenka EA, Truitt AR, Allen CI, O'Connor PJ, Dehmer SP, Bianco JA, Elliott TE. Human Papillomavirus vaccination clinical decision support for young adults in an upper midwestern healthcare system: a clinic cluster-randomized control trial. Hum Vaccin Immunother. 2022 Dec 31;18(1):2040933. doi: 10.1080/21645515.2022.2040933. Epub 2022 Mar 18."
+                        },
+                        {
+                            "ReferencePMID": "35209775",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Elliott TE, Asche SE, O'Connor PJ, Dehmer SP, Ekstrom HL, Truitt AR, Chrenka EA, Harry ML, Saman DM, Allen CI, Bianco JA, Freitag LA, Sperl-Hillen JM. Clinical Decision Support with or without Shared Decision Making to Improve Preventive Cancer Care: A Cluster-Randomized Trial. Med Decis Making. 2022 Aug;42(6):808-821. doi: 10.1177/0272989X221082083. Epub 2022 Feb 25."
+                        },
+                        {
+                            "ReferencePMID": "34991570",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Harry ML, Chrenka EA, Freitag LA, Saman DM, Allen CI, Asche SE, Truitt AR, Ekstrom HL, O'Connor PJ, Sperl-Hillen JAM, Ziegenfuss JY, Elliott TE. Primary care clinicians' opinions before and after implementation of cancer screening and prevention clinical decision support in a clinic cluster-randomized control trial: a survey research study. BMC Health Serv Res. 2022 Jan 6;22(1):38. doi: 10.1186/s12913-021-07421-0."
+                        },
+                        {
+                            "ReferencePMID": "34154588",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Saman DM, Chrenka EA, Harry ML, Allen CI, Freitag LA, Asche SE, Truitt AR, Ekstrom HL, O'Connor PJ, Sperl-Hillen JM, Ziegenfuss JY, Elliott TE. The impact of personalized clinical decision support on primary care patients' views of cancer prevention and screening: a cross-sectional survey. BMC Health Serv Res. 2021 Jun 21;21(1):592. doi: 10.1186/s12913-021-06551-9."
+                        },
+                        {
+                            "ReferencePMID": "32576202",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Harry ML, Saman DM, Truitt AR, Allen CI, Walton KM, O'Connor PJ, Ekstrom HL, Sperl-Hillen JM, Bianco JA, Elliott TE. Pre-implementation adaptation of primary care cancer prevention clinical decision support in a predominantly rural healthcare system. BMC Med Inform Decis Mak. 2020 Jun 23;20(1):117. doi: 10.1186/s12911-020-01136-8."
+                        },
+                        {
+                            "ReferencePMID": "31366355",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Harry ML, Truitt AR, Saman DM, Henzler-Buckingham HA, Allen CI, Walton KM, Ekstrom HL, O'Connor PJ, Sperl-Hillen JM, Bianco JA, Elliott TE. Barriers and facilitators to implementing cancer prevention clinical decision support in primary care: a qualitative study. BMC Health Serv Res. 2019 Jul 31;19(1):534. doi: 10.1186/s12913-019-4326-4."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "AnnotationSection": {
+            "AnnotationModule": {
+                "UnpostedAnnotation": {
+                    "UnpostedResponsibleParty": "HealthPartners Institute",
+                    "UnpostedEventList": {
+                        "UnpostedEvent": [
+                            {
+                                "UnpostedEventType": "Release",
+                                "UnpostedEventDate": "February 9, 2022"
+                            },
+                            {
+                                "UnpostedEventType": "Reset",
+                                "UnpostedEventDate": "April 14, 2022"
+                            },
+                            {
+                                "UnpostedEventType": "Release",
+                                "UnpostedEventDate": "May 5, 2022"
+                            },
+                            {
+                                "UnpostedEventType": "Unrelease",
+                                "UnpostedEventDate": "May 17, 2022"
+                            },
+                            {
+                                "UnpostedEventType": "Release",
+                                "UnpostedEventDate": "June 6, 2022"
+                            },
+                            {
+                                "UnpostedEventType": "Reset",
+                                "UnpostedEventDate": "March 15, 2023"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023",
+                "SubmissionTracking": {
+                    "SubmissionInfoList": {
+                        "SubmissionInfo": [
+                            {
+                                "SubmissionReleaseDate": "February 9, 2022",
+                                "SubmissionResetDate": "April 14, 2022"
+                            },
+                            {
+                                "SubmissionReleaseDate": "May 5, 2022",
+                                "SubmissionUnreleaseDate": "May 17, 2022"
+                            },
+                            {
+                                "SubmissionReleaseDate": "June 6, 2022",
+                                "SubmissionResetDate": "March 15, 2023"
+                            },
+                            {
+                                "SubmissionReleaseDate": "April 7, 2023"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

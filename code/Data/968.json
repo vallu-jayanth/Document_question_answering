@@ -1,0 +1,402 @@
+{
+    "Rank": 968,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02689401",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "15-419"
+                },
+                "Organization": {
+                    "OrgFullName": "Dana-Farber Cancer Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "MRI Iron Oxide Imaging for Lymph Node Staging in Esophageal Cancer",
+                "OfficialTitle": "MRI Iron Oxide Imaging for Lymph Node Staging in Esophageal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2016",
+                "OverallStatus": "Withdrawn",
+                "WhyStopped": "Awaiting additional safety data",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 4, 2016",
+                "StudyFirstSubmitQCDate": "February 18, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 24, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 12, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 13, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Yolonda L. Colson, MD, PhD",
+                    "ResponsiblePartyInvestigatorTitle": "Yolonda Colson MD PhD",
+                    "ResponsiblePartyInvestigatorAffiliation": "Dana-Farber Cancer Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Dana-Farber Cancer Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "AMAG Pharmaceuticals, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This research study is evaluating a new imaging method using MRI (magnetic resonance imaging) to evaluate lymph nodes for evidence of tumor spread from esophageal cancer. This MRI study involves an intravenous contrast called Ferumoxytol (FerahemeTM).",
+                "DetailedDescription": "This research study is a Pilot clinical trial, which is the first time investigators are examining this study intervention.\n\nThis study tests the safety of the investigational intervention (MRI imaging with Ferumoxytol) and assesses the feasibility of identifying malignant lymph nodes (lymph nodes that have tumor in them) by comparing the experimental MRI findings with the final pathology report from surgery.\n\nThis iron-based agent currently has approval from the U.S. Food and Drug Administration (FDA) for use in iron replacement therapy, however, its use in MRI imaging is not FDA-approved and is thus experimental in this trial."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Esophageal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Esophageal Cancer",
+                        "lymph nodes tumor"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "0",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Ferumoxtyol (Feraheme) with MRI",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients will undergo a pre-contrast MRI followed by a pre determined dose of of IV Ferumoxyto. Post-contrast MRI imaging will be performed immediately following Ferumoxytol infusion and 48 hours after Ferumoxytol administration with subsequent image analysis.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Ferumoxytol",
+                                    "Device: MRI 3T scanner"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Ferumoxytol",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Ferumoxtyol (Feraheme) with MRI"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Feraheme"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "MRI 3T scanner",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Ferumoxtyol (Feraheme) with MRI"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Determine the feasibility of using MRI-ferumoxytol for the identification of metastatic lymph nodes in patients with esophageal cancer",
+                            "PrimaryOutcomeDescription": "Feasibility is determined by the ability of the radiologist to identify esophageal associated lymph nodes and which ones may be metastatic based on the uptake of ferumoxytol. Positive nodes are identified by the radiologist based on altered signal in those with ferumoxytol uptake compared to the signal normal lymph nodes on MRI",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Assess the safety of intravenous ferumoxytol for the use in esophageal cancer patients",
+                            "PrimaryOutcomeDescription": "Safety is determined by none of the 10 patients developing a grade 3 or 4 reaction as per the Common Toxicity Criteria scale (NCI-CTCAE version 4.0)",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Determine the accuracy of MRI-ferumoxytol for the identification of positive metastatic nodes in patients with esophageal cancer",
+                            "SecondaryOutcomeDescription": "Accuracy is determined by the positive metastatic nodes identified on MRI as compared to those found on pathologic examination",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipants may have histologically confirmed esophageal cancer or lesion suspicious for esophageal cancer which is deemed surgically resectable.\nPatients eligible for the trial may have previously completed neoadjuvant chemoradiation per standard protocols prior to MRI imaging, without any limitations on dose, duration or type of prior treatment as this is not the focus of the current study.\nEligible patients must be 18 years or older in order to consent for this trial. Individuals under the age of 18 are excluded because safety studies including dosing or adverse event data in this population are currently not available.\nAbility to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\nPatients with known allergies or hypersensitivity reactions to parenteral iron, parenteral dextran, parenteral iron-dextran, or parenteral iron-polysaccharides\nIndividuals who are pregnant or lactating. As part of their routine preoperative testing, all women of child bearing age receive a pregnancy test. The research staff will follow up on these results in order to determine eligibility. Women who have had a hysterectomy or have not had menses for > 24 months will not be required to undergo a pregnancy test. Pregnant women are excluded from this study because there is unknown risk associated with Ferumoxytol (US FDA Risk Category C: there are no controlled studies in women, or no studies are available in either animals or women). Because there is an unknown but potential risk of adverse events in nursing infants secondary to treatment of the mother, breastfeeding women will be excluded from this study\nIron saturation above the upper limit of normal\nIndividuals with known clinical conditions that may lead to iron overload including hemochromatosis, cirrhosis, or sickle cell disease\nIndividuals with a contraindication to MRI, such as the presence of metallic prostheses or implanted metal device (e.g. infusion pump, defibrillator)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yolonda Colson, MD PhD",
+                            "OverallOfficialAffiliation": "Brigham and Women's Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023",
+                "RemovedCountryList": {
+                    "RemovedCountry": [
+                        "United States"
+                    ]
+                }
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000004938",
+                            "ConditionMeshTerm": "Esophageal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006258",
+                            "ConditionAncestorTerm": "Head and Neck Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004935",
+                            "ConditionAncestorTerm": "Esophageal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M7778",
+                            "ConditionBrowseLeafName": "Esophageal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Esophageal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9038",
+                            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7775",
+                            "ConditionBrowseLeafName": "Esophageal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2141",
+                            "ConditionBrowseLeafName": "Esophageal Cancer",
+                            "ConditionBrowseLeafAsFound": "Esophageal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000052203",
+                            "InterventionMeshTerm": "Ferrosoferric Oxide"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000006397",
+                            "InterventionAncestorTerm": "Hematinics"
+                        },
+                        {
+                            "InterventionAncestorId": "D000057947",
+                            "InterventionAncestorTerm": "Parenteral Nutrition Solutions"
+                        },
+                        {
+                            "InterventionAncestorId": "D000019999",
+                            "InterventionAncestorTerm": "Pharmaceutical Solutions"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M10223",
+                            "InterventionBrowseLeafName": "Iron",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M26686",
+                            "InterventionBrowseLeafName": "Ferrosoferric Oxide",
+                            "InterventionBrowseLeafAsFound": "Hemodynamics",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9175",
+                            "InterventionBrowseLeafName": "Hematinics",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M21550",
+                            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M28624",
+                            "InterventionBrowseLeafName": "Parenteral Nutrition Solutions",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Micro",
+                            "InterventionBrowseBranchName": "Micronutrients"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "PhSol",
+                            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

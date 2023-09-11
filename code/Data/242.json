@@ -1,0 +1,434 @@
+{
+    "Rank": 242,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05762731",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "HKU_UW_19_444"
+                },
+                "Organization": {
+                    "OrgFullName": "The University of Hong Kong",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Screening for Lung Cancer in Subjects With Family History of Lung Cancer",
+                "OfficialTitle": "Screening for Lung Cancer in Subjects With Family History of Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 1, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 14, 2023",
+                "StudyFirstSubmitQCDate": "March 6, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 10, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 6, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 10, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "The University of Hong Kong",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "The Queen Elizabeth Hospital",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Kwong Wah Hospital",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Hong Kong Sanatorium & Hospital",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Lung cancer can be detected via screening of high-risk individuals, i.e current or ex-heavy smokers, with low-dose computer tomography (LDCT) of thorax. The National Lung Screening Trial in US and the NELSON trial in Europe demonstrated reduction in lung cancer mortality with LDCT screening for lung cancer. In Hong Kong, however, there is a prominence of female never-smokers with lung cancer. There is no identifiable risk factors for non-smokers with lung cancer except family history of lung cancer. The hypothesis is that lung cancer screening for subjects with family history of lung cancer, can detect early lung cancer.",
+                "DetailedDescription": "The primary aim of this prospective study is to find out the rate of lung cancer detection in subjects who are first degree relatives of lung cancer patients. Secondary aims include studying the characteristics of screen-detected lung cancer. This is a multi-centered prospective cohort study. 1,520 subjects who are first degree relatives of lung cancer patients at four public hospitals in Hong Kong will be screened. Intervention Detailed questionnaires and LDCT Thorax will be performed. The primary outcome measure is the number of lung cancers detected by this study. The screening-detection rate of lung cancer in first-degree relatives of lung cancer patients will be estimated."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung cancer",
+                        "Screening",
+                        "Family history"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "3 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood, urine samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1520",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "First degree relatives of lung cancer patients",
+                            "ArmGroupDescription": "Age 50-75, men or women, smokers or non-smokers. Being first degree relatives (siblings, children and parents) of lung cancer subjects. Having no known lung cancer before.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Low dose CT thorax"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control group",
+                            "ArmGroupDescription": "Non-lung cancer subjects who are not related any lung cancer patients",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Low dose CT thorax"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Low dose CT thorax",
+                            "InterventionDescription": "A multi-detector row CT scanner with minimum section collimation of \u22641 mm and minimum number of data acquisition channels \u2265 16will be employed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "First degree relatives of lung cancer patients"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Low dose CT thorax",
+                            "InterventionDescription": "Control subjects will also proceed to CT thorax, and outcome measures be compared to subjects",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Control group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The rate of lung cancer detection in subjects with family history of lung cancer",
+                            "PrimaryOutcomeDescription": "The number of screening-detected lung cancer among first degree relatives of lung cancer patients.",
+                            "PrimaryOutcomeTimeFrame": "An average of 2.5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The characteristics of screening detected lung cancer",
+                            "SecondaryOutcomeDescription": "Stage distribution of lung cancer detected.",
+                            "SecondaryOutcomeTimeFrame": "An average of 2.5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge 50-75, men or women, smokers or non-smokers\nBeing first degree relatives (Siblings, children, and parents) of lung cancer subjects\nHaving no known lung cancer before\n\nExclusion Criteria:\n\nNon-Chinese\nMentally incompetent to give informed consent",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Subjects with lung cancer and to invite them to participate by (i) naming their first degree relatives to be further invited for the following study procedures, and (ii) provide a blood and urine sample as detailed below for archival and future analysis of relevant biomarkers. The patients' first degree relatives will be contacted by PA's research team and invited for study participation with the following study procedures.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Hong Kong",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Hong Kong",
+                            "LocationZip": "0",
+                            "LocationCountry": "Hong Kong",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David CL Lam, MBBS, FRCP(Edin), FCCP, FACP",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+852 2255 5814",
+                                        "LocationContactEMail": "dcllam@hku.hk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "24004119",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Aberle DR, DeMello S, Berg CD, Black WC, Brewer B, Church TR, Clingan KL, Duan F, Fagerstrom RM, Gareen IF, Gatsonis CA, Gierada DS, Jain A, Jones GC, Mahon I, Marcus PM, Rathmell JM, Sicks J; National Lung Screening Trial Research Team. Results of the two incidence screenings in the National Lung Screening Trial. N Engl J Med. 2013 Sep 5;369(10):920-31. doi: 10.1056/NEJMoa1208962."
+                        },
+                        {
+                            "ReferencePMID": "24379002",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "de Koning HJ, Meza R, Plevritis SK, ten Haaf K, Munshi VN, Jeon J, Erdogan SA, Kong CY, Han SS, van Rosmalen J, Choi SE, Pinsky PF, Berrington de Gonzalez A, Berg CD, Black WC, Tammemagi MC, Hazelton WD, Feuer EJ, McMahon PM. Benefits and harms of computed tomography lung cancer screening strategies: a comparative modeling study for the U.S. Preventive Services Task Force. Ann Intern Med. 2014 Mar 4;160(5):311-20. doi: 10.7326/M13-2316."
+                        },
+                        {
+                            "ReferencePMID": "24378917",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Moyer VA; U.S. Preventive Services Task Force. Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2014 Mar 4;160(5):330-8. doi: 10.7326/M13-2771."
+                        },
+                        {
+                            "ReferencePMID": "24865600",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tammemagi MC, Lam S. Screening for lung cancer using low dose computed tomography. BMJ. 2014 May 27;348:g2253. doi: 10.1136/bmj.g2253."
+                        },
+                        {
+                            "ReferencePMID": "24419409",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Field JK, Aberle DR, Altorki N, Baldwin DR, Dresler C, Duffy SW, Goldstraw P, Hirsch FR, Pedersen JH, de Koning HJ, Mulshine JL, Sullivan DC, Tsao MS, Travis WD; International Association for the Study of Lung Cancer Strategic Screening Advisory Committee. The International Association Study Lung Cancer (IASLC) Strategic Screening Advisory Committee (SSAC) response to the USPSTF recommendations. J Thorac Oncol. 2014 Feb;9(2):141-3. doi: 10.1097/JTO.0000000000000060. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "23425165",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tammemagi MC, Katki HA, Hocking WG, Church TR, Caporaso N, Kvale PA, Chaturvedi AK, Silvestri GA, Riley TL, Commins J, Berg CD. Selection criteria for lung-cancer screening. N Engl J Med. 2013 Feb 21;368(8):728-36. doi: 10.1056/NEJMoa1211776. Erratum In: N Engl J Med. 2013 Jul 25;369(4):394."
+                        },
+                        {
+                            "ReferencePMID": "22436981",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cote ML, Liu M, Bonassi S, Neri M, Schwartz AG, Christiani DC, Spitz MR, Muscat JE, Rennert G, Aben KK, Andrew AS, Bencko V, Bickeboller H, Boffetta P, Brennan P, Brenner H, Duell EJ, Fabianova E, Field JK, Foretova L, Friis S, Harris CC, Holcatova I, Hong YC, Isla D, Janout V, Kiemeney LA, Kiyohara C, Lan Q, Lazarus P, Lissowska J, Le Marchand L, Mates D, Matsuo K, Mayordomo JI, McLaughlin JR, Morgenstern H, Mueller H, Orlow I, Park BJ, Pinchev M, Raji OY, Rennert HS, Rudnai P, Seow A, Stucker I, Szeszenia-Dabrowska N, Dawn Teare M, Tjonnelan A, Ugolini D, van der Heijden HF, Wichmann E, Wiencke JK, Woll PJ, Yang P, Zaridze D, Zhang ZF, Etzel CJ, Hung RJ. Increased risk of lung cancer in individuals with a family history of the disease: a pooled analysis from the International Lung Cancer Consortium. Eur J Cancer. 2012 Sep;48(13):1957-68. doi: 10.1016/j.ejca.2012.01.038. Epub 2012 Mar 19."
+                        },
+                        {
+                            "ReferencePMID": "18780872",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Liu P, Vikis HG, Wang D, Lu Y, Wang Y, Schwartz AG, Pinney SM, Yang P, de Andrade M, Petersen GM, Wiest JS, Fain PR, Gazdar A, Gaba C, Rothschild H, Mandal D, Coons T, Lee J, Kupert E, Seminara D, Minna J, Bailey-Wilson JE, Wu X, Spitz MR, Eisen T, Houlston RS, Amos CI, Anderson MW, You M. Familial aggregation of common sequence variants on 15q24-25.1 in lung cancer. J Natl Cancer Inst. 2008 Sep 17;100(18):1326-30. doi: 10.1093/jnci/djn268. Epub 2008 Sep 9."
+                        },
+                        {
+                            "ReferencePMID": "8610670",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu AH, Fontham ET, Reynolds P, Greenberg RS, Buffler P, Liff J, Boyd P, Correa P. Family history of cancer and risk of lung cancer among lifetime nonsmoking women in the United States. Am J Epidemiol. 1996 Mar 15;143(6):535-42. doi: 10.1093/oxfordjournals.aje.a008783."
+                        },
+                        {
+                            "ReferencePMID": "20215501",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Amos CI, Pinney SM, Li Y, Kupert E, Lee J, de Andrade MA, Yang P, Schwartz AG, Fain PR, Gazdar A, Minna J, Wiest JS, Zeng D, Rothschild H, Mandal D, You M, Coons T, Gaba C, Bailey-Wilson JE, Anderson MW. A susceptibility locus on chromosome 6q greatly increases lung cancer risk among light and never smokers. Cancer Res. 2010 Mar 15;70(6):2359-67. doi: 10.1158/0008-5472.CAN-09-3096. Epub 2010 Mar 9."
+                        },
+                        {
+                            "ReferencePMID": "15382071",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Li X, Hemminki K. Inherited predisposition to early onset lung cancer according to histological type. Int J Cancer. 2004 Nov 10;112(3):451-7. doi: 10.1002/ijc.20436."
+                        },
+                        {
+                            "ReferencePMID": "21714641",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "National Lung Screening Trial Research Team; Aberle DR, Adams AM, Berg CD, Black WC, Clapp JD, Fagerstrom RM, Gareen IF, Gatsonis C, Marcus PM, Sicks JD. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med. 2011 Aug 4;365(5):395-409. doi: 10.1056/NEJMoa1102873. Epub 2011 Jun 29."
+                        },
+                        {
+                            "ReferencePMID": "29954858",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Field JK, Duffy SW. Lung cancer CT screening: are we ready to consider screening biennially in a subgroup of low-risk individuals? Thorax. 2018 Nov;73(11):1006-1007. doi: 10.1136/thoraxjnl-2018-211814. Epub 2018 Jun 28. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "29661918",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Walter JE, Heuvelmans MA, Bock GH, Yousaf-Khan U, Groen HJM, Aalst CMV, Nackaerts K, Ooijen PMAV, Koning HJ, Vliegenthart R, Oudkerk M. Characteristics of new solid nodules detected in incidence screening rounds of low-dose CT lung cancer screening: the NELSON study. Thorax. 2018 Aug;73(8):741-747. doi: 10.1136/thoraxjnl-2017-211376. Epub 2018 Apr 16."
+                        },
+                        {
+                            "ReferencePMID": "28240562",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "MacMahon H, Naidich DP, Goo JM, Lee KS, Leung ANC, Mayo JR, Mehta AC, Ohno Y, Powell CA, Prokop M, Rubin GD, Schaefer-Prokop CM, Travis WD, Van Schil PE, Bankier AA. Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017. Radiology. 2017 Jul;284(1):228-243. doi: 10.1148/radiol.2017161659. Epub 2017 Feb 23."
+                        },
+                        {
+                            "ReferencePMID": "26846536",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McKee BJ, Hashim JA, French RJ, McKee AB, Hesketh PJ, Lamb CR, Williamson C, Flacke S, Wald C. Experience With a CT Screening Program for Individuals at High Risk for Developing Lung Cancer. J Am Coll Radiol. 2016 Feb;13(2 Suppl):R8-R13. doi: 10.1016/j.jacr.2015.12.006."
+                        },
+                        {
+                            "ReferencePMID": "27521737",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Mehta HJ, Mohammed TL, Jantz MA. The American College of Radiology Lung Imaging Reporting and Data System: Potential Drawbacks and Need for Revision. Chest. 2017 Mar;151(3):539-543. doi: 10.1016/j.chest.2016.07.028. Epub 2016 Aug 10."
+                        },
+                        {
+                            "ReferencePMID": "24004118",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McWilliams A, Tammemagi MC, Mayo JR, Roberts H, Liu G, Soghrati K, Yasufuku K, Martel S, Laberge F, Gingras M, Atkar-Khattra S, Berg CD, Evans K, Finley R, Yee J, English J, Nasute P, Goffin J, Puksa S, Stewart L, Tsai S, Johnston MR, Manos D, Nicholas G, Goss GD, Seely JM, Amjadi K, Tremblay A, Burrowes P, MacEachern P, Bhatia R, Tsao MS, Lam S. Probability of cancer in pulmonary nodules detected on first screening CT. N Engl J Med. 2013 Sep 5;369(10):910-9. doi: 10.1056/NEJMoa1214726."
+                        },
+                        {
+                            "ReferencePMID": "26239567",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lam DC, Tam TC, Lau KM, Wong WM, Hui CK, Lam JC, Wang JK, Lui MM, Ho JC, Ip MS. Plasma EGFR Mutation Detection Associated With Survival Outcomes in Advanced-Stage Lung Cancer. Clin Lung Cancer. 2015 Nov;16(6):507-13. doi: 10.1016/j.cllc.2015.06.003. Epub 2015 Jun 24."
+                        },
+                        {
+                            "ReferencePMID": "27891446",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bujang MA, Adnan TH. Requirements for Minimum Sample Size for Sensitivity and Specificity Analysis. J Clin Diagn Res. 2016 Oct;10(10):YE01-YE06. doi: 10.7860/JCDR/2016/18129.8744. Epub 2016 Oct 1."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Hong Kong Cancer Registry 2016 Hong Kong: Hospital Authority",
+                            "SeeAlsoLinkURL": "http://www3.ha.org.hk/cancereg/"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided",
+                "IPDSharingDescription": "The relevant biomarkers from blood and urine sample collected"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

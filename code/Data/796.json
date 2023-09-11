@@ -1,0 +1,225 @@
+{
+    "Rank": 796,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02555735",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "ADRL-003"
+                },
+                "Organization": {
+                    "OrgFullName": "Adera Labs, LLC",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Exceptional Responders With Solid Tumor Cancer to Chemotherapy",
+                "OfficialTitle": "Evaluation of Exceptional Responders With Solid Tumor Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Enrolling by invitation",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2015"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 18, 2015",
+                "StudyFirstSubmitQCDate": "September 18, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 22, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "January 30, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 1, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Adera Labs, LLC",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "The Pancreatic Cancer Treatment Center of Los Angeles",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is an observational study enrolling patients with Solid Tumor cancers to identify genomic expression differences between exceptional responders and non-responders to standard of care chemotherapy. Data analysis of the gene expression profile of the exceptional responders compared to non-responders will define genomic patterns that may help understand their response to chemotherapy.",
+                "DetailedDescription": "This is an observational study of patients with solid tumor cancer to identify genomic expression differences obtained from their circulating tumor cells between exceptional responders and non-responders to standard of care chemotherapy. This study requires a 10 mL heparinized peripheral blood sample from each study participant at the time of enrollment to isolate, enrich and profile circulating tumor cells. Data analysis of the gene expression profile will define genomic patterns using Nearest Template Prediction for a predetermined panel of therapeutic agents based on standard of care. Chemotherapy selection is physician-choice. Information regarding disease progression will be gathered. Data analysis will be performed in study participants in the setting of ongoing disease progression."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Solid Tumor Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Solid Tumor cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "250",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Solid Tumor Cancer",
+                            "ArmGroupDescription": "Participants with solid tumor cancer treated with physician-choice standard of care chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Standard of Care Chemotherapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Standard of Care Chemotherapy",
+                            "InterventionDescription": "Physician's Choice Chemotherapy Treatment (non-guided)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Solid Tumor Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Identify exceptional responders with cancer to standard of care chemotherapy",
+                            "PrimaryOutcomeDescription": "Identify responders and non-responders",
+                            "PrimaryOutcomeTimeFrame": "9 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of genomic profiles from circulating cells with overall survival",
+                            "SecondaryOutcomeDescription": "Genomic expression profiles correlated with progression free and overall survival",
+                            "SecondaryOutcomeTimeFrame": "9 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistological or cytological confirmation of solid tumor carcinoma.\nPatient is treatment-na\u00efve or currently receiving chemotherapy.\nECOG performance status (any).\n\nExclusion Criteria:\n\nHIV positive on antiretroviral therapy\nPregnant or lactating\nPrior organ allograft\nAny medical or psychiatric condition that may interfere with the ability to comply with protocol treatment",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients diagnosed with solid tumor cancers",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Brian McCarthy, PhD",
+                            "OverallOfficialAffiliation": "Adera Labs",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The Pancreatic Cancer Treatment Center of Los Angeles",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90024",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30477242",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yu KH, Ricigliano M, McCarthy B, Chou JF, Capanu M, Cooper B, Bartlett A, Covington C, Lowery MA, O'Reilly EM. Circulating Tumor and Invasive Cell Gene Expression Profile Predicts Treatment Response and Survival in Pancreatic Adenocarcinoma. Cancers (Basel). 2018 Nov 24;10(12):467. doi: 10.3390/cancers10120467."
+                        },
+                        {
+                            "ReferencePMID": "35740571",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Isacoff WH, Cooper B, Bartlett A, McCarthy B, Yu KH. ChemoSensitivity Assay Guided Metronomic Chemotherapy Is Safe and Effective for Treating Advanced Pancreatic Cancer. Cancers (Basel). 2022 Jun 13;14(12):2906. doi: 10.3390/cancers14122906."
+                        },
+                        {
+                            "ReferencePMID": "35647938",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yu KH, Park J, Mittal A, Abou-Alfa GK, El Dika I, Epstein AS, Ilson DH, Kelsen DP, Ku GY, Li J, Park W, Varghese AM, Chou JF, Capanu M, Cooper B, Bartlett A, McCarthy D, Sangar V, McCarthy B, O'Reilly EM. Circulating tumor and invasive cell expression profiling predicts effective therapy in pancreatic cancer. Cancer. 2022 Aug 1;128(15):2958-2966. doi: 10.1002/cncr.34269. Epub 2022 Jun 1."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

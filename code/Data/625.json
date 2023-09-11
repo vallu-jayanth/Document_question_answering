@@ -1,0 +1,345 @@
+{
+    "Rank": 625,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04966923",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "3.0840453"
+                },
+                "Organization": {
+                    "OrgFullName": "Instituto do Cancer do Estado de S\u00e3o Paulo",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Phenotype and Prognosis of Patients With Breast Cancer and Pathogenic Variants of TP53",
+                "OfficialTitle": "Phenotype and Prognosis of Patients With Breast Cancer and Pathogenic Variants of TP53 (BREAST TP53)",
+                "Acronym": "BREAST-TP53"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 2, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 7, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 22, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 8, 2021",
+                "StudyFirstSubmitQCDate": "July 8, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 19, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 5, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 9, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Instituto do Cancer do Estado de S\u00e3o Paulo",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A prospective and retrospective cohort study of patients with a documented pathogenic or likely pathogenic variants of TP53 were identified using blood DNA colection and breast cancer diagnosis by histological confirmation, between 1999 and 2022. All patients were followed by the Hereditary Group of a single cancer center (Instituto do Cancer do Estado de Sao Paulo). Patients were included if they had a histopathological diagnosis of localized invasive carcinoma or in situ carcinoma of the breast and with localized disease. Patients met Revised Chompret criteria, Li Fraumeni like syndrome,family member of carrier TP53 or hereditary breast and ovarian syndrome for germline test.",
+                "DetailedDescription": "The primary outcome was progression free survival from specific breast cancer from patients with BC and TP53 mutation versus BC and no pathogenic variants documented in genetic test. We proposed 45 cases TP53 pathogenic carriers and localized breast cancer diagnosed for each case included we will be selected 2 controls resulting in 90 control patients, for control with no documented pathogenic variants in genetic test. With a sample of 135 patients with distribution 2:1, considering a two-tailed alpha of 5%, the study will have 80% power to identify a hazard hatio of 0.62 in the comparison of progression-free survival between the groups.\n\nDescriptive statistics will be used to summarize clinical characteristics and treatments performed. Continuous variables may be compared between groups using T Student test or Mann-Whitney test, in the case of normal and non-normal data distribution, respectively. Categorical variables may be compared between groups using the Fisher exact test.\n\nProgression-free survival will be estimated from the date of breast cancer diagnosis until the date of progression or date of recurrence (in cases of localized disease treated) of breast cancer. Death will not be considered as an event for progression-free survival, since patients with PV TP53 may have an increased risk of deaths from other neoplasms. The breast cancer specific survival will be estimated from the date of diagnosis of breast cancer until the date of death from the breast cancer. Patients without the specific events will be censored on the date of last follow-up.\n\nThe Kaplan-Meyer method will be used for survival estimates, comparing survival curves with log-rank testing. The Cox regression model will be used for hazard-ratio calculation and 95% confidence-interval. P value less than 0.05 will be considered statistically significant. Statistical analyses will be performed through Stata program, version 15.1 (StataCorp, Texas, USA)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer",
+                        "TP53 R337H",
+                        "Li-Fraumeni Syndrome",
+                        "Prognosis Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer",
+                        "TP53"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Other"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "TP53 molecular analyses were initially based on the investigation of the p.R337H mutation by polymerase chain reaction/restriction fragment length polymorphism (PCR). In this method, PCR amplicons of exon 10 of the TP53 gene were digested by the Hha I restriction enzyme and then separated by agarose gel electrophoresis. This analysis can distinguish between different genotypes at the p.R337H mutation site, identifying homozygous, heterozygous and wild-type individuals for this specific mutation. Sanger sequencing of coding and splicing regions was performed in all negative cases to investigate other variants. Amplification products of exons 2-11 of TP53 Sequencing analyses were carried out on the 3130xl Genetic Analyzer. Classification of the variant pathogenicity was done according to the American College of Medical Genetics and Genomics guidelines, using VarSome or NGS germline panel. In the control group the analyses of germline painel where performed with NGS"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "135",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast Cancer and documented pathogenic variant TP53",
+                            "ArmGroupDescription": "Documented pathogenic or likely pathogenic variants of TP53 were identified using blood DNA colection and localized breast cancer diagnosis by histological confirmation. All patients met Revised Chompret criteria or Li Fraumeni like syndrome or family member of carrier TP53",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention in this study"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Breast Cancer and no documented pathogenic variants in genetic test",
+                            "ArmGroupDescription": "Control group with localized breast cancer and no pathogenic variants documented in a genetic test",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention in this study"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "No intervention in this study",
+                            "InterventionDescription": "Analyses of pathogenic variant TP53 and variants in genetic test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast Cancer and documented pathogenic variant TP53",
+                                    "Breast Cancer and no documented pathogenic variants in genetic test"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Progression free survival",
+                            "PrimaryOutcomeDescription": "progression free survival from specific breast cancer from patients with BC and TP53. mutation versus BC and no pathogenic variants documented in genetic test. gnosed for each case included we will be selected 2 controls resulting in 90 control patients, for control are estimated with the same age (range 10 years), staging and immunohistochemistry",
+                            "PrimaryOutcomeTimeFrame": "We proposed 45 cases TP53 pathogenic carriers and breast cancer diagnosed for each case included we will be selected 2 controls resulting in 90 control patients, for control are estimated with the same age (range 10 years)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival, causes of deaths, local breast cancer recurrence and contra-lateral breast cancer recurrence",
+                            "SecondaryOutcomeTimeFrame": "This study will enrollment 45 cases TP53 pathogenic carriers and breast cancer diagnosed for each case included we will be selected 2 controls resulting in 90 control patients, for control are estimated with the same age (range 10 years)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nBreast cancer (histopathological diagnosis of localized invasive carcinoma or in situ carcinoma of the breast) and documented germline pathogenic variants of TP53.\n\nExclusion Criteria:\n\nPatients with only other types of breast cancer such as sarcoma and phyllodes tumor were excluded from the analysis.\n\nMetastatic Breast Cancer at diagnosis (\"denovo\")",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "A prospective and retrospective cohort study of patients with a documented pathogenic or likely pathogenic variants of TP53 were identified using blood DNA colection and breast cancer diagnosis by histological confirmation, between 1999 and 2022. All patients were followed by the Hereditary Group of a single cancer center (Instituto do Cancer do Estado de Sao Paulo). Patients were included if they had a histopathological diagnosis of localized invasive carcinoma or in situ carcinoma of the breast. All patients met Revised Chompret criteria or Li Fraumeni like syndrome or family member of carrier TP53 or hereditary breast and ovarian Syndrome. Patients with only other types of breast cancer such as sarcoma and phyllodes tumor were excluded from the analysis.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Vanessa Petry, MD",
+                            "OverallOfficialAffiliation": "Instituto do Cancer do Estado de S\u00e3o Paulo",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "ICESP",
+                            "LocationCity": "S\u00e3o Paulo",
+                            "LocationZip": "01.246-000",
+                            "LocationCountry": "Brazil"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000016864",
+                            "ConditionMeshTerm": "Li-Fraumeni Syndrome"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009386",
+                            "ConditionAncestorTerm": "Neoplastic Syndromes, Hereditary"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030342",
+                            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+                        },
+                        {
+                            "ConditionAncestorId": "D000049914",
+                            "ConditionAncestorTerm": "DNA Repair-Deficiency Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008659",
+                            "ConditionAncestorTerm": "Metabolic Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16045",
+                            "ConditionBrowseLeafName": "Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18902",
+                            "ConditionBrowseLeafName": "Li-Fraumeni Syndrome",
+                            "ConditionBrowseLeafAsFound": "Li-Fraumeni Syndrome",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12021",
+                            "ConditionBrowseLeafName": "Neoplastic Syndromes, Hereditary",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23376",
+                            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M25821",
+                            "ConditionBrowseLeafName": "DNA Repair-Deficiency Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11329",
+                            "ConditionBrowseLeafName": "Metabolic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3414",
+                            "ConditionBrowseLeafName": "Li-Fraumeni Syndrome",
+                            "ConditionBrowseLeafAsFound": "Li-Fraumeni Syndrome",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC18",
+                            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "Rank": 1057,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05464082",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "HCI153239"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Utah",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Functional Precision Oncology to Predict, Prevent, and Treat Early Metastatic Recurrence of TNBC",
+                "OfficialTitle": "Towards Functional Precision Oncology to Predict, Prevent, and Treat Early Metastatic Recurrence of Triple Negative Breast Cancer",
+                "Acronym": "TOWARDS-II"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 6, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 30, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 30, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 15, 2022",
+                "StudyFirstSubmitQCDate": "July 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 19, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 23, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 26, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Utah",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "United States Department of Defense",
+                            "CollaboratorClass": "FED"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective phase 2 study to use Functional Precision Oncology (FPO) to predict, prevent and treat early metastatic recurrence in subjects with HR-low/Her2 negative or triple negative breast cancer.",
+                "DetailedDescription": "The aim of this clinical trial is to extend the findings of the investigators' first observational clinical study titled \"Towards personalized medicine: patient derived breast tumor grafts as predictors of relapse and response to therapy\" (TOWARDS-I). In TOWARDS-II, the investigators will develop patient derived models (PDMs), comprising patient derived xenografts (PDXs) and organoids (PDO and PDxO), from patients newly diagnosed with local or locally advanced hormone receptor-low/Her2 negative or triple negative breast cancer. The investigators will prospectively evaluate the correlation between PDX engraftment with recurrence. Using PDMs, the investigators will perform genomic studies and functional drug screens (FPO). Upon disease recurrence, the investigators will return the results to the physician with the intent to inform treatment selection."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer Recurrent"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "80",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Treatment: All Patients",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patient derived xenografts (PDX) are grown in mice. Organoids may generated from patient tumor(PDO) and PDX(PDxO). Organoids will be used for drug profiling. PDX, organoid establishment and drug profiling will occur while patient is undergoing preoperative chemo, surgery, radiation, and may extend into disease-free interval. Patients receive first line therapy in the metastatic setting per SOC or in separate clinical trial. Results of PDM drug profiling, tumor genomic, and circulating tumor DNA results will be returned to treating physician to inform 2nd line therapy. At progression on the first line therapy, the patient will begin new therapy as directed by the treating physician. Any subsequent therapy (aligned or unaligned with report recommendations) that a patient starts after the return of results will be deemed \"informed\".",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Functional Precision Oncology"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Physician Questionnaire",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Prior to the return of results, treating physicians will be asked to complete the PRE-Information Provider Survey on Functional Precision Oncology. After review of the FPO results, treating physicians will be asked to complete the POST-Information Provider Survey on Functional Precision Oncology to assess the potential effect that the FPO results have on the selection of therapy. These surveys will be administered to assess the impact the results have on the selection of therapy.\n\nPhysicians are not mandated to select the treatment recommended by the FPO data since the FPO results are not from a CLIA certified laboratory. Information regarding whether the physician chose to switch to the recommended drug or not for the next line of therapy and patient outcomes (progression-free survival) according to treatment selection (treatment selected aligned with FPO recommendation vs. not) will be captured."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Functional Precision Oncology",
+                            "InterventionDescription": "Patient derived models (PDMs), comprising patient derived xenografts (PDXs) and organoids (PDO and PDxO),",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Treatment: All Patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of cases where clinically actionable therapies were identified by FPO.",
+                            "PrimaryOutcomeDescription": "Assess the feasibility and utility of Functional Precision Oncology (FPO) testing to identify therapies for patients with TNBC or HR-low/HER2- breast cancer who are at high risk of early recurrence",
+                            "PrimaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Compare the recurrence rates between patients whose tumors successfully engrafted in mice (PDX+) vs. not (PDX-)",
+                            "PrimaryOutcomeDescription": "Confirm that tumor engraftment as a PDX predicts early metastatic recurrence",
+                            "PrimaryOutcomeTimeFrame": "Data will be assessed at 1-year from the time of definitive surgery."
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Compare the recurrence rates between patients whose tumors successfully engrafted in mice (PDX+) vs. not (PDX-)",
+                            "PrimaryOutcomeDescription": "Confirm that tumor engraftment as a PDX predicts early metastatic recurrence",
+                            "PrimaryOutcomeTimeFrame": "Data will be assessed at 3-years from the time of definitive surgery."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between tumor engraftment (PDX+/-) and relapse-free survival, overall survival, and response to preoperative chemotherapy and treatment response as assessed on the Residual Cancer Burden scale",
+                            "SecondaryOutcomeDescription": "assess the correlation between PDX establishment and other clinical outcomes",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of cases where any type of patient derived models are successfully generated and clinically actionable therapies are identified by functional precision oncology.",
+                            "SecondaryOutcomeDescription": "assess additional measures of feasibility and utility of Functional Precision Oncology",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between MHCII Immune Activation Score (high vs. low and as a continuous variable) and tumor engraftment (PDX+/-) and clinical outcomes (relapse-free and overall survival).",
+                            "SecondaryOutcomeDescription": "determine the correlation between MHCII immune activation score and PDX engraftment",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between methylated ctDNA measurements as assessed using the MethylPatch assay pretreatment, pre- and post surgery, with PDX engraftment data (+/-) and clinical outcomes (relapse-free and overall survival)",
+                            "SecondaryOutcomeDescription": "determine if measurement of methylated ctDNA can strengthen predictions of recurrence when combined with PDX engraftment data",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "frequency with which therapeutic responses in PDX, PDxO, and/or PDO align with the clinical, radiographic, and pathologic responses observed in the matched patient",
+                            "SecondaryOutcomeDescription": "determine the concordance between therapeutic responses in PDX, PDxO, and/or PDO and matched patient tumors",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "determine the feasibility of returning FPO results to inform the selection of 2nd line therapy after recurrence",
+                            "SecondaryOutcomeDescription": "The proportion of cases where clinically actionable therapies are identified by FPO within 12 weeks of initiating 1st line therapy after recurrence. This endpoint is restricted to the subset of patients where clinically actionable therapies were not identified prior to time of recurrence",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Calculate PFS ratios of 2nd line FPO-informed: 1st line \"uninformed\" therapy as a preliminary measure of efficacy",
+                            "SecondaryOutcomeDescription": "assess the clinical efficacy of treatment decisions informed by FPO compared with treatment decisions not informed by FPO",
+                            "SecondaryOutcomeTimeFrame": "up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Step 1: Pre-tumor Collection Eligibility Participant Inclusion Criteria\n\nSubject aged \u2265 18 years.\nSubject has Stage I-III disease.\n\nHistologically or cytologically confirmed invasive breast carcinoma that is triple negative (TNBC) or hormone receptor (HR)-low/Her2 negative\n\n--TNBC is defined as:\n\nHER2 expression 0 or 1+ on immunohistochemistry (IHC) or non-amplified (defined as HER2/CEP17 ratio <2 or copy number <6) on fluorescence in situ hybridization (FISH). If HER2 expression is 2+ on IHC, negative HER2 expression must be confirmed by FISH. Pathologic diagnosis of TNBC (negative HER2 status by cytogenetics, <1% of cells stained positive for estrogen receptor (ER) by IHC, and <1% of cells stained positive for progesterone receptor (PR) by IHC).\n\n--HR-low/Her2(-) is defined as:\n\nHER2 expression 0 or 1+ on IHC or non-amplified (defined as HER2/CEP17 ratio <2 or copy number <6) on fluorescence in situ hybridization (FISH). If HER2 expression is 2+ on IHC, negative HER2 expression must be confirmed by FISH.1-10% of cells stained positive for ER by IHC, and/or 1-10% of cells stained positive for PR by IHC).\nPrimary tumor OR local lymph node metastasis that is \u2265 1.5 cm. Patients with inflammatory breast cancer are eligible. Patients with multifocal or multicentric breast cancer are eligible so long as ALL tumors meet eligibility criteria.\nPatient is considered for preoperative cytotoxic chemotherapy per standard of care or in the context of a separate, ongoing clinical trial.\nPatient has not received any prior therapy for her breast cancer.\nWilling and capable (per treating investigator's assessment) to undergo baseline tumor material collection from the primary tumor or lymph node metastasis.\n\nPatient can safely undergo tumor collection:\n\nThe tumor is reasonably accessible to tumor collection\nThe tumor is amenable to tumor collection (e.g. does not abut neurovascular structures)\nIf the patient receives anticoagulation, anticoagulation can be safely withheld to accommodate for tumor material acquisition\nThe patient does not have a medical condition that would render tumor acquisition a high-risk procedure (e.g. tumor material acquisition from lung metastases in a patient with emphysema)\nLife expectancy of \u2265 12 months as assessed by the treating investigator.\nECOG Performance Status \u2264 2.\n\nEvidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal patients. Women will be considered post-menopausal if they have been amenorrheic for 12 months without an alternative medical cause. The following age-specific requirements apply:\n\nWomen < 50 years of age would be considered post-menopausal if they have been amenorrheic for 12 months or more following cessation of exogenous hormonal treatments and if they have estradiol and follicle-stimulating hormone levels in the post-menopausal range for the institution or underwent surgical sterilization (bilateral oophorectomy or hysterectomy).\nWomen \u2265 50 years of age would be considered post-menopausal if they have been amenorrheic for 12 months or more following cessation of all exogenous hormonal treatments, had radiation-induced menopause with last menses >1 year ago, had chemotherapy-induced menopause with last menses >1 year ago, or underwent surgical sterilization (bilateral oophorectomy, bilateral salpingectomy or hysterectomy).\nAble to provide informed consent and willing to sign an approved consent form that conforms to federal and institutional guidelines.\n\nStep 2: Tumor Modeling and Tumor Material Testing Participant Inclusion Criteria\n\nPatient continues to meet step 1 registration criteria.\nSuccessful acquisition of a solid tumor biopsy sample containing \u2265 20% tumor content.\nSample from tumor collection is the type of sample that is feasible for PDX or organoid development as determined by the investigator.\n\nPhysician Inclusion Criteria\n\nPhysician is the treating medical oncologist for a patient who meets all of the inclusion criteria and none of the exclusion criteria.\nWilling and able to answer the physician questionnaires at the protocol required time points.\nWilling and able to provide informed consent and willing to sign an approved consent form that conforms to federal and institutional guidelines.\n\nParticipant Exclusion Criteria\n\nRadiographically evident metastatic breast cancer\nER and/or PR expression >10% on immunohistochemistry\nHer2(+) and/or Her2-amplified breast cancer. HER2 expression 3+ on IHC or amplified (defined as HER2/CEP17 ratio \u22652 or copy number >6) on fluorescence in situ hybridization (FISH). If HER2 expression is 2+ on IHC, reflex FISH must be performed to determine eligibility.\nPatient has bilateral breast cancer\n\nPatient received any anti-cancer therapy or any investigational therapy prior to study entry and collection of tumor.\n\n--Treatment includes: neoadjuvant therapy, radiation therapy, chemotherapy, bisphosphonates for an indication other than osteopenia/osteoporosis, and/or hormonal therapy administered for the currently diagnosed primary breast cancer prior to study entry. Hormonal therapy for a prior diagnosis of a hormone receptor-positive breast cancer us allowed.\n\nThe diagnosis of another malignancy, unless the patient is considered disease-free for \u22655 years before study entry. Patients are eligible if diagnosed and treated for carcinoma in situ of the cervix, melanoma in situ, colon cancer in situ, ductal carcinoma in situ, and basal and/or squamous cell carcinoma of the skin, early stage papillary thyroid cancer, and other low risk malignancies per investigator discretion.\nPrior history of local or locally advanced hormone receptor positive (ER and/or PR expression >10% on immunohistochemistry) and Her2 positive or negative breast cancer is allowed so long as patients have completed all treatments with curative intent (except adjuvant medical non-chemotherapy treatments, e.g. adjuvant endocrine therapy with any hormonal agent) AND an interval of 6 months has elapsed between completion of these treatments and histologic diagnosis of eligible breast cancer AND all other eligibility criteria are otherwise met.\n\nThe subject has uncontrolled, significant intercurrent or recent illness including, but not limited to, the following conditions:\n\nMyocardial infarction (<6 months prior to enrollment), unstable angina, congestive heart failure (> New York Heart Association Classification Class IIB) or a serious cardiac arrhythmia requiring medication.\nRenal or liver disease that prohibits the patient from receiving at least single-agent full recommended dose chemotherapy.\n\nCurrent evidence of uncontrolled, significant intercurrent illness including, but not limited to, the following conditions:\n\nCardiovascular disorders:\n\nCongestive heart failure New York Heart Association Class III or IV, unstable angina pectoris, serious cardiac arrhythmias.\nStroke (including transient ischemic attack [TIA]), myocardial infarction (MI), or other ischemic events, or thromboembolic event (eg, deep venous thrombosis, pulmonary embolism) within 3 months before the first dose.\nQTc prolongation defined as a QTcF > 500 ms.\nKnown congenital long QT.\nLeft ventricular ejection fraction < 55%.\nUncontrolled hypertension defined as \u2265 160/100 as assessed from the mean of three consecutive blood pressure measurements taken over 10 minutes.\nAny other condition that would, in the Investigator's judgment, contraindicate the subject's participation in the clinical study due to safety concerns or compliance with clinical study procedures (e.g., infection/inflammation, intestinal obstruction, unable to swallow medication, [subjects may not receive the drug through a feeding tube], social/ psychological issues, etc.)\nMedical, psychiatric, cognitive, or other conditions that may compromise the subject's ability to understand the subject information, give informed consent, comply with the study protocol or complete the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Janna Espinosa",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "801-585-0571",
+                            "CentralContactEMail": "janna.espinosa@hci.utah.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Christos Vaklavas, MD",
+                            "OverallOfficialAffiliation": "Huntsman Cancer Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Huntsman Cancer Institute at University of Utah",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Salt Lake City",
+                            "LocationState": "Utah",
+                            "LocationZip": "84112",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Janna Espinosa",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "801-585-0571",
+                                        "LocationContactEMail": "janna.espinosa@hci.utah.edu"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000012008",
+                            "ConditionMeshTerm": "Recurrence"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M30063",
+                            "ConditionBrowseLeafName": "Triple Negative Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafAsFound": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

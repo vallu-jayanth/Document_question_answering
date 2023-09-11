@@ -1,0 +1,229 @@
+{
+    "Rank": 162,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05874648",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GENIE-PROFUTURE-P"
+                },
+                "Organization": {
+                    "OrgFullName": "Sixth Affiliated Hospital, Sun Yat-sen University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PRediction Of Five Usual Tumors Using Blood Test for Risk Assessment and Early Detection",
+                "OfficialTitle": "Peripheral Blood cfDNA Methylation, Fragmentation, and Proteomics for Multiple Cancers Early Detection: a Multicenter, Prospective, Observational, Case-control Study",
+                "Acronym": "PROFUTURE"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 7, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 30, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 31, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 16, 2023",
+                "StudyFirstSubmitQCDate": "May 16, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 25, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 16, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 25, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sixth Affiliated Hospital, Sun Yat-sen University",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Shanghai Weihe Medical Laboratory Co., Ltd.",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Liquid biopsy technology based on cell-free nucleic acids and protein characteristics has unique advantages and significant application prospects in cancer early detection. The purpose of this study is to collect peripheral blood samples from participants with new diagnosis of cancer and from participants who do not have a diagnosis of cancer in order to develop machine learning models for discovering cancer from non-cancer.",
+                "DetailedDescription": "The PROFUTURE study: A prospective, multicenter, observational, case-control study with collection of peripheral blood and clinical data from clinical networks in order to develop machine learning models for discovering cancer from non-cancer. According to the statistical hypothesis based on expected detection performance, the study will enroll approximately 3,830 participants, including 2,138 participants with cancer (case arm) and approximately 1,692 representative participants without a clinical diagnosis of cancer after medical screening (control arm). Participants pre-matched by age and gender will be divided into training set and validation set in a ratio of approximately 7:3. The validation set will be blinded until the models are developed. Clinical information, demographics, and medical data relevant to cancer status are collected from all participants and their medical records at baseline. The participants of control arm will be asked to report suspected cancer diagnosis status within 6 months after blood collection."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasms",
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer Screening",
+                        "Blood Test",
+                        "High-Throughput Nucleotide Sequencing",
+                        "Circulating cell-free DNA"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "3830",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer arm",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Multi-cancer early detection test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Non-cancer arm",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Multi-cancer early detection test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Multi-cancer early detection test",
+                            "InterventionDescription": "Blood collection and multi-cancer early detection test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer arm",
+                                    "Non-cancer arm"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Sensitivity of predefined five types of cancers and specificity of non-cancers and in different subgroup of cfDNA methylation-based model at 95% confidence interval.",
+                            "PrimaryOutcomeTimeFrame": "12 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Tissue of origin (TOO) accuracy of five types of cancers of cfDNA methylation-based model at 95% confidence interval.",
+                            "PrimaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity, specificity and TOO accuracy of five types of cancers of a multi-omics model at 95% confidence interval.",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity, specificity and TOO accuracy of cfDNA methylation-based model and multi-omics model in different stages or pathological types of five types of cancers at 95% confidence intervals.",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria for Cancer Arm Participants:\n\n40-75 years old\nAbility to provide a written informed consent\nConfirmed cancer diagnosis within 30 days after study blood draw, based upon assessment of a pathological specimen\nHave not received any systemic or local antitumor therapy, including but not limited to surgical resection, radiotherapy, hormone therapy, targeted therapy, immunotherapy, interventional therapy, etc.\n\nExclusion Criteria for Cancer Arm Participants:\n\nPregnancy or lactating women\nKnown prior or current diagnosis of other types of malignancies comorbidities\nAcute exacerbation of inflammatory condition or severe infection requiring therapy in hospital within 14 days prior to blood draw\nRecipients of organ transplant or prior non-autologous (allogeneic) bone marrow transplant or stem cell transplant\nRecipients of blood transfusion within 30 days prior to study blood draw\nPoor health status or unfit to tolerate blood draw\n\nInclusion Criteria for Non-Cancer Arm Participants:\n\n40-75 years old\nAbility to provide a written informed consent\nWith clinically and/or pathologically diagnosed benign disease as defined by the protocol or self-reported no history of tumor and no signs of tumor as determined clinically\n\nExclusion Criteria for Non-Cancer Arm Participants:\n\nPregnancy or lactating women\nAny tumor history of benign or malignancies\nAcute exacerbation of inflammatory condition or severe infection requiring therapy in hospital within 14 days prior to blood draw\nRecipients of organ transplant or prior non-autologous (allogeneic) bone marrow transplant or stem cell transplant\nRecipients of blood transfusion within 30 days prior to study blood draw\nPoor health status or unfit to tolerate blood draw",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Eligible participants will be recruited from medical centers and communities. Participants will be assigned into two arms, including participants with new diagnosis of cancer and participants without a clinical diagnosis of cancer after medical screening. Demographic and cancer risk-related characteristics (eg, age, gender, smoking status, alcohol consumption) will be collected from all enrolled subjects.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Xiaosheng He, M.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-13543490940",
+                            "CentralContactEMail": "hexsheng@mail.sysu.edu.cn"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The Sixth Affiliated Hospital of Sun Yat-sen University",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510655",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Xiaosheng He, M.D.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "hexsheng@mail.sysu.edu.cn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

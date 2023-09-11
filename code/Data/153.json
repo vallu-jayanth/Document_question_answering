@@ -1,0 +1,899 @@
+{
+    "Rank": 153,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01917578",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "BCSMANC001"
+                },
+                "Organization": {
+                    "OrgFullName": "Shandong Cancer Hospital and Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study of Breast Cancer Shrinkage Modes After Neoadjuvant Chemotherapy With Whole-mount Serial Sections and Three-dimensional Pathological and MRI Reconstruction",
+                "OfficialTitle": "Phase III Trail of Breast Cancer Shrinkage Modes After Neoadjuvant Chemotherapy With Whole-mount Serial Sections and Three-dimensional Pathological and MRI Reconstruction",
+                "Acronym": "BCSMANC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2013",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 2008"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 2014",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2014",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 4, 2013",
+                "StudyFirstSubmitQCDate": "August 4, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 6, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 4, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 6, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Yongsheng Wang",
+                    "ResponsiblePartyInvestigatorTitle": "Director, Head of Breast Cancer Center, Principal Investigator, Clinical Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Shandong Cancer Hospital and Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Shandong Cancer Hospital and Institute",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main clinical goal of NAC is to down-stage the primary tumor for BCS,yet BCS after NAC has been associated with significantly higher ipsilateral breast tumor recurrences.The accuracy of breast tumor excision in BCS can dramatically reduce IBTR.The main reseason of IBTR might be the uncertain shrinkage modes of the breast cancer after NAC.This clinical trial is firstly carried out to make clear the shrinkage modes of the primary tumor after 3 cycles and whole cycles of NAC,respectively,with whole-mount serial section(WMSS) and three-dimensional(3D) pathological reconstruction of the residual tumor.The second objective is to investigate the predictive value of 3D MRI reconstruction for the shrinkage modes of the primary tumor after NAC."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer",
+                        "shrinkage modes",
+                        "three-dimensional reconstruction",
+                        "neoadjuvant chemotherapy",
+                        "Magnetic Resonance Imaging"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 3"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "4",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Half Cycles Group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients complete half of the whole cycles of neoadjuvant chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Ultrasound",
+                                    "Procedure: CNB",
+                                    "Procedure: BCS, Modified Radical Mastectomy",
+                                    "Device: Pathologic Large Tissue Selected Table",
+                                    "Device: Leica TP1020",
+                                    "Device: Pathologic Large Tissue Embedded Table",
+                                    "Device: Leica SM2000 R",
+                                    "Procedure: HE Stain",
+                                    "Device: CX22",
+                                    "Device: Epson V600",
+                                    "Procedure: Three-Dimensional Reconstruction",
+                                    "Device: Mammography",
+                                    "Drug: TAC,TC,TA,CAF,CEF"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Whole Cycles Group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients complete whole cycles of neoadjuvant chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Ultrasound",
+                                    "Procedure: CNB",
+                                    "Procedure: BCS, Modified Radical Mastectomy",
+                                    "Device: Pathologic Large Tissue Selected Table",
+                                    "Device: Leica TP1020",
+                                    "Device: Pathologic Large Tissue Embedded Table",
+                                    "Device: Leica SM2000 R",
+                                    "Procedure: HE Stain",
+                                    "Device: CX22",
+                                    "Device: Epson V600",
+                                    "Device: MRI",
+                                    "Procedure: Three-Dimensional Reconstruction",
+                                    "Device: Mammography",
+                                    "Drug: AC-P,TEC,AC,TC,TCH,CEF,TAC,CAF"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Ultrasound",
+                            "InterventionDescription": "Evaluation of the tumor size by sonography is performed before neoadjuvant chemotherapy and prior to surgery.\nMeasurement of tumor size refers to WHO standards.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "GE LOGIQ C5"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "CNB",
+                            "InterventionDescription": "Typically, the pretreatment tumor specimen will be a core needle biopsy. Because 15% to 28% of patients will have no residual tumor after NAT, it is important to have an adequate pretreatment sample in which an unequivocal diagnosis of invasive carcinoma is established and evaluation of hormone receptors and HER2/ neu status is completed before treatment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "core needle biopsy"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "BCS, Modified Radical Mastectomy",
+                            "InterventionDescription": "All patients after neoadjuvant chemotherapy are performed BCS and modified radical mastectomy.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "BCS: breast conservative surgery"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Pathologic Large Tissue Selected Table",
+                            "InterventionDescription": "Pathologic large tissue selected table has obtained Chinese patent.Its license ID is CN101261200.\nEach piece of breast tissues by cutting with the table has 3mm thickness.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Leica TP1020",
+                            "InterventionDescription": "Procedure:\n\nAlcohol 70 % 1h\nAlcohol 80 % 1h\nAlcohol 85 % 1h\nAlcohol 90 % 1h\nAlcohol 95 % 1h\nAlcohol \u2160 100 % 1h\nAlcohol \u2161 100 % 1h\nXylene \u2160 2h\nXylene \u2161 2h\nXylene \u2162 2h\nParaffin 6h\nParaffin 6h",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Semi-enclosed Benchtop Tissue Processor Leica TP1020"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Pathologic Large Tissue Embedded Table",
+                            "InterventionDescription": "The table is made of brass .It is applying for a chinese patent.\nThe table can simultaneously embed 8 piece of breast tissues.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Leica SM2000 R",
+                            "InterventionDescription": "Each of paraffin section has 4 um thickness.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Sliding microtome Leica SM2000 R"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "HE Stain",
+                            "InterventionDescription": "Procedure:\n\nXylene \u2160 60\u2103 15-20 minutes\nXylene \u2161 60\u2103 15-20 minutes\nAlcohol 100% \u2160 3-5 minutes\nAlcohol 100% \u2161 3-5 minutes\nAlcohol 95% \u2161 3-5 minutes\nAlcohol 90% \u2161 3-5 minutes\nWash in running tap water for 3 minutes\nHematoxylin 5-10 minutes\nWash in running tap water for 3 minutes\nDifferentiate in 1% acid alcohol for 30 seconds\nWash in running tap water for 1 minute\nBluing in 0.2% ammonia water for 30-60 seconds\nWash in running tap water for 3 minutes\nCounterstain in eosin Y solution for 30-60 seconds\nWash in running tap water for 1 minute\nAlcohol 90% \u2161 2-3 minutes\nAlcohol 95% \u2161 2-3 minutes\nAlcohol 100% \u2161 3-5 minutes\nAlcohol 100% \u2161 3-5 minutes\nXylene \u2162 5-10 minutes\nXylene \u2163 5-10 minutes\nMounting with neutral resin",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "CX22",
+                            "InterventionDescription": "The residual tumor areas are microscopically outlined on each slice by pathologist.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Biological Microscope CX22\uff08Olympus\uff09"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Epson V600",
+                            "InterventionDescription": "Each slice that has been microscopically outlined is scanned by Epson V600.\nEvery image by scanning should be saved as JPG.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Epson Perfection V600 Photo Scanner"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "MRI",
+                            "InterventionDescription": "Evaluation of the tumor size by MRI was performed before neoadjuvant chemotherapy and prior to surgery.\nMeasurement of tumor size refers to WHO standards.\nThe images of patients which were scanned by MRI should be burned onto disc for 3d reconstruction.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Philips Achieva 3.0T MRI System"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Three-Dimensional Reconstruction",
+                            "InterventionDescription": "A.Pathological images three-dimensional reconstruction:\n\nPathological images registration is based on skin and shear mark by Photoshop 13.0 software.\nResidual tumor boundary on Pathological images after registration are outlined and taken three-dimensional reconstruction by 3D-doctor 4.0 software.\nObserve the shrinkage modes in three-dimensional space.\nAccording to WHO standard,the boundaries of all residual tumor images are displayed in one plane and the longest diameter and its longest perpendicular diameter of boundaries are measured in one-dimensional space.\nAccording to RECIST standard,the longest diameter of boundaries of residual tumor images in three-dimensional space.\n\nB.MRI images three-dimensional reconstruction:the procedure is similar to Pathological images three-dimensional reconstruction",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Mammography",
+                            "InterventionDescription": "Evaluation of the tumor size by mammography is performed before neoadjuvant chemotherapy and prior to surgery.\nMeasurement of tumor size and calcification extent refers to WHO standards.\nCalcification extent is not only measured in mammography image but also under microscope.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group",
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "GE Mammography"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "TAC,TC,TA,CAF,CEF",
+                            "InterventionDescription": "TAC:Docetaxel 75 mg/\u33a1 iv day 1 + Doxorubicin 50 mg/\u33a1 in day 1 + Cyclophosphamide 500 mg/\u33a1 iv day 1(Cycled every 21 days for 3 cycles)\nTC:Docetaxel 75 mg/\u33a1 iv day 1 + Cyclophosphamide 600 mg/\u33a1in day 1(Cycled every 21 days for 2 cycles)\nTA:Docetaxel 75 mg/\u33a1 iv day 1 + Doxorubicin 50 mg/\u33a1 in day 1(Cycled every 21 days for 2 cycles)\nCAF:Cyclophosphamide 100 mg/\u33a1 po days 1-14 + Doxorubicin 30 mg/\u33a1 iv days 1,8 +5-fluorouracil 500 mg/\u33a1 iv days 1,8(cycled every 28 days for 3 cycles)\nCEF:Cyclophosphamide 75 mg/\u33a1 po day 1-14 + Epirubicin 60 mg/\u33a1 iv days 1,8 + 5-fluorouracil 500mg/\u33a1 iv days 1,8(cycled every 28 days for 3 cycles)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Half Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "1.TAC(docetaxel/doxorubicin/cyclophosphamide)",
+                                    "2.TC(docetaxel/cyclophosphamide)",
+                                    "3.TA(paclitaxel/doxorubicin)",
+                                    "4.CAF(fluorouracil/doxorubicin/cyclophosphamide)",
+                                    "5.CEF(cyclophosphamide/epirubicin//fluorouracil)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "AC-P,TEC,AC,TC,TCH,CEF,TAC,CAF",
+                            "InterventionDescription": "AC-P:Doxorubicin 60 mg/\u33a1 iv day 1 +Cyclophosphamide 600 mg/\u33a1 iv day 1(Cycled every 14 days for 4 cycles)\u2192 Paclitaxel 175mg/\u33a1 by 3h iv infusion day 1(Cycled every 14 days for 4 cycles) or Paclitaxel 80mg/\u33a1 by 1h iv infusion weekly for 12 wks.\nTEC:Docetaxel 75 mg/\u33a1 iv day 1 + Epirubicin 75 mg/\u33a1 in day 1 + Cyclophosphamide 500 mg/\u33a1 iv day 1(Cycled every 21 days for 6 cycles)\nAC:Doxorubicin 60 mg/\u33a1 in day 1 + Cyclophosphamide 600 mg/\u33a1 iv day 1(Cycled every 21 days for 4 cycles)\nTC:Docetaxel 75 mg/\u33a1 iv day 1 + Cyclophosphamide 600 mg/\u33a1in day 1(Cycled every 21 days for 4 cycles)\nTCH:Docetaxel 75 mg/\u33a1 iv day 1 + Carboplatin AUC 6 iv day1(Cycled every 21 days for 6 cycles) + Trastuzumab 4 mg/kg iv wk 1 \u2192 Trastuzumab 2 mg/kg iv for 17 wks \u2192 Trastuzumab 6 mg/kg iv every 3 wks to complete 1 year.\nCEF:Cyclophosphamide 75 mg/\u33a1 po day 1-14 + Epirubicin 60 mg/\u33a1 iv days 1,8 + 5-fluorouracil 500mg/\u33a1 iv days 1,8(cycled every 28 days for 6 cycles)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Whole Cycles Group"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "1.AC(doxorubicin/cyclophosphamide)-P(paclitaxel)",
+                                    "2.TEC(docetaxel/epirubicin/cyclophosphamide)",
+                                    "3.AC(doxorubicin/cyclophosphamide)-T(docetaxel)",
+                                    "4.TC(docetaxel/cyclophosphamide)",
+                                    "5.TCH(docetaxel/carboplatin/trastuzumab)",
+                                    "6.CEF(cyclophosphamide/epirubicin/fluorouracil)",
+                                    "7.TAC(docetaxel/doxorubicin/cyclophosphamide)",
+                                    "8.CAF(fluorouracil/doxorubicin/cyclophosphamide)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The shrinkage modes of breast tumor after NAC.",
+                            "PrimaryOutcomeDescription": "The tumor shrinkage modes of the primary tumor in patients with locally advanced breast cancer after 3 cycles and whole cycles of neoadjuvant chemotherapy(NAC).",
+                            "PrimaryOutcomeTimeFrame": "6 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The WMSS and 3D pathological reconstruction of the residual tumors after NAC.",
+                            "SecondaryOutcomeDescription": "The whole-mount serial section(WMSS) and three-dimensional(3D) pathological reconstruction of the residual tumors after NAC.",
+                            "SecondaryOutcomeTimeFrame": "6 year"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "The predictive value of 3D MRI reconstruction for the shrinkage modes of primary tumor after NAC.",
+                            "OtherOutcomeDescription": "The predictive value of 3D MRI reconstruction for the shrinkage modes of the primary tumor after whole cycles of NAC.",
+                            "OtherOutcomeTimeFrame": "4 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFemale patients,locally advanced breast cancer,age \u226518 years.\nHistologically confirmed invasive adenocarcinoma of the breast.\nPrimary palpable disease confined to a breast and axilla on physical examination. For patients without clinically suspicious axillary adenopathy, the primary tumor must be larger than 2 cm in diameter by physical exam or imaging studies (clinical T2-T3, N0-N1, M0). For patients with clinically suspicious axillary adenopathy, the primary breast tumor can be any size (clinical T1-3, N1-2, M0). (T1N0M0 lesions are excluded.)\nPatients without clearly defined palpable breast mass or axillary lymph nodes but radiographically measurable tumor masses are acceptable. Accepted procedures for measuring breast disease are mammography, MRI, and breast ultrasound. This will need to be re-evaluated after 3 cycles and prior to surgery.\nECOG 0 or 2\nNo distant metastasis, as documented by complete staging workup \u22646 weeks prior to initiation of study treatment.\nNo previous treatment for breast cancer.\n\nAdequate hematologic function with:\n\nAbsolute neutrophil count (ANC) >1500/\u03bcL. Platelets \u2265100,000/\u03bcL. Hemoglobin \u226510 g/dL.\n\nAdequate hepatic function with:\n\nSerum bilirubin \u2264 the institutional upper limit of normal (ULN). Aspartate aminotransferase (AST) \u22642.5 x institutional ULN. Alanine aminotransferase (ALT) \u22642.5 x institutional ULN.\n\nAdequate renal function with serum creatinine \u22641.5 x ULN.\nPlanned primary systemic (neoadjuvant) chemotherapy and surgical resection of residual primary tumor (mastectomy or lumpectomy/breast conservation) following completion of neoadjuvant chemotherapy\n\nExclusion Criteria:\n\ninflammatory breast cancer\nPregnancy or breast-feeding.A negative serum pregnancy test within 7 days prior to first study treatment (Day 1, Cycle 1) for all women of childbearing potential is required. Patients of childbearing potential must agree to use a birth control method that is approved by their study physician while receiving study treatment and for 3 weeks after their last dose of study treatment. Patients must agree to not breast-feed while receiving study treatment.\nConcurrent treatment with an ovarian hormonal replacement therapy or with hormonal agents such as raloxifene, tamoxifen or other selective estrogen receptor modulator (SERM). Patients must have discontinued use of such agents prior to beginning study treatment.\nUncontrolled intercurrent illness including (but not limited to) ongoing or active infection.\nConcurrent treatment with any anti-cancer therapy other than those agents used in this study.\nMental condition or psychiatric disorder that would prevent patient comprehension of the nature, scope, and possible consequences of the study or that would limit compliance with study requirements.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Yong-sheng Wang, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613505409989",
+                            "CentralContactEMail": "wangysh2008@aliyun.com"
+                        },
+                        {
+                            "CentralContactName": "Tao Yang, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8618264190568",
+                            "CentralContactEMail": "yangtao133252@aliyun.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yong-sheng Wang, MD",
+                            "OverallOfficialAffiliation": "Shandong Cancer Hospital and Institute",
+                            "OverallOfficialRole": "Study Chair"
+                        },
+                        {
+                            "OverallOfficialName": "Tao Yang, MD",
+                            "OverallOfficialAffiliation": "Shandong Cancer Hospital and Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Shandong Cancer Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Jinan",
+                            "LocationState": "Shandong",
+                            "LocationZip": "250117",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yong-sheng Wang, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+8613505409989",
+                                        "LocationContactEMail": "wangysh2008@aliyun.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Tao Yang, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+8618264190568",
+                                        "LocationContactEMail": "yangtao133252@aliyun.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Yong-sheng Wang, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Tao Yang, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Y-S Wang, Z-P Zhang, G Liu, D-B Mu, and X-Y Sun.Study of Breast Cancer Shrinkage Modes After Neoadjuvant Chemotherapy With Whole-mount Serial Sections and Three-dimensional Pathological and MRI Reconstruction. Cancer Res 2012;72(24 Suppl):Abstract nr P1-14-17."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000017239",
+                            "InterventionMeshTerm": "Paclitaxel"
+                        },
+                        {
+                            "InterventionMeshId": "D000077143",
+                            "InterventionMeshTerm": "Docetaxel"
+                        },
+                        {
+                            "InterventionMeshId": "D000068196",
+                            "InterventionMeshTerm": "Albumin-Bound Paclitaxel"
+                        },
+                        {
+                            "InterventionMeshId": "D000003520",
+                            "InterventionMeshTerm": "Cyclophosphamide"
+                        },
+                        {
+                            "InterventionMeshId": "D000016190",
+                            "InterventionMeshTerm": "Carboplatin"
+                        },
+                        {
+                            "InterventionMeshId": "D000004317",
+                            "InterventionMeshTerm": "Doxorubicin"
+                        },
+                        {
+                            "InterventionMeshId": "C000506643",
+                            "InterventionMeshTerm": "Liposomal doxorubicin"
+                        },
+                        {
+                            "InterventionMeshId": "D000005472",
+                            "InterventionMeshTerm": "Fluorouracil"
+                        },
+                        {
+                            "InterventionMeshId": "D000068878",
+                            "InterventionMeshTerm": "Trastuzumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000015251",
+                            "InterventionMeshTerm": "Epirubicin"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000972",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Phytogenic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050257",
+                            "InterventionAncestorTerm": "Tubulin Modulators"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050256",
+                            "InterventionAncestorTerm": "Antimitotic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050258",
+                            "InterventionAncestorTerm": "Mitosis Modulators"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007166",
+                            "InterventionAncestorTerm": "Immunosuppressive Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018501",
+                            "InterventionAncestorTerm": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018906",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000477",
+                            "InterventionAncestorTerm": "Alkylating Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000019653",
+                            "InterventionAncestorTerm": "Myeloablative Agonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000903",
+                            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059005",
+                            "InterventionAncestorTerm": "Topoisomerase II Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059003",
+                            "InterventionAncestorTerm": "Topoisomerase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000963",
+                            "InterventionAncestorTerm": "Antimetabolites"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000964",
+                            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M18340",
+                            "InterventionBrowseLeafName": "Carboplatin",
+                            "InterventionBrowseLeafAsFound": "Level",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M21550",
+                            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M19227",
+                            "InterventionBrowseLeafName": "Paclitaxel",
+                            "InterventionBrowseLeafAsFound": "Months",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1668",
+                            "InterventionBrowseLeafName": "Docetaxel",
+                            "InterventionBrowseLeafAsFound": "Acute",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M8290",
+                            "InterventionBrowseLeafName": "Fluorouracil",
+                            "InterventionBrowseLeafAsFound": "Visit",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M231",
+                            "InterventionBrowseLeafName": "Albumin-Bound Paclitaxel",
+                            "InterventionBrowseLeafAsFound": "Months",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M325",
+                            "InterventionBrowseLeafName": "Trastuzumab",
+                            "InterventionBrowseLeafAsFound": "Via",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6417",
+                            "InterventionBrowseLeafName": "Cyclophosphamide",
+                            "InterventionBrowseLeafAsFound": "Time",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7182",
+                            "InterventionBrowseLeafName": "Doxorubicin",
+                            "InterventionBrowseLeafAsFound": "Physical",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9479",
+                            "InterventionBrowseLeafName": "Hormones",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M227283",
+                            "InterventionBrowseLeafName": "Liposomal doxorubicin",
+                            "InterventionBrowseLeafAsFound": "Physical",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17644",
+                            "InterventionBrowseLeafName": "Epirubicin",
+                            "InterventionBrowseLeafAsFound": "Reduced",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M16664",
+                            "InterventionBrowseLeafName": "Triamcinolone",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M16665",
+                            "InterventionBrowseLeafName": "Triamcinolone Acetonide",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M237937",
+                            "InterventionBrowseLeafName": "Triamcinolone hexacetonide",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M209531",
+                            "InterventionBrowseLeafName": "Triamcinolone diacetate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3467",
+                            "InterventionBrowseLeafName": "Ethanol",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25887",
+                            "InterventionBrowseLeafName": "Tubulin Modulators",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25886",
+                            "InterventionBrowseLeafName": "Antimitotic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9902",
+                            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20294",
+                            "InterventionBrowseLeafName": "Antirheumatic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20632",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3510",
+                            "InterventionBrowseLeafName": "Alkylating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3912",
+                            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3914",
+                            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3971",
+                            "InterventionBrowseLeafName": "Antimetabolites",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "PhSol",
+                            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ARhu",
+                            "InterventionBrowseBranchName": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infl",
+                            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infe",
+                            "InterventionBrowseBranchName": "Anti-Infective Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "CNSDep",
+                            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

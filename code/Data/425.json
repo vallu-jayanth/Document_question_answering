@@ -1,0 +1,485 @@
+{
+    "Rank": 425,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02214134",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "EORTC-1335-LCG-PBG"
+                },
+                "Organization": {
+                    "OrgFullName": "European Organisation for Research and Treatment of Cancer - EORTC",
+                    "OrgClass": "NETWORK"
+                },
+                "BriefTitle": "SPECTAlung: Screening Patients With Thoracic Tumors for Efficient Clinical Trial Access",
+                "OfficialTitle": "SPECTAlung: Screening Patients With Thoracic Tumors for Efficient Clinical Trial Access",
+                "Acronym": "SPECTAlung"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 22, 2015",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 22, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 12, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "August 7, 2014",
+                "StudyFirstSubmitQCDate": "August 8, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 12, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 7, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 8, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "European Organisation for Research and Treatment of Cancer - EORTC",
+                    "LeadSponsorClass": "NETWORK"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "ETOP IBCSG Partners Foundation",
+                            "CollaboratorClass": "NETWORK"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "SPECTAlung is a program aiming at screening patients with thoracic tumors to identify the molecular characteristics of their disease. The thoracic tumors include lung cancer, malignant pleural mesothelioma, thymoma or thymic carcinoma at any stage. Once the molecular characteristics are identified, there might be the possibility to offer these patients access to targeted clinical trials."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Any Stage of Lung Cancer (Any Histotype)",
+                        "Any Stage of Malignant Pleural Mesothelioma",
+                        "Any Stage of Any Thymic Malignancy"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung cancer",
+                        "Malignant pleural mesothelioma",
+                        "Thymic malignancy",
+                        "Biomarkers",
+                        "Screening"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "5 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "FFPE blocks of tumour tissue Blood samples Pleural effusion samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "539",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung cancer",
+                            "ArmGroupDescription": "Patients with diagnosis of lung cancer at any stage",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Tumour markers testing"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Malignant pleural mesothelioma",
+                            "ArmGroupDescription": "Patients with diagnosis of malignant pleural mesothelioma at any stage",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Tumour markers testing"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Thymic malignancy",
+                            "ArmGroupDescription": "Patients with diagnosis of thymic malignancy at any stage",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Tumour markers testing"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Tumour markers testing",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Lung cancer",
+                                    "Malignant pleural mesothelioma",
+                                    "Thymic malignancy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of patients with thoracic malignancy (lung cancer, MPM and thymic malignancies) screened and efficiently allocated to biomarker-driven clinical trials.",
+                            "PrimaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients for whom the description of the biomarkers and correlation to clinical/pathological characteristics can be performed.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of exploratory/future research projects developped",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPathologically confirmed lung cancer, MPM, thymoma or thymic carcinoma at any stage;\nMandatory availability of adequate Human Biological Material (HBM): FFPE tissue sample from the primary tumor, recurrent tumor, metastasis, obtained at the time of primary surgery or biopsy; minimal amount requested is detailed in the HBM guidelines; inclusion of samples taken at any recurrence diagnosed during follow-up is strongly encouraged but optional;\nCentrally performed confirmation of tumor tissue adequacy in terms of quality/ quantity for central screening;\nAge \u2265 18 years;\nAt least three months life-expectancy;\nWritten informed consent according to ICH/GCP and national/local regulations.\n\nExclusion Criteria:\n\nAny active malignancy, except pT1-2 prostatic cancer Gleason score < 6, non melanomatous skin cancer or carcinoma in situ of the cervix, in the 5 years before study entry;\nActive hepatitis B/C or HIV;\nAny secondary malignancy;\nAny severe organ dysfunction or other comorbidities that may prevent the inclusion into clinical trials.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with pathologically confirmed lung cancer, MPM, thymoma or thymic carcinoma at any stage.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Benjamin Besse, MD, PhD",
+                            "OverallOfficialAffiliation": "Gustave Roussy, Cancer Campus, Grand Paris",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hopitaux Universitaires Bordet-Erasme - Institut Jules Bordet",
+                            "LocationCity": "Brussels",
+                            "LocationZip": "1000",
+                            "LocationCountry": "Belgium"
+                        },
+                        {
+                            "LocationFacility": "Universitair Ziekenhuis Antwerpen",
+                            "LocationCity": "Edegem",
+                            "LocationCountry": "Belgium"
+                        },
+                        {
+                            "LocationFacility": "U.Z. Leuven - Campus Gasthuisberg",
+                            "LocationCity": "Leuven",
+                            "LocationZip": "3000",
+                            "LocationCountry": "Belgium"
+                        },
+                        {
+                            "LocationFacility": "CHU de Lyon - Hopital Louis Pradel",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69394",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Assistance Publique - Hopitaux de Marseille - Hopital Nord",
+                            "LocationCity": "Marseille",
+                            "LocationZip": "13015",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU Toulouse - Hopital Larrey",
+                            "LocationCity": "Toulouse",
+                            "LocationZip": "31059",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Gustave Roussy Cancer Campus",
+                            "LocationCity": "Villejuif",
+                            "LocationZip": "94805",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "St. James's Hospital",
+                            "LocationCity": "Dublin",
+                            "LocationCountry": "Ireland"
+                        },
+                        {
+                            "LocationFacility": "Ospedale S. Luigi Gonzaga - Universita Di Torino",
+                            "LocationCity": "Torino",
+                            "LocationZip": "10043",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "Medical University Of Gdansk",
+                            "LocationCity": "Gdansk",
+                            "LocationZip": "80211",
+                            "LocationCountry": "Poland"
+                        },
+                        {
+                            "LocationFacility": "University Clinic Golnik",
+                            "LocationCity": "Golnik",
+                            "LocationZip": "4204",
+                            "LocationCountry": "Slovenia"
+                        },
+                        {
+                            "LocationFacility": "Hospital General Vall D'Hebron",
+                            "LocationCity": "Barcelona",
+                            "LocationZip": "08035",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitario 12 De Octubre",
+                            "LocationCity": "Madrid",
+                            "LocationZip": "ES 28041",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Universitaire Vaudois - Lausanne",
+                            "LocationCity": "Lausanne",
+                            "LocationZip": "CH 1011",
+                            "LocationCountry": "Switzerland"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Universitaire Vaudois - Lausanne",
+                            "LocationCity": "Lausanne",
+                            "LocationZip": "CH1011",
+                            "LocationCountry": "Switzerland"
+                        },
+                        {
+                            "LocationFacility": "Royal Marsden Hospital - Kingston Hospital",
+                            "LocationCity": "Kingston upon Thames",
+                            "LocationZip": "KT2 7QB",
+                            "LocationCountry": "United Kingdom"
+                        },
+                        {
+                            "LocationFacility": "Royal Marsden Hospital - Chelsea, London",
+                            "LocationCity": "London",
+                            "LocationZip": "SW3 6JJ",
+                            "LocationCountry": "United Kingdom"
+                        },
+                        {
+                            "LocationFacility": "Royal Marsden Hospital - Sutton, Surrey",
+                            "LocationCity": "Sutton",
+                            "LocationZip": "SM2 5PT",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000008654",
+                            "ConditionMeshTerm": "Mesothelioma"
+                        },
+                        {
+                            "ConditionMeshId": "D000086002",
+                            "ConditionMeshTerm": "Mesothelioma, Malignant"
+                        },
+                        {
+                            "ConditionMeshId": "D000013899",
+                            "ConditionMeshTerm": "Thoracic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000008175",
+                            "ConditionAncestorTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000236",
+                            "ConditionAncestorTerm": "Adenoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018301",
+                            "ConditionAncestorTerm": "Neoplasms, Mesothelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010997",
+                            "ConditionAncestorTerm": "Pleural Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11324",
+                            "ConditionBrowseLeafName": "Mesothelioma",
+                            "ConditionBrowseLeafAsFound": "Mesothelioma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Thoracic Tumors",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2538",
+                            "ConditionBrowseLeafName": "Mesothelioma, Malignant",
+                            "ConditionBrowseLeafAsFound": "Malignant Pleural Mesothelioma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3281",
+                            "ConditionBrowseLeafName": "Adenoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20135",
+                            "ConditionBrowseLeafName": "Neoplasms, Mesothelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13577",
+                            "ConditionBrowseLeafName": "Pleural Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3584",
+                            "ConditionBrowseLeafName": "Malignant Mesothelioma",
+                            "ConditionBrowseLeafAsFound": "Mesothelioma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

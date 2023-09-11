@@ -1,0 +1,781 @@
+{
+    "Rank": 900,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00257322",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "UCI 02-60"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "2003-2876",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "University of California, Irvine"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of California, Irvine",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Cellular Immune Augmentation in Colon and Rectal Cancer",
+                "OfficialTitle": "A Pilot Study of Cellular Immune Augmentation in Colon and Rectal Cancer Therapy"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 2003"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2007",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2007",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 18, 2005",
+                "StudyFirstSubmitQCDate": "November 18, 2005",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 22, 2005",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "June 26, 2009",
+                "ResultsFirstSubmitQCDate": "March 23, 2016",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "April 26, 2016",
+                    "ResultsFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 6, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 31, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Chao Family Comprehensive Cancer Center",
+                    "ResponsiblePartyInvestigatorTitle": "Cancer Center",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of California, Irvine"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of California, Irvine",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "While new treatments for metastatic and recurrent colorectal cancer have become available over the past several years, this disease remains incurable with a limited life expectancy from the time of diagnosis. New strategies for treatment of disseminated colorectal cancer are needed. Under this proposal, patients with advanced colorectal cancer will receive Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) to stimulate endogenous dendritic cells and enhance anti-tumor immune mechanisms. This will be combined with standard chemotherapy and patients will be followed for response and overall survival. Detailed correlative laboratory analysis will also be performed to define the extent of dendritic cell and cellular immune system stimulation."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colon Cancer",
+                        "Rectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Metastatic colon cancer",
+                        "Metastatic rectal cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "GM-CSF",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Granulocyte-macrophage colony-stimulating factor (GM-CSF) 250ug/m^2 SQ QD with a cap of 500mcg SQ QD",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: GM-CSF"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "GM-CSF",
+                            "InterventionDescription": "250ug/m^2 SQ QD with a cap of 500mcg SQ QD",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "GM-CSF"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Participants Exhibiting Immune Response",
+                            "PrimaryOutcomeDescription": "Immunological dendritic cell and cellular immune responses to GM-CSF administered in conjunction with chemotherapy for patients with advanced colorectal cancer.",
+                            "PrimaryOutcomeTimeFrame": "24 Months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Response Rates and Overall Survival.",
+                            "SecondaryOutcomeDescription": "Effect of cellular immune stimulation on response rates and overall survival. This is a secondary endpoint and while data will be recorded, a larger study with improved power will be necessary to confirm any improvements noted.",
+                            "SecondaryOutcomeTimeFrame": "24 Months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient must have: metastatic, disseminated or recurrent colon or rectal cancer\nPatient to receive weekly or biweekly chemotherapy for at least 4 cycles (4 weeks) Examples include: 5FU or 5FU/leucovorin given once weekly Irinotecan (single agent) given once weekly 5FU/leucovorin/irinotecan given once weekly\nPatient must be able to be taught to administer GM-CSF subcutaneously\n\nExclusion criteria:\n\nKnown allergic or other adverse reaction to GM-CSF\nChemotherapy administration more frequently than bi-weekly\nPregnant or lactating women",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Randall Holcombe, MD",
+                            "OverallOfficialAffiliation": "Chao Family Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Chao Family Comprehensive Cancer Center",
+                            "LocationCity": "Orange",
+                            "LocationState": "California",
+                            "LocationZip": "92868",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "22270330",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Martinez M, Ono N, Planutiene M, Planutis K, Nelson EL, Holcombe RF. Granulocyte-macrophage stimulating factor (GM-CSF) increases circulating dendritic cells but does not abrogate suppression of adaptive cellular immunity in patients with metastatic colorectal cancer receiving chemotherapy. Cancer Cell Int. 2012 Jan 23;12(1):2. doi: 10.1186/1475-2867-12-2. Erratum In: Cancer Cell Int. 2013 Aug 15;13(1):80."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowPreAssignmentDetails": "Subjects with known allergic or other adverse reaction to GM-CSF are excluded from study. Also pregnant and lactating women were excluded from study.",
+                "FlowRecruitmentDetails": "20 subjects enrolled between Jun 2003 and Jan 2007 in UCIMC location. All subjects undergoing treatment are presented with all options for their care - research or non-research.",
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Chemo Therapy and GM-CSF",
+                            "FlowGroupDescription": "Granulocyte-macrophage colony-stimulating factor (GM-CSF) 250ug/m^2 SQ QD with a cap of 500mcg SQ QD"
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementComment": "20 subjects accrued.",
+                                                    "FlowAchievementNumSubjects": "20"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementComment": "4 subjects withdrew from this study.",
+                                                    "FlowAchievementNumSubjects": "16"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "4"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Chemo Therapy and GM-CSF",
+                            "BaselineGroupDescription": "Granulocyte-Macrophage Colony-Stimulating Factor"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "20"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "62.65",
+                                                                "BaselineMeasurementSpread": "13.52"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "20"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Response Rates and Overall Survival.",
+                            "OutcomeMeasureDescription": "Effect of cellular immune stimulation on response rates and overall survival. This is a secondary endpoint and while data will be recorded, a larger study with improved power will be necessary to confirm any improvements noted.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "24 Months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Chemo Therapy and GM-CSF",
+                                        "OutcomeGroupDescription": "Granulocyte-Macrophage Colony-Stimulating Factor"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "16"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Response Rates",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "16"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Overall Survival",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "16"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Participants Exhibiting Immune Response",
+                            "OutcomeMeasureDescription": "Immunological dendritic cell and cellular immune responses to GM-CSF administered in conjunction with chemotherapy for patients with advanced colorectal cancer.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "24 Months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Chemo Therapy and GM-CSF",
+                                        "OutcomeGroupDescription": "Granulocyte-Macrophage Colony-Stimulating Factor"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "16"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "5",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Chemo Therapy and GM-CSF",
+                            "EventGroupDescription": "Granulocyte-Macrophage Colony-Stimulating Factor",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "20",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "20"
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "No",
+                    "AgreementRestrictiveAgreement": "No"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Chao Family Comprehensive Cancer Center",
+                    "PointOfContactOrganization": "University of California, Irvine",
+                    "PointOfContactEMail": "UCstudy@uci.edu",
+                    "PointOfContactPhone": "(877) 827-8839"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000003110",
+                            "ConditionMeshTerm": "Colonic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6028",
+                            "ConditionBrowseLeafName": "Colonic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colon Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M257602",
+                            "InterventionBrowseLeafName": "Molgramostim",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M219154",
+                            "InterventionBrowseLeafName": "Sargramostim",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

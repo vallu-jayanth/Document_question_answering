@@ -1,0 +1,357 @@
+{
+    "Rank": 967,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03461172",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IPC 2017-023"
+                },
+                "Organization": {
+                    "OrgFullName": "Institut Paoli-Calmettes",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Database of Data Collection",
+                "OfficialTitle": "Database of Data Collection in Senological Surgery",
+                "Acronym": "BDD-G3S"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2018",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 20, 2006",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 5, 2018",
+                "StudyFirstSubmitQCDate": "March 5, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 9, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 23, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 24, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Institut Paoli-Calmettes",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "For several years, the Paoli-Calmettes Institute has been centralizing the retrospective collection of clinical data of patients operated on for histologically proven breast cancer.",
+                "DetailedDescription": "The current cohort (G3S) fed by more than 20 centers has more than 25,000 patient records. The collection centralizes the main characteristics of the patients, the tumor and the treatments. Also included are the date of first recurrence, the localization (local, regional or distant) as well as the death or the date of the latest news. The current database is also updated regularly."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Surgery of Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "surgery",
+                        "breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "50000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "patients operated for breast cancer",
+                            "ArmGroupDescription": "patients operated for histologically proven breast cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Surgery of breast cancer",
+                                    "Other: Clinical data collection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Surgery of breast cancer",
+                            "InterventionDescription": "Surgery of breast cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "patients operated for breast cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Clinical data collection",
+                            "InterventionDescription": "The collection centralizes the main characteristics of the patients, the tumor and the treatments. Also included are the date of first recurrence, the localization (local, regional or distant) as well as the death or the date of the latest news.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "patients operated for breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "follow-up of patients operated for breast cancer",
+                            "PrimaryOutcomeTimeFrame": "20 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\npatients operated for histologically proven breast cancer.\n\nExclusion Criteria:\n\nPatient below age of 18 years",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Database of data collection in senological surgery",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Gilles HOUVENAEGHEL",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "HOUVENAEGHELG@ipc.unicancer.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Gilles HOUVENAEGHEL",
+                            "OverallOfficialAffiliation": "Institut Paoli-Calmettes",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Institut Paoli Calmettes",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Marseille",
+                            "LocationState": "Bouches Du Rhone",
+                            "LocationZip": "13009",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dominique GENRE, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "33 4 91 22 37 78",
+                                        "LocationContactEMail": "drci.up@ipc.unicancer.fr"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28475932",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Lambaudie E, Cohen M, Classe JM, Reyal F, Garbay JR, Giard S, Chopin N, Martinez A, Rouzier R, Darai E, Colombo PE, Coutant C, Gimbergues P, Azuar P, Villet R, Tunon de Lara C, Barranger E, Sabiani L, Goncalves A. Therapeutic escalation - De-escalation: Data from 15.508 early breast cancer treated with upfront surgery and sentinel lymph node biopsy (SLNB). Breast. 2017 Aug;34:24-33. doi: 10.1016/j.breast.2017.04.008. Epub 2017 May 3."
+                        },
+                        {
+                            "ReferencePMID": "28155054",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "de Nonneville A, Goncalves A, Zemmour C, Classe JM, Cohen M, Lambaudie E, Reyal F, Scherer C, Muracciole X, Colombo PE, Giard S, Rouzier R, Villet R, Chopin N, Darai E, Garbay JR, Gimbergues P, Sabiani L, Coutant C, Sabatier R, Bertucci F, Boher JM, Houvenaeghel G. Benefit of adjuvant chemotherapy with or without trastuzumab in pT1ab node-negative human epidermal growth factor receptor 2-positive breast carcinomas: results of a national multi-institutional study. Breast Cancer Res Treat. 2017 Apr;162(2):307-316. doi: 10.1007/s10549-017-4136-5. Epub 2017 Feb 2."
+                        },
+                        {
+                            "ReferencePMID": "27846840",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Lambaudie E, Houvenaeghel G, Zioueche A, Knight S, Dravet F, Garbay JR, Giard S, Charitansky H, Cohen M, Faure C, Hudry D, Azuar P, Villet R, Gimbergues P, de Lara CT, Tallet A, Bannier M, Minsat M, Resbeut M. Exclusive intraoperative radiotherapy for invasive breast cancer in elderly patients (>70 years): proportion of eligible patients and local recurrence-free survival. BMC Surg. 2016 Nov 15;16(1):74. doi: 10.1186/s12893-016-0191-9."
+                        },
+                        {
+                            "ReferencePMID": "27685443",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Sabatier R, Reyal F, Classe JM, Giard S, Charitansky H, Rouzier R, Faure C, Garbay JR, Darai E, Hudry D, Gimbergues P, Villet R, Lambaudie E. Axillary lymph node micrometastases decrease triple-negative early breast cancer survival. Br J Cancer. 2016 Oct 25;115(9):1024-1031. doi: 10.1038/bjc.2016.283. Epub 2016 Sep 29."
+                        },
+                        {
+                            "ReferencePMID": "27640137",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Boher JM, Reyal F, Cohen M, Garbay JR, Classe JM, Rouzier R, Giard S, Faure C, Charitansky H, Tunon de Lara C, Darai E, Hudry D, Azuar P, Gimbergues P, Villet R, Sfumato P, Lambaudie E. Impact of completion axillary lymph node dissection in patients with breast cancer and isolated tumour cells or micrometastases in sentinel nodes. Eur J Cancer. 2016 Nov;67:106-118. doi: 10.1016/j.ejca.2016.08.003. Epub 2016 Sep 16."
+                        },
+                        {
+                            "ReferencePMID": "27479041",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Sabiani L, Houvenaeghel G, Heinemann M, Reyal F, Classe JM, Cohen M, Garbay JR, Giard S, Charitansky H, Chopin N, Rouzier R, Darai E, Coutant C, Azuar P, Gimbergues P, Villet R, Tunon de Lara C, Lambaudie E. Breast cancer in young women: Pathologic features and molecular phenotype. Breast. 2016 Oct;29:109-16. doi: 10.1016/j.breast.2016.07.007. Epub 2016 Jul 29."
+                        },
+                        {
+                            "ReferencePMID": "26971077",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Classe JM, Garbay JR, Giard S, Cohen M, Faure C, Charytansky H, Rouzier R, Darai E, Hudry D, Azuar P, Villet R, Gimbergues P, Tunon de Lara C, Martino M, Fraisse J, Dravet F, Chauvet MP, Goncalves A, Lambaudie E. Survival impact and predictive factors of axillary recurrence after sentinel biopsy. Eur J Cancer. 2016 May;58:73-82. doi: 10.1016/j.ejca.2016.01.019. Epub 2016 Mar 11."
+                        },
+                        {
+                            "ReferencePMID": "26482833",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Jauffret C, Houvenaeghel G, Classe JM, Garbay JR, Giard S, Charitansky H, Cohen M, Belichard C, Faure C, Darai E, Hudry D, Azuar P, Villet R, Gimbergues P, Tunon de Lara C, Martino M, Coutant C, Dravet F, Chauvet MP, Chereau Ewald E, Penault-Llorca F, Goncalves A, Lambaudie E. [Lobular invasive breast cancer prognostic factors: About 940 patients]. Gynecol Obstet Fertil. 2015 Nov;43(11):712-7. doi: 10.1016/j.gyobfe.2015.09.007. Epub 2015 Oct 16. French."
+                        },
+                        {
+                            "ReferencePMID": "25417756",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Zioueche-Mottet A, Houvenaeghel G, Classe JM, Garbay JR, Giard S, Charitansky H, Cohen M, Belichard C, Faure C, Chereau Ewald E, Hudry D, Azuar P, Villet R, Gimbergues P, Tunon de Lara C, Tallet A, Bannier M, Minsat M, Lambaudie E, Resbeut M. Eligibility criteria for intraoperative radiotherapy for breast cancer: study employing 12,025 patients treated in two cohorts. BMC Cancer. 2014 Nov 24;14:868. doi: 10.1186/1471-2407-14-868."
+                        },
+                        {
+                            "ReferencePMID": "24874284",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Classe JM, Garbay JR, Giard S, Cohen M, Faure C, Helene C, Belichard C, Uzan S, Hudry D, Azuar P, Villet R, Penault Llorca F, Tunon de Lara C, Goncalves A, Esterni B; et al. Prognostic value of isolated tumor cells and micrometastases of lymph nodes in early-stage breast cancer: a French sentinel node multicenter cohort study. Breast. 2014 Oct;23(5):561-6. doi: 10.1016/j.breast.2014.04.004. Epub 2014 May 27."
+                        },
+                        {
+                            "ReferencePMID": "24399079",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Goncalves A, Classe JM, Garbay JR, Giard S, Charytensky H, Cohen M, Belichard C, Faure C, Uzan S, Hudry D, Azuar P, Villet R, Gimbergues P, Tunon de Lara C, Martino M, Lambaudie E, Coutant C, Dravet F, Chauvet MP, Chereau Ewald E, Penault-Llorca F, Esterni B. Characteristics and clinical outcome of T1 breast cancer: a multicenter retrospective cohort study. Ann Oncol. 2014 Mar;25(3):623-628. doi: 10.1093/annonc/mdt532. Epub 2014 Jan 7."
+                        },
+                        {
+                            "ReferencePMID": "22014859",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Bannier M, Nos C, Giard S, Mignotte H, Jacquemier J, Martino M, Esterni B, Belichard C, Classe JM, Tunon de Lara C, Cohen M, Payan R, Blanchot J, Rouanet P, Penault-Llorca F, Bonnier P, Fournet S, Agostini A, Marchal F, Garbay JR. Non sentinel node involvement prediction for sentinel node micrometastases in breast cancer: nomogram validation and comparison with other models. Breast. 2012 Apr;21(2):204-9. doi: 10.1016/j.breast.2011.09.013. Epub 2011 Oct 19."
+                        },
+                        {
+                            "ReferencePMID": "19046847",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Nos C, Giard S, Mignotte H, Esterni B, Jacquemier J, Buttarelli M, Classe JM, Cohen M, Rouanet P, Penault Llorca F, Bonnier P, Marchal F, Garbay JR, Fraisse J, Martel P, Fondrinier E, Tunon de Lara C, Rodier JF. A nomogram predictive of non-sentinel lymph node involvement in breast cancer patients with a sentinel lymph node micrometastasis. Eur J Surg Oncol. 2009 Jul;35(7):690-5. doi: 10.1016/j.ejso.2008.10.003. Epub 2008 Nov 28."
+                        },
+                        {
+                            "ReferencePMID": "16567771",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Houvenaeghel G, Nos C, Mignotte H, Classe JM, Giard S, Rouanet P, Lorca FP, Jacquemier J, Bardou VJ; Groupe des Chirurgiens de la Federation des Centres de Lutte Contre le Cancer. Micrometastases in sentinel lymph node in a multicentric study: predictive factors of nonsentinel lymph node involvement--Groupe des Chirurgiens de la Federation des Centres de Lutte Contre le Cancer. J Clin Oncol. 2006 Apr 20;24(12):1814-22. doi: 10.1200/JCO.2005.03.3225. Epub 2006 Mar 27."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

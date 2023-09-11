@@ -1,0 +1,413 @@
+{
+    "Rank": 402,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00897117",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC THO 0136"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "P50CA090949",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P50CA090949"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-THO-0136",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "VICC"
+                        },
+                        {
+                            "SecondaryId": "P30CA068485",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA068485"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Collecting and Analyzing Tissue Samples From Patients Undergoing Surgery for Non-Small Cell Lung Cancer",
+                "OfficialTitle": "Molecular Fingerprinting of Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 2001"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 31, 2031",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 31, 2031",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 9, 2009",
+                "StudyFirstSubmitQCDate": "May 9, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 12, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 1, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 3, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Eric Grogan",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Professor of Thoracic Surgery",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Studying samples of tumor tissue from patients with cancer in the laboratory may help doctors learn more about changes that may occur in RNA and identify biomarkers related to cancer.\n\nPURPOSE: This research study is collecting and analyzing lung tissue samples from patients undergoing surgery for non-small cell lung cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nDevelop statistical and computational methods for modeling the relationships between multiple variable protein and RNA expression data and clinical endpoints using both supervised and unsupervised classification and pattern recognition approaches.\nDetermine protein and RNA expression fingerprints on completely resected non-small cell lung cancer without prior chemotherapy.\nCorrelate protein and RNA expression fingerprints with T-stage and nodal involvement at the time of surgery, and collect outcome data to allow correlation with recurrence (local and/or distant) and survival.\n\nOUTLINE: This is a multicenter study.\n\nAny excess tissues removed from surgery and would otherwise be discarded (tissues not used for diagnosis and/or treatment decision making) are obtained for this study. Tissue are analyzed for molecular features that predict biologic behavior. Quantitation of RNA, gene expression profiles, and protein expression patterns are assessed by matrix-assisted laser desorption/ionization time of flight mass spectroscopy and microarray analysis.\n\nMedical records are reviewed to obtain information about results of tests associated with cancer diagnosis. Further progress in cancer treatment and tumor behavior after surgery are followed via record review."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage I non-small cell lung cancer",
+                        "stage II non-small cell lung cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Both prospective and retrospectives samples of blood and tissue."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "4000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Resectable non-small cell lung cancer",
+                            "ArmGroupDescription": "Patients with clinical stage I or II invasive lung cancer that can be completely removed by surgery and who have not undergone chemotherapy or radiotherapy before surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: gene expression analysis",
+                                    "Genetic: microarray analysis",
+                                    "Genetic: protein expression analysis",
+                                    "Other: biologic sample preservation procedure",
+                                    "Other: laboratory biomarker analysis",
+                                    "Other: matrix-assisted laser desorption/ionization time of flight mass spectrometry"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "gene expression analysis",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "microarray analysis",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "protein expression analysis",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "biologic sample preservation procedure",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "laboratory biomarker analysis",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "matrix-assisted laser desorption/ionization time of flight mass spectrometry",
+                            "InterventionDescription": "Blood and lung tissue collection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resectable non-small cell lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Protein and RNA expression fingerprints from collected samples",
+                            "PrimaryOutcomeTimeFrame": "after collection of designated samples"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Development of statistical and computational methods to model relationship of data and clinical outcomes",
+                            "SecondaryOutcomeTimeFrame": "after laboratory gene analysis work is completed"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of protein and RNA expression fingerprints with recurrence (local and/or distant) and survival",
+                            "SecondaryOutcomeTimeFrame": "after collection of designated samples"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion criteria\n\nDiagnosis of non-small cell lung cancer\n\nClinical stage I and II disease\nResectable disease and complete surgical resection planned\nTreated on companion studies at Vanderbilt University, the Veterans Administration hospital, St. Thomas, and Vanderbilt-Ingram Cancer Center Affiliate Network\nTumor specimen samples must be available at resection\n\nExclusion criteria\n\nChemotherapy before surgery\nRadiotherapy before surgery",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "120 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "People who have clinical stage I and II non-small cell lung cancer",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "VICC Clinical Trials Information Program",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "800-811-8480",
+                            "CentralContactEMail": "cip@vumc.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Eric Grogan, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt Medical Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Dan Rudy Cancer Center at Saint Thomas Hospital",
+                            "LocationStatus": "Completed",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37205",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Nashville",
+                            "LocationStatus": "Suspended",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37212",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Vanderbilt-Ingram Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37232-6838",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Clinical Trials Office - Vanderbilt-Ingram Cancer Center",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "800-811-8480"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Vanderbilt-Ingram Cancer Center, Find a Clinical Trial",
+                            "SeeAlsoLinkURL": "http://www.vicc.org/ct/"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

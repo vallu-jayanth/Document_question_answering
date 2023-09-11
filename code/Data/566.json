@@ -1,0 +1,462 @@
+{
+    "Rank": 566,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02651883",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "14-3042"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "1R01CA183891-01A1",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/1R01CA183891-01A1"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "UNC Lineberger Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Effect of Human Papillomavirus Self-Collection on Cervical Cancer Screening in High Risk Women: My Body, My Test 3",
+                "OfficialTitle": "Effect of HPV Self-Collection on Cervical Cancer Screening in High Risk Women: My Body, My Test 3",
+                "Acronym": "MBMT-3"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 10, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 10, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 4, 2016",
+                "StudyFirstSubmitQCDate": "January 7, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 11, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 1, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 2, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will investigate whether cervical cancer screening completion among under-screened women could be improved by offering HPV (human papillomavirus) testing by at-home self-collection followed by screening invitation compared to screening invitation alone.",
+                "DetailedDescription": "Invasive cervical cancer (ICC) is preventable through regular screening and treatment, but one fifth of US women report not receiving Pap testing at recommended intervals. More than half of ICC cases occur in these under-screened women. For women 30 years and older, the US Preventive Services Task Force recommends Pap smears alone every 3 years or physician-collected HPV testing with Pap smear (co-testing) every 5 years. The FDA approved primary HPV physician screening for US women 25 years and older. Self-collection for HPV testing is a valid and well-accepted method for detecting HPV infection with comparable sensitivity and specificity to physician-collection for detecting high-grade cervical lesions.\n\nThis 2-arm randomized control trial of 510 women will investigate whether offering HPV testing by mailed at-home self-collection to under-screened women increases their likelihood of completing cervical cancer screening. All participants will received a screening invitation by phone: a phone call providing (i) education on cervical cancer, and (ii) assistance scheduling an appointment for free screening at a study-affiliated clinic, if needed. Those randomized to the intervention arm will first be mailed a kit to self-collect a cervico-vaginal sample, return the sample for oncogenic HPV testing, and receive their results by phone. HPV negative women will be considered screening complete. HPV positive women will be invited to schedule an appointment for free follow-up in-clinic screening in the same call in which their results are delivered. The study endpoint of screening completion will be defined as completing in-clinic screening (control arm participants and HPV positive intervention arm participants) or receiving a negative HPV self-collection result (intervention arm).\n\nAim 1. Determine whether at-home HPV self-collection increases completion of cervical cancer screening among under-screened women offered enhanced reminders.\n\nAim 2. Examine possible mechanisms explaining the intervention's effect, or lack of an effect.\n\nAim 3. Estimate the incremental cost per additional woman completing screening of adding at-home HPV self-collection to enhanced reminders."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cervical Cancer",
+                        "Uterine Cervical Neoplasms",
+                        "Human Papillomavirus"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cervical cancer screening",
+                        "HPV testing",
+                        "Self-collection"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "665",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Screening invitation (with education)",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants will receive a phone call providing (i) education on cervical cancer, and (ii) assistance scheduling an appointment for free cervical cancer screening at a study-affiliated clinic.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Screening invitation (with education)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Self-collection for HPV testing",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants in the intervention arm will receive a kit to self-collect a sample and return it for HPV testing. Participants will then receive a phone call providing their HPV results plus (i) education on cervical cancer, and (ii) assistance scheduling an appointment for free cervical cancer screening at a study-affiliated clinic, if desired.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Screening invitation (with education)",
+                                    "Behavioral: Self-collection for HPV testing"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Screening invitation (with education)",
+                            "InterventionDescription": "The participant will be provided with brief education about the importance and effectiveness of cervical cancer screening, and invited to schedule an appointment for a free in-clinic screening",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Screening invitation (with education)",
+                                    "Self-collection for HPV testing"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Screening recall",
+                                    "Client reminder"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Self-collection for HPV testing",
+                            "InterventionDescription": "Participant is provided with a kit to take a self-collected sample at home and return it by mail for HPV testing. Results are provided to participant by phone.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Self-collection for HPV testing"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Self-testing",
+                                    "Self-sampling"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Percent of participants that complete cervical cancer screening",
+                            "PrimaryOutcomeDescription": "Completion of cervical cancer screening is defined as (a) testing HPV negative by self-collection, or (b) completing in-clinic screening by i. HPV/Pap co-testing or ii. Pap smear alone.",
+                            "PrimaryOutcomeTimeFrame": "Six months after enrollment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Levels of risk appraisal with regards to cervical cancer and screening",
+                            "SecondaryOutcomeDescription": "Risk appraisal will include multiple components measured by post-intervention questionnaire: Worry; Likelihood; Severity; Embodiment of risk (2 measures); \"Gist\" risk; Anticipated regret, action; Anticipated regret, inaction",
+                            "SecondaryOutcomeTimeFrame": "1-5 weeks after completion of self-collection or screening invitation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Costs to payers",
+                            "SecondaryOutcomeDescription": "Incremental cost to payer (public or private) per additional woman screened",
+                            "SecondaryOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Level of intention to complete cervical cancer screening",
+                            "SecondaryOutcomeDescription": "As measured in post-intervention questionnaire",
+                            "SecondaryOutcomeTimeFrame": "1-5 weeks after completion of self-collection or screening invitation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Level of self-efficacy to complete cervical cancer screening",
+                            "SecondaryOutcomeDescription": "As measured in post-intervention questionnaire",
+                            "SecondaryOutcomeTimeFrame": "1-5 weeks after completion of self-collection or screening invitation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Percentage of participants who schedule a clinic appointment to get cervical cancer screening",
+                            "SecondaryOutcomeDescription": "Percent of participants that agree to schedule a clinic appointment to get a Pap smear or Pap/HPV co-testing",
+                            "SecondaryOutcomeTimeFrame": "1-5 weeks after completion of self-collection or screening invitation"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Percentage of participants achieving primary outcome in different demographic categories",
+                            "OtherOutcomeDescription": "We will assess whether there are differences in the percentage of patients that complete cervical cancer screening by categories of age (e.g., younger than 45 vs. 45+), income, race, and educational level, measures collected at baseline",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Prevalence of HPV mRNA (messenger ribonucleic acid) detection in self- and clinic-collected samples, abnormal cytology detected in clinic samples, and high-grade lesions (CIN2+) as detected in follow-up colposcopy screening (as indicated)",
+                            "OtherOutcomeDescription": "Prevalence of HPV infection (as determined by presence of hrHPV mRNA in self- and clinic samples), abnormal cytology (ASCUS+ per NCI Bethesda system), and high-grade lesions (CIN2+, as determined by follow-up colposcopic inspection with biopsy as indicated) will be determined from medical records (as permitted by HIPAA authorization) and compared between the arms",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Percentage of patients referred to and completing colposcopy",
+                            "OtherOutcomeDescription": "Referral to and completion of colposcopy will be determined from medical records (as permitted by HIPAA authorization) and compared between the arms",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Number of patients referred to and completing colposcopy",
+                            "OtherOutcomeDescription": "Referral to and completion of colposcopy will be determined from medical records (as permitted by HIPAA authorization) and compared between the arms",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Number of patients referred to and completing treatment",
+                            "OtherOutcomeDescription": "Referral to and completion of treatment will be determined from medical records (as permitted by HIPAA authorization) and compared between the arms",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Percentage of patients referred to and completing treatment",
+                            "OtherOutcomeDescription": "Referral to and completion of treatment will be determined from medical records (as permitted by HIPAA authorization) and compared between the arms",
+                            "OtherOutcomeTimeFrame": "Throughout data collection period (average of 6 months per participant, approximately 3.5 years of study implementation)"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Attitudes towards HPV, cervical cancer, and cervical cancer screening",
+                            "OtherOutcomeDescription": "Attitudes will include multiple components measured by post-intervention questionnaire, including perceived barriers to screening, perceived benefits to screening, defensive processing of risk information, and subjective norms about screening",
+                            "OtherOutcomeTimeFrame": "1-5 weeks after completion of self-collection or screening invitation"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFemale\nAged 25 to 64 years old\nLiving at \u2264250% of the federal poverty line\nEligible to receive cervical cancer screening from a study-associated clinic\nResides within the same or bordering county of a study-associated clinic\n\nExclusion Criteria:\n\nCompletion of cervical Pap screening in preceding 4 years\nCompletion of HPV testing in preceding 6 years\nPregnant\nHistory of hysterectomy\nPrivate insurance\nUnable to provide informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "25 Years",
+                "MaximumAge": "64 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jennifer S Smith, PhD",
+                            "OverallOfficialAffiliation": "UNC Chapel Hill",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of North Carolina Gillings School of Public Health",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27599",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "33851854",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Biddell CB, Spees LP, Smith JS, Brewer NT, Des Marais AC, Sanusi BO, Hudgens MG, Barclay L, Jackson S, Kent EE, Wheeler SB. Perceived Financial Barriers to Cervical Cancer Screening and Associated Cost Burden Among Low-Income, Under-Screened Women. J Womens Health (Larchmt). 2021 Sep;30(9):1243-1252. doi: 10.1089/jwh.2020.8807. Epub 2021 Apr 13."
+                        },
+                        {
+                            "ReferencePMID": "31881928",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Spees LP, Des Marais AC, Wheeler SB, Hudgens MG, Doughty S, Brewer NT, Smith JS. Impact of human papillomavirus (HPV) self-collection on subsequent cervical cancer screening completion among under-screened US women: MyBodyMyTest-3 protocol for a randomized controlled trial. Trials. 2019 Dec 27;20(1):788. doi: 10.1186/s13063-019-3959-2."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002583",
+                            "ConditionMeshTerm": "Uterine Cervical Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014594",
+                            "ConditionAncestorTerm": "Uterine Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002577",
+                            "ConditionAncestorTerm": "Uterine Cervical Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014591",
+                            "ConditionAncestorTerm": "Uterine Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5520",
+                            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Cervical Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17032",
+                            "ConditionBrowseLeafName": "Uterine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5515",
+                            "ConditionBrowseLeafName": "Uterine Cervical Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17029",
+                            "ConditionBrowseLeafName": "Uterine Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

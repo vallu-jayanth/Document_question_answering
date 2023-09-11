@@ -1,0 +1,344 @@
+{
+    "Rank": 790,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02503969",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "15/YH/0028"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Sheffield",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Exploratory Analysis on the Impact of Morbidities on Colorectal Cancer Screening Uptake",
+                "OfficialTitle": "Exploratory Analysis on the Impact of Morbidities on Colorectal Cancer Screening Uptake"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2015"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2015",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2015",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 16, 2015",
+                "StudyFirstSubmitQCDate": "July 17, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 21, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 1, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 2, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Ben Kearns",
+                    "ResponsiblePartyInvestigatorTitle": "Research Associate",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Sheffield"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Sheffield",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The primary aim of this project is to examine the association between having a long-term condition (morbidity) and screening uptake for colorectal cancer. Whilst this project will consider all morbidity and co-morbidities, there will be a particular focus on common mental health disorders, such as depression and anxiety.\n\nThe secondary aim of this project is to examine other factors that may influence uptake rate. Information on a wide array of potential factors is available for this project. These include demographics (age, gender, ethnicity), socio-economic status (deprivation, education status) and lifestyle (smoking status, drinking patterns, degree of exercise). In addition, any potential moderating effect of these factors on the association between morbidity and screening uptake shall be explored.\n\nIn summary, the following shall be explored:\n\nUptake rates by type of mental health disorder.\nUptake rates by chronic physical health problems.\nAssociations between uptake, morbidity (both physical and mental) and broader health determinants such as demographics, socio-economic status and lifestyle.",
+                "DetailedDescription": "Linkage of datasets and ethical issues.\n\nThe South Yorkshire Cohort (SYC) data (including patient identifiers) are held by the Clinical Trials Research Unit (CTRU) at the University of Sheffield, whilst Bowel Cancer Screening Programme (BCSP) data are held by the NHS Cancer Screening Programmes (part of Public Health England).\n\nLinkage will be based on the subset of respondents to the SYC who have given their consent for the SYC researchers to look at their NHS health records, and are eligible to be invited for colorectal cancer (CRC) screening. The proposed method for linkage will be as follows:\n\nFor those respondents who have given this consent, the CTRU shall send their NHS number and their SYC study ID to the BCSP.\nUsing the NHS number, the BCSP shall extract data on if the individual was invited for screening, and if so whether or not the individual accepted screening.\nThe BCSP shall then send the screening data along with the SYC study ID to the CTRU. NHS number shall not be included in the data that is sent from the BCSP (in other words it will be pseudo-anonymised).\nThe CTRU shall use the pseudo-ID to link the screening programme data to the SYC data. A pseudo-anonymised dataset shall then be released to the research team.\n\nIn this way, the only patient-identifiable data that the BCSP would receive is data that they already hold (NHS number), whilst the CTRU would not receive any additional patient-identifiable data.\n\nIt should also be stressed that the research team undertaking this project would not have access to patient-identifiable data at any stage of the project.\n\nData used.\n\nThe following data shall be used within this project:\n\n\u2022 Exposure variables. The exposure variables are the presence of long-standing conditions. These are collected within the SYC as self-reported long-standing conditions. Twelve named conditions are recorded, along with an \"other\" condition, which includes free-text to allow the respondent to state the condition. These conditions (and their prevalence amongst a preliminary sample of people aged 60 to 74 in the SYC) are: Depression (8%), Anxiety (10%), Fatigue (19%), Pain (28%), Insomnia (8%), Diabetes (10%), Breathing problems (13%), High blood pressure (31%), Heart disease (10%), Osteoarthritis (16%), Stroke (3%), Cancer (5%) and Other (29%).\n\nAll of the long-standing conditions shall be considered, with the exception of cancer (as this will include CRC, and patients with this are not eligible for screening) and free-text descriptions (these shall be analysed as \"other\").\n\nOutcome variable. The outcome variable will be if the individual attended CRC screening. This will be linked to SYC data using data supplied by the National Bowel Cancer Screening Programme. It should be noted that CRC screening relates to the first time an individual is screened (prevalent screening). The main analysis will look at if an individual has had a CRC screen (irrespective of number of invitations to screening that were sent). Depending on the available evidence, a secondary analysis would consider the outcome variable of 'individual accepted CRC screening after refusing the initial invitation for CRC screening.'\nConfounding variables. The following potentially-confounding variables shall be assessed: Age, gender, ethnicity, highest level of education, levels of physical exercise, smoking status, alcohol consumption, and IMD deprivation score.\nAdditional descriptive variables. The following variables will not be used within the statistical models, but shall be included when performing a descriptive comparison of individuals who do attend screening with those who do not attend screening: self-reported EQ-5D summary score, self-reported healthcare use in the last 3 months (this includes 22 named categories, it is anticipated that due to small numbers some of these will need to be grouped. Possible groupings to consider are: Accident and emergency (A&E), Hospital use (excluding A&E), Health-carer: GP, Health-carer: Nurse, Other health-carers, Other carers, Alternative therapists.\n\nStatistical analysis.\n\nThe statistical analysis shall include the following sections:\n\n\u2022 Initial exploratory analysis. This initial analysis shall provide an overview of the available data, and will highlight any issues that may need to be addressed within the statistical modelling.\n\nA descriptive analysis shall compare the characteristics of people who attend CRC screening with those who do not attend. This comparison will include the exposure variables, confounding variables and additional descriptive variables (as detailed in the previous section). Comparisons will be tested for statistical significance, with the caveat that as no specific differences were hypothesised a priori, resulting p-values should be interpreted with caution. T-tests will be used to compare continuous variables, Fisher's exact test will be used to compare binary variables, and the Kruskal-Wallis test will be used to compare ordinal variables. Any p-values less than 5% will be taken to indicate a statistically significant association.\n\nIn addition to the descriptive analysis, the functional form of the association between any continuous variables and the outcome shall be visually assessed using smoothing methods. If a non-linear functional form is indicated then the use of non-linear functions (fractional polynomials, natural splines) shall be considered.\n\nHandling missing data. The amount of missing data shall determine the strategy employed (Harrell, 2001). If the total proportion of people with any missing data is less than 5% then single imputation of missing values shall be carried out. Otherwise, multiple imputation of missing values shall be carried out.\nStatistical modelling. Screening uptake rates for CRC shall be analysed using logistic regression, with patient demographics, socioeconomic status, lifestyle factors and morbidities as the potentially explanatory variables.\n\nThe primary interest is which morbidities affect uptake rate, with particular interest in mental morbidities (of which depression and anxiety are measured in the SYC). Because of this, only interactions with these two mental morbidities shall be considered. To examine the association between the mental morbidities and uptake, and to see how the other variables influence this association, a series of models shall be presented:\n\nModel 1 (univariate-model): this shall include only the long-standing conditions (exposure variables) as the independent variables.\nModel 2 (demographics-adjusted model): this shall include the independent variables from Model 1, along with the demographic variables (age, gender and ethnicity).\nModel 3 (full model): this shall include all the variables considered in this study. Interactions shall not be considered.\nModel 4 (exploratory model): this shall apply subset-selection to Model 3 (backwards-stepwise, with a probability-to-remove of 0.05). Interactions shall be considered after applying subset-selection.\n\nThe purpose of displaying a series of models will be to show the un-adjusted association between morbidities and screening uptake, and the highlight the degree to which these associations are mediated by patient characteristics. A distinction is made between 'intrinsic' characteristics (age, gender and ethnicity), which are (generally) beyond a person's control to change, and the remaining characteristics, over-which a person has more control\n\nPower calculations.\n\nPower analyses were conducted using G*Power 3.1.9. The required sample size to detect a significant effect of a pre-specified variable was calculated. For this analyses an alpha level of 5% and a two-tailed test were used. There were a number of additional factors that needed to be estimated or chosen:\n\nRequired power: values of 95% and 80% were used.\nOdds ratio: values between 1.2 and 3 were tested.\nProbability of uptake amongst those without any morbidity: the overall uptake of 47% observed between 2008 and 2011 of the BCSP was used.\nDegree of correlation amongst the potentially explanatory variables: values of 20% and 40% were tested (this is denoted by 'R2' in the table below).\nPrevalence of the pre-specified variable: a value of 8% was used, corresponding to the prevalence of depression in a preliminary analysis of the SYC data. In this analysis, 74% of the sample had a morbidity, with an average of 1.8 long-term conditions per person.\n\nTable 1: Sample size required as a function of power, correlation, and odds ratio.\n\nPower = 80% Power = 95% Odds Ratio R2 = 0.2 R2 = 0.4 R2 = 0.2 R2 = 0.4 1.2 16,066 21,422 26,605 35,473 1.3 7,780 10,373 12,876 17,168 1.4 4,751 6,335 7,857 10,476 1.5 3,292 4,389 5,437 7,249 1.6 2,466 3,289 4,069 5,425 1.8 1,603 2,137 2,637 3,516 2.0 1,174 1,566 1,925 2,567 2.2 926 1,234 1,513 2,017 2.4 767 1,022 1,248 1,665 2.6 658 877 1,067 1,422 2.8 579 772 935 1,247 3.0 519 693 837 1,116\n\nThe sample size available is expected to be approximately 7,500 indicating that any odds ratios of 1.4 or greater will be detected with 80% power, whilst any odds ratios of 1.5 or greater will be detected with 95% power.\n\nAn example of a change in uptake rates relating to an odds ratio of 1.5 would be a decrease in uptake from 60% to 57%. Further examples are presented in Table 2.\n\nTable 2: Decreases in uptake rate corresponding to an odds ratio of 1.5 Uptake rate in group 1: 90% 80% 70% 60% Uptake rate in group 2: 81% 72% 64% 57%\n\nAn alternative method for estimating samples sizes was also tested (Campbell, Julious, and Altman 1996). This uses published tables which estimate the sample size (per group) required to identify a pre-specified difference in two proportions at at a 5% significance level with 80% power. The group sizes are then adjusted to take into account any differences in group size. For example, if the group with depression represents 8% of the total population, then to detect a difference in uptake of 65% amongst people without depression and 60% amongst people with depression, an overall sample size of 425 is required, of which 34 would need to have depression and 391 would not have depression. The overall sample size required for a range of differences in uptake rates are presented in Table 3 (the uptake rates are all multiples of 5% as these values are used in the published tables).\n\nTable 3: Sample sizes required to detect pre-specified differences in uptake. Uptake in group A Uptake in group B Total sample size 60% 55% 1 188 65% 60% 425 70% 65% 213 75% 70% 138\n\n* Assuming that the comparison is between people with depression (prevalence 8%, corresponding to group B) and without depression."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colorectal Cancer",
+                        "Mass Screening",
+                        "Uptake",
+                        "Morbidity",
+                        "Mental Health"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Cross-Sectional"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "8776",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Screened",
+                            "ArmGroupDescription": "Those who received an adequate screen for colorectal cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Exposure to having a long-term condition."
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Not Screened",
+                            "ArmGroupDescription": "Those who received an adequate screen for colorectal cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Exposure to having a long-term condition."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Exposure to having a long-term condition.",
+                            "InterventionDescription": "Long-term conditions are self-reported: twelve named conditions are recorded, along with an \"other\" condition - these shall all be considered with the exception of the named condition \"cancer\".",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Not Screened",
+                                    "Screened"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Individual attended colorectal cancer screening",
+                            "PrimaryOutcomeDescription": "If the individual attended any colorectal cancer screen (irrespective of the number of invitations) - analysed as a binary yes/no indicator per individual using logistic regression.",
+                            "PrimaryOutcomeTimeFrame": "The duration for which the individual was eligible for screening (between 1 and 10 years)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Individual accepted colorectal cancer screening after refusing the initial invitation for colorectal cancer screening",
+                            "SecondaryOutcomeDescription": "This may not be assessed, depending on the available evidence. If analysed, will be as a binary yes/no indicator per individual using logistic regression.",
+                            "SecondaryOutcomeTimeFrame": "The duration for which the individual was eligible for screening (between 1 and 10 years)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipants in the South Yorkshire Cohort\nEligible for screening in the NHS Bowel Cancer Screening Programme.\n\nExclusion Criteria:\n\nHave not ticked both boxes on the Consent Form (part of the South Yorkshire Cohort questionnaire) for their data to be used",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "60 Years",
+                "MaximumAge": "69 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This study shall be restricted to participants in the South Yorkshire Cohort who have ticked both boxes on the Consent Form for their data to be used (the boxes being labelled \"May we look at your health records?\" and \"May we use the information you provide to look at the benefit of health treatments?\"), and are eligible for screening in the NHS Bowel Cancer Screening Programme (ages 60 to 69).",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Benjamin C Kearns, MSc",
+                            "OverallOfficialAffiliation": "University of Sheffield",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "School of Health and Related Research",
+                            "LocationCity": "Sheffield",
+                            "LocationState": "South Yorkshrie",
+                            "LocationZip": "S11 8BA",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Harrell FE. Regression modeling strategies: with applications to linear models, logistic regression, and survival analysis. Springer; 2001."
+                        },
+                        {
+                            "ReferencePMID": "7580713",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Campbell MJ, Julious SA, Altman DG. Estimating sample sizes for binary, ordered categorical, and continuous outcomes in two group comparisons. BMJ. 1995 Oct 28;311(7013):1145-8. doi: 10.1136/bmj.311.7013.1145. Erratum In: BMJ 1996 Jan 13;312(7023):96."
+                        },
+                        {
+                            "ReferencePMID": "29628776",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Kearns B, Chilcott J, Relton C, Whyte S, Woods HB, Nickerson C, Loban A. The association between long-term conditions and uptake of population-based screening for colorectal cancer: results from two English cohort studies. Cancer Manag Res. 2018 Mar 28;10:637-645. doi: 10.2147/CMAR.S153361. eCollection 2018."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "Rank": 587,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01213004",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "10-146"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of Respiratory Motion-Corrected Cone-Beam CT in Radiation Treatment of Thoracic and Abdominal Cancers",
+                "OfficialTitle": "Evaluation of Respiratory Motion-Corrected Cone-Beam CT in Radiation Treatment of Thoracic and Abdominal Cancers"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "September 29, 2010",
+                "StudyFirstSubmitQCDate": "September 30, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 1, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 2, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 6, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "University of North Carolina, Chapel Hill",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Varian Medical Systems",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "Tumors must be seen clearly on CT scan to be radiated completely and safely. Breathing causes tumors to move. If the tumor moves during breathing, it can look blurred on the CT scan. This makes it difficult to see on CT scan. The investigators wish to investigate whether a new computer method makes tumors less blurry and easier to see on CT scan. Cone-beam CT is a type of CT scanner attached to the radiation treatment machine that produces 3D images of the patient. Since your tumor can move because of your normal breathing, it is often blurry and difficult to see accurately in a standard cone-beam CT scan. The investigators intend to use a computer method which processes the cone-beam CT data in a way that reduces the blurring and makes the tumor easier to see."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer",
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "gastro-esophageal junction",
+                        "lung",
+                        "abdominal",
+                        "cone-beam CT (CBCT)",
+                        "10-146"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "52",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "thoracic (study group 1) malignancies",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "On the same day as the CBCT scans and treatment session, patients will receive a research-only respiration correlated CT (RCCT scan), for calculating motion-corrected CBCT. The localization accuracy of motion-corrected CBCT using same-day RCCT will be compared to that using the standard RCCT from simulation.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: respiration correlated CT scan"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "abdominal (study group 2) malignancies",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "On the same day as the CBCT scans and treatment session, patients will receive a research-only respiration correlated CT (RCCT scan), for calculating motion-corrected CBCT. The localization accuracy of motion-corrected CBCT using same-day RCCT will be compared to that using the standard RCCT from simulation.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: respiration correlated CT scan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "respiration correlated CT scan",
+                            "InterventionDescription": "Thoracic malignancies (study group 1): Patients to be treated for gastro-esophageal junction (GEJ) malignancy undergo an implantation procedure of two or three radiopaque markers several days prior to treatment simulation, which are used to correct patient position at treatment. At treatment simulation, patients receive a standard CT scan followed by an RCCT scan. In cases of GEJ malignancy, oral contrast is administered prior to the standard CT scan; this is done at the treating physician's discretion. The standard CT is used to design the radiation treatment plan, where as the RCCT is used to define a volume that encompasses the motion extent of the tumor with breathing and is transferred to the standard CT.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "thoracic (study group 1) malignancies"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "respiration correlated CT scan",
+                            "InterventionDescription": "Abdominal malignancies (study group 2): Patients undergo an implantation procedure of two or three radiopaque markers several days prior to treatment simulation. At treatment simulation, patients receive a standard CT scan followed by an RCCT scan. Intravenous contrast is administered prior to the standard CT; this is done at the treating physician's discretion.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "abdominal (study group 2) malignancies"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To determine whether motion-corrected cone-beam CT (CBCT) improves the localization accuracy",
+                            "PrimaryOutcomeDescription": "of thoracic tumors (evaluated using study group 1) and organs-at-risk (evaluated using study group 2) relative to the standard cone-beam CT procedure.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "To determine whether motion-corrected cone-beam CT (CBCT) can visualize and localize abdominal tumors using intravenous contrast enhancement.",
+                            "PrimaryOutcomeDescription": "(evaluated using study group 2).",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To determine whether motion-corrected cone-beam CT (CBCT) derived from a respiration correlated CT (RCCT) scan on the same day improves localization accuracy",
+                            "SecondaryOutcomeDescription": "for thoracic tumors (evaluated using study group 1) and organs-at-risk (evaluated using study group 2), relative to motion-corrected CBCT derived from a prior RCCT scan at patient's simulation.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To determine whether tumor and organ-at-risk positions localized in cone-beam CT (CBCT)",
+                            "SecondaryOutcomeDescription": "prior to treatment remain constant throughout the treatment fraction.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients must have histologic proof of a thoracic or abdominal malignancy, confirmed at MSKCC and suitable for radiation therapy, in order to be eligible for this study. Thoracic malignancies (study group 1) include those in lung and gastro-esophageal junction. Abdominal malignancies (study group 2) include those in liver and pancreas. Patients having both thoracic and abdominal malignancies will be placed in only one of the study groups, because the limited field-of-view of the CBCT precludes imaging of both malignancies in the same scan. Patients must be older than 18 years of age\nAt least part of the tumor must be visible as observed in a diagnostic or planning CT. The tumor must exhibit at least 5 mm motion from respiration as observed in the respiration-correlated CT (RCCT) at simulation. The RCCT scan must be interpretable and not exhibit excessive motion artifacts caused by irregular patient breathing.\nPatients must have Karnofsky Performance Status \u2265 70%\n\nExclusion Criteria:\n\nMesothelioma and other tumors of the pleura\nPregnant Women\nAllergic to iodine or intravenous contrast agent (applies only to patients with a pancreas or liver malignancy)\nRenal impairment due to the use of a contrast agent\nPatients with pacemakers and defibrillators",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Gikas Mageras, PhD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org/mskcc/html/44.cfm"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

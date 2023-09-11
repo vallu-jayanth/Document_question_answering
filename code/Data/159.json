@@ -1,0 +1,866 @@
+{
+    "Rank": 159,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03863522",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J18138"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "IRB00172441",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHMI IRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Automated Method for Breast Cancer Detection",
+                "OfficialTitle": "Automated Method for Breast Cancer Detection"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2021",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Inadequate FNA samples (low cell counts)",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 7, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 15, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 15, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 4, 2019",
+                "StudyFirstSubmitQCDate": "March 4, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 5, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "ResultsFirstSubmitDate": "October 20, 2021",
+                "ResultsFirstSubmitQCDate": "October 20, 2021",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "November 19, 2021",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 20, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 19, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Participants with suspicious breast lesions by mammography will undergo fine needle aspiration (FNA) under ultrasound guidance. The FNA will be read by the cytopathologist and analyzed in the breast cancer detection cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis). We will also receive FNA collected from 60 patients with palpable lesions in South Africa and analyze them samples in our lab with the same method."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer Diagnosis"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer Diagnosis",
+                        "Ultrasound-guided core needle biopsy",
+                        "Fine needle aspiration",
+                        "FNA",
+                        "Diagnostic Cartridge"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "116",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Fine Needle Aspiration",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Fine needle aspiration",
+                                    "Device: Cancer Detection cartridge"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Fine needle aspiration",
+                            "InterventionDescription": "Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Fine Needle Aspiration"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "FNA"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Cancer Detection cartridge",
+                            "InterventionDescription": "The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Fine Needle Aspiration"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation of Diagnostic Cartridge With Histopathology as Assessed by Number of Participants With Same Diagnosis From Both Cancer Detection Cartridge and Core Biopsy or Resected Lesion",
+                            "PrimaryOutcomeDescription": "Number of participants in whom DNA methylation profile of 10 genes in the Cancer Detection cartridge correlates with diagnosis based on the gold standard of histopathology of the core biopsy or resected sample.",
+                            "PrimaryOutcomeTimeFrame": "up to 2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation of Diagnostic Cartridge With Cytopathology as Assessed by Number of Participants With Same Diagnosis From Both Cancer Detection Cartridge and Cytology of Fine Needle Aspiration (FNA)",
+                            "PrimaryOutcomeDescription": "Number of participants in whom DNA methylation profile of 10 genes as determined in the Cancer Detection cartridge correlates with FNA cytology",
+                            "PrimaryOutcomeTimeFrame": "up to 2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of Diagnostic Cartridge With Known Lab Assay",
+                            "SecondaryOutcomeDescription": "Number of participants in whom gene-methylation prediction of FNA in the Cancer Detection cartridge is malignant or benign when compared to gene-methylation prediction of FNA using our known laboratory assay (QM-MSP)",
+                            "SecondaryOutcomeTimeFrame": "up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of Known Lab Assay for FNA Versus the Core Biopsy",
+                            "SecondaryOutcomeDescription": "Number of participants in whom gene-methylation prediction of benign or malignant using our known laboratory assay (QM-MSP) matches for both the FNA sample and the core biopsy sample",
+                            "SecondaryOutcomeTimeFrame": "up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of Cartridge Based Quantitative Evaluation of Tumor Markers (ER/PR/Her2 and Ki67) in FNA Versus FFPE Sections",
+                            "SecondaryOutcomeDescription": "Number of participants with same expression of ER/PR/Her2 and Ki67 in FNAs of methylation positive breast lesions as with expression of ER/PR/Her2 and Ki67 in Formalin-Fixed Paraffin-Embedded (FFPE) sections of tumors using cartridge based quantitative evaluation",
+                            "SecondaryOutcomeTimeFrame": "up to 2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient must be female\nPatient must be 18 years of age or older\nPatient has been recommended for ultrasound core needle biopsy of a suspicious breast lesion\n\nExclusion Criteria:\n\nPatients may be excluded for any condition that in the opinion of the investigator may not make it safe to take part (e.g. certain medicines).",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Lisa Mullen, MD",
+                            "OverallOfficialAffiliation": "JHU School of Medicine",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Johns Hopkins Hospital Outpatient Center",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21287",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Johns Hopkins Medical Imaging at Green spring Station",
+                            "LocationCity": "Lutherville-Timonium",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21093",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Fine Needle Aspiration",
+                            "FlowGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "116"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "116"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Fine Needle Aspiration",
+                            "BaselineGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "116"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Full Range",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "48",
+                                                                "BaselineMeasurementLowerLimit": "18",
+                                                                "BaselineMeasurementUpperLimit": "89"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "116"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "American Indian or Alaska Native",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Asian",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Native Hawaiian or Other Pacific Islander",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Black or African American",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "71"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "White",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "40"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "More than one race",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "62"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "South Africa",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "54"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Correlation of Diagnostic Cartridge With Histopathology as Assessed by Number of Participants With Same Diagnosis From Both Cancer Detection Cartridge and Core Biopsy or Resected Lesion",
+                            "OutcomeMeasureDescription": "Number of participants in whom DNA methylation profile of 10 genes in the Cancer Detection cartridge correlates with diagnosis based on the gold standard of histopathology of the core biopsy or resected sample.",
+                            "OutcomeMeasurePopulationDescription": "Inadequate cell counts prevented analysis of samples. Data was not generated.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Fine Needle Aspiration",
+                                        "OutcomeGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Correlation of Diagnostic Cartridge With Cytopathology as Assessed by Number of Participants With Same Diagnosis From Both Cancer Detection Cartridge and Cytology of Fine Needle Aspiration (FNA)",
+                            "OutcomeMeasureDescription": "Number of participants in whom DNA methylation profile of 10 genes as determined in the Cancer Detection cartridge correlates with FNA cytology",
+                            "OutcomeMeasurePopulationDescription": "Inadequate cell counts prevented analysis of samples. Data was not generated.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Fine Needle Aspiration",
+                                        "OutcomeGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Correlation of Diagnostic Cartridge With Known Lab Assay",
+                            "OutcomeMeasureDescription": "Number of participants in whom gene-methylation prediction of FNA in the Cancer Detection cartridge is malignant or benign when compared to gene-methylation prediction of FNA using our known laboratory assay (QM-MSP)",
+                            "OutcomeMeasurePopulationDescription": "Inadequate cell counts prevented analysis of samples. Data was not generated.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Fine Needle Aspiration",
+                                        "OutcomeGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Correlation of Known Lab Assay for FNA Versus the Core Biopsy",
+                            "OutcomeMeasureDescription": "Number of participants in whom gene-methylation prediction of benign or malignant using our known laboratory assay (QM-MSP) matches for both the FNA sample and the core biopsy sample",
+                            "OutcomeMeasurePopulationDescription": "Inadequate cell counts prevented analysis of samples. Data was not generated.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Fine Needle Aspiration",
+                                        "OutcomeGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Correlation of Cartridge Based Quantitative Evaluation of Tumor Markers (ER/PR/Her2 and Ki67) in FNA Versus FFPE Sections",
+                            "OutcomeMeasureDescription": "Number of participants with same expression of ER/PR/Her2 and Ki67 in FNAs of methylation positive breast lesions as with expression of ER/PR/Her2 and Ki67 in Formalin-Fixed Paraffin-Embedded (FFPE) sections of tumors using cartridge based quantitative evaluation",
+                            "OutcomeMeasurePopulationDescription": "Inadequate cell counts prevented analysis of samples. Data was not generated.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Fine Needle Aspiration",
+                                        "OutcomeGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventsTimeFrame": "2 weeks",
+                "EventsDescription": "The only intervention is FNA, which is immediately preceded by a core needle biopsy. Thus the cause, FNA vs core biopsy, of the AE will be impossible to determine. Via phone 1-2 days post-procedure and again 10-14 days post-procedure, patients were asked about any bruising and pain, but could report other symptoms if any. Please note only the 62 Johns Hopkins patients were called; the remaining 54 South African patients were not followed for AEs by this study team.",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Fine Needle Aspiration",
+                            "EventGroupDescription": "Participants will receive fine needle aspiration (FNA) later read by the cytopathologist and the cartridge. All patients will receive standard of care (Ultrasound-guided core needle biopsy and diagnosis).\n\nFine needle aspiration: Fine needle aspiration is a type of biopsy procedure to diagnose suspicious lesions. After giving numbing medicine, a thin needle is inserted into the breast to obtain a sample. This procedure is followed by the standard of care and will last about 10 minutes. The sample will be analyzed by a diagnostic cartridge and by the cytopathologist.\n\nCancer Detection cartridge: The Cancer Detection cartridge has the ability to measure methylated gene changes in breast cells. The device will not be in contact with the patients. The FNA samples will be smeared on a slide which will be placed into the cartridge for analysis.",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "62",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "62",
+                            "EventGroupOtherNumAffected": "3",
+                            "EventGroupOtherNumAtRisk": "62"
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Bruising",
+                            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "62"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pain",
+                            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "62"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Other",
+                            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventNotes": "Any other self-reported symptom",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "62"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Dr. Sara Sukumar",
+                    "PointOfContactOrganization": "Johns Hopkins University",
+                    "PointOfContactEMail": "saras@jhmi.edu",
+                    "PointOfContactPhone": "4106142479"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "November 7, 2018",
+                            "LargeDocUploadDate": "10/20/2021 13:28",
+                            "LargeDocFilename": "Prot_SAP_001.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

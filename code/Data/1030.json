@@ -1,0 +1,783 @@
+{
+    "Rank": 1030,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00834236",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VGHKS96-CT2-24"
+                },
+                "Organization": {
+                    "OrgFullName": "Kaohsiung Veterans General Hospital.",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Proteiomic Fingerprints of Gastric Juice",
+                "OfficialTitle": "Diagnosis of Gastroduodenal Diseases by Proteiomic Fingerprints of Gastric Juice"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 2008"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 2011",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2011",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 2, 2009",
+                "StudyFirstSubmitQCDate": "February 2, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 3, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "September 30, 2015",
+                "ResultsFirstSubmitQCDate": "November 3, 2015",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "December 7, 2015",
+                    "ResultsFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 3, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 7, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Ping-I (William) Hsu, M.D.",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Kaohsiung Veterans General Hospital."
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Kaohsiung Veterans General Hospital.",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Science Council, Taiwan",
+                            "CollaboratorClass": "OTHER_GOV"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "No accurate, inexpensive and non-invasive test for gastric cancer screening is currently available. The investigators' recent study identified a1-antitrypsin and other proteins as potential biomarkers of gastric cancer in gastric juice. The aim of this study was to develop a novel non-invasive modality for detecting gastric cancer by measurement of biomarkers in gastric juice.",
+                "DetailedDescription": "Patients and methods: The study consisted of two parts: (1) investigating the differences in gastric juice biomarker concentrations between gastric cancer patients and controls, and (2) screening gastric cancer using string test to obtain gastric juice followed by immunoassay for biomarker concentration."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "gastric cancer",
+                        "proteomics",
+                        "gastric juice"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "76",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "gastric cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "gastric cancer patients",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: normal subject",
+                                    "Other: gastric cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "normal subject",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "healthy subject",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: normal subject",
+                                    "Other: gastric cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "normal subject",
+                            "InterventionDescription": "biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "gastric cancer",
+                                    "normal subject"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "biomarker in gastric juice"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "gastric cancer",
+                            "InterventionDescription": "biomarker in gastric juice, e.g., alpha 1-antitrypsin",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "gastric cancer",
+                                    "normal subject"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "biomarker in gastric juice"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of Participants With Accurate Diagnosis for Gastric Cancer",
+                            "PrimaryOutcomeDescription": "Normal subject group: number of the subjects with normal alpha 1-antitrypsin level in gastric juice Gastric cancer group: number of the subjects with elevated alpha 1-antitrypsin level in gastric juice",
+                            "PrimaryOutcomeTimeFrame": "2 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nhealthy subjects and gastric cancer patients documented by endoscopy.\n\nExclusion Criteria:\n\nthe use of proton pump inhibitors or histamine-2 receptor antagonists within 4 weeks prior to the study\ncoexistence of two kinds of gastroduodenal lesions\ncoexistence of severe systemic diseases",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "85 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ping-I Hsu, M.D.",
+                            "OverallOfficialAffiliation": "Kaohsiung Veterans Genaral hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Kaohsiung Veterans General Hospital",
+                            "LocationCity": "Kaohsiung",
+                            "LocationZip": "813",
+                            "LocationCountry": "Taiwan"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Gastric Cancer",
+                            "FlowGroupDescription": "gastric cancer patients\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                        },
+                        {
+                            "FlowGroupId": "FG001",
+                            "FlowGroupTitle": "Normal Subject",
+                            "FlowGroupDescription": "healthy subject\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "29"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "47"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "29"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "47"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Gastric Cancer",
+                            "BaselineGroupDescription": "gastric cancer patients\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                        },
+                        {
+                            "BaselineGroupId": "BG001",
+                            "BaselineGroupTitle": "Normal Subject",
+                            "BaselineGroupDescription": "healthy subject\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                        },
+                        {
+                            "BaselineGroupId": "BG002",
+                            "BaselineGroupTitle": "Total",
+                            "BaselineGroupDescription": "Total of all reporting groups"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "29"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG001",
+                                        "BaselineDenomCountValue": "47"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG002",
+                                        "BaselineDenomCountValue": "76"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "10"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "42"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "52"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "19"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "5"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "24"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "67.5",
+                                                                "BaselineMeasurementSpread": "14.3"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "51.4",
+                                                                "BaselineMeasurementSpread": "14.9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "59.5",
+                                                                "BaselineMeasurementSpread": "14.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "24"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "33"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "20"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "23"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "43"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Taiwan",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "29"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "47"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "76"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Number of Participants With Accurate Diagnosis for Gastric Cancer",
+                            "OutcomeMeasureDescription": "Normal subject group: number of the subjects with normal alpha 1-antitrypsin level in gastric juice Gastric cancer group: number of the subjects with elevated alpha 1-antitrypsin level in gastric juice",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "participants",
+                            "OutcomeMeasureTimeFrame": "2 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Gastric Cancer",
+                                        "OutcomeGroupDescription": "gastric cancer patients\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Normal Subject",
+                                        "OutcomeGroupDescription": "healthy subject\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "29"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "47"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "27"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "44"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Gastric Cancer",
+                            "EventGroupDescription": "gastric cancer patients\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "29",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "29"
+                        },
+                        {
+                            "EventGroupId": "EG001",
+                            "EventGroupTitle": "Normal Subject",
+                            "EventGroupDescription": "healthy subject\n\nnormal subject: biomarker in gastric juice, i.e., alpha 1-antitrypsin, CEA\n\ngastric cancer: biomarker in gastric juice, e.g., alpha 1-antitrypsin",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "47",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "47"
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Dr. Ping-I Hsu",
+                    "PointOfContactOrganization": "Kaohsiung Veterans General Hospital",
+                    "PointOfContactEMail": "pihsu@vghks.gov.tw",
+                    "PointOfContactPhone": "+886-7-3422121",
+                    "PointOfContactPhoneExt": "8233"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M3546",
+                            "InterventionBrowseLeafName": "Alpha 1-Antitrypsin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M19895",
+                            "InterventionBrowseLeafName": "Protein C Inhibitor",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

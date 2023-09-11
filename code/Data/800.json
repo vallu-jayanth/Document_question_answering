@@ -1,0 +1,1217 @@
+{
+    "Rank": 800,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04712292",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "854/2020/Oss/AOUBo"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Bologna",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Effects of COVID-19 Pandemic on the Outcomes of Colorectal Cancer",
+                "OfficialTitle": "Effects of the COVID-19 Pandemic on the Diagnosis, Treatment and Outcomes of Patients Affected by Colorectal Cancer Requiring Surgery: Results From a National Multicentre Cohort Study",
+                "Acronym": "COVID-CRC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 8, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 15, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 1, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 13, 2021",
+                "StudyFirstSubmitQCDate": "January 14, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 15, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 10, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 28, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Matteo Rottoli",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Bologna"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Bologna",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been identified as the cause of the Coronavirus disease 19 (COVID-19), which was initially reported in December 2019 in China and has since rapidly spread worldwide.\n\nSince then, the COVID-19 pandemic has caused a detrimental effect of the national health care system, causing a drastic reduction of the screening programs for colorectal cancer and requiring the redistribution of the hospital resources from elective surgery to the care of patients with SARS-Cov_2 infection requiring admission.",
+                "DetailedDescription": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been identified as the cause of the Coronavirus disease 19 (COVID-19), which was initially reported in December 2019 in China and has since rapidly spread worldwide. Italy witnessed a rapid and uncontrolled spread of the infection after March 2020, and a worrisome increasing number of related deaths.\n\nThe need for increased capacity for COVID-19 patients required elective activities to be drastically reduced or canceled. The unprecedented stress on the healthcare system has caused the reduction of the elective surgery and the cancer screening programs during the last 2 years. Studies predicting harmful impact of the COVID-19 pandemic on cancer care have been already published. However, it has not been proved whether the potential delay of screening, diagnosis and treatment could have a measurable effect on patients undergoing surgery for colorectal cancer in the COVID-19 era.\n\nThe aim of the study is therefore to compare the 30-day perioperative and oncologic outcomes between patients undergoing surgery for cancer of the colon and rectum between January 2020 and December 2021 (study group) and those who had surgery for colorectal cancer between January 2018 and December 2019 (Control Group), in order to identify:\n\nany change in the distribution of the histological stage (primary aim)\nany change in the rate of palliative surgery (primary aim)\nany change in the rate of non-radical surgery (R1 or R2 resection) ( primary aim)\nany change in the rate of 30-day postoperative complications (secondary outcome)\n\nAnonimyzed data will be retrospectively collected on a RedCap platform hosted on the servers of the Alma Mater Studiorum University of Bologna. The variables included demographic characteristics, comorbidities, details of the disease at the diagnosis, details of the neoadjuvant therapy, perioperative variables and 30-day postoperative follow-up variables."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Neoplasms Malignant"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "colorectal cancer",
+                        "diagnosis",
+                        "screening",
+                        "COVID-19",
+                        "surgery",
+                        "outcomes"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "15000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Study group",
+                            "ArmGroupDescription": "Patients undergoing surgery for confirmed or suspected colorectal cancer between January 2020 and December 2021",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Surgical procedure for confirmed or suspected colorectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control group",
+                            "ArmGroupDescription": "Patients undergoing surgery for confirmed or suspected colorectal cancer between January 2018 and December 2019",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Surgical procedure for confirmed or suspected colorectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Surgical procedure for confirmed or suspected colorectal cancer",
+                            "InterventionDescription": "Surgical procedure for cancer may include:\n\nany radical surgery (right or left hemicolectomy, rectal resection, abdomino-perineal resection, total colectomy, proctocolectomy, and others depending on the tumor site and other tumor characteristics),\nsurgery for radicalization of cancer polyps previously removed endoscopically\nsurgery for excision of large polyps which are not removable endoscopically\nstaging surgery (laparoscopy or laparotomy), in case of advanced-non operable cancer\npalliative surgery (defined as any surgery with no curative intent)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Control group",
+                                    "Study group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Oncologic stage",
+                            "PrimaryOutcomeDescription": "The stage will be reported at the histological examination according to TNM classification",
+                            "PrimaryOutcomeTimeFrame": "30 days from the surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Palliative surgery",
+                            "PrimaryOutcomeDescription": "Rate of palliative surgery (defined as any procedure which did not have the aim of radically removing the primary cancer, either planned preoperatively in order to reduce the symptoms, or which became necessary during surgery due to unexpected findings",
+                            "PrimaryOutcomeTimeFrame": "at time 0 (surgery)"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of radical surgery",
+                            "PrimaryOutcomeDescription": "Surgery is defined radical according to the absence of cancer (R0) at the surgical margins on the histological specimen",
+                            "PrimaryOutcomeTimeFrame": "30 days from surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Aggressive cancer biology",
+                            "SecondaryOutcomeDescription": "Biology was considered aggressive if any of the following characteristics were found at the histological examination: signet ring cells, mucinous tumor, tumor budding, lymphovascular invasion, perineurial invasion, lymphangitis.",
+                            "SecondaryOutcomeTimeFrame": "30 days from the surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of clinical T4 cancer at the preoperative staging",
+                            "SecondaryOutcomeDescription": "Clinical T4 cancer are defined as those with high suspicious of local invasion of adjacent organs or structures, not necessary confirmed as T4 at the histological examination",
+                            "SecondaryOutcomeTimeFrame": "At time 0 (surgery)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Liver metastases",
+                            "SecondaryOutcomeDescription": "Rate of single/multiple liver metastases",
+                            "SecondaryOutcomeTimeFrame": "At the preoperative staging or at surgery (time 0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Lung metastases",
+                            "SecondaryOutcomeDescription": "Rate of single/multiple lung metastases",
+                            "SecondaryOutcomeTimeFrame": "At the preoperative staging or at surgery (time 0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Associated symptoms",
+                            "SecondaryOutcomeDescription": "Rate of patients who had a diagnosis of cancer without any associated symptoms - as sign of effectiveness of the screening",
+                            "SecondaryOutcomeTimeFrame": "Before surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Emergency surgery",
+                            "SecondaryOutcomeDescription": "rate of operations requiring surgery within 48 hours from the unpredicted admission to hospital",
+                            "SecondaryOutcomeTimeFrame": "surgery (time 0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Postoperative complications",
+                            "SecondaryOutcomeDescription": "Rate of 30-day complications graded according to the Clavien-Dindo Classification",
+                            "SecondaryOutcomeTimeFrame": "30 days from surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Mortality",
+                            "SecondaryOutcomeDescription": "Rate of 30-day deaths",
+                            "SecondaryOutcomeTimeFrame": "30 days from surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAny patient undergoing radical surgery for histologically confirmed diagnosis of cancer located in the colon, the rectum or the anus; or\nany patient undergoing surgery with oncologic intents, for instance: radicalization of endoscopically removed cancerous polyp; radical surgery to remove large, at-risk polyp which are not removable by endoscopy; or\nany patient undergoing planned or unpredicted palliative surgery for a primary cancer localized in the colon, rectum or anus; or\nany patient undergoing a staging procedure (i.e. staging laparoscopy, surgical exploration), which did not result in any radical surgery due to advanced disease, metastasis, etc.\n\nand\n\nage > 18 years\nelective or urgent surgery\n\nExclusion Criteria:\n\nColorectal cancer recurring after previous surgery;\nCancer originating from other organs than the colon, the rectum and the anus;\nLack of significant histological details (expect when the cancer was not removed)\nlack of 30-day follow-up",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "The study will include all adult patients undergoing elective or urgent surgery for proven or suspected colorectal within the study periods",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Matteo Rottoli, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+390512145262",
+                            "CentralContactEMail": "matteo.rottoli2@unibo.it"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Matteo Rottoli, MD",
+                            "OverallOfficialAffiliation": "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Alma Mater Studiorum University of Bologna",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Rho Memorial Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rho",
+                            "LocationState": "Milan",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gianluca Sampietro, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gianluca.sampietro@unimi.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Humanitas Research Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rozzano",
+                            "LocationState": "Milan",
+                            "LocationZip": "40100",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Antonino Spinelli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "antonino.spinelli@humanitas.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AOU Policlinico di Bari \"M. Rubino\"",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bari",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gennaro Martines, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gerrymartines@virgilio.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Policlinico di Bari",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bari",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Leonardo Vincenti, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "dr.leonardo.vincenti@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Humanitas Gavazzeni Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bergamo",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giovanni Dapri, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "giovanni@dapri.net"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Policlinico San Marco",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bergamo",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Stefano Olmi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "stefano.olmi@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Maggiore Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bologna",
+                            "LocationZip": "40100",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Elio Jovine, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "elio.jovine@ausl.bologna.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Fondazione Poliambulanza",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Brescia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Moh'd Abu Hilal, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "mohd.abuhilal@poliambulanza.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Spedali Civili",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Brescia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Nazario Portolani, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "nazario.portolani@unibs.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Spedali Civili",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Brescia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giusto Pignata, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "giusto.pignata@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Santissima Trinit\u00e0 Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cagliari",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Nicola Cillara, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "ncillara@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Vittorio Emanuele III Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Carate Brianza",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Letizia Laface, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "lafaceletizia@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "San Paolo Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Civitavecchia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pasquale Lepiane, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "pasquale.lepiane@aslroma4.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUSL Romagna Ravenna-Faenza",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Faenza",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giampaolo Ugolini, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "g.ugolini@unibo.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "San Giovanni di Dio Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Firenze",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giuseppe Canonico, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "giuseppe.canonico@uslcentro.toscana.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Gardone Val Trompia Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Gardone Val Trompia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Maurizio Ronconi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "maurizio.ronconi@asst-spedalicivili.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "ASST FBF Sacco Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milan",
+                            "LocationZip": "20100",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Piergiorgio Danelli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "piergiorgio.danelli@unimi.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "San Raffaele Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milan",
+                            "LocationZip": "20100",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Riccardo Rosati, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "rosati.riccardo@hsr.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "ASST Santi Paolo e Carlo Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milan",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Enrico Opocher, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "enrico.opocher@unimi.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico - Milano",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milan",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Luigi Boni, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "luigi.boni@unimi.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Istituto Nazionale dei Tumori",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Milan",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Maurizio Cosimelli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "mcosimelli@libero.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Mirano Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Mirano",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Corrado Da Lio, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "corrado.dalio@aulss3.veneto.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AORN Cardarelli",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Napoli",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Antonio Castaldi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "antonio.castaldi@icloud.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Universit\u00e0 della Campania Luigi Vanvitelli",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Napoli",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gianluca Pellino, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gianluca.pellino@unicampania.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Padova University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Padova",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Salvatore Pucciarelli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "puc@unipd.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Veneto Institute of Oncology IOV-IRCCS",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Padova",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pierluigi Pilati, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "pierluigi.pilati@iov.veneto.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Azienda Ospedaliera Ospedali Riuniti Villa Sofia-Cervello",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Palermo",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marco V Marino, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Marco.Vito.marino@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AOU Parma",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Parma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Mario Giuffrida, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "mario.giuffrida4@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "San Matteo Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Pavia",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Pietrabissa, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "andrea.pietrabissa@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Pederzoli Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Peschiera Del Garda",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Harmony Impellizzeri, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "harmony85@hotmail.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Azienda Sanitaria Fiuli Occidentale",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Pordenone",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Stefano MM Basso, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "drsteba@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ceccarini Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Riccione",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Lucchi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "andrea.lucchi@auslromagna.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Infermi Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rimini",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gianluca Garulli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gianluca.garulli@auslromagna.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Campus Biomedico",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gabriella T Capolupo, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "g.capolupo@unicampus.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Fondazione Policlinico Roma Tor Vergata",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giuseppe Sica, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "sigisica@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Carlo Ratto, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "carloratto@tiscali.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "San Filippo Neri Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Biagio Picardi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "biagiopicardi@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sant'Eugenio Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Massimo Carlini, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "massimo.carlini@aslroma2.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "UOSD Tor Vergata",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Roma",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Michela Campanelli, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "michelacampanelli@live.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AOU Sassari",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sassari",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alberto Porcu, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "alberto.porcu.1@gmail.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Regional Hospital Treviso",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Treviso",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ugo Grossi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "ugo.grossi@aulss2.veneto.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University Hospital of Trieste",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Trieste",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Nicol\u00f2 De Manzini, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "ndemanzini@units.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AOU Citt\u00e0 della Salute e della Scienza",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Turin",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Mario Morino, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "mario.morino@unito.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Mauriziano Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Turin",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alessandro Ferrero, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "aferrero@mauriziano.it"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "ASST Vimercate",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Vimercate",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alice Frontali, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "frontalice@gmail.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "33097915",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Greenwood E, Swanton C. Consequences of COVID-19 for cancer care - a CRUK perspective. Nat Rev Clin Oncol. 2021 Jan;18(1):3-4. doi: 10.1038/s41571-020-00446-0."
+                        },
+                        {
+                            "ReferencePMID": "32986516",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Jazieh AR, Akbulut H, Curigliano G, Rogado A, Alsharm AA, Razis ED, Mula-Hussain L, Errihani H, Khattak A, De Guzman RB, Mathias C, Alkaiyat MOF, Jradi H, Rolfo C; International Research Network on COVID-19 Impact on Cancer Care. Impact of the COVID-19 Pandemic on Cancer Care: A Global Collaborative Study. JCO Glob Oncol. 2020 Sep;6:1428-1438. doi: 10.1200/GO.20.00351."
+                        },
+                        {
+                            "ReferencePMID": "32675512",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Torzilli G, Vigano L, Galvanin J, Castoro C, Quagliuolo V, Spinelli A, Zerbi A, Donadon M, Montorsi M; COVID-SURGE-ITA group. A Snapshot of Elective Oncological Surgery in Italy During COVID-19 Emergency: Pearls, Pitfalls, and Perspectives. Ann Surg. 2020 Aug;272(2):e112-e117. doi: 10.1097/SLA.0000000000004081."
+                        },
+                        {
+                            "ReferencePMID": "33339569",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Mitchell EP. Declines in Cancer Screening During COVID-19 Pandemic. J Natl Med Assoc. 2020 Dec;112(6):563-564. doi: 10.1016/j.jnma.2020.12.004. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "32203977",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. 2020 May 12;323(18):1775-1776. doi: 10.1001/jama.2020.4683. No abstract available. Erratum In: JAMA. 2020 Apr 28;323(16):1619."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000086382",
+                            "ConditionMeshTerm": "COVID-19"
+                        },
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000011024",
+                            "ConditionAncestorTerm": "Pneumonia, Viral"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011014",
+                            "ConditionAncestorTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018352",
+                            "ConditionAncestorTerm": "Coronavirus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003333",
+                            "ConditionAncestorTerm": "Coronaviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030341",
+                            "ConditionAncestorTerm": "Nidovirales Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012327",
+                            "ConditionAncestorTerm": "RNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2562",
+                            "ConditionBrowseLeafName": "COVID-19",
+                            "ConditionBrowseLeafAsFound": "COVID-19 Pandemic",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13604",
+                            "ConditionBrowseLeafName": "Pneumonia, Viral",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20180",
+                            "ConditionBrowseLeafName": "Coronavirus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6245",
+                            "ConditionBrowseLeafName": "Coronaviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23375",
+                            "ConditionBrowseLeafName": "Nidovirales Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14839",
+                            "ConditionBrowseLeafName": "RNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

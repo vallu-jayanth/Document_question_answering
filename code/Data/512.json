@@ -1,0 +1,352 @@
+{
+    "Rank": 512,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04464668",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MCC-20560"
+                },
+                "Organization": {
+                    "OrgFullName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Colorectal Cancer Awareness, Research and Education and Screening - Rural Expansion, Access and Capacity for Health",
+                "OfficialTitle": "Colorectal Cancer Awareness, Research and Education and Screening - Rural Expansion, Access and Capacity for Health",
+                "Acronym": "CARES-REACH"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 25, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 2, 2020",
+                "StudyFirstSubmitQCDate": "July 8, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 9, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 12, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 14, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study is to assess the impact of the CARES-REACH intervention on colorectal cancer screening rates.",
+                "DetailedDescription": "This study will not accrue individual patients. Instead, the investigators are collecting process data from health care providers to determine the procedures that impact or help to increase colorectal cancer screening rates."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Fecal Immunochemical Test",
+                        "F.I.T."
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "49",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Wave 1 Only: Clinics using CARES Intervention",
+                            "ArmGroupDescription": "Based on a stratified (rural vs urban) procedure, investigators will randomly select 7 clinics to implement the Colorectal Cancer Awareness, Research, Education & Screening (CARES) intervention.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Provider Tools",
+                                    "Behavioral: Provider surveys"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Wave 1 Only: Control Clinics",
+                            "ArmGroupDescription": "Based on a stratified (rural vs urban) procedure, investigators will randomly select 7 clinics as control (usual care) clinics."
+                        },
+                        {
+                            "ArmGroupLabel": "All Clinics",
+                            "ArmGroupDescription": "For Wave 2, the 7 clinics in the control group will roll out as intervention clinic, thus, all 14 clinics will be exposed to the intervention by year 2.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Provider Tools",
+                                    "Behavioral: Provider surveys"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Provider Tools",
+                            "InterventionDescription": "Providers will be trained to use Electronic Medical Record (EMR) tools and prompts, and an organization wide cancer control champion will be trained to motivate providers and navigate patients.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "All Clinics",
+                                    "Wave 1 Only: Clinics using CARES Intervention"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Provider surveys",
+                            "InterventionDescription": "Remote/electronic data collection surveys will be conducted with clinic institution leaders, cancer control champions, and providers from various clinic locations to solicit feedback about implementation processes at three time points (baseline, mid-point and end of study implementation)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "All Clinics",
+                                    "Wave 1 Only: Clinics using CARES Intervention"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Change in Colorectal Cancer Screening Rates - Initial FIT",
+                            "PrimaryOutcomeDescription": "Percentage of patients who complete initial Fecal Immunochemical Test (FIT)",
+                            "PrimaryOutcomeTimeFrame": "Years 1-5"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change in Colorectal Cancer Screening Rates - Repeat FIT",
+                            "PrimaryOutcomeDescription": "Percentage of patients who complete a repeat Fecal Immunochemical Test (FIT)",
+                            "PrimaryOutcomeTimeFrame": "Years 1-5"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Differences in Screening Rates",
+                            "SecondaryOutcomeDescription": "Screening rate differences to determine how variables such as clinic setting (rural vs urban), population characteristics such as nativity (foreign born status), language preference, education, income, health insurance, etc. differentially impact annual clinic Colorectal Cancer (CRC) screening rates.",
+                            "SecondaryOutcomeTimeFrame": "Years 2-5"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nStaff and providers working in a clinic within one of the two participating systems\nInvolved in adult patient care\n\nExclusion Criteria:\n\nStaff and providers who are not engaged in directing or decisions related to colo-rectal cancer screening",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Staff and providers from the two participating Federally Qualified Health Care systems - Central Florida Health Centers and Manatee County Rural Health Services.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Clement K Gwede, PhD MPH RN FAAN",
+                            "OverallOfficialAffiliation": "Moffitt Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Moffitt Cancer Center",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33612",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

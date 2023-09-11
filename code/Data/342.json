@@ -1,0 +1,377 @@
+{
+    "Rank": 342,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04153526",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "LUCID"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "14/WM/1072",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "HRA"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Cambridge University Hospitals NHS Foundation Trust",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "LUCID - LUng Cancer CIrculating Tumour Dna Study",
+                "OfficialTitle": "LUCID - LUng Cancer CIrculating Tumour Dna Study",
+                "Acronym": "LUCID"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2015"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 21, 2015",
+                "StudyFirstSubmitQCDate": "November 4, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 6, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 4, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 6, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "CCTU- Cancer Theme",
+                    "ResponsiblePartyInvestigatorTitle": "LUCID Trial Coordinator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Cambridge University Hospitals NHS Foundation Trust"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "CCTU- Cancer Theme",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Cambridge University Hospitals NHS Foundation Trust",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "University of Cambridge",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective observational pilot study to investigate levels of circulating tumour DNA (ctDNA) in plasma from patients with stage I to IIIB non-small cell lung cancer (NSCLC) who will undergo treatment with curative intent.",
+                "DetailedDescription": "Taking as reference tumour-specific somatic genetic alterations identified within individual cancer biopsies from patients, recent advances in genomic and next generation sequencing technologies now provide the opportunity to investigate whether each patient's tumour-specific DNA can be reliably detected within their plasma. This offers the possibility to test a patient's response following treatment with curative intent. This technology has already been used to detect ctDNA in metastatic NSCLC, but not yet in early stage disease.\n\nThe primary objective of this pilot study is to test the feasibility of detecting serial ctDNA levels in stage I to IIIB NSCLC patients who undergo treatment with curative intent. As secondary endpoints, this study aims to measure ctDNA levels and characteristics, and to correlate them with clinical features (such as burden of disease and treatment response) in order to test the value of ctDNA as a diagnostic, prognostic and predictive biomarker for patients with NSCLC.\n\n100 patients planned for curative treatment (surgery or radical radiotherapy +/- chemotherapy) will be recruited."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Non Small Cell Lung Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Tumour samples & normal tissue samples Blood samples CtDNA isolated from blood sample"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Surgical Cohort",
+                            "ArmGroupDescription": "Surgical Cohort: Patients offered surgery, with or without adjuvant chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Blood sampling",
+                                    "Procedure: Surplus Tumour Tissue sample collection from surgery",
+                                    "Other: Collection or archival tumour tissue (If available)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Non Surgical Cohort",
+                            "ArmGroupDescription": "Non-Surgical Cohort: Stage I/II/IIIB patients undergoing radical radiotherapy (with or without chemotherapy) or stereotactic ablative radiotherapy (SABR).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Blood sampling",
+                                    "Other: Collection or archival tumour tissue (If available)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Blood sampling",
+                            "InterventionDescription": "Blood samples will be obtained during routine clinical visits. Ideally, two 9mL blood samples (or equivalent volume) will be collected into EDTA or other appropriate blood collection tube at each time point except at baseline, where three EDTA 9mL tubes and one of 2.6mL (for study of whole blood) will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Non Surgical Cohort",
+                                    "Surgical Cohort"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Surplus Tumour Tissue sample collection from surgery",
+                            "InterventionDescription": "In surgical patients, lung tumour samples and normal lung tissue will be obtained from surplus tissue removed at the time of surgery. No extra procedures (biopsies or surgeries) are requested for the study.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Surgical Cohort"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Collection or archival tumour tissue (If available)",
+                            "InterventionDescription": "Where available surplus tumour and normal tissue from archival tissue will be collected for analysis.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Non Surgical Cohort",
+                                    "Surgical Cohort"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "ctDNA detection rate in all patients",
+                            "PrimaryOutcomeDescription": "The primary endpoint is the ctDNA detection rate in the baseline blood sample of early stage NSCLC patients undergoing treatment with curative intent.",
+                            "PrimaryOutcomeTimeFrame": "Baseline blood sample"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "ctDNA baseline levels, genetic alterations and other features in all patients",
+                            "SecondaryOutcomeDescription": "To quantify the baseline levels, genetic alterations and other features of ctDNA in patients with NSCLC undergoing treatment with curative intent",
+                            "SecondaryOutcomeTimeFrame": "Baseline blood sample"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "ctDNA levels, genetic alterations and other characteristics with clinical features in all patients",
+                            "SecondaryOutcomeDescription": "To correlate ctDNA levels (fraction and/or absolute amplifiable copies), genetic alterations and other ctDNA characteristics with clinical features such as response to treatment, burden of disease (as evaluated by, e.g. radiology, pathology or performance status), disease relapse and future outcomes.",
+                            "SecondaryOutcomeTimeFrame": "Blood samples will be taken at routine clinic visits through study completion, an average of 3 years."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Comparison of ctDNA levels and mutation profile at relapse to that obtained at earlier time points",
+                            "SecondaryOutcomeDescription": "To compare the ctDNA levels and mutation profile at relapse to that obtained at earlier time points",
+                            "SecondaryOutcomeTimeFrame": "Blood samples will be taken at relapse through study completion, an average of 3 years."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlate the genetic alterations found in different regions of each tumour with histological features and genetic alterations in the ctDNA",
+                            "SecondaryOutcomeDescription": "To correlate the genetic alterations found in different regions of each tumour with histological features and genetic alterations in the ctDNA",
+                            "SecondaryOutcomeTimeFrame": "Lung tumour tissue will be collected from surgery through end of study, an average of 3 years."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Test ctDNA levels, genetic alterations or other characteristics during and after treatment with radical radiotherapy",
+                            "SecondaryOutcomeDescription": "To test ctDNA levels, genetic alterations or other characteristics, before, during and after treatment with radical radiotherapy (with or without chemotherapy) and to correlate them with clinical features, e.g. response to treatment and clinical outcomes",
+                            "SecondaryOutcomeTimeFrame": "Blood samples will be taken every week of radiotherapy and at follow-up clinic visits, approximately every 3 months for 9 months after the end of treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Establish a library of samples for future analysis",
+                            "SecondaryOutcomeDescription": "To establish a library of samples for future analysis using more advanced technology, i.e. to achieve a more detailed retrospective analysis of ctDNA levels and genomic alterations/features in relation to clinical outcomes.",
+                            "SecondaryOutcomeTimeFrame": "Blood samples will be taken at baseline, during treatment and at follow-up clinic visits, approximately every 3 months for 9 months after treatment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge \u2265 18 years old at the time of consent\nMale or Female\nPatients with radiologically and histologically/cytologically confirmed stages I to IIIB NSCLC who are planning to undergo radical treatment (surgery or radical radiotherapy) with curative intent\nECOG Performance Status 0-2\nAble to give informed consent\nAble to give blood\n\nExclusion Criteria:\n\nUnable to receive treatment with curative intent due to co-morbidity or personal choice\n\nPatients participating in other clinical studies are not precluded from entering the study; however they must meet all the eligibility criteria for this study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Non small cell lung cancer patients planned for treatment with curative intent",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Cambridge Clinical Trials Unit - Cancer Theme",
+                            "CentralContactRole": "Contact"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nitzan Rosenfeld, PhD",
+                            "OverallOfficialAffiliation": "CRUK-CI",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cambridge Cancer Trials Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cambridge",
+                            "LocationState": "Cambridgeshire",
+                            "LocationZip": "CB20QQ",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Early Phase Team, Cambridge Cancer Trials Centre",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "cctc@addenbrookes.nhs.uk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

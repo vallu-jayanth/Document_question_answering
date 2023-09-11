@@ -1,0 +1,397 @@
+{
+    "Rank": 703,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04353882",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MOROCCO-II"
+                },
+                "Organization": {
+                    "OrgFullName": "Hospital Universitario La Fe",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Mu Opioid Receptor 1 Expression and Activation Patterns in Colorectal Cancer",
+                "OfficialTitle": "Evaluation of the Difference in Expression of the Mu Type 1 Opioid Receptor and of the Markers of Its Activation (Cyclic Adenosine Monophosphate and Protein Kinase A) in Colorectal Cancer. Case-control Study in Patients With Tumor Recurrence Versus Disease-free Patients at 5 Years."
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2020",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 1, 2021",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 1, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "April 16, 2020",
+                "StudyFirstSubmitQCDate": "April 16, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 21, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 17, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 19, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Oscar Diaz-Cambronero",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator of Anesthesiology",
+                    "ResponsiblePartyInvestigatorAffiliation": "Hospital Universitario La Fe"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hospital Universitario La Fe",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Observational case-control study in a retrospective cohort of patients with stage II or III colorectal cancer undergoing scheduled surgery.",
+                "DetailedDescription": "Observational case-control study in a retrospective cohort of patients with stage II or III colorectal cancer undergoing scheduled surgery. Period January 2010-December 2014. Patients must have had at least 5 years of follow-up to define disease-free survival. From the cohort of patients previously studied in our center by immunohistochemistry, 31 we will select 10 cases with recurrence by random sampling and we will match 10 controls by leveling the propensity score (propensity score matching)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Surgery for Stage II / III Primary Colorectal Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "patients with tumor recurrence",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Assess the difference in MOR-1 expression between healthy and tumor tissue"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "patients with-out tumor recurrence",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Assess the difference in MOR-1 expression between healthy and tumor tissue"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Assess the difference in MOR-1 expression between healthy and tumor tissue",
+                            "InterventionDescription": "Assess the difference in the quantitative expression of MOR-1 (by means of RT-qPCR) between healthy tissue and tumor tissue, in patients with stage II and III colorectal cancer undergoing scheduled surgery.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "patients with tumor recurrence",
+                                    "patients with-out tumor recurrence"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "MOR-1 expression by polymerase chain reaction (RT-qPCR) in tumor tissue and adjacent healthy tissue.",
+                            "PrimaryOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Cancer-free survival 5 years after surgery (disease-free survival-DFS).",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Degree of MOR-1 activation measured by immunohistochemistry through cAMP and PKA levels.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "MOR-1 expression by immunohistochemistry in tumor tissue and adjacent healthy tissue.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Use of halogenated vs intravenous hypnotic agent",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Carcinoembryonic antigen",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Cancer antigen",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Neoadjuvant or adjuvant chemotherapy or radiation therapy",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Surgery time",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Surgery date",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Hospital discharge",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Surgery complications",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Type of surgery",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "ASA test",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Concomitant Diseases",
+                            "OtherOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients over 18 years of age.\nColorectal surgery scheduled between January 2010 - December 2014.\nStage II or III colon or rectum neoplasm (T3 / T4 N + M0).\n\nExclusion Criteria:\n\nNeoplasia of colon or rectum in Stage I or Stage IV.\nNon-oncological colorectal surgery.\nUrgent surgery",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients undergoing scheduled colorectal surgery for stage II and III primary colorectal cancer during the period 01/01/2010 and 12/31/2014.",
+                "SamplingMethod": "Non-Probability Sample"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M3723",
+                            "InterventionBrowseLeafName": "Analgesics, Opioid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3285",
+                            "InterventionBrowseLeafName": "Adenosine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Analg",
+                            "InterventionBrowseBranchName": "Analgesics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "CNSDep",
+                            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "AnArAg",
+                            "InterventionBrowseBranchName": "Anti-Arrhythmia Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "VaDiAg",
+                            "InterventionBrowseBranchName": "Vasodilator Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

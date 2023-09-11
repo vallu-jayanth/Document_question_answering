@@ -1,0 +1,339 @@
+{
+    "Rank": 507,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05644457",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CCR5397"
+                },
+                "Organization": {
+                    "OrgFullName": "Royal Marsden NHS Foundation Trust",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Exploratory Study of Early Biomarkers Allowing Dynamic Assessment of Response to Treatment in Cancers of the Head and Neck",
+                "OfficialTitle": "Exploratory Study of Early Biomarkers Allowing Dynamic Assessment of Response to Treatment in Cancers of the Head and Neck",
+                "Acronym": "DART"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 9, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 23, 2022",
+                "StudyFirstSubmitQCDate": "December 6, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 9, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 6, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 9, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Royal Marsden NHS Foundation Trust",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "DART is an exploratory molecular analysis study to assess potential early biomarkers of treatment response in squamous cell carcinoma of the head and neck (HNSCC)",
+                "DetailedDescription": "If cancer that starts in the head or neck is not suitable for surgery or radiotherapy, then it cannot be cured. Unfortunately, people in this situation have a short life expectancy, with half dying within 12 months. There are treatments available that have helped people in this situation live longer, most recently drugs that stimulate the body's own immune system to attack the cancer, known as 'immunotherapy'. Some people do very well on these treatments, living many years, while the same treatments offer no benefit to others - it is not known why. This study is looking at collecting samples of a person's cancer, along with other body fluids, particularly blood and saliva, to see if the investigators can track changes in blood and saliva that happen in a person's cancer while they are receiving treatment. Additionally, samples of the cancer will be used to see if they can be grown in the laboratory to test growth behaviour and how well different treatments work.\n\nThe investigators will ask people being treated for incurable cancer that started in the head and neck for permission to collect their blood and saliva, along with samples of their cancer tissue, while they are having treatment. Nearly all patients will require a sample of their cancer tissue taken with a needle (a 'biopsy') anyway, and tissue samples can be taken as part of this process. Similarly, the safe administration of cancer drugs requires blood tests before every course of treatment, and research bloods can be taken from the same blood draw. A small number of people will be asked whether they give their permission for an extra biopsy of their cancer to allow further comparisons in the laboratory."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Head and Neck Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Longitudinal biological samples including blood, saliva, stool and tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "50",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients receiving systemic therapies for cancers of the head and neck",
+                            "ArmGroupDescription": "Patients undergoing systemic therapy for recurrent, metastatic, or locally advanced cancer of the head and neck not suitable for treatment with curative intent. A biological research study involving the collection of blood, tumour tissue, saliva, and other body fluids routinely examined during cancer care (e.g. cerebrospinal fluid (CSF), ascites, urine, stool or pleural fluids).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Circulating tumour DNA dynamics"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Circulating tumour DNA dynamics",
+                            "InterventionDescription": "Circulating tumour DNA (ctDNA) can be identified in patients with a wide variety of cancers and has been shown to allow early prediction of disease relapse after treatment with curative intent in HNSCC.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients receiving systemic therapies for cancers of the head and neck"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The level of circulating tumour DNA pre-treatment will be descriptively compared to the levels detected at subsequent time points",
+                            "PrimaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To collect longitudinal biological samples, including blood, saliva and tissue, for molecular profiling",
+                            "SecondaryOutcomeDescription": "Molecular profiling to include extraction of DNA for sequencing, RNA for gene expression analysis, expansion of peripheral blood mononuclear cells (PBMCs), and proteins for proteomic studies",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To collect tumour tissue to facilitate molecular analysis of recurrent or metastatic cancers of the head and neck.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To isolate live tumour and immune cells for studies of therapy resistance and biology in cancers of the head and neck.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Retrieval and analysis of archival primary tissue blocks for comparison with metastatic tumour sites.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To correlate assays with clinicopathological data.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, expected duration of 5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge 18 years or older\nPatients with histologically confirmed cancer of the head and neck with evidence of recurrent or locally advanced cancer not suitable for treatment with curative intent, or metastatic disease.\nReceiving immunotherapy\nAbility to give informed consent for biological sample collection.\n\nExclusion Criteria:\n\nUnable to undergo serial sample collection\nPregnancy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients undergoing systemic therapy for recurrent, metastatic, or locally advanced cancer of the head and neck not suitable for treatment with curative intent.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Ben O'Leary",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "02071535337",
+                            "CentralContactEMail": "ben.oleary@icr.ac.uk"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The Royal Marsden Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ben O'Leary",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "02071535337",
+                                        "LocationContactEMail": "ben.oleary@icr.ac.uk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "31679945",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Burtness B, Harrington KJ, Greil R, Soulieres D, Tahara M, de Castro G Jr, Psyrri A, Baste N, Neupane P, Bratland A, Fuereder T, Hughes BGM, Mesia R, Ngamphaiboon N, Rordorf T, Wan Ishak WZ, Hong RL, Gonzalez Mendoza R, Roy A, Zhang Y, Gumuscu B, Cheng JD, Jin F, Rischin D; KEYNOTE-048 Investigators. Pembrolizumab alone or with chemotherapy versus cetuximab with chemotherapy for recurrent or metastatic squamous cell carcinoma of the head and neck (KEYNOTE-048): a randomised, open-label, phase 3 study. Lancet. 2019 Nov 23;394(10212):1915-1928. doi: 10.1016/S0140-6736(19)32591-7. Epub 2019 Nov 1. Erratum In: Lancet. 2020 Jan 25;395(10220):272. Lancet. 2020 Feb 22;395(10224):564. Lancet. 2021 Jun 12;397(10291):2252."
+                        },
+                        {
+                            "ReferencePMID": "27718784",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ferris RL, Blumenschein G Jr, Fayette J, Guigay J, Colevas AD, Licitra L, Harrington K, Kasper S, Vokes EE, Even C, Worden F, Saba NF, Iglesias Docampo LC, Haddad R, Rordorf T, Kiyota N, Tahara M, Monga M, Lynch M, Geese WJ, Kopit J, Shaw JW, Gillison ML. Nivolumab for Recurrent Squamous-Cell Carcinoma of the Head and Neck. N Engl J Med. 2016 Nov 10;375(19):1856-1867. doi: 10.1056/NEJMoa1602252. Epub 2016 Oct 8."
+                        },
+                        {
+                            "ReferencePMID": "26997480",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hugo W, Zaretsky JM, Sun L, Song C, Moreno BH, Hu-Lieskovan S, Berent-Maoz B, Pang J, Chmielowski B, Cherry G, Seja E, Lomeli S, Kong X, Kelley MC, Sosman JA, Johnson DB, Ribas A, Lo RS. Genomic and Transcriptomic Features of Response to Anti-PD-1 Therapy in Metastatic Melanoma. Cell. 2016 Mar 24;165(1):35-44. doi: 10.1016/j.cell.2016.02.065. Epub 2016 Mar 17. Erratum In: Cell. 2017 Jan 26;168(3):542."
+                        },
+                        {
+                            "ReferencePMID": "26940869",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McGranahan N, Furness AJ, Rosenthal R, Ramskov S, Lyngaa R, Saini SK, Jamal-Hanjani M, Wilson GA, Birkbak NJ, Hiley CT, Watkins TB, Shafi S, Murugaesu N, Mitter R, Akarca AU, Linares J, Marafioti T, Henry JY, Van Allen EM, Miao D, Schilling B, Schadendorf D, Garraway LA, Makarov V, Rizvi NA, Snyder A, Hellmann MD, Merghoub T, Wolchok JD, Shukla SA, Wu CJ, Peggs KS, Chan TA, Hadrup SR, Quezada SA, Swanton C. Clonal neoantigens elicit T cell immunoreactivity and sensitivity to immune checkpoint blockade. Science. 2016 Mar 25;351(6280):1463-9. doi: 10.1126/science.aaf1490. Epub 2016 Mar 3."
+                        },
+                        {
+                            "ReferencePMID": "29467336",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hanna GJ, Lizotte P, Cavanaugh M, Kuo FC, Shivdasani P, Frieden A, Chau NG, Schoenfeld JD, Lorch JH, Uppaluri R, MacConaill LE, Haddad RI. Frameshift events predict anti-PD-1/L1 response in head and neck cancer. JCI Insight. 2018 Feb 22;3(4):e98811. doi: 10.1172/jci.insight.98811. eCollection 2018 Feb 22."
+                        },
+                        {
+                            "ReferencePMID": "29033130",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Riaz N, Havel JJ, Makarov V, Desrichard A, Urba WJ, Sims JS, Hodi FS, Martin-Algarra S, Mandal R, Sharfman WH, Bhatia S, Hwu WJ, Gajewski TF, Slingluff CL Jr, Chowell D, Kendall SM, Chang H, Shah R, Kuo F, Morris LGT, Sidhom JW, Schneck JP, Horak CE, Weinhold N, Chan TA. Tumor and Microenvironment Evolution during Immunotherapy with Nivolumab. Cell. 2017 Nov 2;171(4):934-949.e16. doi: 10.1016/j.cell.2017.09.028. Epub 2017 Oct 12."
+                        },
+                        {
+                            "ReferencePMID": "30755690",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Havel JJ, Chowell D, Chan TA. The evolving landscape of biomarkers for checkpoint inhibitor immunotherapy. Nat Rev Cancer. 2019 Mar;19(3):133-150. doi: 10.1038/s41568-019-0116-x."
+                        },
+                        {
+                            "ReferencePMID": "31088830",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chera BS, Kumar S, Beaty BT, Marron D, Jefferys S, Green R, Goldman EC, Amdur R, Sheets N, Dagan R, Hayes DN, Weiss J, Grilley-Olson JE, Zanation A, Hackman T, Blumberg JM, Patel S, Weissler M, Tan XM, Parker JS, Mendenhall W, Gupta GP. Rapid Clearance Profile of Plasma Circulating Tumor HPV Type 16 DNA during Chemoradiotherapy Correlates with Disease Control in HPV-Associated Oropharyngeal Cancer. Clin Cancer Res. 2019 Aug 1;25(15):4682-4690. doi: 10.1158/1078-0432.CCR-19-0211. Epub 2019 May 14."
+                        },
+                        {
+                            "ReferencePMID": "29497091",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "O'Leary B, Hrebien S, Morden JP, Beaney M, Fribbens C, Huang X, Liu Y, Bartlett CH, Koehler M, Cristofanilli M, Garcia-Murillas I, Bliss JM, Turner NC. Early circulating tumor DNA dynamics and clonal selection with palbociclib and fulvestrant for breast cancer. Nat Commun. 2018 Mar 1;9(1):896. doi: 10.1038/s41467-018-03215-x."
+                        },
+                        {
+                            "ReferencePMID": "31300034",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Forschner A, Battke F, Hadaschik D, Schulze M, Weissgraeber S, Han CT, Kopp M, Frick M, Klumpp B, Tietze N, Amaral T, Martus P, Sinnberg T, Eigentler T, Keim U, Garbe C, Docker D, Biskup S. Tumor mutation burden and circulating tumor DNA in combined CTLA-4 and PD-1 antibody therapy in metastatic melanoma - results of a prospective biomarker study. J Immunother Cancer. 2019 Jul 12;7(1):180. doi: 10.1186/s40425-019-0659-0."
+                        },
+                        {
+                            "ReferencePMID": "30541742",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Anagnostou V, Forde PM, White JR, Niknafs N, Hruban C, Naidoo J, Marrone K, Sivakumar IKA, Bruhm DC, Rosner S, Phallen J, Leal A, Adleff V, Smith KN, Cottrell TR, Rhymee L, Palsgrove DN, Hann CL, Levy B, Feliciano J, Georgiades C, Verde F, Illei P, Li QK, Gabrielson E, Brock MV, Isbell JM, Sauter JL, Taube J, Scharpf RB, Karchin R, Pardoll DM, Chaft JE, Hellmann MD, Brahmer JR, Velculescu VE. Dynamics of Tumor and Immune Responses during Immune Checkpoint Blockade in Non-Small Cell Lung Cancer. Cancer Res. 2019 Mar 15;79(6):1214-1225. doi: 10.1158/0008-5472.CAN-18-1127. Epub 2018 Dec 12."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol",
+                            "LargeDocDate": "August 19, 2022",
+                            "LargeDocUploadDate": "11/23/2022 05:22",
+                            "LargeDocFilename": "Prot_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000006258",
+                            "ConditionMeshTerm": "Head and Neck Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9038",
+                            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Cancer of the Head and Neck",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

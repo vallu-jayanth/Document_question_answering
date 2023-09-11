@@ -1,0 +1,510 @@
+{
+    "Rank": 412,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00587886",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "01-119"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "CA83918"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Estrogen, Diet, Genetics and Endometrial Cancer",
+                "OfficialTitle": "Estrogen, Diet, Genetics and Endometrial Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 25, 2001",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "December 24, 2007",
+                "StudyFirstSubmitQCDate": "December 24, 2007",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 8, 2008",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "January 23, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 25, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        },
+                        {
+                            "CollaboratorName": "Rutgers Cancer Institute of New Jersey",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Municipal Institute of Medical Research",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Department of Health and Human Services",
+                            "CollaboratorClass": "FED"
+                        },
+                        {
+                            "CollaboratorName": "Penn State University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to see how people's diets, other aspects of their lifestyles, and their individual genetic makeup affect their chances of getting endometrial cancer (cancer of the uterus).\n\nThis survey will enroll several hundred women who have or have had endometrial cancer and several hundred who do not. We will compare these two groups of women to see what factors may lead to endometrial cancer.",
+                "DetailedDescription": "We will conduct a population-based case-control study in six counties of New Jersey. Cases will be women with newly-diagnosed endometrial or ovarian cancer. Controls will be matched by 5-year age groups and selected by random digit dialing (for those under 65), from Centers for Medicare and Medicaid Services (CMS) files (for those 65 and over), or from neighborhood sampling. Controls will not have had a hysterectomy.\n\nThere will be 400 cases with endometrioid tumors, 60 with serous tumors or clear cell tumors, 300 with ovarian cancer, and 400 controls. In addition, there will be a small group of black women included from MSKCC.\n\nWe will interview participants about known and potential risk factors for endometrial and ovarian cancer and obtain information on diet. We will obtain DNA for genetic analysis from buccal specimens collected using a mouthwash rinse method. We will use logistic regression to determine odds ratios for disease with various exposures. For endometrial cancer, we will examine the association of risk with genotypes in strata defined by body mass index and dietary fat consumption."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer",
+                        "Endometrial Cancer",
+                        "Ovarian Cancer",
+                        "Corpus Uteri",
+                        "Endometrium"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer",
+                        "Endometrial cancer",
+                        "Ovarian cancer",
+                        "Corpus Uteri",
+                        "Endometrium"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Buccal specimen"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1315",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cases",
+                            "ArmGroupDescription": "Cases will be women with newly diagnosed endometrial or ovarian cancer who are residents of six counties in New Jersey.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Questionnaire"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Controls",
+                            "ArmGroupDescription": "Controls will be selected from the general population in those counties by use of random digit dialing for those under 65 years of age, from Centers for Medicare and Medicaid Services (CMS) lists for those aged 65 years and over, and from neighborhood sampling.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Questionnaire",
+                            "InterventionDescription": "The main questionnaire will cover established risk and protective factors for endometrial and ovarian cancer, as well as other possible risk factors. This includes: menstrual history; pregnancy history; use of hormones for menopausal symptoms or other reasons; smoking history; height and weight; use of oral contraceptives and other methods of birth control; family history of cancer; medical history; demographic characteristics. We will also collect dietary data using the Gladys Block questionnaire, to which we have added a supplement to measure consumption of phytoestrogens. We will also obtain a buccal sample from each respondent as the source of DNA for genetic analysis.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cases"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Questionnaire",
+                            "InterventionDescription": "The main questionnaire will cover established risk and protective factors for endometrial and ovarian cancer, as well as other possible risk factors. This includes: menstrual history; pregnancy history; use of hormones for menopausal symptoms or other reasons; smoking history; height and weight; use of oral contraceptives and other methods of birth control; family history of cancer; medical history; demographic characteristics. We will also collect dietary data using the Gladys Block questionnaire, to which we have added a supplement to measure consumption of phytoestrogens. We will also obtain a buccal sample from each respondent as the source of DNA for genetic analysis.\n\nWe will conduct interviews mainly by telephone but also in person (at home or another convenient place)if the participant prefers.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Controls"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To investigate the role of weight, diet, and individual genetic susceptibility to endometrial cancer",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The secondary aim of this study is to obtain epidemiologic data on papillary serous and clear cell histologic types of endometrial cancer.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosed with epithelial endometrial or ovarian cancer within the year before being contacted (cases)\nAged 21 and over\nResidents of Essex, Union, Morris, Middlesex, Bergen, or Hudson counties, NJ\nBlack women with and without endometrial cancer who are seeing gynecologists at MSKCC\n\nExclusion Criteria:\n\nUnable to sign informed consent\nConsent withheld by physician (cases)\nHysterectomy (controls)\nDo not speak English or Spanish",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "21 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "In collaboration with the New Jersey Department of Health and Senior Services NJDHSS), we will use rapid case ascertainment to identify patients as they are diagnosed.For controls aged 65 and over, we will obtain lists from CMS of a sample of women in the 6 counties. As an alternative way of reaching controls, we will conduct area sampling.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Mengmeng Du, ScD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan-Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan-Kettering web site",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010051",
+                            "ConditionMeshTerm": "Ovarian Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000016889",
+                            "ConditionMeshTerm": "Endometrial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010049",
+                            "ConditionAncestorTerm": "Ovarian Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000291",
+                            "ConditionAncestorTerm": "Adnexal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006058",
+                            "ConditionAncestorTerm": "Gonadal Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014594",
+                            "ConditionAncestorTerm": "Uterine Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014591",
+                            "ConditionAncestorTerm": "Uterine Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12664",
+                            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1704",
+                            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18925",
+                            "ConditionBrowseLeafName": "Endometrial Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Endometrial Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12662",
+                            "ConditionBrowseLeafName": "Ovarian Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3333",
+                            "ConditionBrowseLeafName": "Adnexal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8853",
+                            "ConditionBrowseLeafName": "Gonadal Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17032",
+                            "ConditionBrowseLeafName": "Uterine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17029",
+                            "ConditionBrowseLeafName": "Uterine Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4352",
+                            "ConditionBrowseLeafName": "Ovarian Cancer",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4354",
+                            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M9479",
+                            "InterventionBrowseLeafName": "Hormones",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6184",
+                            "InterventionBrowseLeafName": "Contraceptive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7806",
+                            "InterventionBrowseLeafName": "Estrogens",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6190",
+                            "InterventionBrowseLeafName": "Contraceptives, Oral",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25685",
+                            "InterventionBrowseLeafName": "Phytoestrogens",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Repr",
+                            "InterventionBrowseBranchName": "Reproductive Control Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

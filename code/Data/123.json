@@ -1,0 +1,337 @@
+{
+    "Rank": 123,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05269056",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB-2021-295"
+                },
+                "Organization": {
+                    "OrgFullName": "Zhejiang Cancer Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Early Detection of Gastric Cancer Using Plasma Cell-free DNA Fragmentomics",
+                "OfficialTitle": "Early Detection of Stage I-II Gastric Cancer Using Plasma Cell-free DNA Fragmentomics"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 1, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 28, 2022",
+                "StudyFirstSubmitQCDate": "February 28, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 7, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 30, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 2, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Xiangdong Cheng",
+                    "ResponsiblePartyInvestigatorTitle": "MD",
+                    "ResponsiblePartyInvestigatorAffiliation": "Zhejiang Cancer Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Zhejiang Cancer Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Nanjing Geneseeq Technology Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to enable non-invasive early detection of gastric cancer in high-risk populations through the establishment of a multimodal machine learning model using plasma cell-free DNA fragmentomics. Plasma cell-free DNA from early stage gastric cancer patients and healthy individuals will be subjected to whole-genome sequencing. Features, such as cell-free DNA fragmentation, copy number variations and microbiome, will be assessed to generate this model.",
+                "DetailedDescription": "Improvement in the specificity of early cancer detection reduces financial and mental burdens from unnecessary screenings. Advances in liquid biopsy approaches have expanded the clinical scope of cell-free DNA analysis in cancer early detection, by moving away from cell-free DNA methylome toward an integrative approach that enables the simultaneous assessment of multimodal cell-free DNA features. Integration of liquid biopsy-based cancer early detection into the clinic requires optimization of detection techniques, large-scale studies and prospective clinical validation. In the early detection of gastric cancer, the top research priorities are to identify relevant target features and to improve the sensitivity and specificity of detection. This large-scale early detection study will randomly enroll 200 stage I/II pathologically diagnosed gastric patients and 100 age- and sex-matched healthy individuals upon providing written informed consent. Plasma samples will be collected and extracted cell-free DNA will be subjected to whole genome sequencing. We aimed to incorporate genome-wide copy number variations, cell-free DNA fragmentomics, and microbiome features into the development of a multimodal biomarker-based prediction model."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Early Gastric Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Gastric cancer",
+                        "Early stage",
+                        "Plasma Cell-free DNA",
+                        "Fragmentomic assay"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Plasma Cell-free DNA"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "300",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Stage I-II gastric cancer",
+                            "ArmGroupDescription": "Cell-free DNA collected from plasma samples of 200 patients with stage I-II gastric cancer will undergo whole-genome sequencing"
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy controls",
+                            "ArmGroupDescription": "Cell-free DNA collected from plasma samples of 100 non-cancer individuals will serve as controls"
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Area under curve of the model for detecting stage I/II gastric cancer",
+                            "PrimaryOutcomeDescription": "The area under curve of the model for the ultrasensitive early detection of stage I/II gastric cancer would be evaluate",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity of the early detection model",
+                            "SecondaryOutcomeDescription": "The sensitivity of the model for the ultrasensitive early detection of stage I/II gastric cancer would be evaluate",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Specificity of the early detection model",
+                            "SecondaryOutcomeDescription": "The specificity of the model for the ultrasensitive early detection of stage I/II gastric cancer would be evaluate",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Area under curve of the early detection model at sequencing depth downsampling",
+                            "SecondaryOutcomeDescription": "The area under curve of the model at sequencing depth downsampling for the ultrasensitive early detection of stage I/II gastric cancer would be evaluate",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge minimum 18 years\nParticipants must have histologically and/or cytologically confirmed stage I/II gastric cancer\nFull access to the patients' clinical and pathological records\nAbility to understand and the willingness to sign a written informed consent document\nNon-cancer controls are sex- and age-matched individuals without presence of any tumors or nodules or any other severe chronic diseases through systematic screening\n\nExclusion Criteria:\n\nParticipants must not be pregnant or breastfeeding\nParticipants must not have prior cancer histories or a second non-gastric malignancy\nParticipants must not have had any form of cancer treatment before enrollment or plasma collection, including surgery, chemotherapy, radiotherapy, targeted therapy and immunotherapy\nParticipants must not present medical conditions of fever or have acute or immunological diseases that required treatment 14 days before plasma collection\nParticipants who underwent organ transplant or allogenic bone marrow or hematopoietic stem cell transplantation\nParticipants with clinically important abnormalities or conditions unsuitable for blood collection\nAny uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, myocardial infarction, major seizure disorder, unstable spinal cord compression, superior vena cava syndrome, or psychiatric illness/social situations that would limit compliance with study requirements or influence patient signing the written informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Approximately 200 stage I/II gastric cancer patients and 100 non-cancer controls",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Pengfei Yu, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-571-88128031",
+                            "CentralContactEMail": "ypfzmu@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Xiangdong Cheng, MD, PhD",
+                            "OverallOfficialAffiliation": "Zhejiang Cancer Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Zhejiang Cancer Hospital\uff1bCancer hospital of the university of chinese academy of sciences",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Hangzhou",
+                            "LocationState": "Zhejiang",
+                            "LocationZip": "310022",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pengfei Yu, MD\uff0cPhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-571-88128031",
+                                        "LocationContactEMail": "ypfzmu@163.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Xiangdong Cheng, MD\uff0cPhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Yu Pengfei, MD\uff0cPhD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

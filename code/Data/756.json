@@ -1,0 +1,725 @@
+{
+    "Rank": 756,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05510908",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "AMC-115"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "UM1CA121947",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/UM1CA121947"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "AIDS Malignancy Consortium",
+                    "OrgClass": "NETWORK"
+                },
+                "BriefTitle": "Use of a Screening Tool to Describe HIV-Related Cancer Burden and Patient Characteristics in the AMC",
+                "OfficialTitle": "Use of a Screening Tool to Describe HIV-Related Cancer Burden and Patient Characteristics in the AIDS Malignancy Consortium A Trial of the AIDS Malignancy Consortium (AMC)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 25, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 1, 2022",
+                "StudyFirstSubmitQCDate": "August 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 22, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 11, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 14, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "AIDS Malignancy Consortium",
+                    "LeadSponsorClass": "NETWORK"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study is being done to understand how many people with HIV (PWH) present for cancer care across the AIDS Malignancy Consortium in the United States and if there are reasons that some PWH choose to participate, or not in cancer clinical trials. Optional quality of life surveys will be used to learn more about how HIV and cancer and HIV and cancer treatment affect people."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "HIV-Associated Malignant Neoplasm",
+                        "HIV Infections",
+                        "Cancer",
+                        "AIDS Related Lymphoma",
+                        "AIDS-related Kaposi Sarcoma",
+                        "AIDS-Related Malignancy",
+                        "Anal Cancer",
+                        "HPV-Related Malignancy"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "HIV-Related Cancer",
+                        "AIDS",
+                        "AIDS-related malignancy",
+                        "anal cancer",
+                        "lymphoma",
+                        "kaposi sarcoma",
+                        "cervical cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "720",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "New, primary or recurrent disease",
+                            "ArmGroupDescription": "Considering or currently receiving cancer treatment",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Non-Interventional",
+                                    "Other: Non-Interventional Follow-up"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Metastic or locally advanced cancer",
+                            "ArmGroupDescription": "This includes cases for which there are no current definitive therapy options for cure (i.e., inoperable) but may be considered for non-standard / non-curative therapies.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Non-Interventional",
+                                    "Other: Non-Interventional Follow-up"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Prior cancer",
+                            "ArmGroupDescription": "Prior diagnosis (within 5 years), in remission - Not currently on cancer treatment other than ART or maintenance therapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Non-Interventional"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Non-Interventional",
+                            "InterventionDescription": "Participants will be identified via screening of electronic medical records or institutional databases. All eligible participants will have one visit for the collection of broad demographic and clinical data. Data collection at study visit will occur via survey procedures and/or medical record review.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Metastic or locally advanced cancer",
+                                    "New, primary or recurrent disease",
+                                    "Prior cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Non-Interventional Follow-up",
+                            "InterventionDescription": "Participants initiating or receiving ongoing treatment for their cancer will attend a single follow-up visit to recollect broad demographic and clinical data. Data collection at study visits will occur via survey procedures and/or medical record review.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Metastic or locally advanced cancer",
+                                    "New, primary or recurrent disease"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of cancers in people with HIV (PWH) who present for care at domestic AMC sites",
+                            "PrimaryOutcomeDescription": "For each cancer group listed below, the number of new and existing cases per month will be estimated. The distribution of cancer types will be computed as percentages and compared to the cancer type distribution in the HIV/AIDS Cancer Match (HACM) Study:\n\nSolid organ tumors associated with human papillomavirus (HPV) infection\nSolid organ tumors unrelated to HPV\nKaposi sarcoma\nHematologic malignancies",
+                            "PrimaryOutcomeTimeFrame": "Enrollment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of participants eligible for AMC trials who are successfully enrolled",
+                            "SecondaryOutcomeDescription": "This will be calculated by the number of participants enrolled who meet site-based AMC trial eligibility compared to the number of eligible participants at each site who meet site-based AMC trial eligibility.",
+                            "SecondaryOutcomeTimeFrame": "Baseline and 12 weeks"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Describe the sociodemographic, HIV-related, and cancer diagnostic and treatment characteristics of cancer patients with HIV receiving care at domestic AMC sites.",
+                            "OtherOutcomeDescription": "The distribution of participant characteristics will be summarized. Continuous variables [e.g. age, height, weight] will be summarized as mean (std) if they are normally distributed, otherwise they will be summarized as median (IQR). Categorical variables [e.g. tobacco use, ART medications, comorbidities] will be summarized as frequency (%).",
+                            "OtherOutcomeTimeFrame": "Baseline and 12 weeks"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Describe the health-related QOL of cancer patients with HIV at domestic AMC sites using European Organization for Research and Treatment of Cancer Quality of Life Questionnaire [EORTC QLQ-C30]",
+                            "OtherOutcomeDescription": "EORTC QLQ-C30 subscale and overall scores will be used to describe participant symptom and health-related quality of life burden. Baseline EORTC QLQ-C30 scores will be compared according to successful enrollment versus not. The EORTC QLQ-C30 is a 30-item core cancer specific questionnaire measuring QOL in cancer patients. It incorporates five functional scales (physical, role, cognitive, emotional, and social), three symptom scales (fatigue, pain, and nausea and vomiting), a global health status / QoL scale, and single items assessing additional symptoms and perceived financial impact of the disease. Most questions use a 4-point scale (1 'Not at All' to 4 'Very Much'); 2 questions use a 7-point scale (1 'Very Poor' to 7 'Excellent'). Scores are averaged, and transformed to 0-100 scale; higher score=higher response level.",
+                            "OtherOutcomeTimeFrame": "Baseline"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Describe the supportive care needs of cancer patients with HIV at domestic AMC sites using Supportive Care Needs Survey Short Form 34 [SCNS-SF34]",
+                            "OtherOutcomeDescription": "Supportive Care Needs Survey Short Form 34 [SCNS-SF34] scores will be used to categorize participants based on the degree to which their needs are met. Baseline SCNS-SF34 scores will be compared according to successful enrollment versus not. The SCNS-SF34 is a 34-item questionnaire measuring the supportive care need and level of need for people diagnosed with cancer in the last month. It incorporates the underlying domains: physical and daily living, psychological, sexuality and health system, information and patient support. All the questions use 5-point scale (1 'Not applicable' to 5 'High need); with a higher score indicating a higher level of need.",
+                            "OtherOutcomeTimeFrame": "Baseline"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Change of Quality of Life at 12 Weeks From Baseline for cancer patients with HIV initiating therapy or currently under treatment using European Organization for Research and Treatment of Cancer Quality of Life Questionnaire [EORTC QLQ-C30]",
+                            "OtherOutcomeDescription": "EORTC QLQ-C30 will be summarized, both overall and at the ~12-week follow-up, according to participant characteristics and cancer groups. Overall change in QOL will be compared with paired tests and change according to groups will be compared using t-tests, ANOVA, or nonparametric tests. The EORTC QLQ-C30 is a 30-item core cancer specific questionnaire measuring QOL in cancer patients. It incorporates five functional scales (physical, role,cognitive, emotional, and social), three symptom scales (fatigue, pain, and nausea and vomiting), a global health status / QoL scale, and a number of single items assessing additional symptoms and perceived financial impact of the disease. Most questions used 4-point scale (1 'Not at All' to 4 'Very Much'); 2 questions used 7-point scale (1 'Very Poor' to 7 'Excellent'). Scores are averaged, and transformed to 0-100 scale; higher score=higher response level.",
+                            "OtherOutcomeTimeFrame": "Baseline and 12 weeks"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Change of needs from baseline for cancer patients with HIV initiating therapy or currently under treatment using Supportive Care Needs Short Survey Form 34 [SCNS-SF34]",
+                            "OtherOutcomeDescription": "Supportive Care Needs Short Survey Form 34 [SCNS-SF34] scores will be summarized, both overall and at the ~12-week follow-up, according to participant characteristics and cancer groups. Overall change in scores will be compared with paired tests and change according to groups will be compared using t-tests, ANOVA, or nonparametric tests. The SCNS-SF34 is a 34-item questionnaire measuring the supportive care need and level of need for people diagnosed with cancer in the last month. It incorporates the underlying domains: physical and daily living, psychological, sexuality and health system, information and patient support. All the questions use 5-point scale (1 'Not applicable' to 5 'High need). Scores are averaged, and transformed to 0-100 scale;, with a higher score indicating a higher level of need.",
+                            "OtherOutcomeTimeFrame": "Baseline and 12 weeks"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "3. State of planned cancer therapy for cancer patients with HIV initiating therapy or currently under treatment",
+                            "OtherOutcomeDescription": "The frequency of planned cancer treatment regimens (at baseline) successfully initiated will be summarized.",
+                            "OtherOutcomeTimeFrame": "12 weeks"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipant can understand and is willing to sign a written informed consent document.\n\nHIV positive. Documentation of HIV-1 infection by means of any one of the following:\n\nDocumentation of an HIV diagnosis in the medical record by a licensed health care provider;\nDocumentation of receipt of antiretroviral therapy (ART) (i.e., at least two different medications that do not constitute a prescription for pre-exposure prophylaxis [PrEP]) by a licensed health care provider. Documentation may be a record of an ART prescription in the medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant's name;\nHIV-1 RNA detection by a licensed HIV-1 RNA assay demonstrating >1000 RNA copies/mL;\nAny licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 Western blot confirmation or HIV rapid multispot antibody differentiation assay.\n\nNote: The term \"licensed\" refers to a kit that has been certified or licensed by an oversight body within the participating country and validated internally (e.g., U.S. FDA).\n\nWHO (World Health Organization) and CDC (Centers for Disease Control and Prevention) guidelines mandate that confirmation of the initial test result must use a test that is different from the one used for the initial assessment. A reactive initial rapid test should be confirmed by either another type of rapid assay, or an E/CIA that is based on a different antigen preparation and/or different test principle (e.g., indirect versus competitive), a Western blot, or a plasma HIV-1 RNA viral load.\n\nPatient was diagnosed with or treated for cancer within the last 5 years. Participants will qualify under one of three categories:\n\nNew, primary or recurrent diagnosis -Considering or currently receiving cancer treatment\nMetastatic or locally advanced cancer - This includes cases for which there are no current definitive therapy options for cure (i.e., inoperable) but may be considered for non-standard / non-curative therapies.\nPrior diagnosis (within 5 years), in remission - Not currently on cancer treatment other than ART or maintenance therapy.\nAge \u2265 18 years.\nParticipant presents to an AMC domestic clinical trial site for either clinical care or research.\n\nExclusion Criteria:\n\nParticipants who do not fulfill the criteria as listed above are ineligible.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Participants with a dual diagnosis of both cancer (current or diagnosed within 5 years) and underlying HIV infection, who present for care at AMC domestic sites.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Anna E Coghill, PhD, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "813-745-7147",
+                            "CentralContactEMail": "anna.coghill@moffitt.org"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Moores UCSD Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "La Jolla",
+                            "LocationState": "California",
+                            "LocationZip": "92903",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jayamalee De Silva, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "858-822-5377",
+                                        "LocationContactEMail": "jadesilva@health.ucsd.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Erin Reid, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Washington University School of Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Saint Louis",
+                            "LocationState": "Missouri",
+                            "LocationZip": "63110",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Lee Ratner, MD, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "314-362-8836",
+                                        "LocationContactEMail": "lratner@wustl.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Lee Ratner, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Virginia Mason Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98101",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marina Jovic",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "206-287-6282",
+                                        "LocationContactEMail": "marina.jovic@vmfh.org"
+                                    },
+                                    {
+                                        "LocationContactName": "David Aboulafia, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012514",
+                            "ConditionMeshTerm": "Sarcoma, Kaposi"
+                        },
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000012509",
+                            "ConditionMeshTerm": "Sarcoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000001005",
+                            "ConditionMeshTerm": "Anus Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000016483",
+                            "ConditionMeshTerm": "Lymphoma, AIDS-Related"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000008223",
+                            "ConditionAncestorTerm": "Lymphoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008232",
+                            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008206",
+                            "ConditionAncestorTerm": "Lymphatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007160",
+                            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007154",
+                            "ConditionAncestorTerm": "Immune System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018204",
+                            "ConditionAncestorTerm": "Neoplasms, Connective and Soft Tissue"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012004",
+                            "ConditionAncestorTerm": "Rectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001004",
+                            "ConditionAncestorTerm": "Anus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006566",
+                            "ConditionAncestorTerm": "Herpesviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004266",
+                            "ConditionAncestorTerm": "DNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009383",
+                            "ConditionAncestorTerm": "Neoplasms, Vascular Tissue"
+                        },
+                        {
+                            "ConditionAncestorId": "D000016393",
+                            "ConditionAncestorTerm": "Lymphoma, B-Cell"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008228",
+                            "ConditionAncestorTerm": "Lymphoma, Non-Hodgkin"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10910",
+                            "ConditionBrowseLeafName": "Lymphoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3212",
+                            "ConditionBrowseLeafName": "Acquired Immunodeficiency Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17940",
+                            "ConditionBrowseLeafName": "HIV Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15017",
+                            "ConditionBrowseLeafName": "Sarcoma",
+                            "ConditionBrowseLeafAsFound": "Sarcoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5520",
+                            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15022",
+                            "ConditionBrowseLeafName": "Sarcoma, Kaposi",
+                            "ConditionBrowseLeafAsFound": "Kaposi's Sarcoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4011",
+                            "ConditionBrowseLeafName": "Anus Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Anal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18578",
+                            "ConditionBrowseLeafName": "Lymphoma, AIDS-Related",
+                            "ConditionBrowseLeafAsFound": "AIDS-Related Lymphoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10915",
+                            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10893",
+                            "ConditionBrowseLeafName": "Lymphatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9896",
+                            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9890",
+                            "ConditionBrowseLeafName": "Immune System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20040",
+                            "ConditionBrowseLeafName": "Neoplasms, Connective and Soft Tissue",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4010",
+                            "ConditionBrowseLeafName": "Anus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9333",
+                            "ConditionBrowseLeafName": "Herpesviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7132",
+                            "ConditionBrowseLeafName": "DNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12018",
+                            "ConditionBrowseLeafName": "Neoplasms, Vascular Tissue",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18518",
+                            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10912",
+                            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3543",
+                            "ConditionBrowseLeafName": "Lymphosarcoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5284",
+                            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3199",
+                            "ConditionBrowseLeafName": "Kaposi Sarcoma",
+                            "ConditionBrowseLeafAsFound": "Kaposi's Sarcoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T362",
+                            "ConditionBrowseLeafName": "Anal Cancer",
+                            "ConditionBrowseLeafAsFound": "Anal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4690",
+                            "ConditionBrowseLeafName": "Primary Effusion Lymphoma",
+                            "ConditionBrowseLeafAsFound": "AIDS-Related Lymphoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3538",
+                            "ConditionBrowseLeafName": "Lymphoma AIDS Related",
+                            "ConditionBrowseLeafAsFound": "AIDS-Related Lymphoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T640",
+                            "ConditionBrowseLeafName": "B-cell Lymphoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC15",
+                            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC20",
+                            "ConditionBrowseBranchName": "Immune System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

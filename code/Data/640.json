@@ -1,0 +1,395 @@
+{
+    "Rank": 640,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02195141",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NCC2014-ST02"
+                },
+                "Organization": {
+                    "OrgFullName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Trial of Using SIB-IMRT in Preoperative Radiotherapy for Locally Advanced Rectum Cancer",
+                "OfficialTitle": "Randomized Phase II Tiral of Using SIB-IMRT in Preoperative Radiotherapy for Locally Advanced Rectum Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2015",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2014"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2015",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2015",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 11, 2014",
+                "StudyFirstSubmitQCDate": "July 17, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 21, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 2, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 4, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Hua Ren",
+                    "ResponsiblePartyInvestigatorTitle": "Attending physician",
+                    "ResponsiblePartyInvestigatorAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Pathological complete response, (pCR) correlates with a favorable overall prognosis in locally advanced rectal cancer patients underwent preoperative chemoradiation, so obtaining a pCR might be beneficial. The aim of the study is to investigate safety and efficacy of preoperative SIB-IMRT(56Gy) combine with capecitabine. primary endpoint is pathological complete remission rate."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Preoperative Chemoradiotherapy",
+                        "Locally Advanced Rectal Cancer",
+                        "boost",
+                        "IMRT"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "104",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "conventional fraction",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Radiotherapy (25x 2 Gy) + capecitabine 825mg/m2 p.o. twice daily",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: conventional fraction"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "SIB",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Concomitant chemoradiotherapy Radiotherapy with boost Radiotherapy (25 x 2 Gy), with a simultaneous integrated boost up to 56 Gy on the primary tumor capecitabine 825mg/m2 p.o. twice daily",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: SIB"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "conventional fraction",
+                            "InterventionDescription": "capecitabine 825mg/m2 p.o. twice daily Radiotherapy 50Gy/25f",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "conventional fraction"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "SIB",
+                            "InterventionDescription": "Concomitant chemoradiotherapy Radiotherapy with boost Radiotherapy (25 x 2 Gy), with a simultaneous integrated boost up to 56 Gy on the primary tumor capecitabine 825mg/m2 p.o. twice daily",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "SIB"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "\u2022 Pathological complete remission rate (pCR)",
+                            "PrimaryOutcomeTimeFrame": "after pathological examination of surgical speciments (6-8 weeks after chemoradiation)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants with adverse events (according to the National Cancer Institute (NCI) - Common Terminology Criteria for Adverse Events v3.0 (CTCAE)",
+                            "SecondaryOutcomeDescription": "Acute toxicities will be assessed every week during chemoradiation period , one week before surgery(6 weeks after chemoradiation) and every 3 months after surgery for 2 years.Late toxicities will be assessed every 6 months from the 3rd year for 3 years.Adverse eventswill be evaluated according to the National Cancer Institute (NCI) - Common Terminology Criteria for Adverse Events v3.0 (CTCAE)",
+                            "SecondaryOutcomeTimeFrame": "during preoperative treatment and after surgery for 5 years"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "\u2022 Disease-free survival",
+                            "OtherOutcomeDescription": "Followup will be done every 3 months in first 2 years, and every 6 months after 2 years.",
+                            "OtherOutcomeTimeFrame": "3 year afte concurrent chemoradiation"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nhistopathologically confirmed rectal adenocarcinoma with an inferior border within 15 cm of the anal verge\nthe tumor has to have evidence of T3 or T4 disease on Magnetic Resonance Imaging (MRI) or endoluminal ultrasound\n\nExclusion Criteria:\n\nmetastatic disease\nEastern Cooperative Oncology Group (ECOG) performance status > 3\npatients not deemed fit for radiotherapy, capecitabine or surgery\npregnant or lactating patients\nwomen with child bearing potential who lack effective contraception\npatients below 18 years old",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jing Jin, Professor",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "87788280",
+                            "CentralContactEMail": "jingjin1025@163.com"
+                        },
+                        {
+                            "CentralContactName": "Hua Ren, Attending",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "87788122",
+                            "CentralContactEMail": "renhua2009@hotmail.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jing Jin, proffessor",
+                            "OverallOfficialAffiliation": "Dept of Radiation oncology, Cancer hospital, CAMS",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cancer Hospital, CAMS",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationZip": "100021",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jing Jin, professor",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "87788200",
+                                        "LocationContactEMail": "jingjin1025@163.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Hua Ren, attending",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "87788122",
+                                        "LocationContactEMail": "renhua2009@hotmail.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M377",
+                            "InterventionBrowseLeafName": "Capecitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,544 @@
+{
+    "Rank": 615,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05746182",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "224513"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2023-01566",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI Clinical Trials Reporting Program (CTRP)"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of California, San Francisco",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Genetic Predisposition Testing Program for Pancreatic Neuroendocrine Neoplasms",
+                "OfficialTitle": "Genetic Predisposition Testing Program for Pancreatic Neuroendocrine Neoplasms",
+                "Acronym": "PanNEN"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 7, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 17, 2023",
+                "StudyFirstSubmitQCDate": "February 17, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 27, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 12, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 18, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of California, San Francisco",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "University of California Pancreatic Cancer Consortium (UCPCC)",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective observational multi-center pilot study of germline testing for participants receiving care at University of California participating locations with a new or existing diagnosis of Pancreatic Neuroendocrine Neoplasms (PanNEN). This protocol is an extension of existing Genetic Testing Station efforts at University of California, San Francisco (UCSF)",
+                "DetailedDescription": "PRIMARY OBJECTIVE:\n\nI. To assess the frequency of germline mutations in patients with PanNEN.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the rates of different types of germline mutations in patients PanNEN.\n\nII. To assess the rates of different types of variants of uncertain significance in patients with PanNEN.\n\nIII. To estimate the rate of completion of genetic testing in patients who are offered prospective germline testing.\n\nEXPLORATORY OBJECTIVES:\n\nI. To examine attitudes of patients who have completed germline testing.\n\nII. To explore reasons for declining germline testing.\n\nIII. In patients with repeat germline testing, compare the frequency of germline alteration between tests.\n\nIV. Assess the relationship between germline pathogenic variants and somatic mutations in PanNEN.\n\nOUTLINE:\n\nPotential eligible participants will be identified via chart review and invited to consent to the study. Study participants who agree to prospective testing and have not had previous large panel germline testing will watch an informational video about germline testing and be offered testing with University of California, San Francisco's (UCSF) Expanded Hereditary Cancer Panel. Study participants who decline germline testing will be asked to answer a one-question Declination Survey. Results will be shared with participants and their providers per the standard of practice at each participating study site. All participants who decided to receive germline testing will be asked to complete a decision survey."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Neuroendocrine Neoplasm"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Genetic Assay",
+                        "Biomarkers"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Saliva samples will be obtained from participants"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "300",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants with Pancreatic Neuroendocrine Neoplasms",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Hereditary Cancer Panel"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Hereditary Cancer Panel",
+                            "InterventionDescription": "UCSF's Internal Clinical Laboratory Improvement Amendments of 1988 (CLIA)-certified Expanded Hereditary Cancer Panel will be employed which measures a minimum 88 genes",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with Pancreatic Neuroendocrine Neoplasms"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "University of California, San Francisco's (UCSF) Expanded Hereditary Cancer Panel",
+                                    "Germline Testing"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of overall pathogenic germline mutations",
+                            "PrimaryOutcomeDescription": "The overall percentage of participants with pathogenic, or likely pathogenic germline mutations will be reported with 95% confidence intervals",
+                            "PrimaryOutcomeTimeFrame": "Up to 2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Rates of different types of pathogenic mutations",
+                            "SecondaryOutcomeDescription": "The percentage of participants with each identified type of pathogenic, or likely pathogenic, will be reported with 95% confidence intervals",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rates of different types of variants of uncertain significance (VUS)",
+                            "SecondaryOutcomeDescription": "The percentage of participants with identified variants of uncertain significance will be reported with 95% confidence intervals.",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of declination for participants offered testing.",
+                            "SecondaryOutcomeDescription": "Participants who decline genetic testing but agree to participate in other study procedures will complete a Declination Survey which consists of one questions asking the reason for the decision to decline germline testing.",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of completion of testing",
+                            "SecondaryOutcomeDescription": "The rate of study completion defined as the percentage of participants who agree to testing, and complete all study procedures through return of results and meeting with genetic counselor (as appropriate) will be reported.",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically confirmed PanNEN.\nNew and existing PanNEN participants will be eligible for testing (any grade, any stage, any age > 18 years).\nParticipants willing and able to comply with the study procedures.\n\nExclusion Criteria:\n\nInability to provide informed consent.\nFor participants without adequate prior germline testing: Inability to speak/read the languages supported by the genetic testing station (GTS) --This is evolving, but currently includes English, Spanish, Farsi, Russian, or with Chinese subtitles (see most recent version of the consent for updated list).",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All participants receiving care at University of California participating locations with a new or existing diagnosis of PanNEN",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Paige Steiding",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "(415) 514-6314",
+                            "CentralContactEMail": "Paige.Steiding@ucsf.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Emily Bergsland, MD",
+                            "OverallOfficialAffiliation": "University of California, San Francisco",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of California, Los Angeles",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90095",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Randy Hecht, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Univeristy of California, San Diego",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "San Diego",
+                            "LocationState": "California",
+                            "LocationZip": "92093",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Paul Fanta, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University of California, San Francisco",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94143",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Paige Steiding",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "415-514-6314",
+                                        "LocationContactEMail": "Paige.Steiding@ucsf.edu"
+                                    },
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "877-827-3222",
+                                        "LocationContactEMail": "cancertrials@ucsf.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Emily Bergsland, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000018358",
+                            "ConditionMeshTerm": "Neuroendocrine Tumors"
+                        },
+                        {
+                            "ConditionMeshId": "D000007516",
+                            "ConditionMeshTerm": "Adenoma, Islet Cell"
+                        },
+                        {
+                            "ConditionMeshId": "D000004198",
+                            "ConditionMeshTerm": "Disease Susceptibility"
+                        },
+                        {
+                            "ConditionMeshId": "D000020022",
+                            "ConditionMeshTerm": "Genetic Predisposition to Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000017599",
+                            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009373",
+                            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009380",
+                            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000236",
+                            "ConditionAncestorTerm": "Adenoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010190",
+                            "ConditionAncestorTerm": "Pancreatic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M20185",
+                            "ConditionBrowseLeafName": "Neuroendocrine Tumors",
+                            "ConditionBrowseLeafAsFound": "Neuroendocrine Neoplasm",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7070",
+                            "ConditionBrowseLeafName": "Disease Susceptibility",
+                            "ConditionBrowseLeafAsFound": "Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M21565",
+                            "ConditionBrowseLeafName": "Genetic Predisposition to Disease",
+                            "ConditionBrowseLeafAsFound": "Genetic Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10238",
+                            "ConditionBrowseLeafName": "Adenoma, Islet Cell",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Neuroendocrine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3281",
+                            "ConditionBrowseLeafName": "Adenoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M19535",
+                            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20078",
+                            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12008",
+                            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12015",
+                            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4091",
+                            "ConditionBrowseLeafName": "Neuroendocrine Tumor",
+                            "ConditionBrowseLeafAsFound": "Neuroendocrine Neoplasm",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4389",
+                            "ConditionBrowseLeafName": "Pancreatic Neuroendocrine Tumor",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Neuroendocrine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4092",
+                            "ConditionBrowseLeafName": "Neuroepithelioma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

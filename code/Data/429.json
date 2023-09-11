@@ -1,0 +1,458 @@
+{
+    "Rank": 429,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04232748",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NTWC/CREC/18027"
+                },
+                "Organization": {
+                    "OrgFullName": "Tuen Mun Hospital",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Change in Body Weight During Treatment of Advanced Colorectal Cancer",
+                "OfficialTitle": "Clinical Significance of Change in Body Weight During Treatment of Advanced Colorectal Cancer Patients - A Pilot Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 1, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 1, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 9, 2020",
+                "StudyFirstSubmitQCDate": "January 16, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 18, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 16, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 18, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Shing Fung Lee",
+                    "ResponsiblePartyInvestigatorTitle": "Resident Specialist",
+                    "ResponsiblePartyInvestigatorAffiliation": "Tuen Mun Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Tuen Mun Hospital",
+                    "LeadSponsorClass": "OTHER_GOV"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Colorectal cancer (CRC) is a significant and growing health burden in Hong Kong. According to data from Hong Kong Cancer Registry, CRC ranked the first in incidence and the second in mortality, with around 5,000 new cases diagnosed and more than 2,000 cancer-related mortality in 2014. The investigators aim to evaluate the association between serial weight change during first line treatment and outcomes in patients with metastatic CRC.",
+                "DetailedDescription": "Studies have suggested that exposure to a greater number of chemotherapeutic agents is associated with better survival in metastatic colorectal cancer.\n\nMultiple factors might affect body weight during treatment. Cancer-related symptoms can impair quality of life and appetite. Cachexia syndrome affects around 50% of colon cancer patients and is characterized by cancer-induced catabolism with involuntary weight loss (fat and muscle), patients have increased lipolysis and change in skeletal muscle metabolism, including increased energy expenditure at rest and protein degradation, and decreased protein synthesis. Besides these disease factors, treatment related side effects are common causes of weight loss, such as inability to ingest or digest food effectively due to nausea, vomiting, and malaise. Based on these factors and the hypotheses between tumour control and weight gain, monitoring the serial weight change can have practical value."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer, Colorectal",
+                        "Chemotherapy Effect",
+                        "Weight Loss",
+                        "Prognosis"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "cancer",
+                        "survival",
+                        "chemotherapy",
+                        "weight"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "264",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "stage IV colorectal cancer",
+                            "ArmGroupDescription": "stage IV colorectal cancer on first line systemic treatment are observed for the trend of weight change and treatment outcomes",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: first line systemic treatment for colorectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "first line systemic treatment for colorectal cancer",
+                            "InterventionDescription": "systemic chemotherapy (capecitabine or fluorouracil, oxaliplatin or irinotecan, with or without biological agents including cetuximab, bevacizumab, or panitumumab.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "stage IV colorectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Progression-free survival",
+                            "PrimaryOutcomeDescription": "Survival time from start of anti-cancer treatment until disease progression, or death from disease, or loss of follow-up",
+                            "PrimaryOutcomeTimeFrame": "From date of start of anti-cancer treatment until the date of first documented progression (assessed by physical examination, imaging, or blood biomarkers) or date of death from any cause, whichever came first, assessed up to 60 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Overall survival",
+                            "PrimaryOutcomeDescription": "Survival time from start of anti-cancer treatment until death from any cause, or loss of follow-up",
+                            "PrimaryOutcomeTimeFrame": "From date of start of anti-cancer treatment until the date of death from any cause (assessed by physical examination, imaging, or blood biomarkers), assessed up to 60 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Chemotherapy dose change",
+                            "SecondaryOutcomeDescription": "Chemotherapy dose change (in percentage change)",
+                            "SecondaryOutcomeTimeFrame": "from start of first-line anti-cancer treatment until completion, assessed by clinical assessment up to 60 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Chemotherapy interruption",
+                            "SecondaryOutcomeDescription": "Chemotherapy dose interruption (in percentage change)",
+                            "SecondaryOutcomeTimeFrame": "from start of first-line anti-cancer treatment until completion, assessed by clinical assessment up to 60 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically proven adenocarcinoma of colorectal origin\nStage IV disease with systemic treatment\nEstimated life expectancy >3 months\nAdequate organ functions\n\nExclusion Criteria:\n\nEastern Cooperative Oncology Group performance status 3 or above\nPregnancy\nHuman immunodeficiency virus infection and acquired immune deficiency syndrome (HIV/AIDS)\nPast medical history of another cancer",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Single institutional cohort of stage IV (advanced) colorectal cancer patients who undergo systemic treatments.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Shing Fung Lee, MBBS, M Sc",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "85224685087",
+                            "CentralContactEMail": "leesfm@ha.org.hk"
+                        },
+                        {
+                            "CentralContactName": "King Fung Tsang, M Sc",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "85224685769",
+                            "CentralContactEMail": "tkf179@ha.org.hk"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Shing Fung Lee, MBBS, M Sc",
+                            "OverallOfficialAffiliation": "Department of Clinical Oncology, Tuen Mun Hospital, Hong Kong",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Department of Clinical Oncology, Tuen Mun Hospital, Tuen Mun",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Hong Kong",
+                            "LocationCountry": "Hong Kong",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Shing Fung Lee, MBBS, M Sc",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "852 2468 5087",
+                                        "LocationContactEMail": "leesfm@ha.org.hk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol",
+                            "LargeDocDate": "January 1, 2019",
+                            "LargeDocUploadDate": "01/14/2020 13:33",
+                            "LargeDocFilename": "Prot_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000001835",
+                            "ConditionMeshTerm": "Body Weight"
+                        },
+                        {
+                            "ConditionMeshId": "D000015431",
+                            "ConditionMeshTerm": "Weight Loss"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001836",
+                            "ConditionAncestorTerm": "Body Weight Changes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4804",
+                            "ConditionBrowseLeafName": "Body Weight",
+                            "ConditionBrowseLeafAsFound": "Body Weight",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17792",
+                            "ConditionBrowseLeafName": "Weight Loss",
+                            "ConditionBrowseLeafAsFound": "Weight Loss",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Cancer, Colorectal",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4805",
+                            "ConditionBrowseLeafName": "Body Weight Changes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M8290",
+                            "InterventionBrowseLeafName": "Fluorouracil",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1674",
+                            "InterventionBrowseLeafName": "Oxaliplatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M315",
+                            "InterventionBrowseLeafName": "Cetuximab",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M246",
+                            "InterventionBrowseLeafName": "Bevacizumab",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1671",
+                            "InterventionBrowseLeafName": "Irinotecan",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M377",
+                            "InterventionBrowseLeafName": "Capecitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1822",
+                            "InterventionBrowseLeafName": "Panitumumab",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

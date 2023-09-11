@@ -1,0 +1,362 @@
+{
+    "Rank": 501,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05643690",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "UriFind US-001"
+                },
+                "Organization": {
+                    "OrgFullName": "PPsanalytics",
+                    "OrgClass": "NETWORK"
+                },
+                "BriefTitle": "Urine Sample Collection for Validation of the AnchorDx UriFind\u2122 Bladder Cancer Assay",
+                "OfficialTitle": "Urine Sample Collection for Validation of the AnchorDx UriFind\u2122 Bladder Cancer Assay in Subjects Suspected of Having Bladder Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 18, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 14, 2022",
+                "StudyFirstSubmitQCDate": "December 6, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 9, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 6, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 9, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "PPsanalytics",
+                    "LeadSponsorClass": "NETWORK"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "AnchorDx Medical Co., Ltd.",
+                            "CollaboratorClass": "INDUSTRY"
+                        },
+                        {
+                            "CollaboratorName": "Specialty Networks",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUnapprovedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The AnchorDx UriFind\u2122 Bladder Cancer Assay is designed to detect 2 DNA methylation biomarkers in urine specimens from patients 22 years or older suspected of having bladder cancer. Results from the assay are intended for use, in conjunction with current standard diagnostic procedures, as an aid for initial diagnosis of bladder carcinoma in patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Clinical Validation Group",
+                            "ArmGroupDescription": "Patients with suspected bladder cancer (including hematuria, inflammatory bladder, suspicious ultrasound results)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: UriFind Bladder Cancer Assay"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Health Volunteers",
+                            "ArmGroupDescription": "Patients of presumed assay negative health volunteers, urology patients without prior history or clinical evidence of bladder cancer and relevant non-urology patients.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: UriFind Bladder Cancer Assay"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "UriFind Bladder Cancer Assay",
+                            "InterventionDescription": "The AnchorDx UriFind\u2122 Bladder Cancer Assay is designed to detect 2 DNA methylation biomarkers in urine specimens from patients 22 years or older suspected of having bladder cancer. Results from the Assay are intended for use, in conjunction with current standard diagnostic procedures, as an aid for initial diagnosis of bladder carcinoma in patients.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Clinical Validation Group",
+                                    "Health Volunteers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Sensitivity and Specificity of UriFind assay in detecting early stage Bladder Cancer",
+                            "PrimaryOutcomeDescription": "To evaluate the performance of the UriFind assay relative to the patient at diagnosis (cystoscopy or surgery followed by histology).",
+                            "PrimaryOutcomeTimeFrame": "Baseline"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nClinical Validation Group:\n\n22 years or older, gender is not limited\nSuspected of bladder cancer (including hematuria, inflammatory bladder, suspicious ultrasound results)\nCan receive standard of care, including urine cytology, cystoscopy, or surgery for bladder cancer diagnosis\nCan provide at least of 100 ml of urine (prior to cystoscopy or surgery)\n\nThe assay specificity samples (some samples can overlap with non-cancer cases of the clinical validation group):\n\nHealthy volunteers\nGenitourinary benign diseases\nGenitourinary cancer (non-bladder)\nNon-Genitourinary benign diseases\nNon-Genitourinary cancer\n\nExclusion Criteria:\n\n1) History of urinary cancer 2) Neoadjuvant therapy\n\n-",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "22 Years",
+                "MaximumAge": "100 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "The study will test 2 groups of patients: (1) The clinical validation group is to assess the safety and effectiveness of the AnchorDx UriFind\u2122 Bladder Cancer Assay in an intended use population to establish the expected performance in the product labeling. The study also aims to provide performance evidence of the AnchorDx UriFind\u2122 Bladder Cancer Assay in adequate number of early-stage and low-grade cases. (2) The assay specificity group is to further establish the specificity of the AnchorDx UriFind\u2122 Bladder Cancer Assay in a population of presumed assay negative healthy volunteers, urology patients without prior history or clinical evidence of bladder cancer and relevant non-urology patients.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Lorraine ODonnell, MS, MBA, CCRC, CMPE",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "914-388-4907",
+                            "CentralContactEMail": "lorraine.odonnell@ppsanalytics.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jianbing Fan",
+                            "OverallOfficialAffiliation": "AnchorDx Medical Co., Ltd.",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Arkansas Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Little Rock",
+                            "LocationState": "Arkansas",
+                            "LocationZip": "72211",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Katie O'Brien",
+                                        "LocationContactRole": "Contact"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Idaho Urologic Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Meridian",
+                            "LocationState": "Idaho",
+                            "LocationZip": "83642",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Stephanie Luckie",
+                                        "LocationContactRole": "Contact"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

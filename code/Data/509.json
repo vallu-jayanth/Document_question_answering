@@ -1,0 +1,426 @@
+{
+    "Rank": 509,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05589675",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IEC/22-29"
+                },
+                "Organization": {
+                    "OrgFullName": "International Agency for Research on Cancer",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of a New Invitation Procedure to the French Organized Colorectal Cancer Screening Program",
+                "OfficialTitle": "Evaluation of the Home Delivery of the Screening Kit, and Impact of a Prior Notification Among New Participants to the National Organized Colorectal Cancer Screening Program (Among New Participants Only)",
+                "Acronym": "KITCOLO22"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 17, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 18, 2022",
+                "StudyFirstSubmitQCDate": "October 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 21, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 18, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 21, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Catherine Sauvaget",
+                    "ResponsiblePartyInvestigatorTitle": "Dr",
+                    "ResponsiblePartyInvestigatorAffiliation": "International Agency for Research on Cancer"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "International Agency for Research on Cancer",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a randomized controlled trial comparing the effect on participation rates to colorectal cancer screening between an intervention arm (invitation letter to the screening program including a FIT test with or without prior notification) and a control arm with the standard of care (invitation letter to visit the GP who will deliver the FIT test).",
+                "DetailedDescription": "The participation to the national screening program for colorectal cancer in France is low. In order to improve the performances of its organized program, the National Cancer Institute is planning to modify the invitation procedure. This is a pilot project and if an improvement in the program performances is reported, the invitation procedure may be scaled up.\n\nEligible individuals for colorectal cancer screening will be identified by the Regional Cancer Screening Coordinating Centre and randomized into the intervention or control arms. They will be followed for FIT test submission to the central laboratory (participation to screening). Those who did not send their test will receive reminder letters. Those who had a positive FIT test will be followed up for coloscopy referral, and result of the coloscopy. Comparison of the participation rates to screening program and to coloscopy among those with a positive FIT test will be compared between the two study arms."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "colorectal cancer, screening program, pilot project, randomised control trial, France"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "This is a three-arm study with a parallel study design",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "64500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Intervention arm",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Invitation letter to the screening program with the FIT test",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Dispatch of the screening test along the invitation letter to the national colorectal cancer screening program"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Intervention arm - sub study",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Prior notification to the new entrants, followed by an invitation letter to the screening program with the FIT test",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Dispatch of the screening test along the invitation letter to the national colorectal cancer screening program",
+                                    "Other: Sending of a prior notification to the new entrants of the national program"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control arm",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Invitation letter to visit its own GP who will deliver the FIT test"
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Dispatch of the screening test along the invitation letter to the national colorectal cancer screening program",
+                            "InterventionDescription": "The individuals eligible for the colorectal cancer screening program will receive at home an invitation letter to participate to the program along with a FIT test. The follow-up will be similar to the standard of care, i.e. reminder letters at 5 and 10 months if there is no participation, and reminders if no coloscopy after a positive FIT test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Intervention arm",
+                                    "Intervention arm - sub study"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Sending of a prior notification to the new entrants of the national program",
+                            "InterventionDescription": "Dispatch of a notification, one month prior the dispatch of the screening test along the invitation letter. This intervention is among the new entrants to the national program",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Intervention arm - sub study"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Participation rates to the screening program",
+                            "PrimaryOutcomeDescription": "Comparison of the participation rate to the screening program between the intervention and the control arms",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Referral rates to coloscopy among those FIT positive",
+                            "SecondaryOutcomeDescription": "Comparison of the referral rates to coloscopy between the intervention and the control arms",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Participation rates to the screening program",
+                            "SecondaryOutcomeDescription": "Comparison of the participation rates to the screening program between the individuals aged 50-52 of the Intervention1 and the Intervention sub-study arms",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen and men aged 50 to 74 years old\nLiving in the study area (Departments of Ardennes, Meurthe-et-Moselle, and Moselle, France)\nAt moderate risk of colorectal cancer, i.e. eligible to the organised programme and receiving the first invitation of the screening round (not a reminder letter)\n\nExclusion Criteria:\n\nOutside the target age (less than 50 years old, or 75 years and more)\nReceiving the reminder letter\nAt high or very high risk of colorectal cancer",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "74 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Catherine Sauvaget, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+ 33 4 72738165",
+                            "CentralContactEMail": "SauvagetC@iarc.who.int"
+                        },
+                        {
+                            "CentralContactName": "Farida Selmouni, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+ 33 4 72738499",
+                            "CentralContactEMail": "SelmouniF@iarc.who.int"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Maurice TANGUY, MD",
+                            "OverallOfficialAffiliation": "Regional Cancer Screening Coordinating Centre, Meurthe-et-Moselle site, Nancy, France",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Myriam GUERBAZ SOMMI, MD",
+                            "OverallOfficialAffiliation": "Regional Cancer Screening Coordinating Centre, Moselle site, Metz, France",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Jean BOTO KEKY, MD",
+                            "OverallOfficialAffiliation": "Regional Cancer Screening Coordinating Centre, Ardennes site, Charleville-M\u00e9zi\u00e8res, France",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Regional Cancer Screening Coordinating Centre, Ardennes site",
+                            "LocationCity": "Charleville-M\u00e9zi\u00e8res",
+                            "LocationState": "Ardennes",
+                            "LocationZip": "08000",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jean BOTO KEKY, MD",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Jean BOTO KEKY, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Regional Cancer Screening Coordinating Centre, Meurthe-et-Moselle Site",
+                            "LocationCity": "Nancy",
+                            "LocationState": "Meurthe-et-Moselle",
+                            "LocationZip": "54500",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Maurice TANGUY, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+33-3-83-44-87-08",
+                                        "LocationContactEMail": "m.tanguy@depistagecancer-ge.fr"
+                                    },
+                                    {
+                                        "LocationContactName": "Maurice TANGUY, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Regional Cancer Screening Coordinating Centre, Moselle Site",
+                            "LocationCity": "Metz",
+                            "LocationState": "Moselle",
+                            "LocationZip": "57000",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Myriam GUERBAZ SOMMI, MD",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Myriam GUERBAZ SOMMI, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

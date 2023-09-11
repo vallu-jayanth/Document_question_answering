@@ -1,0 +1,364 @@
+{
+    "Rank": 228,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00898209",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC THO 0332"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "VU-VICC-THO-0332"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-030009"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Serum and Exhaled Breath Condensate MALDI-MS of Lung Cancer. (SPORE)",
+                "OfficialTitle": "Serum and Exhaled Breath Condensate MALDI-MS of Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2013",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "This study competed with another VICC study",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 2003"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 2009",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2009",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 9, 2009",
+                "StudyFirstSubmitQCDate": "May 9, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 12, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "June 23, 2014",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 24, 2014",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Pierre P. Massion, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Professor of Medicine (Allergy, Pulmonary & Critical Care) and Cancer Biology; Pulmonary and Critical Care Medicine Doctor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Collecting and storing samples of blood and exhaled breath from patients with cancer and from healthy participants to study in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer.\n\nPURPOSE: This research study is collecting and analyzing samples of blood and exhaled breath from patients who have or are at high risk for lung cancer and from healthy participants.",
+                "DetailedDescription": "OBJECTIVES:\n\nTo evaluate the ability of proteomic patterns in serum and exhaled breath condensate samples to detect and discriminate lung cancer from healthy and from high-risk individuals.\nTo correlate proteomic patterns with tumor behavior.\n\nOUTLINE: This is a multicenter study.\n\nBlood and exhaled breath condensate samples are collected, whenever possible, at a time medically indicated for other purposes (e.g., work-up, pre-op, surgical procedures). The samples are used to produce genetic material (i.e., DNA, RNA) and molecular material (i.e., proteins) that will be stored for future studies, including studies that may not be related to lung cancer. Future genetic studies related to lung cancer may include studies of protein expression patterns via matrix-assisted laser desorption/ionization time of flight mass spectrometry that may serve as predictive molecular markers of lung cancer.\n\nParticipants complete a 15-minute Lung Spore Database questionnaire at the time of study enrollment to provide information on demographics (e.g., date of birth, address, phone number), medical and smoking history, personal and family history of cancer and cancer treatment, and current medications. Medical records are reviewed at the time of study enrollment and then over approximately 5 years to obtain information, including test results, associated with the diagnosis of cancer. Participants may also be contacted by phone at a later time to answer questions about their health status."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage I non-small cell lung cancer",
+                        "stage II non-small cell lung cancer",
+                        "stage IIIA non-small cell lung cancer",
+                        "stage IIIB non-small cell lung cancer",
+                        "stage IV non-small cell lung cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Peripheral blood lymphocyte DNA, and Exhaled breath condensate"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "564",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Health Volunteers",
+                            "ArmGroupDescription": "Blood and exhaled breath condensate will be collected.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: protein expression analysis",
+                                    "Genetic: proteomic profiling",
+                                    "Other: biologic sample preservation procedure",
+                                    "Other: laboratory biomarker analysis",
+                                    "Other: matrix-asst laser desorption/ionization time flight mass spectrometry",
+                                    "Other: questionnaire administration"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Patients at risk or already identified as having lung cancer",
+                            "ArmGroupDescription": "Blood and exhaled breath condensate will be collected.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: protein expression analysis",
+                                    "Genetic: proteomic profiling",
+                                    "Other: biologic sample preservation procedure",
+                                    "Other: laboratory biomarker analysis",
+                                    "Other: matrix-asst laser desorption/ionization time flight mass spectrometry",
+                                    "Other: questionnaire administration"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "protein expression analysis",
+                            "InterventionDescription": "Blood and exhaled breath condensate will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "proteomic profiling",
+                            "InterventionDescription": "Blood and exhaled breath condensate will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "biologic sample preservation procedure",
+                            "InterventionDescription": "Blood and exhaled breath condensate will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "laboratory biomarker analysis",
+                            "InterventionDescription": "Blood and exhaled breath condensate will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "matrix-asst laser desorption/ionization time flight mass spectrometry",
+                            "InterventionDescription": "Blood and exhaled breath condensate will be collected.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "questionnaire administration",
+                            "InterventionDescription": "Questionnaire will be completed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Health Volunteers",
+                                    "Patients at risk or already identified as having lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Ability of proteomic patterns to detect and discriminate lung cancer",
+                            "PrimaryOutcomeDescription": "Serum and exhaled breath condensate samples are collected from healthy and high-risk individual with lung cancer",
+                            "PrimaryOutcomeTimeFrame": "Once at study entry"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation of proteomic patterns with tumor behavior",
+                            "PrimaryOutcomeTimeFrame": "Once at study entry"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nMeets 1 of the following criteria:\n\nNormal healthy volunteer\nAt high risk for lung cancer (e.g., > 30-pack year history of smoking; chronic obstructive pulmonary disease; or disease-free after surgical resection of lung cancer)\nDiagnosis of stage I, II, IIIA, IIIB, or IV lung cancer\nMust be willing to allow blood and exhaled breath condensate samples to be stored for genetic testing\n\nPATIENT CHARACTERISTICS:\n\nNot specified\n\nPRIOR CONCURRENT THERAPY:\n\nNot specified",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Healthy volunteers as well as patients at risk or already identified as having lung cancer.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Pierre P. Massion, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt-Ingram Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

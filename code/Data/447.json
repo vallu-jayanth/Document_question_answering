@@ -1,0 +1,441 @@
+{
+    "Rank": 447,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02345473",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "4186"
+                },
+                "Organization": {
+                    "OrgFullName": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Detection and Clinical Significance of Circulating Cancer Cells in Patient Undergoing Radical Cystectomy",
+                "OfficialTitle": "Detection and Clinical Significance of Circulating Cancer Cells in Patient Undergoing Radical Cystectomy",
+                "Acronym": "CirCanCell"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2005"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 2014",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 2014",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 14, 2015",
+                "StudyFirstSubmitQCDate": "January 19, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 26, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "January 19, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 26, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Pagliarulo Vincenzo",
+                    "ResponsiblePartyInvestigatorTitle": "Medical Doctor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Very few factors may be identified as prognostic for patients with bladder cancer undergoing radical cystectomy. Recently, detection of circulating tumor cells has shown to be very promising in anticipating both the likelyhood of distant metastases and survival in patients with breast cancer, melanoma, prostate cancer and other malignancies. In the present study we both tested the detection rate of circulating tumor cells using a PCR based methodology in the peripheral blood of patients undergoing radical cystectomy, and we further correlated our results with their clinical outcome."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer",
+                        "Circulating Tumor Cells"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Bladder cancer",
+                        "Circulating cancer cells"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Peripheral blood samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "59",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cystectomy patients",
+                            "ArmGroupDescription": "Arm of patients undergoing radical cystectomy for bladder cancer providing peripheral blood samples for detection of circulating cancer cells",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Detection of circulating tumor cells in blood samples"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy volunteers",
+                            "ArmGroupDescription": "Arm of healthy subjects not undergoing radical cystectomy providing peripheral blood samples for detection of circulating cancer cells",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Detection of circulating tumor cells in blood samples"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Detection of circulating tumor cells in blood samples",
+                            "InterventionDescription": "Ficoll based isolation of mononuclear cells from the peripheral blood of patients undergoing radical cystectomy, nucleic acids extraction and, finally, PCR based detection of sequences specific to cytokeratins.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cystectomy patients",
+                                    "Healthy volunteers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of circulating tumor cells",
+                            "PrimaryOutcomeDescription": "This outcome measure reflects the exact number of subjects diagnosed with circulating tumor cells within the total population of subjects included in the study",
+                            "PrimaryOutcomeTimeFrame": "8 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival",
+                            "SecondaryOutcomeDescription": "Comparison of overall survival between the population of patients found with circulating tumor cells and those found without circulating tumor cells",
+                            "SecondaryOutcomeTimeFrame": "8 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPrior trans urethral resection of the bladder (TUR)\nHistological confirmation of a transitional cell carcinoma (TCC) of the bladder\nECOG Performance Status \u2264 2\nWBC count \u22654,000/\u03bcL; platelet count \u2265150,000/\u03bcL; creatinine \u22641.8 mg/dL; AST, ALT, and alkaline phosphatase \u22642X the upper limit of normal, normal total bilirubin\nrecent (within 6 weeks of cystectomy) total body CT imaging study excluding distant metastases as well as upper urinary tract TCC\n\nExclusion Criteria:\n\nNeo-adjuvant chemotherapy (either planned or already performed)\nPatients receiving investigational medications\nSubjects not suitable for a radical cystectomy\nPatients not willing to participate",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients undergoing radical cystectomy for bladder cancer and healthy volunteers",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Vincenzo VP Pagliarulo, Urologist",
+                            "OverallOfficialAffiliation": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vincenzo Pagliarulo",
+                            "LocationCity": "Bari",
+                            "LocationZip": "70124",
+                            "LocationCountry": "Italy"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "11157016",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stein JP, Lieskovsky G, Cote R, Groshen S, Feng AC, Boyd S, Skinner E, Bochner B, Thangathurai D, Mikhail M, Raghavan D, Skinner DG. Radical cystectomy in the treatment of invasive bladder cancer: long-term results in 1,054 patients. J Clin Oncol. 2001 Feb 1;19(3):666-75. doi: 10.1200/JCO.2001.19.3.666."
+                        },
+                        {
+                            "ReferencePMID": "17698113",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Steven K, Poulsen AL. Radical cystectomy and extended pelvic lymphadenectomy: survival of patients with lymph node metastasis above the bifurcation of the common iliac vessels treated with surgery only. J Urol. 2007 Oct;178(4 Pt 1):1218-23; discussion 1223-4. doi: 10.1016/j.juro.2007.05.160. Epub 2007 Aug 14."
+                        },
+                        {
+                            "ReferencePMID": "12586807",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Madersbacher S, Hochreiter W, Burkhard F, Thalmann GN, Danuser H, Markwalder R, Studer UE. Radical cystectomy for bladder cancer today--a homogeneous series without neoadjuvant therapy. J Clin Oncol. 2003 Feb 15;21(4):690-6. doi: 10.1200/JCO.2003.05.101."
+                        },
+                        {
+                            "ReferencePMID": "16116151",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lotan Y, Gupta A, Shariat SF, Palapattu GS, Vazina A, Karakiewicz PI, Bastian PJ, Rogers CG, Amiel G, Perotte P, Schoenberg MP, Lerner SP, Sagalowsky AI. Lymphovascular invasion is independently associated with overall survival, cause-specific survival, and local and distant recurrence in patients with negative lymph nodes at radical cystectomy. J Clin Oncol. 2005 Sep 20;23(27):6533-9. doi: 10.1200/JCO.2005.05.516. Epub 2005 Aug 22."
+                        },
+                        {
+                            "ReferencePMID": "19339269",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Attard G, Swennenhuis JF, Olmos D, Reid AH, Vickers E, A'Hern R, Levink R, Coumans F, Moreira J, Riisnaes R, Oommen NB, Hawche G, Jameson C, Thompson E, Sipkema R, Carden CP, Parker C, Dearnaley D, Kaye SB, Cooper CS, Molina A, Cox ME, Terstappen LW, de Bono JS. Characterization of ERG, AR and PTEN gene status in circulating tumor cells from patients with castration-resistant prostate cancer. Cancer Res. 2009 Apr 1;69(7):2912-8. doi: 10.1158/0008-5472.CAN-08-3667."
+                        },
+                        {
+                            "ReferencePMID": "17188328",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Marrinucci D, Bethel K, Bruce RH, Curry DN, Hsieh B, Humphrey M, Krivacic RT, Kroener J, Kroener L, Ladanyi A, Lazarus NH, Nieva J, Kuhn P. Case study of the morphologic variation of circulating tumor cells. Hum Pathol. 2007 Mar;38(3):514-9. doi: 10.1016/j.humpath.2006.08.027. Epub 2006 Dec 22."
+                        },
+                        {
+                            "ReferencePMID": "10555753",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Desgrandchamps F, Teren M, Dal Cortivo L, Marolleau JP, Bertheau P, Villette JM, Cortesse A, Teillac P, Le Duc A, Hamdy FC. The effects of transurethral resection and cystoprostatectomy on dissemination of epithelial cells in the circulation of patients with bladder cancer. Br J Cancer. 1999 Nov;81(5):832-4. doi: 10.1038/sj.bjc.6690771."
+                        },
+                        {
+                            "ReferencePMID": "15300806",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Osman I, Kang M, Lee A, Deng FM, Polsky D, Mikhail M, Chang C, David DA, Mitra N, Wu XR, Sun TT, Bajorin DF. Detection of circulating cancer cells expressing uroplakins and epidermal growth factor receptor in bladder cancer patients. Int J Cancer. 2004 Oct 10;111(6):934-9. doi: 10.1002/ijc.20366."
+                        },
+                        {
+                            "ReferencePMID": "16475726",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ribal MJ, Mengual L, Marin M, Algaba F, Ars E, Fernandez PL, Oliva R, Villavicencio H, Alcaraz A. Molecular staging of bladder cancer with RT-PCR assay for CK20 in peripheral blood, bone marrow and lymph nodes: comparison with standard histological staging. Anticancer Res. 2006 Jan-Feb;26(1A):411-9."
+                        },
+                        {
+                            "ReferencePMID": "11419977",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Jiang J, Ulbright TM, Younger C, Sanchez K, Bostwick DG, Koch MO, Eble JN, Cheng L. Cytokeratin 7 and cytokeratin 20 in primary urinary bladder carcinoma and matched lymph node metastasis. Arch Pathol Lab Med. 2001 Jul;125(7):921-3. doi: 10.5858/2001-125-0921-CACIPU."
+                        },
+                        {
+                            "ReferencePMID": "11007036",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chu P, Wu E, Weiss LM. Cytokeratin 7 and cytokeratin 20 expression in epithelial neoplasms: a survey of 435 cases. Mod Pathol. 2000 Sep;13(9):962-72. doi: 10.1038/modpathol.3880175."
+                        },
+                        {
+                            "ReferencePMID": "8175808",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu XR, Lin JH, Walz T, Haner M, Yu J, Aebi U, Sun TT. Mammalian uroplakins. A group of highly conserved urothelial differentiation-related membrane proteins. J Biol Chem. 1994 May 6;269(18):13716-24."
+                        },
+                        {
+                            "ReferencePMID": "16280744",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu X, Kakehi Y, Zeng Y, Taoka R, Tsunemori H, Inui M. Uroplakin II as a promising marker for molecular diagnosis of nodal metastases from bladder cancer: comparison with cytokeratin 20. J Urol. 2005 Dec;174(6):2138-42, discussion 2142-3. doi: 10.1097/01.ju.0000181214.32390.75."
+                        },
+                        {
+                            "ReferencePMID": "17554991",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sawabata N, Okumura M, Utsumi T, Inoue M, Shiono H, Minami M, Nishida T, Sawa Y. Circulating tumor cells in peripheral blood caused by surgical manipulation of non-small-cell lung cancer: pilot study using an immunocytology method. Gen Thorac Cardiovasc Surg. 2007 May;55(5):189-92. doi: 10.1007/s11748-007-0101-2."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009360",
+                            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

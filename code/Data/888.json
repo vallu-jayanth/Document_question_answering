@@ -1,0 +1,577 @@
+{
+    "Rank": 888,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02786147",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB00084985"
+                },
+                "Organization": {
+                    "OrgFullName": "Emory University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Identification and Referral of Women at Risk for Hereditary Breast/Ovarian Cancer",
+                "OfficialTitle": "Strategies to Increase the Identification, Genetic Counseling Referral and Genetic Testing for Women at Risk for Hereditary Breast and/or Ovarian Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 28, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 28, 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 6, 2016",
+                "StudyFirstSubmitQCDate": "May 27, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 30, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 18, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 20, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Cecelia Bellcross",
+                    "ResponsiblePartyInvestigatorTitle": "Assistant Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Emory University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Emory University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to identify the most effective means of follow-up for women who screen positive on B-RST (Breast Cancer Genetics Referral Screening Tool) applied in the standard clinical setting of mammography, to maximize the number who are referred to and receive cancer genetic counseling services. The clinical utility of B-RST 3.0 will also be evaluated by determining the number seen who are appropriate for genetic testing, undergo genetic testing and are found to carry a hereditary cancer gene mutations with medical management implications for the patient and family. The long-term goal is to reduce the morbidity and mortality associated with hereditary causes of breast and ovarian cancer among patients seen in the Emory/Winship system.",
+                "DetailedDescription": "The three aims for this study are: 1. To develop an electronic version of the revised B-RST (Breast Cancer Genetics Referral Screening Tool) with a HIPAA compliant database for integration within the Winship Cancer Institute at Emory website. 2. To identify the most effective means of follow-up to maximize the number of screen positive individuals who are referred to and complete cancer genetics counseling. 3. Evaluate the clinical utility of B-RST 3.0 by analyzing the number of individuals who were referred to and received genetic counseling and were considered appropriate for genetic testing and underwent genetic testing, and were identified with a BRCA1/2 mutation, and/or were identified with a mutation in a different hereditary cancer gene, or were not appropriate for genetic testing, but were appropriate for referral to high-risk follow-up services.\n\nThe B-RST is a simple yet effective screening tool to identify individuals who may be at risk for hereditary breast and ovarian cancer. This study will seek to determine the most effective method of follow-up to maximize referral to and completion of cancer genetic counseling services following a screen positive result on the B-RST tool, and to understand clinical outcomes following participation in genetic counseling (i.e., whether patients who receive counseling undergo genetic testing, genetic testing results, and recommendations for enhanced screening and preventions)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Hereditary Breast and Ovarian Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer",
+                        "Ovarian Cancer",
+                        "B-RST"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "665",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patient Initiated",
+                            "ArmGroupDescription": "Patients randomized into this group will receive a standard handout explaining their result, which includes information on how to obtain cancer genetics services through Winship. However, neither the patient nor their ordering clinician will be directly contacted regarding the B-RST result.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Breast Cancer Genetics Referral Screening Tool 3.0",
+                                    "Other: Standard Handout"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Physician Notification",
+                            "ArmGroupDescription": "Patients randomized into this group will also receive the standard handout explaining their result. In addition, their primary care physician or ordering physician will be notified via Emory Electronic Medical Record (EeMR) that the patient screened positive on the B-RST. The note will provide specific instructions on how to refer the patient for cancer genetic counseling services.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Breast Cancer Genetics Referral Screening Tool 3.0",
+                                    "Other: Standard Handout",
+                                    "Other: Physician Notification"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Automatic Follow-Up By Genetic Counseling Staff",
+                            "ArmGroupDescription": "Patients randomized into this group will also receive the standard handout explaining their result. Within 1-2 weeks after their mammogram appointment, patients will receive a phone call from a genetics counseling staff person to explain their screening result and to offer to set up a genetics counseling appointment. This call may take up to 10 - 15 minutes.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Breast Cancer Genetics Referral Screening Tool 3.0",
+                                    "Other: Standard Handout",
+                                    "Other: Automatic Follow-Up by Genetic Counseling Staff"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Breast Cancer Genetics Referral Screening Tool 3.0",
+                            "InterventionDescription": "The B-RST is a simple yet effective validated screening tool to quickly identify individuals who may be at risk for hereditary breast and ovarian cancer and should be referred for cancer genetic counseling to formally evaluate their family history and discuss the benefits and limitations of genetic testing for hereditary breast and ovarian cancer.\n\nClinic staff will give each patient arriving for a screening mammogram appointment a packet and briefly inform them about the opportunity to participate in a research study and that these materials can help them decide whether or not to participate.\n\nPatients who indicate that they are interested in completing the B-RST screening while in the clinic will be provided with an electronic tablet that has a secure internet browser tab open to the web-based study version of the screening tool (the B-RST 3.0).",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Automatic Follow-Up By Genetic Counseling Staff",
+                                    "Patient Initiated",
+                                    "Physician Notification"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "B-RST 3.0"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Standard Handout",
+                            "InterventionDescription": "A document explaining the patient's positive test result indicating that they are at increased risk for HBOC (Hereditary Breast or Ovarian Cancer) which includes information on how to obtain cancer genetics services through Winship.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Automatic Follow-Up By Genetic Counseling Staff",
+                                    "Patient Initiated",
+                                    "Physician Notification"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Physician Notification",
+                            "InterventionDescription": "Primary care physician or ordering physician will be notified vie EeMR that the patient screened positive on the B-RST. The note provides specific instructions on how to refer the patient for cancer genetic counseling services.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Physician Notification"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Automatic Follow-Up by Genetic Counseling Staff",
+                            "InterventionDescription": "Within 1-2 weeks after the mammogram appointment, patients will receive a phone call from a genetics counseling staff person to explain their screening result and to offer to set up a genetics counseling appointment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Automatic Follow-Up By Genetic Counseling Staff"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of B-RST screen positive participants who are referred to cancer genetic counseling via Self-Referral, Physician Notification by EeMR, Direct Contact by Cancer Genetics Program",
+                            "PrimaryOutcomeTimeFrame": "18 Months from Baseline"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Number of participants who complete cancer genetic counseling after Self-Referral, Physician Notification by EeMR, Direct Contact by Cancer Genetics Program",
+                            "PrimaryOutcomeTimeFrame": "18 Months from Baseline"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants who underwent genetic testing after genetic counseling",
+                            "SecondaryOutcomeTimeFrame": "18 Months from Baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants who were identified with a BRCA1/2 mutation",
+                            "SecondaryOutcomeTimeFrame": "18 Months from Baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants who were identified with a mutation in a different hereditary cancer gene",
+                            "SecondaryOutcomeTimeFrame": "18 Months from Baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants who were not appropriate for genetic testing, but were appropriate for referral to high-risk follow-up services",
+                            "SecondaryOutcomeTimeFrame": "18 Months from Baseline"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient at one of the participating clinics (Winship Cancer Institute and Emory University Hospital Midtown) who arrive for a screening mammogram appointment.\n\nExclusion Criteria:\n\nPatients receiving a diagnostic mammogram will not be invited to participate in the study.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Female adult patients of the Winship Cancer Institute or Emory University Hospital Midtown that arrive for screening (non-diagnostic) mammogram appointments will be selected will be invited for participation.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Cecelia Bellcross, PhD, MS, CGC",
+                            "OverallOfficialAffiliation": "Emory University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Emory University Hospital Midtown",
+                            "LocationCity": "Atlanta",
+                            "LocationState": "Georgia",
+                            "LocationZip": "30308",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Winship Cancer Institute",
+                            "LocationCity": "Atlanta",
+                            "LocationState": "Georgia",
+                            "LocationZip": "30322",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Online B-RST tool",
+                            "SeeAlsoLinkURL": "http://brcagenescreen.org"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010051",
+                            "ConditionMeshTerm": "Ovarian Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000077216",
+                            "ConditionMeshTerm": "Carcinoma, Ovarian Epithelial"
+                        },
+                        {
+                            "ConditionMeshId": "D000061325",
+                            "ConditionMeshTerm": "Hereditary Breast and Ovarian Cancer Syndrome"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010049",
+                            "ConditionAncestorTerm": "Ovarian Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000291",
+                            "ConditionAncestorTerm": "Adnexal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006058",
+                            "ConditionAncestorTerm": "Gonadal Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002277",
+                            "ConditionAncestorTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001943",
+                            "ConditionAncestorTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009386",
+                            "ConditionAncestorTerm": "Neoplastic Syndromes, Hereditary"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030342",
+                            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12664",
+                            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1704",
+                            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M29502",
+                            "ConditionBrowseLeafName": "Hereditary Breast and Ovarian Cancer Syndrome",
+                            "ConditionBrowseLeafAsFound": "Hereditary Breast and Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16045",
+                            "ConditionBrowseLeafName": "Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12662",
+                            "ConditionBrowseLeafName": "Ovarian Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3333",
+                            "ConditionBrowseLeafName": "Adnexal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8853",
+                            "ConditionBrowseLeafName": "Gonadal Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12021",
+                            "ConditionBrowseLeafName": "Neoplastic Syndromes, Hereditary",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23376",
+                            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4352",
+                            "ConditionBrowseLeafName": "Ovarian Cancer",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4354",
+                            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

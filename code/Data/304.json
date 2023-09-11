@@ -1,0 +1,361 @@
+{
+    "Rank": 304,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02846870",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC RAD 1646"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2016-00777",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "Clinical Trials Reporting Program"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Visually Enhanced Education About Prostate Cancer",
+                "OfficialTitle": "Visually Enhanced Education About Prostate Cancer (VEEP-C): A Randomized Controlled Trial"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 25, 2016",
+                "StudyFirstSubmitQCDate": "July 25, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 27, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 21, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 23, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Austin Kirschner",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This randomized clinical trial studies how well visually enhanced education works in improving prostate cancer and treatment knowledge in patients with prostate cancer that has not spread to other places in the body. Visually enhanced education includes pictures, drawings, and photos, may help doctors better convey information about radiation and prostate cancer to patients.",
+                "DetailedDescription": "PRIMARY OBJECTIVES:\n\nI. Our goal is to conduct a randomized controlled trial to determine the impact of a visual presentation in the context of a radiation oncologist's discussion with patient during consultation on patient satisfaction at end of consultation visit and at end of treatment, on anxiety at start of treatment, on decision regret following treatment, and on perception of side effects following treatment. Of note, the attending radiation oncologist will be responsible for reviewing the Powerpoint presentation with the patient, taking time to answer any questions that the patient has\n\nOUTLINE: Patients are randomized into 1 of 2 arms.\n\nARM A (STANDARD EDUCATION): Patients receive a standard prostate cancer radiation oncology consultation.\n\nARM B (VISUAL ENHANCED EDUCATION): Patients receive a visually enhanced prostate cancer educational Powerpoint presentation including prostate anatomy, pathologic results, surgical options, radiation therapy, and prognosis with pictographs during radiation oncology consultation."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Stage I Prostate Cancer",
+                        "Stage II Prostate Cancer",
+                        "Stage III Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Supportive Care",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Standard Education",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Patients receive standard-of-care prostate cancer radiation oncology consultation.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Standard prostate cancer education presentation"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Visually Enhanced Education",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients receive a visually enhanced prostate cancer educational Powerpoint presentation including prostate anatomy, pathologic results, surgical options, radiation therapy, and prognosis with pictographs during radiation oncology consultation.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Visually enhanced prostate cancer educational presentation"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Visually enhanced prostate cancer educational presentation",
+                            "InterventionDescription": "Receive visually enhanced prostate cancer educational presentation",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Visually Enhanced Education"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Standard prostate cancer education presentation",
+                            "InterventionDescription": "Receive standard prostate cancer education presentation",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard Education"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Decision-Regret - based on Ottawa scale",
+                            "PrimaryOutcomeDescription": "Sample size was determined based on this primary outcome - with estimated mean of 16 in Arm A and mean of 8 in Arm B, with standard deviation of 15, with 80% power and alpha of 0.05.",
+                            "PrimaryOutcomeTimeFrame": "Up to 12 weeks"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Satisfaction - SCA",
+                            "SecondaryOutcomeTimeFrame": "baseline, end of treatment, and long-term follow-up"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Symptoms based on EPIC-26 short form",
+                            "SecondaryOutcomeTimeFrame": "baseline, end of treatment, and long-term follow-up"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Anxiety - Memorial MAX-PC scale",
+                            "SecondaryOutcomeTimeFrame": "1 week"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient must have non-metastatic, biopsy proven prostate cancer\nMust be referred to radiation oncology clinic\n\nExclusion Criteria:\n\nPrior surgery or radiation therapy for prostate cancer\nPatients who are blind are excluded",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Austin Kirschner, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vanderbilt University Medical Center",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37203",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "October 19, 2015",
+                            "LargeDocUploadDate": "07/21/2020 23:21",
+                            "LargeDocFilename": "ICF_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

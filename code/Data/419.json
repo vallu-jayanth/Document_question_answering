@@ -1,0 +1,463 @@
+{
+    "Rank": 419,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05401318",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "350208 (REK)"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Akershus",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Tailoring Treatment in Colorectal Cancer",
+                "OfficialTitle": "Pilot Study for Ex Vivo Tailoring of Treatment in Colorectal Cancer",
+                "Acronym": "TargetCRC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 28, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 28, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 1, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 2, 2022",
+                "StudyFirstSubmitQCDate": "May 28, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 2, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 23, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 27, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Sebastian Meltzer",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "University Hospital, Akershus"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Akershus",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Oncosyne AS",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Oslo University Hospital",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In this study, the investigators will establish a reliable method and logistic pipeline for personalized drug testing ex vivo using fresh tumor samples from colorectal cancer (CRC) patients. With this, the investigators aim to develop a novel predictive biomarker of immunotherapy response, by testing combinations of chemotherapies and chimeric antigen receptor (CAR) T cells. Critically, this affects a large subgroup of patients currently not considered to benefit from such treatment. To support the hypothesis, the project will make use of cutting-edge, cell-based functional diagnostics. Individual patients' cancer cells will be screened against a panel of chemotherapies and targeted therapies including CAR T cells, to assess the optimal combination of therapies to induce immunotherapy efficacy in otherwise unresponsive CRC.",
+                "DetailedDescription": "Primary hypothesis: Drug screening of patient-derived organoids is a feasible method to identify effective and ineffective therapies for personalized colorectal cancer treatment.\n\nSecondary hypothesis: Pre-treatment with cytotoxic agents can induce cellular immunotherapy efficacy against solid tumors in a colorectal cancer patient-derived organoid model.\n\nPrimary objective: To provide methodology and competencies for a clinical trial on drug screening on patient-derived organoids as an approach in personalized cancer treatment.\n\nSecondary objective: To explore induction of cellular immunotherapy efficacy in colorectal cancer patient-derived organoids by chemotherapy or targeted agents."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Leucovorin",
+                        "Oxaliplatin",
+                        "Fluorouracil",
+                        "Immunotherapy",
+                        "Colorectal cancer",
+                        "CAR T-cells",
+                        "Patient-Derived Organoids"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Serum, plasma, whole blood, fresh tissue samples."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Primary resectable colon and rectal cancer",
+                            "ArmGroupDescription": "Patients with primary resectable, localized colon and rectal cancer eligible for blood and tissue sampling for organoid development.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Tumor tissue sampling for organoid development"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Tumor tissue sampling for organoid development",
+                            "InterventionDescription": "Fresh tissue from colorectal tumors will be sampled and cultivated in 3D cultures for drug testing.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Primary resectable colon and rectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Clinical logistics pipeline for patient-derived organoid development success rate",
+                            "PrimaryOutcomeDescription": "Estimate the feasibility of the implementation of functional diagnostics in a clinical setting.\n\nOutcome 1: Inclusion of 10 patients in a study pilot. Measurement 1: Patient inclusion rate per week. Measurement 2: Capacity for organoid development at laboratory facilities (number of patients possible to include per week).\n\nOutcome 2: Development of patient-derived organoids from patient tumor samples. Measurement 1: The success rate of organoid development (numbers of organoids developed from the total amount of patients included).",
+                            "PrimaryOutcomeTimeFrame": "March 2022 until March 2023"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Sensitivity report for chemotherapy and cellular immunotherapy by clinical evaluation",
+                            "PrimaryOutcomeDescription": "Develop drug sensitivity report for clinical use, informing on the functional impact of anti-cancer therapies including cellular therapies ex vivo both by viability assays and real-time imaging analysis. The drug report will be developed to suit clinical use. The outcome will be measured in the clinical utility of the drug sensibility report for each patient and to what extent the report can be implemented in clinical practice for further drug selection studies. Measurement: Assessment of clinical utility by a panel of end-users, including oncologists, surgeons and patient representatives.",
+                            "PrimaryOutcomeTimeFrame": "March 2022 until March 2025"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Induction of immunotherapy efficacy by chemotherapy in colorectal cancer, measured by advanced imaging analysis",
+                            "PrimaryOutcomeDescription": "Outcome: Identification of chemotherapy or chemotherapy combinations with or without targeted therapies that induce immunotherapy efficacy in colorectal cancer. Measurement: By exposing patient-derived organoids to chemotherapy and targeted agents in combination with chimeric antigen receptor (CAR) T cells, the investigators will use advanced imaging and imaging analysis to assess treatment efficacy of the individual therapies and combinations.",
+                            "PrimaryOutcomeTimeFrame": "May 2022 until March 2025"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically confirmed colorectal cancer scheduled for curative surgery and standard clinical follow-up.\n\nExclusion Criteria:\n\n- Unable/unwilling to sign the informed consent form.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with suspected colorectal cancer referred into the program for standardized cancer diagnostic pathways at Akershus University Hospital will be offered enrolment in the study.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Sebastian Meltzer, M.D. Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+4767960000",
+                            "CentralContactEMail": "sebastian.meltzer@medisin.uio.no"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Sebastian Meltzer, M.D., Ph.D.",
+                            "OverallOfficialAffiliation": "University Hospital, Akershus",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Akershus University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "L\u00f8renskog",
+                            "LocationState": "Viken",
+                            "LocationZip": "1478",
+                            "LocationCountry": "Norway",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sebastian Meltzer",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "93608514",
+                                        "LocationContactEMail": "sebastian.meltzer@medisin.uio.no"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34416168",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Veninga V, Voest EE. Tumor organoids: Opportunities and challenges to guide precision medicine. Cancer Cell. 2021 Sep 13;39(9):1190-1201. doi: 10.1016/j.ccell.2021.07.020. Epub 2021 Aug 19."
+                        },
+                        {
+                            "ReferencePMID": "32299813",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bruun J, Kryeziu K, Eide PW, Moosavi SH, Eilertsen IA, Langerud J, Rosok B, Totland MZ, Brunsell TH, Pellinen T, Saarela J, Bergsland CH, Palmer HG, Brudvik KW, Guren T, Dienstmann R, Guren MG, Nesbakken A, Bjornbeth BA, Sveen A, Lothe RA. Patient-Derived Organoids from Multiple Colorectal Cancer Liver Metastases Reveal Moderate Intra-patient Pharmacotranscriptomic Heterogeneity. Clin Cancer Res. 2020 Aug 1;26(15):4107-4119. doi: 10.1158/1078-0432.CCR-19-3637. Epub 2020 Apr 16."
+                        },
+                        {
+                            "ReferencePMID": "35154495",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Teijeira A, Migueliz I, Garasa S, Karanikas V, Luri C, Cirella A, Olivera I, Canamero M, Alvarez M, Ochoa MC, Rouzaut A, Rodriguez-Ruiz ME, Sanmamed MF, Klein C, Umana P, Ponz M, Bacac M, Melero I. Three-dimensional colon cancer organoids model the response to CEA-CD3 T-cell engagers. Theranostics. 2022 Jan 1;12(3):1373-1387. doi: 10.7150/thno.63359. eCollection 2022."
+                        },
+                        {
+                            "ReferencePMID": "28003642",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yong CSM, Dardalhon V, Devaud C, Taylor N, Darcy PK, Kershaw MH. CAR T-cell therapy of solid tumors. Immunol Cell Biol. 2017 Apr;95(4):356-363. doi: 10.1038/icb.2016.128. Epub 2016 Dec 22."
+                        },
+                        {
+                            "ReferencePMID": "33919245",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Caulier B, Enserink JM, Walchli S. Pharmacologic Control of CAR T Cells. Int J Mol Sci. 2021 Apr 21;22(9):4320. doi: 10.3390/ijms22094320."
+                        },
+                        {
+                            "ReferencePMID": "32487146",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dillard P, Lie M, Baken E, Lobert VH, Benard E, Koksal H, Inderberg EM, Walchli S. Colorectal cysts as a validating tool for CAR therapy. BMC Biotechnol. 2020 Jun 1;20(1):30. doi: 10.1186/s12896-020-00623-0."
+                        },
+                        {
+                            "ReferencePMID": "33928223",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Koksal H, Baken E, Warren DJ, Loset GA, Inderberg EM, Walchli S. Chimeric antigen receptor preparation from hybridoma to T-cell expression. Antib Ther. 2019 May 31;2(2):56-63. doi: 10.1093/abt/tbz007. eCollection 2019 Apr."
+                        },
+                        {
+                            "ReferencePMID": "30979721",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Koksal H, Dillard P, Josefsson SE, Maggadottir SM, Pollmann S, Fane A, Blaker YN, Beiske K, Huse K, Kolstad A, Holte H, Kvalheim G, Smeland EB, Myklebust JH, Inderberg EM, Walchli S. Preclinical development of CD37CAR T-cell therapy for treatment of B-cell lymphoma. Blood Adv. 2019 Apr 23;3(8):1230-1243. doi: 10.1182/bloodadvances.2018029678."
+                        },
+                        {
+                            "ReferencePMID": "34595059",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yang D, Wang X, Zhou X, Zhao J, Yang H, Wang S, Morse MA, Wu J, Yuan Y, Li S, Hobeika A, Lyerly HK, Ren J. Blood microbiota diversity determines response of advanced colorectal cancer to chemotherapy combined with adoptive T cell immunotherapy. Oncoimmunology. 2021 Sep 27;10(1):1976953. doi: 10.1080/2162402X.2021.1976953. eCollection 2021."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "We do not plan to share individual participant data."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M5881",
+                            "InterventionBrowseLeafName": "Leucovorin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M8290",
+                            "InterventionBrowseLeafName": "Fluorouracil",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1674",
+                            "InterventionBrowseLeafName": "Oxaliplatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Micro",
+                            "InterventionBrowseBranchName": "Micronutrients"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

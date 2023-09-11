@@ -1,0 +1,520 @@
+{
+    "Rank": 541,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05068232",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB21-0776"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Chicago",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Durvalumab and Ablative Radiation in Small Cell Lung Cancer (DARES)",
+                "OfficialTitle": "A Phase II Trial of Durvalumab and Ablative Radiation in Extensive-Stage Small Cell Lung Cancer (DARES)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 19, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 1, 2027",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 1, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 24, 2021",
+                "StudyFirstSubmitQCDate": "September 24, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 5, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 14, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 16, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Chicago",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This this study is for individuals who have treatment-na\u00efve extensive-stage small cell lung cancer (small cell lung cancer that wont respond to treatment). Doctors leading this study hope to learn if combining durvalumab, carboplatin and etoposide with hyofractionated ablative radiation therapy (radiation focused on certain parts of the body) will help treat your cancer and improve how long you can live with extensive-stage small cell cancer without it getting worse (progression-free survival). Your participation in this research will last about 48 months.\n\nDurvalumab along with chemotherapy has been approved by the Food and Drug Administration (FDA) for the treatment of small cell lung cancer along with chemotherapy. This study is testing the addition of radiation to durvalumab and chemotherapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Small-cell Lung Cancer",
+                        "Extensive-stage Small-cell Lung Cancer",
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "small cell lung cancer",
+                        "extensive small lung cancer",
+                        "lung cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "49",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants With Extensive Small Cell Lung Cancer (All Participants)",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "This arm will involve all participants in the study who have extensive small cell lung cancer that has not responded to previous treatments. All participants will receive the same treatment of study drugs and radiation treatment in \"cycles\" (a specific window of time).\n\nYou will receive up to four 21-day cycles of chemotherapy using carboplatin, etoposide and durvalumab (immunotherapy) as part of a standard care treatment plan recommended by your doctor. These drugs will be combined with ablative radiation treatment during the second cycle of chemotherapy.\n\nAfter completing these four cycles of chemotherapy (with radiation treatment added in cycle 2), you will continue to receive a fixed dose of durvalumab until your cancer progresses, you experience serious side effects, you decide to no longer be part of the study or the study doctor request to take you off the study for medical reasons.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: Ablative Radiation",
+                                    "Drug: Durvalumab",
+                                    "Drug: Etoposide",
+                                    "Drug: Carboplatin"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "Ablative Radiation",
+                            "InterventionDescription": "Ablative radiation therapy is a highly focused radiation treatment that gives an intense dose of radiation concentrated on a tumor or very specific area of the body, while limiting the radiation that affects surrounding organs.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants With Extensive Small Cell Lung Cancer (All Participants)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Stereotactic Body Radiation Therapy (SBRT)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Durvalumab",
+                            "InterventionDescription": "Durvalumab is an immunotherapy drug -- a drug used to help boost your immune response to fight cancer.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants With Extensive Small Cell Lung Cancer (All Participants)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "IMFINZI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Etoposide",
+                            "InterventionDescription": "Etoposide is a chemotherapy drug approved for different kinds of cancer, including small cell lung cancer.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants With Extensive Small Cell Lung Cancer (All Participants)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "VP-16"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Carboplatin",
+                            "InterventionDescription": "Carboplatin is a chemotherapy drug approved for different kinds of cancer, including small cell lung cancer.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants With Extensive Small Cell Lung Cancer (All Participants)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Progression-Free Survival of Participant Until Disease Progression or Death",
+                            "PrimaryOutcomeDescription": "The progression-free survival (PFS) of subjects with extensive-stage small cell lung cancer treated with durvalumab, carboplatin and etoposide with hypofractionated ablative radiation therapy. Progression-free survival will be defined as the time from start of treatment until disease progression per Response Evaluation Criteria in Solid Tumors (RECISTv1.1) or death from any cause.",
+                            "PrimaryOutcomeTimeFrame": "48 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of Participants with Grade 3/4 Adverse Events After 3 Months According to the Common Terminology Criteria for Adverse Events",
+                            "SecondaryOutcomeDescription": "The rate of participants with serious adverse events by organ system that occur within three months of starting radiation, according to Common Terminology Criteria for Adverse Events (CTCAE) v5.",
+                            "SecondaryOutcomeTimeFrame": "3 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival Rate of Participants After Treatment with Chemotherapy, Durvalumab and Ablative Radiation",
+                            "SecondaryOutcomeDescription": "The overall survival rate of participants after treatment with chemotherapy, durvalumab, and hypofractionated ablative radiotherapy.",
+                            "SecondaryOutcomeTimeFrame": "48 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to Second-Line Therapy",
+                            "SecondaryOutcomeDescription": "Time to second-line therapy (from start of treatment until second-line therapy is needed) as assessed by clinical records.",
+                            "SecondaryOutcomeTimeFrame": "48 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to New, Distant Lesions",
+                            "SecondaryOutcomeDescription": "Time to development of new distant lesions as assessed clinical records.",
+                            "SecondaryOutcomeTimeFrame": "48 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression Free Survival at 12 Months",
+                            "SecondaryOutcomeDescription": "The progression-free survival (PFS) of subjects with extensive-stage small cell lung cancer treated with durvalumab, carboplatin and etoposide with hypofractionated ablative radiation therapy at 12 months. Progression-free survival will be defined as the time from start of treatment to 12 months per Response Evaluation Criteria in Solid Tumors (RECIST v1.1).",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFor inclusion in the study patients must fulfill all of the following criteria:\n\nCapable of giving signed informed consent which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in the study protocol.\nAge > 18 years at time of study entry.\nHave a histologic/clinically confirmed diagnosis of small cell lung cancer with known metastatic disease.\nPatient is suitable to receive a platinum-based chemotherapy regimen as first line treatment for extensive stage small cell lung cancer.\nBrain metastases must be asymptomatic or treated and stable off steroids and anti-convulsant for at least 2 weeks prior to study treatment.\nEastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\nLife expectancy of at least 12 weeks\nBody weight >30 kg\nAdequate normal organ and marrow function as defined by lab values the study doctor will review.\nPatient is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.\nHave measurable disease based on Response Evaluation Criteria in Solid Tumor (RECIST 1.1) including at least ONE lesion that meets criteria for ablative radiation, including 0.25 cc to 65 cc of viable tumor (i.e. primary disease or metastases) approximately 5cm in maximal dimension. Tumors larger than 65 cc can be partially treated.\nFemale subject of childbearing potential should have a negative urine or serum pregnancy within 24 hours prior to receiving the first dose of study medication. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\nFemale subjects of childbearing potential should be willing to use 2 methods of birth control or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study medication. Subjects of childbearing potential are those who have not been surgically sterilized or have not been free from menses for > 1 year.\nMale subjects should agree to use an adequate method of contraception starting with the first dose of study therapy through 120 days after the last dose of study therapy.\n\nExclusion Criteria:\n\nPatients should not enter the study if any of the following exclusion criteria are fulfilled:\n\nParticipation in another clinical study with an investigational product during the last 2 weeks.\nConcurrent enrollment in another clinical study, unless it is an observational (non-interventional) clinical study or during the follow-up period of an interventional study\n\nAny unresolved toxicity NCI CTCAE Grade \u22652 from previous anticancer therapy with the exception of alopecia, vitiligo, and the laboratory values defined in the inclusion criteria:\n\nPatients with Grade \u22652 neuropathy will be evaluated on a case-by-case basis after consultation with the Study Physician.\nPatients with irreversible toxicity not reasonably expected to be exacerbated by treatment with durvalumab may be included only after consultation with the Study Physician.\nAny concurrent chemotherapy, investigational product (IP), biologic, or hormonal therapy for cancer treatment, outside of those specified as part of this clinical trial. Concurrent use of hormonal therapy for non-cancer-related conditions (e.g., hormone replacement therapy) is acceptable.\nRadiotherapy treatment to more than 30% of the bone marrow or with a wide field of radiation within 4 weeks of the first dose of study drug\nMajor surgical procedure (as defined by the Investigator) within 28 days prior to the first dose of IP. Note: Local surgery of isolated lesions for palliative intent is acceptable.\nHistory of allogenic organ transplantation.\n\nActive or prior documented autoimmune or inflammatory disorders (including inflammatory bowel disease [e.g., colitis or Crohn's disease], diverticulitis [with the exception of diverticulosis], systemic lupus erythematosus, Sarcoidosis syndrome, or Wegener syndrome [granulomatosis with polyangiitis, Graves' disease, rheumatoid arthritis, hypophysitis, uveitis, etc]). The following are exceptions to this criterion:\n\nPatients with vitiligo or alopecia\nPatients with hypothyroidism (e.g., following Hashimoto syndrome) stable on hormone replacement\nAny chronic skin condition that does not require systemic therapy\nPatients without active disease in the last 5 years may be included but only after consultation with the study physician\nPatients with celiac disease controlled by diet alone\nUncontrolled intercurrent illness, including but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the patient to give written informed consent\n\nHistory of another primary malignancy except for\n\nMalignancy treated with curative intent and with no known active disease \u22655 years before the first dose of IP and of low potential risk for recurrence\nAdequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease\nAdequately treated carcinoma in situ without evidence of disease\nHistory of leptomeningeal carcinomatosis\nHas a paraneoplastic syndrome (PNS) of autoimmune nature, requiring systemic treatment (systemic steroids or immunosuppressive agents) or has a clinical symptomatology suggesting worsening of PNS.\nAll patients at screening should have an MRI (preferred) or CT each preferably with IV contrast of the brain prior to study entry. Patients whose brain metastases have been treated may participate provided they show radiographic stability (defined as 2 brain images, both of which are obtained after treatment to the brain metastases. These imaging scans should both be obtained at least two weeks apart and show no evidence of intracranial progression). In addition, any neurologic symptoms that developed either as a result of the brain metastases or their treatment must have resolved or be stable either, without the use of steroids, or are stable on a steroid dose of \u226410mg/day of prednisone or its equivalent for at least 14 days prior to the start of treatment. Brain metastases will not be recorded as RECIST Target Lesions at baseline.\nHistory of active primary immunodeficiency\nActive infection including tuberculosis (clinical evaluation that includes clinical history, physical examination and radiographic findings, and tuberculosis (TB) testing in line with local practice), hepatitis B (known positive HBV surface antigen (HBsAg) result), hepatitis C, or HIV. Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody [anti-HBc] and absence of HBsAg) are eligible. Patients positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for hepatitis C (HCV) ribonucleic acid (RNA).\n\nCurrent or prior use of immunosuppressive medication within 14 days before the first dose of durvalumab. The following are exceptions to this criterion:\n\nIntranasal, inhaled, topical steroids, or local steroid injections (e.g., intra articular injection)\nSystemic corticosteroids at physiologic doses not to exceed 10 mg/day of prednisone or its equivalent\nSteroids as premedication for hypersensitivity reactions (e.g., CT scan premedication)\nReceipt of live attenuated vaccine within 30 days prior to the first dose of IP. Note: Patients, if enrolled, should not receive live vaccine whilst receiving IP and up to 30 days after the last dose of IP.\nFemale patients who are pregnant or breastfeeding or male or female patients of reproductive potential who are not willing to employ effective birth control from screening to 90 days after the last dose of durvalumab monotherapy.\nKnown allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.\nPrior randomisation or treatment in a previous durvalumab clinical study regardless of treatment arm assignment.\nHas received prior chemotherapy, immunotherapy or thoracic radiation for small cell lung cancer.\nHas prior exposure to anti-PD (Programmed death-ligand 1) 1/PD-L1 or anti- cytotoxic T lymphocyte-associated antigen (CTLA4) therapy.\nHas had prior radiation therapy (defined as >10% of prior prescription dose) to the area planning to be treated with trial RT.\n\nProcedures for withdrawal of incorrectly enrolled patients are presented in Section 4.3",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Cancer Clinical Trials Office",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "1-855-702-8222",
+                            "CentralContactEMail": "cancerclinicaltrials@bsd.uchicago.edu"
+                        },
+                        {
+                            "CentralContactName": "Aditya Juloori, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "PhaseIICRA@medicine.bsd.uchicago.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Christine Bestvina, MD",
+                            "OverallOfficialAffiliation": "University of Chicago - Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Chicago Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60637",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Clinical Trials Intake",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "855-702-8222",
+                                        "LocationContactEMail": "cancerclinicaltrials@bsd.uchicago.edu"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000055752",
+                            "ConditionMeshTerm": "Small Cell Lung Carcinoma"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002283",
+                            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001984",
+                            "ConditionAncestorTerm": "Bronchial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M28013",
+                            "ConditionBrowseLeafName": "Small Cell Lung Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Small Cell Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5230",
+                            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4950",
+                            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5271",
+                            "ConditionBrowseLeafName": "Small Cell Lung Cancer",
+                            "ConditionBrowseLeafAsFound": "Small Cell Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000016190",
+                            "InterventionMeshTerm": "Carboplatin"
+                        },
+                        {
+                            "InterventionMeshId": "D000005047",
+                            "InterventionMeshTerm": "Etoposide"
+                        },
+                        {
+                            "InterventionMeshId": "C000613593",
+                            "InterventionMeshTerm": "Durvalumab"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000972",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Phytogenic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059005",
+                            "InterventionAncestorTerm": "Topoisomerase II Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059003",
+                            "InterventionAncestorTerm": "Topoisomerase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M18340",
+                            "InterventionBrowseLeafName": "Carboplatin",
+                            "InterventionBrowseLeafAsFound": "Level",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7881",
+                            "InterventionBrowseLeafName": "Etoposide",
+                            "InterventionBrowseLeafAsFound": "Use of",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M272470",
+                            "InterventionBrowseLeafName": "Durvalumab",
+                            "InterventionBrowseLeafAsFound": "Number",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M341584",
+                            "InterventionBrowseLeafName": "Etoposide phosphate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,398 @@
+{
+    "Rank": 290,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01780701",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB00008458"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "W81XWH-12-1-0168",
+                            "SecondaryIdType": "Other Grant/Funding Number",
+                            "SecondaryIdDomain": "Dept of Defense"
+                        },
+                        {
+                            "SecondaryId": "2978",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Portland VA Medical Center IRB"
+                        },
+                        {
+                            "SecondaryId": "8458",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Oregon Health & Science University IRB"
+                        },
+                        {
+                            "SecondaryId": "Log #A-17208",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Dept of Defense Human Research Protection Office"
+                        },
+                        {
+                            "SecondaryId": "PC110361",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Dept of Defense"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "OHSU Knight Cancer Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Magnetic Resonance Spectroscopic Imaging Study of Prostatic Fats to Distinguish the Difference Between High and Low Risk Prostate Cancer",
+                "OfficialTitle": "Imaging Prostatic Lipids to Distinguish Aggressive Prostate Cancer",
+                "Acronym": "MRSI+RRP"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 7, 2013",
+                "StudyFirstSubmitQCDate": "January 29, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 31, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 25, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 27, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Jackie Shannon",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "OHSU Knight Cancer Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "OHSU Knight Cancer Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "United States Department of Defense",
+                            "CollaboratorClass": "FED"
+                        },
+                        {
+                            "CollaboratorName": "Portland VA Medical Center",
+                            "CollaboratorClass": "FED"
+                        },
+                        {
+                            "CollaboratorName": "Oregon Health and Science University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A prostate cancer diagnosis starts a list of events that often leads to fast-moving treatment, thought by many to result in vast over-treatment of this disease. So, discovery of different diagnostic methods that allow clinicians to identify slow-growing from potentially fast-growing disease prior to or at the time of prostate biopsy could result in early and suitable treatment for men at greatest risk, while greatly decreasing the number of biopsies, surgical procedures, hormonal and chemotherapeutic treatments, cost, and patient worry, for those with more slow-growing disease."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "prostate cancer aggressiveness",
+                        "magnetic resonance imaging",
+                        "fatty acid synthase"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Crossover"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Blood, Urine, Prostatic fluid and Prostatectomy tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "66",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "High risk prostate cancer patients",
+                            "ArmGroupDescription": "Men who have been recently diagnosed with high risk prostate cancer (Gleason score 7 and above) and who choose prostate removal for their cancer treatment will undergo Magnetic Resonance Spectroscopy Imaging (MRSI) with rectal probe at the Oregon Health & Science University's Advanced Imaging Research Center.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Magnetic Resonance Spectroscopy Imaging with rectal probe"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Low risk prostate cancer patients",
+                            "ArmGroupDescription": "Men who have been recently diagnosed with low risk prostate cancer (Gleason score 7 [3+4] and below) and who choose prostate removal for their cancer treatment will undergo Magnetic Resonance Spectroscopy Imaging (MRSI) with rectal probe at the Oregon Health & Science University's Advanced Imaging Research Center.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Magnetic Resonance Spectroscopy Imaging with rectal probe"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Magnetic Resonance Spectroscopy Imaging with rectal probe",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "High risk prostate cancer patients",
+                                    "Low risk prostate cancer patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Magnetic Resonance Spectroscopy Imaging",
+                                    "MRSI",
+                                    "Magnetic Resonance Imaging",
+                                    "MRI"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of participants with increased intraprostatic lipid concentration",
+                            "PrimaryOutcomeDescription": "Determine the correlation between the amount of intraprostatic lipid using 1H (proton) magnetic resonance spectroscopic imaging (MRSI) with an endorectal coil obtained prior to prostatectomy with fatty acid synthase protein expression measured in benign and cancer tissue from prostatectomy samples.",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants with increased tumor aggressiveness",
+                            "SecondaryOutcomeDescription": "Identify the association between fatty acid synthase protein expression in prostatectomy samples, intraprostatic lipid as measured by 1H MRSI, and prostate tumor aggressiveness.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Number of participants with accumulation of lipid intermediates and proteins",
+                            "OtherOutcomeDescription": "To quantify the association between key metabolic intermediates involved in lipid metabolism, mitochondrial function, inflammation, and apoptosis in prostatectomy samples and fatty acid synthase protein expression, intraprostatic lipid and tumor aggressiveness.",
+                            "OtherOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nProstate cancer diagnosis prior to treatment\nAge 21 years or older\nSigned informed subject consent\nProstatectomy as planned prostate cancer treatment\n\nExclusion Criteria:\n\nMen who do not choose prostatectomy\nMen who have undergone any neoadjuvant therapy\nMen who have cardiac pacemakers or other implanted electronic devices\nMen who have any surgically implanted metal\nMen who have had any surgical procedure that precludes placement of endorectal probe\nIndication of dementia or memory issues listed on problem list\nMen who indicate exposure to ocular metal fragments; confirmed by positive ocular x-ray\nMen who are taking newly-prescribed (within 6 months of enrollment) lipid control medications",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "21 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "all men newly-diagnosed with prostate cancer at the Portland VA and OHSU Urology clinics",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jackilen Shannon, PhD",
+                            "OverallOfficialAffiliation": "Oregon Health and Science University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Jonathan Q Purnell, MD",
+                            "OverallOfficialAffiliation": "Oregon Health and Science University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Portland VA Medical Center",
+                            "LocationCity": "Portland",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97207",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oregon Health & Science University Advanced Imaging Research Center",
+                            "LocationCity": "Portland",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97239",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3414",
+                            "ConditionBrowseLeafName": "Aggression",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

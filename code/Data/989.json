@@ -1,0 +1,331 @@
+{
+    "Rank": 989,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03863457",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "831804"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Pennsylvania",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "[18F] F-GLN by PET/CT in Breast Cancer",
+                "OfficialTitle": "Pilot Study Evaluating the Uptake of [18F] F-GLN by PET/CT in Breast Cancer",
+                "Acronym": "[18F]F-GLN"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 5, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 27, 2019",
+                "StudyFirstSubmitQCDate": "March 4, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 5, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 18, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Pennsylvania",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Patients with known or suspected primary or metastatic breast cancer with one lesion that is 1.5 cm in diameter or greater may be eligible for this study. Patients may participate in this study if they are at least 18 years of age. Up to 40 evaluable subjects will participate in a single imaging cohort. Patients will be stratified for analysis by breast cancer subtype with prioritization to recruit at least 10 estrogen-receptor-expressing (ER+) and 10 triple-negative breast cancers (TNBC).\n\nThis is an observational study; [18F]F-GLN PET/CT will not be used to direct treatment decisions. While patients and referring physicians will not be blinded to the [18F]F-GLN PET/CT results, treatment decisions are made by the treating physicians based upon clinical criteria.\n\n[18F]F-GLN PET/CT imaging sessions will include an injection of [18F]F-GLN. Metabolism data will be collected. Pilot data will be collected to evaluate image quality and collect preliminary information on the uptake of [18F]F-GLN in breast cancer. Uptake measures will be compared to tumor markers of glutamine metabolism, when tissue is available. The safety of [18F]F-GLN will also be evaluated in all subjects.",
+                "DetailedDescription": "Up to 40 patients will undergo approximately 60 minutes of dynamic PET scanning followed by up to 2 static skull-base to mid-thigh scans post injection of [18F] (2S,4R)4-fluoroglutamine ([18F]F-GLN). A baseline FDG-PET/CT will also be performed, either as a routine clinical staging/re-staging scan or as a research scan. If performed as a research scan, the scan may include an optional dynamic imaging session. Some subjects, who undergo systemic therapy as part of their clinical treatment, may also undergo an optional second [18F]F-GLN PET/CT to collect pilot data on the changes in [18F]F-GLN uptake in response to therapy. Subjects who undergo a second [18F]F-GLN PET/CT may have a second FDG-PET/CT, again either as a standard-of-care restaging study or as an optional research scan. The timing of the optional second PET scans will vary depending on the type of treatment the subject is receiving."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "UPTAKE OF [18F]F-GLN BY PET/CT IN BREAST CANCER",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Pilot data will be collected to evaluate image quality and collect preliminary information on the uptake of [18F]F-Gln in breast cancer. Uptake measures will be compared to tumor markers of glutamine metabolism, when tissue is available. The safety of [18F]F-Gln will also be evaluated in all subjects.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Fluoroglutamine [18F]F-GLN"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Fluoroglutamine [18F]F-GLN",
+                            "InterventionDescription": "Evaluate the kinetics and biodistribution of [18F]F-GLN in primary and metastatic breast cancer.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "UPTAKE OF [18F]F-GLN BY PET/CT IN BREAST CANCER"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "[18F](2S, 4R)4-Fluoroglutamine ([18F]F-GLN)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Kinetics and Biodistribution of [18F]F-GLN",
+                            "PrimaryOutcomeDescription": "Evaluate the biodistribution of [18F]F-GLN by measuring organ and whole body dosimetry.",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Incidence of Adverse Events (Safety and Tolerability)",
+                            "SecondaryOutcomeDescription": "Evaluate the safety of [18F]F-GLN. Number of participants with treatment-related adverse events as assessed by CTCAE v4.0.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association of Uptake with [18F]F-GLN",
+                            "SecondaryOutcomeDescription": "Assess the correlation of [18F]F-GLN with pathologic sub-types of breast cancer using standard pathology results, ER, PR, HER2.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association with Tumor Markers and [18F]F-GLN",
+                            "SecondaryOutcomeDescription": "Correlate uptake of [18F]F-GLN with pathologic measurement of glutamine metabolism in tissue.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Metabolism of [18F]F-GLN",
+                            "SecondaryOutcomeDescription": "Measure the biometabolites in patient blood over time, following injection of [18F]F-GLN to determine the rate at which [18F]F-GLN is metabolized.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Uptake of [18F]F-GLN After Therapy",
+                            "SecondaryOutcomeDescription": "Evaluate change in [18F]F-GLN uptake measures after therapy compared to pre-treatment baseline.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipants will be \u2265 18 years of age\nKnown or suspected primary or metastatic breast cancer.\nAt least one lesion \u2265 1.5 cm that is seen on standard imaging (e.g. CT, MRI, mammogram, ultrasound, FDG-PET/CT). Only one type of imaging is required to show a lesion.\nParticipants must be informed of the investigational nature of this study and be willing to provide written informed consent and participate in this study in accordance with institutional and federal guidelines prior to study-specific procedures.\n\nExclusion Criteria:\n\nFemales who are pregnant or breast feeding at the time of screening; a urine pregnancy test will be performed in women of child-bearing potential at screening.\nInability to tolerate imaging procedures in the opinion of an investigator or treating physician.\nAny current medical condition, illness, or disorder, as assessed by medical record review and/or self-reported, that is considered by a physician investigator to be a condition that could compromise participant safety or successful participation in the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Erin Schubert",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "215-573-6569",
+                            "CentralContactEMail": "erin.schubert@pennmedicine.upenn.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Austin Pantel, MD",
+                            "OverallOfficialAffiliation": "Instructor of Radiology",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Pennsylvania",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Erin Schubert",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "215-573-6569",
+                                        "LocationContactEMail": "erin.schubert@pennmedicine.upenn.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Austin Pantel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T6",
+                            "InterventionBrowseLeafName": "Glutamine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "AA",
+                            "InterventionBrowseBranchName": "Amino Acids"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

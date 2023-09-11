@@ -1,0 +1,241 @@
+{
+    "Rank": 532,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05747339",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "KY23009"
+                },
+                "Organization": {
+                    "OrgFullName": "Wuxi People's Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Clinical Study on the Efficacy and Mechanism of Tumor Treatment Vaccine (TTV) for Recurrent and Refractory Advanced Solid Tumors",
+                "OfficialTitle": "The Efficacy and Safety of Tumor Treatment Vaccine in Patients With Advanced Solid Tumors"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 7, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 16, 2023",
+                "StudyFirstSubmitQCDate": "February 16, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 28, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 12, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 13, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Wuxi People's Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a study of the clinical efficacy and mechanism study of tumor treatment vaccine (TTV, also known as Neo-BCV) in patients with recurrent and refractory advanced solid tumors.",
+                "DetailedDescription": "The study aims to explore the safety and effectiveness of Neo-BCV in the treatment of advanced solid tumors.The safety will be evaluated by statistics of adverse reactions. The efficacy will be evaluated according to local relief degree, progress free survival (PFS) and overall survival (OS)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Solid Tumors, Adult"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Tumor immunotherapy",
+                        "Tumor vaccine",
+                        "Advanced solid tumor"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "50",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Tumor treatment vaccine for patients with advanced solid tumors",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Tumor treatment vaccine(TTV) would be given deep subcutaneously in the arm or near the tumor.The check indexes are image examination (CT, MRI or PET scan) and blood tests (including tumor markers, lymphocyte subsets and circulating tumor cell).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: tumor treatment vaccine injection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "tumor treatment vaccine injection",
+                            "InterventionDescription": "Patients will receive tumor treatment vaccine(TTV), which would be given deep subcutaneously in the arm or near the tumor.The initial dose is 1ml / week, if the reaction isn't obvious, the dose can be appropriately increased to 2.5-4.0ml / week.The interval between injections can be shortened or extended depending on the patient's condition and response.The duration of treatment should be extended as long as possible, at least 6-12 months.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Tumor treatment vaccine for patients with advanced solid tumors"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Relief degree of tumors",
+                            "PrimaryOutcomeDescription": "It will be evaluated by the Response Evaluation Criteria in Solid Tumors\uff08RECIST1.1\uff09",
+                            "PrimaryOutcomeTimeFrame": "The last injection"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Progress free survival\uff08PFS\uff09",
+                            "SecondaryOutcomeDescription": "The duration from the beginning of treatment to cancer recurrence or progression",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival\uff08OS\uff09",
+                            "SecondaryOutcomeDescription": "The duration from the beginning of treatment to patient death",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female aged 18-75 years;\nASubjects must have histologically- or cytologically-confirmed diagnosis of advanced solid tumor(s) and have progressed on or is not eligible for available standard therapy;\nSubjects have at least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST 1.1) (non-nodal lesions with longest diameter \u2265 10 mm, or nodal lesions with short diameter \u2265 15 mm);\nECOG score of 0-2, lifespan > 12 weeks;\nWomen of childbearing age who have a negative pregnancy test within 7 days before treatment. Female patients of childbearing age, and male patients with partners of childbearing age must agree to use at least one medically recognized contraceptive method during study treatment and within at least 6 months after the last dose of investigational drug;\nVoluntarily participated in this study, signed the informed consent form, had good compliance, and cooperated with the follow-up.\n\nExclusion Criteria:\n\nThe patient is diagnosed with central nervous system leukemia(symptoms, signs, imaging, cerebrospinal fluid);\nWhite blood cell count \u2265 50\u00d710^9/ L or patients with rapid disease progression can't be guaranteed to complete a full treatment cycle;\nPatients with fungal, bacterial, viral or other uncontrollable infections or requiring four-level isolation treatment.\nHIV, HBV and HCV positive;\nPatients with diseases of the central nervous system or autoimmune central nervous system lesions, Including stroke, epilepsy, dementia;\nPatients have myocardial infection, cardiac angiography or stents, active angina or other obvious clinical symptoms, or have cardiopathic asthma or cardiovascular lymphocytic infiltrates\uff0cwithin 12 months;\nPatients are on anticoagulation or have severe coagulopathy (APTT>70);\nPatients in any condition requiring systemic treatment with corticosteroids or other immunosuppressive agents within 2weeks prior to investigational drug administration;\nPatients were infected with covid-19 within 2weeks prior to investigational drug administration;\nSubjects having any serious uncontrolled disease or in other conditions that would preclude them from receiving study treatment and are considered unsuitable for this study in the opinion of the investigator;\nSubjects in other conditions that are considered unsuitable for this study by the investigator.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Peihua Lu, Doctor",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "13621500031",
+                            "CentralContactEMail": "13625653@qq.com"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

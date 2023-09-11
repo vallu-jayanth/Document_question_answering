@@ -1,0 +1,421 @@
+{
+    "Rank": 721,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05412225",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "22-136"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Study of an Alternative Treatment Approach (Preoperative Radiotherapy, Then Mastectomy, Then Immediate Reconstruction Surgery) in People With T4 Breast Cancer",
+                "OfficialTitle": "Feasibility of Preoperative Radiotherapy in T3 and T4 Breast Cancer Patients Who Are Responders to Neoadjuvant Chemotherapy to Allow for Immediate Reconstruction: a Prospective Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 6, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 6, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 6, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 6, 2022",
+                "StudyFirstSubmitQCDate": "June 6, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 9, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 8, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 10, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study to test an alternative treatment approach that involves giving participants radiotherapy before their mastectomy (preoperative radiotherapy) and performing immediate reconstruction surgery at the time of mastectomy. The immediate reconstruction surgery is called an immediate autologous reconstruction (IR) and is different than the standard reconstruction surgery people with T4 breast cancer have. IR is a surgical procedure where immediately following your mastectomy, the surgeon takes tissue from another part of your body and uses it to re-create your breast. The standard reconstruction surgery occurs later and can be done with an implant or tissue from your body.\n\nThe main purpose of this study to find out if the alternative treatment approach shown above is feasible. The study will see how safe this alternative treatment approach is compared with the standard treatment approach."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer",
+                        "Invasive Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "mastectomy",
+                        "Memorial Sloan Kettering Cancer Center",
+                        "22-136"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "60",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants with clinical T4 biopsy-proven breast cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with clinical T4 biopsy-proven breast cancer with no evidence of distant metastases who demonstrate a complete or partial response to standard neoadjuvant chemotherapy/NAC and desire immediate autologous reconstruction/IR will be eligible to enroll.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Pre-neoadjuvant radiotherapy (NART) biopsy",
+                                    "Radiation: Neoadjuvant radiotherapy",
+                                    "Procedure: Unilateral total mastectomy with axillary lymph node dissection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Pre-neoadjuvant radiotherapy (NART) biopsy",
+                            "InterventionDescription": "Participants will undergo pre-NART core biopsy guided by post-NAC MRI to the area of residual enhancement or to the previously biopsied cancer if no residual enhancement remains",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with clinical T4 biopsy-proven breast cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "Neoadjuvant radiotherapy",
+                            "InterventionDescription": "After biopsy, participants will undergo neoadjuvant radiotherapy/NART",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with clinical T4 biopsy-proven breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "NART"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Unilateral total mastectomy with axillary lymph node dissection",
+                            "InterventionDescription": "At 2-6 weeks after completion of NART, participants will undergo unilateral MRM (total mastectomy with axillary lymph node dissection), with resection of all involved breast skin. Skin-sparing mastectomy will not be permitted. All patients will also undergo simultaneous unilateral autologous-based breast reconstruction with DIEP, ms-TRAM, or latissimus dorsi flap.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with clinical T4 biopsy-proven breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRM"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Compare the rate of wound complications for partners who receive neoadjuvant radiotherapy (NART) and modified radical mastectomy with immediate autologous reconstruction (IR) following neoadjuvant chemotherapy (NAC) compared w/current standard of care",
+                            "PrimaryOutcomeDescription": "Prospectively assess the feasibility of neoadjuvant radiotherapy (NART) and modified radical mastectomy with immediate autologous reconstruction (IR) following neoadjuvant chemotherapy (NAC) in patients with clinical T4 breast cancer, compared with the current standard of care ( [NAC, modified radical mastectomy [MRM] with delayed reconstruction, and postmastectomy radiotherapy [PMRT]), by assessing the rate of wound complications (surgical site infection [SSI], reoperative intervention, and flap failure)",
+                            "PrimaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFemale sex, aged \u226518 years, with biopsy-proven invasive breast cancer\ncT3-4 cN0-3 tumor\nPartial or complete response to NAC on imaging and clinical examination using the Response Evaluation Criteria in Solid Tumors (RECISTv1.1) definition.\nDesire to undergo autologous reconstruction and assessed to be an appropriate candidate by a plastic and reconstructive surgeon\nAble to read and understand English\n\nExclusion Criteria:\n\nPrior ipsilateral breast cancer\nBilateral breast cancer\nPregnant\nStage IV disease at presentation\nStable disease or progressive disease after NAC\nSurgically unresectable breast disease\nBMI >40\nPrior history of thoracic radiotherapy",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Audree Tadros, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-4456",
+                            "CentralContactEMail": "tadrosa@mskcc.org"
+                        },
+                        {
+                            "CentralContactName": "Atif Khan, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "848-225-6334",
+                            "CentralContactEMail": "khana7@mskcc.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Audree Tadros, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Basking Ridge (Limited Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Basking Ridge",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07920",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Monmouth (Limited Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Middletown",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07748",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Bergen (Limited Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Montvale",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07645",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center @ Suffolk-Commack (Limited protocol activity)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Commack",
+                            "LocationState": "New York",
+                            "LocationZip": "11725",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Westchester (Limited Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Harrison",
+                            "LocationState": "New York",
+                            "LocationZip": "10604",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Nassau (Limited Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Uniondale",
+                            "LocationState": "New York",
+                            "LocationZip": "11553",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Audree Tadros, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4456"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

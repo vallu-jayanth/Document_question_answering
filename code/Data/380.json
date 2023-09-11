@@ -1,0 +1,374 @@
+{
+    "Rank": 380,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03235765",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "SNUBH-17-01"
+                },
+                "Organization": {
+                    "OrgFullName": "Seoul National University Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Cancer Panel From Blood of Lung Cancer Patients",
+                "OfficialTitle": "Clinical Validity of Oncogenic Driver Genes Detected From Circulating Tumor DNA in Blood of Lung Cancer Patients",
+                "Acronym": "CAPABLE"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 10, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 10, 2019",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 10, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 28, 2017",
+                "StudyFirstSubmitQCDate": "July 28, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 1, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 18, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 22, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Jong-Seok Lee",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Seoul National University Bundang Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Seoul National University Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "MACROGEN",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Molecular profiling of lung cancers using circulating tumor DNA (ctDNA) in the blood of patients is rapidly becoming established as a useful source of information to aid clinical decision-making. This study is aimed to to compare concordance rate between tissue based cancer panel analysis and blood based cancer panel analysis in lung cancer patients (both by NGS technique).",
+                "DetailedDescription": "This study is comprised of two cohorts as below:\n\nCohort A: inoperable, untreated, non-small cell lung cancer patients\n\nCohort B: non-small cell lung cancer patients who are in the treatment with targeted agents including immune checkpoint inhibitors"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Non Small Cell Lung Cancer Metastatic",
+                        "Non Small Cell Lung Cancer Recurrent"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "NSCLC",
+                        "Cancer panel",
+                        "NGS",
+                        "Actionable mutation",
+                        "Immune checkpoint inhibitor"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "3 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Cancer panel analysis will be done with patients tumro tissue and ctDNA"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cohort A",
+                            "ArmGroupDescription": "Patients who are diagnosed with metastatic/recurrent non-small cell lung cancer and planned to receive first line chemotherapy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MACROGEN Pan Cancer Panel (Tier 2)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort B",
+                            "ArmGroupDescription": "Patients with recurrent/metastatic non-small cell lung cancer who have been receiving molecular targeted therapy, including immune checkpoint inhibitor, and have tumor shrinkage with the agent.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MACROGEN Pan Cancer Panel (Tier 2)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "MACROGEN Pan Cancer Panel (Tier 2)",
+                            "InterventionDescription": "This study will utilize a MACROGEN Pan Cancer Panel (Tier 2), which is a hybrid capture-based NGS assay interrogating the coding regions of 170 cancer-related genes.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort A",
+                                    "Cohort B"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Concordance rate",
+                            "PrimaryOutcomeDescription": "Concordance rate of genomic change between tumor tissue (FFPE) and ctDNA",
+                            "PrimaryOutcomeTimeFrame": "an average of one year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival",
+                            "SecondaryOutcomeDescription": "To evaluate prognostic role of ctDNA concentration in NSCLC",
+                            "SecondaryOutcomeTimeFrame": "an average of one year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Frequency of actionable genomic change",
+                            "SecondaryOutcomeDescription": "To determine the frequency of actionable oncogenic genes in NSCLC",
+                            "SecondaryOutcomeTimeFrame": "an average of one year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival by treatment",
+                            "SecondaryOutcomeDescription": "To evaluate the survival of patients treated with genotype-directed therapy in daily practice",
+                            "SecondaryOutcomeTimeFrame": "an average of one year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of informed consent prior to any study specific procedures, sampling, and analyses\nPathologically confirmed non-small cell lung cancer\nMale or female, aged at least 20 years\n\nMatches one of two criteria :\n\nCohort A: Patients who are diagnosed with metastatic/recurrent non-small cell lung cancer and planned to receive first line chemotherapy\nCohort B: Patients with recurrent/metastatic non-small cell lung cancer who have been receiving molecular targeted therapy, including immune checkpoint inhibitor, and have tumor shrinkage with the agent.\n\nExclusion Criteria:\n\nAny concurrent and/or other active malignancy that has required treatment within 3 years\nPatients with mixed small cell histology\nLife expectancy less than 3 months\nInsufficient tissue for NGS test",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "20 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Inoperable non-small cell lung cancer with two cohorts as below:\n\nCohort A: Patients who are diagnosed with metastatic/recurrent non-small cell lung cancer and planned to receive first line chemotherapy\nCohort B: Patients with recurrent/metastatic non-small cell lung cancer who have been receiving molecular targeted therapy, including immune checkpoint inhibitor, and have tumor shrinkage with the agent.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Seoul National University Bundang Hospital",
+                            "LocationCity": "Seongnam",
+                            "LocationZip": "463-707",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000002289",
+                            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002283",
+                            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001984",
+                            "ConditionAncestorTerm": "Bronchial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafAsFound": "Non-Small Cell Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5230",
+                            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4950",
+                            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2343",
+                            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

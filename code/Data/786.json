@@ -1,0 +1,351 @@
+{
+    "Rank": 786,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03147430",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "16-09-EX-0146"
+                },
+                "Organization": {
+                    "OrgFullName": "Sentara Norfolk General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Early Detection of Breast Cancer in Women With Suspicious Mammograms",
+                "OfficialTitle": "Early Detection of Breast Cancer in Women With Suspicious Mammograms"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 8, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 1, 2017",
+                "StudyFirstSubmitQCDate": "May 8, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 10, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 25, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 26, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sentara Norfolk General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Dorothy G. Hoefer Foundation",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "George Mason University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a non-treatment study. It will not involve the use of any investigational drug or device. Potential participants will be enrolled through direct contact with collaborating clinical sites when the patient's annual 3D mammogram report yields a BIRADS rating of 4-5. The clinical Investigators or a member of their staff will conduct consent discussion once a suspicious mammogram report is identified or if a patient is referred for imaging of a suspicious area in the breast. After consenting the participant will be asked to donate a blood sample, a saliva sample, medical records pertaining to the suspicious mammogram report and a medical history questionnaire. The participants will be followed after one year to capture progression or resolution of their suspicious mammogram report. After a biopsy confirms the diagnosis of cancer or benign lesion, a recut sample of the tissue may be requested for research.",
+                "DetailedDescription": "Breast cancer is a leading cause of cancer mortality in women worldwide. According to estimates, approximately 46,000 women in the United States, and 130,000 women in the European Union, die due to breast cancer yearly. Early detection is of paramount importance in reducing mortality from this major public health burden. Screening mammography has been shown to reduce breast cancer mortality by 20% to 35% in women aged 40 to 69 years. Detection of small volume breast cancer at early stages is associated with a 10-year disease-free survival rate as high as 98% in patients with pT1a,bN0M0 tumors (measuring 1 cm or less, with disease-free axillary lymph nodes and no distant metastasis). The assumption that early diagnosis will lead to improved treatment outcomes has driven the search for diagnostic biomarkers.\n\nDespite this enthusiasm, a biomarker for stage I breast cancer has been elusive. The predictive value of mammography declines in cohorts of patients with denser breast tissue and smaller lesions, and recent studies have indicated that the small amount of biomarker molecules emanating from a breast tumor of less than 1 cm is well below the sensitivity of detection for current analytical methods. In addition, biomarkers in body fluids are highly perishable. Biomarkers break down during collection, transport and storage due to endogenous degradative enzymes yielding false negatives. Thus there is a significant need for new technologies that will a) identify and measure low abundance biomarkers (less than 1 nanogram/mL), and b) is low cost and can be seamlessly integrated into the clinical workflow.\n\nPrimary Objective:\n\nThe primary goal of this study is to a) experimentally discover putative plasma markers for detecting early, stage I breast cancer in the setting of a suspicious mammogram and distinguish those cancers from benign lesions b) verify the putative markers through molecular profiling; and c) validate the markers by mass spectrometry.\n\nSecondary Objectives:\n\nDetermine percent accuracy of breast cancer diagnosis in the context of 3D mammographically (screen detected) tumors.\nDetermine percent precision of cancer diagnosis in the context of 3D mammographically (screen detected) tumors.\nDiscover additional protein markers of early stage breast cancer that distinguish these tumors from benign lesions identified by mammography by comparing protein markers between patients with invasive cancer vs. benign tumors as determined by biopsy.\nAdditionally compare protein markers between patients with invasive cancer and pre-invasive neoplasms as determined by biopsy.\nBank samples for future research and sequencing."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Surgical tissue specimen slides, blood and saliva."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "270",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Invasive Cancer",
+                            "ArmGroupDescription": "Invasive cancer confirmed by biopsy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Biomarkers"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Benign or pre-invasive lesion",
+                            "ArmGroupDescription": "Benign or pre-invasive lesion confirmed by biopsy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Biomarkers"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Biomarkers",
+                            "InterventionDescription": "Experimentally discover putative plasma markers for detecting early, stage I breast cancer in the setting of a suspicious mammogram and distinguish those cancers from benign lesions b) verify the putative markers through molecular profiling; and c) validate the markers by mass spectrometry.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Benign or pre-invasive lesion",
+                                    "Invasive Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Identify markers to differentiate cancers from benign lesions",
+                            "PrimaryOutcomeDescription": "Experimentally discover putative plasma markers for detecting early, stage I breast cancer in the setting of a suspicious mammogram and distinguish those cancers from benign lesions, verify the putative markers through molecular profiling; and validate the markers by mass spectrometry.",
+                            "PrimaryOutcomeTimeFrame": "Duration of Study, estimated 2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Determine Accuracy",
+                            "SecondaryOutcomeDescription": "1. Determine percent accuracy of breast cancer diagnosis in the context of 3D mammographically (screen detected) tumors.",
+                            "SecondaryOutcomeTimeFrame": "1 week (from mammogram to biospy)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Determine Precision",
+                            "SecondaryOutcomeDescription": "2. Determine percent precision of cancer diagnosis in the context of 3D mammographically (screen detected) tumors.",
+                            "SecondaryOutcomeTimeFrame": "1 week (from mammogram to biospy)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Discover additional protein markers",
+                            "SecondaryOutcomeDescription": "3. Discover additional protein markers of early stage breast cancer that distinguish these tumors from benign lesions identified by mammography by comparing protein markers between patients with invasive cancer vs. benign tumors as determined by biopsy.",
+                            "SecondaryOutcomeTimeFrame": "Duration of Study, estimated 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Compare protein markers",
+                            "SecondaryOutcomeDescription": "4. Additionally compare protein markers between patients with invasive cancer and pre-invasive neoplasms as determined by biopsy.",
+                            "SecondaryOutcomeTimeFrame": "Duration of Study, estimated 2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen who receive a suspicious mammogram report or are scheduled to receive testing for suspect breast area, with a subsequent biopsy to confirm diagnosis\nWillingness and ability to donate biospecimens for the purpose of propelling research.\nParticipants aged \u2265 18.\n\nExclusion Criteria:\n\nIndividuals under 18 years of age or over 89 years of age.\nA known history of breast cancer.\nA diagnosis or history of any other type of cancer.\nParticipants who are male.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "GenderBased": "Yes",
+                "GenderDescription": "Women who receive a suspicious mammogram report for breast cancer",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All participants will be enrolled through direct contact with collaborating clinical sites. In the first phase this study will strive to enroll 150 participants who are identified as having a suspicious mammogram. Review of the data for the first set of 150 patients revealed a set of biomarkers discovered and evaluated blindly that showed a strong statistical correlation with cancer versus non cancer in the final pathologic diagnosis. Based on this success, a decision is made by the PI to extend the study to enroll an additional 120 patients.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Kayla Kenke",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "757-388-2406",
+                            "CentralContactEMail": "fkkenke@sentara.com"
+                        },
+                        {
+                            "CentralContactName": "Mary Jo Bradley",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "757-388-5629",
+                            "CentralContactEMail": "mxbradl1@sentara.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Richard Hoefer, DO",
+                            "OverallOfficialAffiliation": "Sentara Healthcare",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Dorothy G Hoefer Comprehensive Breast Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Newport News",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23606",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Kayla Kenke",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "757-388-2406",
+                                        "LocationContactEMail": "fkkenke@sentara.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Richard Hoefer, DO",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sentara Norfolk General Breast Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Norfolk",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23507",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Kayla Kenke",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "757-388-2406",
+                                        "LocationContactEMail": "fkkenke@sentara.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Mary Jo Bradley",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "757-388-5629",
+                                        "LocationContactEMail": "mjbradl1@sentara.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

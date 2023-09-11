@@ -1,0 +1,440 @@
+{
+    "Rank": 453,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01762813",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "29034/2012"
+                },
+                "Organization": {
+                    "OrgFullName": "Helse Stavanger HF",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Assessment of Clinically Related Outcomes and Biomarker Analysis for Translational Integration in Colorectal Cancer",
+                "OfficialTitle": "Prospective, Population-based Cohort Collection of Blood Samples and Tumor Tissue From Patients Operated on for Primary or Metastatic Colorectal Cancer",
+                "Acronym": "ACROBATICC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2019",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2013",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2027",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 3, 2013",
+                "StudyFirstSubmitQCDate": "January 4, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 8, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 11, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 13, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Helse Stavanger HF",
+                    "LeadSponsorClass": "OTHER_GOV"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A prospective, observational study on clinical outcomes of surgical management of primary and metastatic colorectal cancer\nProspective collection of tissues to explore potential biomarkers in blood and/or primary or secondary cancers and/or normal colon",
+                "DetailedDescription": "Prospective project in collecting and assessing clinical outcomes data related to molecular profiling of tumors based on cancer primary or metastatic tissue or tissue from peripheral blood samples. As a future part of the project will be collected patient reported outcomes (PROs) for assessing clinical outcomes in relation to clinical pathways, patient reported results, as well as tumor profiling by molecular methods."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colon cancer",
+                        "rectal cancer",
+                        "liver metastasis",
+                        "survival",
+                        "biomarker",
+                        "molecular profile"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood, whole blood, plasma, cancer tissue, normal tissue."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "open and laparoscopic surgery",
+                            "ArmGroupDescription": "Patients with primary and or metastatic colorectal cancer (CRC) eligible for curative surgery will be included. Subcohorts may be based on either colon cancer, rectal cancer, metastatic cancer, surgery (laparoscopy or open), node negative and node positive disease, and molecular profiling.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: open and laparoscopic surgery"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "open and laparoscopic surgery",
+                            "InterventionDescription": "Curative surgery for either primary (colorectal cancer, crc) or metastatic CRC (liver surgery)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "open and laparoscopic surgery"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Liver surgery"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Cancer-specific survival",
+                            "PrimaryOutcomeDescription": "Time from surgery to death of cancer",
+                            "PrimaryOutcomeTimeFrame": "5-years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Recurrence-free survival",
+                            "SecondaryOutcomeDescription": "Time from surgery to recurrence of cancer",
+                            "SecondaryOutcomeTimeFrame": "3 and 5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of colorectal cancer, primary or metastatic (liver), with a treatment intention of planned curative surgery\nInformed consent to participate\nAge \u226518\n\nExclusion Criteria:\n\nfailure to provide written informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients with colorectal cancer (primary and/or secondary) undergoing surgery for curative intent",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Tone L. Klaening, RN",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "92297672",
+                            "CentralContactPhoneExt": "47",
+                            "CentralContactEMail": "acro.gitan@gmail.com"
+                        },
+                        {
+                            "CentralContactName": "Martin Watson, MSc",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "martin.watson@sus.no"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Kjetil S\u00f8reide, MD, PhD, FRCS, FACS",
+                            "OverallOfficialAffiliation": "Helse Stavanger HF",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Stavanger University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Stavanger",
+                            "LocationZip": "4068",
+                            "LocationCountry": "Norway",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Kjetil S\u00f8reide, MD, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "92281557",
+                                        "LocationContactPhoneExt": "47",
+                                        "LocationContactEMail": "ksoreide@mac.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Kjetil S\u00f8reide, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "27357108",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Soreide K, Watson MM, Lea D, Nordgard O, Soreide JA, Hagland HR; ACROBATICC collaborators. Assessment of clinically related outcomes and biomarker analysis for translational integration in colorectal cancer (ACROBATICC): study protocol for a population-based, consecutive cohort of surgically treated colorectal cancers and resected colorectal liver metastasis. J Transl Med. 2016 Jun 29;14(1):192. doi: 10.1186/s12967-016-0951-4."
+                        },
+                        {
+                            "ReferencePMID": "28179316",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Hagland HR, Lea D, Watson MM, Soreide K. Correlation of Blood T-Cells to Intratumoural Density and Location of CD3+ and CD8+ T-Cells in Colorectal Cancer. Anticancer Res. 2017 Feb;37(2):675-683. doi: 10.21873/anticanres.11363."
+                        },
+                        {
+                            "ReferencePMID": "31677491",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Watson MM, Lea D, Hagland HR, Soreide K. Elevated Microsatellite Alterations at Selected Tetranucleotides (EMAST) Is Not Attributed to MSH3 Loss in Stage I-III Colon cancer: An Automated, Digitalized Assessment by Immunohistochemistry of Whole Slides and Hot Spots. Transl Oncol. 2019 Dec;12(12):1583-1588. doi: 10.1016/j.tranon.2019.08.009. Epub 2019 Oct 31."
+                        },
+                        {
+                            "ReferencePMID": "31686344",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Watson MM, Kanani A, Lea D, Khajavi RB, Soreide JA, Korner H, Hagland HR, Soreide K. Elevated Microsatellite Alterations at Selected Tetranucleotides (EMAST) in Colorectal Cancer is Associated with an Elderly, Frail Phenotype and Improved Recurrence-Free Survival. Ann Surg Oncol. 2020 Apr;27(4):1058-1067. doi: 10.1245/s10434-019-08048-6. Epub 2019 Nov 4."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "ACROBATICC protocol paper",
+                            "SeeAlsoLinkURL": "http://www.ncbi.nlm.nih.gov/pubmed/27357108"
+                        }
+                    ]
+                },
+                "AvailIPDList": {
+                    "AvailIPD": [
+                        {
+                            "AvailIPDType": "Study Protocol",
+                            "AvailIPDURL": "http://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-0951-4"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided",
+                "IPDSharingDescription": "Raw data may be provided given appropriate consent and approval for anonymous database sharing"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

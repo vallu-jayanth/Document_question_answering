@@ -1,0 +1,284 @@
+{
+    "Rank": 724,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03476057",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "FNF-009"
+                },
+                "Organization": {
+                    "OrgFullName": "Fujian Cancer Hospital",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Next-generation Sequencing in Gastrointestinal Cancer",
+                "OfficialTitle": "Next-generation Sequencing in Gastrointestinal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2018",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2018",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 18, 2018",
+                "StudyFirstSubmitQCDate": "March 18, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 23, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 28, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 2, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fujian Cancer Hospital",
+                    "LeadSponsorClass": "OTHER_GOV"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Liquid biopsy has been successfully applied to the treatment and diagnosis of cancer. cfDNA has been paid more and more attention in liquid biopsy. Previous studies have shown that cfDNA can be used for predicting the efficacy of radiotherapy or chemotherapy for lung cancer, rectal cancer and esophageal cancer. It is also reported that cfDNA can be used for the evaluation of postoperative recurrence of advanced gastric cancer. However, the use of NGS to detect cfDNA in gastrointestinal tumors has not been reported. The purpose of this study is to investigate the correlation between cfDNA, cfDNA tumor buden with advanced gastrointestinal tract tumor patients, and find out prognosis gene of advanced gastrointestinal tract tumor.",
+                "DetailedDescription": "Sample DNA handling\uff1a Peripheral blood lymphocytes (PBLs), and plasma were collected for analysis for each patient. 10mL tubes containing blood samples with EDTA added were centrifuged at 1000g for 10min. The cell pellets containing peripheral blood lymphocytes were stored at -20 \u00b0C. The supernatants were centrifuged again at 10,000 g for 10 min, and plasma was collected and stored at -80\u00b0C.Tiangen whole blood DNA Kit (Tiangen, Beijing, PRC) were used to extracted DNA from peripheral blood lymphocytes, respectively. QIAamp Circulating Nucleic Acid Kit (Qiagen, German) was used to extract cfDNA form plasma. All kits were used according to the manufacturers' instructions.\n\nLibrary preparation and sequencing\uff1a For each sample, DNA was quantified with the Qubit dsDNA HS Assay kit (Life Technologies,USA) as manufacturer's recommended protocol. Targeted amplification and Illumina adapter-ligated library preparation was performed using Amplicon Sequencing-Illumina Compatible Kit following manufacturer's instructions (Questgenomics, Nanjing, PRC). All samples were subjected to Illumina HiSeq X-Ten for paired-end sequencing (150bp each end). The AmpliSeq Cancer Panel covers 1406 cancer-associated genes which developed by Co. Roche.\n\nVariant calling\uff1a Initial data from HiSeq X-Ten were evaluated by using fastQC (v0.11.3). Raw reads were mapped to reference genome hg19 by using BWA (0.7.12-r1039). Program Samtools and VarScan (v2.4.1) was used for variant calling: (1) the average total coverage depth was defined as >1000 and each variant coverage as >10; for called variant, at least one sample with variant frequency >1%, variant frequency of each sample >0.5%, and P value <0.01; (2) visual examination of the mutations was performed using Samtools software (http://samtools.sourceforge.net) and possible errors specific to one DNA strand were filtered out. Software ANNOVAR (v2015-06-17) and snpEff (v4.2) was used for variant annotation\n\nStatistical analysis\uff1a For variant frequency less than 0.5%, 0 was replaced. R (hclust, v3.2.4) was used for variant frequency clustering analysis to show what types of samples from cancer patients are more similar. Student's T test was applied for comparison of cfDNA concentration and p<0.05 was considered statistically significant."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastrointestinal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "NGS",
+                        "cfDNA",
+                        "OS",
+                        "Tumor Burden"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "whole blood, FFPE"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Advanced gastrointestinal tumor",
+                            "ArmGroupDescription": "200 patients with pathologically confirmed Advanced gastrointestinal tumor who never treated with chemotherapy at Fujian Cancer Hospital",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Device\uff1a NGS sequencing cfDNA"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Device\uff1a NGS sequencing cfDNA",
+                            "InterventionDescription": "NGS sequencing cfDNA and Tumor Burden",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Advanced gastrointestinal tumor"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "cfDNA",
+                            "PrimaryOutcomeDescription": "demonstrates the spectrum of cfDNA alterations/ profiling",
+                            "PrimaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Tumor mutation burden",
+                            "SecondaryOutcomeDescription": "demonstrates the tumor mutation burden alterations/ profiling",
+                            "SecondaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\npatients with pathologically confirmed Stage III/ IV gastrointestinal cancer\nall patients had not received chemotherapy\n\nExclusion Criteria:\n\n-",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Stage III/ IV gastrointestinal cancer",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Lin Rongbo, Doctor",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613705919382",
+                            "CentralContactEMail": "rongbo_lin@163.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Rongbo Lin",
+                            "LocationCity": "Fuzhou",
+                            "LocationState": "Fujian",
+                            "LocationZip": "350014",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rongbo Lin, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86+13705919382",
+                                        "LocationContactEMail": "rongbo_lin@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000005770",
+                            "ConditionMeshTerm": "Gastrointestinal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastrointestinal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

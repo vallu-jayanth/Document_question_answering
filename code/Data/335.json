@@ -1,0 +1,291 @@
+{
+    "Rank": 335,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02445183",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "HS 2815"
+                },
+                "Organization": {
+                    "OrgFullName": "National Jewish Health",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "COPDGene/Lung Cancer Center Database",
+                "OfficialTitle": "COPDGene/Lung Cancer Center Database"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2021",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 22, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 22, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 11, 2015",
+                "StudyFirstSubmitQCDate": "May 12, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 15, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 2, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 4, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "National Jewish Health",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Boehringer Ingelheim",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The COPDGene\u00ae / Lung Cancer Database Study is a nested case-control study. This study is an ancillary study to COPDGene\u00ae Phase 1 and Phase 2. Lung cancer cases, which have been reported by COPDGene\u00ae subjects since the time of COPDGene\u00ae study enrollment, will be retrospectively verified with additional medical data collection pertaining to lung cancer. Additional 'control' subjects will also be identified and verified as a 'no lung cancer controls'. Data previously collected through the COPDGene\u00ae Study, including QCT results and clinical results (medication use, rate of acute exacerbations of COPD, etc) will be used as variables for analysis.",
+                "DetailedDescription": "COPDGene\u00ae subjects will be screened through several mechanisms for enrollment into the Lung Cancer Database:\n\nThe COPDGene\u00ae Phase 1 Longitudinal Follow-up Questionnaire.\nThe COPDGene\u00ae Phase 2 Medical History Questionnaire at Visit 1\nMedical Records Collection through the Mortality Adjudication Committee\n\nPotential cases will be those who respond yes to lung cancer will be contacted by phone by a study coordinator and be screened for the COPDGene\u00ae Lung Cancer Database. Medical records will be analyzed to determine the patient's cancer diagnosis, pathology, and treatment. Information will be collected at each individual institution, de-identified, and entered into the password-protected COPDGene\u00ae DCC lung cancer database, through a web-based interface. The survival data will be obtained through review of medical records or the Social Security Death Index in conjunction with the COPDGene\u00ae mortality adjudication committee. For the nested case-control study, controls will be matched from the those subjects on COPDGene who answered 'No' to the longitudinal follow-up question \"have you been diagnosed with lung cancer\" as per COPDGene protocol.\n\nMedical records regarding the patient's cancer diagnosis, pathology and treatment will be collected following signed release of medical information from the patient. The following information will be collected and entered into a database. The survival data will be obtained through review of medical records or the Social Security Death Index.\n\ni. Date of diagnosis ii. Type of specimen iii. Laterality iv. Lobe v. Record of any false positives (can be used as verified controls) b. Pathology Findings: i. Histology ii. Molecular Analysis, if done. iii. Stage (TNM classification) iv. Histologic grade c. Treatment i. Surgery ii. Radiation iii. Chemotherapy iv. Presentation at Tumor Board d. Outcomes i. Recurrence, Second primary cancers ii. Survival after cancer diagnosis, Cause of death Study coordinators at each site contact subjects who have self-reported lung cancer or were identified as having lung cancer by follow-up clinic visits and complete the lung cancer data form. The data collected on each subject is de-identified at the recruiting site prior to being downloaded into the COPDGene\u00ae DCC located at National Jewish Health. A lung cancer adjudication committee, including Drs. Carr and Bowler, will review each case for accuracy and completeness."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "COPD"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "5 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Other"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "250",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung Cancer",
+                            "ArmGroupDescription": "Confirmed diagnosis of lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: None, N/A"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "No Lung Cancer Controls",
+                            "ArmGroupDescription": "Unconfirmed lung cancer diagnosis, false positive",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: None, N/A"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "None, N/A",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Lung Cancer",
+                                    "No Lung Cancer Controls"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Identify lung cancer variables",
+                            "PrimaryOutcomeDescription": "Use existing COPDGene\u00ae quantitative HRCT and clinical data to perform a nested case-control study and perform a univariate analysis to select significant variables for the development of lung cancer.",
+                            "PrimaryOutcomeTimeFrame": "1.5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Probability of lung cancer based on variables",
+                            "SecondaryOutcomeDescription": "Construct a multivariate model from the results of the univariate analysis to calculate the odds ratios for the variables that predict lung cancer",
+                            "SecondaryOutcomeTimeFrame": "1.5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects must meet all of the following criteria\n\nBe enrolled in COPDGene\u00ae Phase 1 with or without enrollment in Phase 2 with newly diagnosed, (within the time of enrollment), non-small cell lung cancer (NSCLC) or small-cell lung cancer (SCLC).\nDocumented GOLD stage 1-4 COPD or a history of smoking with no COPD\nSigned HIPAA Research Authorization and a Release of Protected Health Information form to collect and review medical records regarding lung cancer diagnosis, treatment, and outcome",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Subjects eligible for study are those enrolled in the COPDGene\u00ae. Subjects will be screened for enrollment through the COPDGene\u00ae longitudinal follow-up questionnaire or during their Phase 2 visit. Those patients that answer yes to \"since the last follow up have you been diagnosed with cancer?\" will be contacted by a study coordinator and offered enrollment in the COPDGene\u00ae/Lung Cancer Database.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "National Jewish Health",
+                            "LocationCity": "Denver",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80206",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "33320065",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "El Kaddouri B, Strand MJ, Baraghoshi D, Humphries SM, Charbonnier JP, van Rikxoort EM, Lynch DA. Fleischner Society Visual Emphysema CT Patterns Help Predict Progression of Emphysema in Current and Former Smokers: Results from the COPDGene Study. Radiology. 2021 Feb;298(2):441-449. doi: 10.1148/radiol.2020200563. Epub 2020 Dec 15."
+                        },
+                        {
+                            "ReferencePMID": "29065892",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Bradford E, Jacobson S, Varasteh J, Comellas AP, Woodruff P, O'Neal W, DeMeo DL, Li X, Kim V, Cho M, Castaldi PJ, Hersh C, Silverman EK, Crapo JD, Kechris K, Bowler RP. The value of blood cytokines and chemokines in assessing COPD. Respir Res. 2017 Oct 24;18(1):180. doi: 10.1186/s12931-017-0662-2."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

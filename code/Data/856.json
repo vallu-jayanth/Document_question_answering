@@ -1,0 +1,378 @@
+{
+    "Rank": 856,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03821909",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "EPCE-1"
+                },
+                "Organization": {
+                    "OrgFullName": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Acquisition of Portal Venous CTCs and Exosomes From Patients With Pancreatic Cancer by EUS",
+                "OfficialTitle": "Acquisition of Portal Venous Circulating Tumor Cells and Exosomes From Patients With Pancreatic Cancer by Endoscopic Ultrasound: a Prospective Study",
+                "Acronym": "CTCs"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 6, 2019",
+                "StudyFirstSubmitQCDate": "January 26, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 30, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 29, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 31, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Ying Lv",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ying Lv",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The investigators are going to explore the diagnostic and prognostic value of circulating tumor cells and exosomes extracted from the portal venous blood obtained with endoscopic ultrasound in pancreatic cancer patients.",
+                "DetailedDescription": "As the prognosis of pancreatic cancer, a kind of malignant tumor, remains poor due to the low diagnostic rate at the early stage, there is still a significant clinical need to determine individualized tumor molecular profiles and personalized risk for recurrence. Circulating tumor cells (CTCs) and exosomes from patients with primary tumors may hold promise in serving as an informative biomarker to address this clinical need. Here in this study, the investigators are going to explore the feasibility and safety of sampling portal venous blood via endoscopic ultrasound (EUS), and detect portal venous CTCs and analyze mRNA markers of exosomes by RNA-seq. The investigators aim to explore the potential molecular mechanisms in tumor microenvironment and mechanisms of drug resistance."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Pancreatic cancer",
+                        "Portal venous blood",
+                        "Circulating tumor cells",
+                        "Exosome"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "We will obtain portal venous blood samples via endoscopic ultrasound(EUS) in patients with suspected pancreatic masses, detect circulating tumor cells and analyze the mRNA markers of the exosomes by RNA-seq."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pancreatic cancer",
+                            "ArmGroupDescription": "Endoscopic ultrasound-guided protal venous blood sampling will be performed for each patient. And the diagnosis will be confirmed by tissue pathology.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Endoscopic ultrasound-guided protal venous blood sampling"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Benign pancreatic diseases",
+                            "ArmGroupDescription": "Endoscopic ultrasound-guided protal venous blood sampling will be performed for each patient. And the diagnosis will be confirmed by tissue pathology, e.g. PCLs.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Endoscopic ultrasound-guided protal venous blood sampling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Endoscopic ultrasound-guided protal venous blood sampling",
+                            "InterventionDescription": "We wil obtain portal venous blood samples via endoscopic ultrasound(EUS) in patients with suspected pancreatic masses.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Benign pancreatic diseases",
+                                    "Pancreatic cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The difference of the amount of circulating tumor cells acquisited from portal venous blood between patients with pancreatic cancer and benign pancreatic diseases",
+                            "PrimaryOutcomeDescription": "In this study, the amount of the circulating tumor cells obtained from portal venous blood of suspected pancreatic masses patients will be determined by analyzing the expression of folate receptors. The investigators will compare the difference of the CTC amount between patients with pancreatic cancer and benign pancreatic diseases.",
+                            "PrimaryOutcomeTimeFrame": "08/01/2018-08/01/2020"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "The difference of the exosomes acquisited from portal venous blood between patients with pancreatic cancer and benign pancreatic diseases",
+                            "PrimaryOutcomeDescription": "Exosomes will be acquisited from portal venous blood of patients with suspected pancreatic masses. Then the total RNA will be extracted from the exosomes. The investigators will compare the expression of certain mRNA markers of the exosomes between patients with pancreatic cancer and benign pancreatic diseases. (The mRNA markers will be selected from RNA-seq results.)",
+                            "PrimaryOutcomeTimeFrame": "08/01/2018-08/01/2020"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The difference of the amount of circulating tumor cells between portal venous and peripheral blood",
+                            "SecondaryOutcomeDescription": "In this study, the amount of the circulating tumor cells obtained from portal venous blood and peripheral blood will be assessed for each patient respectively. The investigators will compare the difference of the CTC amount between portal venous blood and peripheral blood.",
+                            "SecondaryOutcomeTimeFrame": "08/01/2018-08/01/2020"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The difference of the exosomes between portal venous and peripheral blood",
+                            "SecondaryOutcomeDescription": "Exosomes will be acquisited from portal venous blood and peripheral blood for each patient. Then the total RNA will be extracted from the exosomes. The investigators will compare the expression of certain mRNA markers of the exosomes between portal venous and peripheral blood for each patient. (The mRNA markers will be selected from RNA-seq results.)",
+                            "SecondaryOutcomeTimeFrame": "08/01/2018-08/01/2020"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAged from 18 to 80 years-old\nSuspected pancreatic masses and referred for EUS-FNA for pathology diagnosis\nWritten informed consent\n\nExclusion Criteria:\n\nPatients who have received adjuvant chemotherapy and other anti-tumor treatments\nSevere heart, lung, liver, kidney insufficiency, or severe bleeding disorders, severe coagulopathy or local/systemic infections, other critical illnesses\nWomen who are planning to become pregnant or are pregnant or breast-feeding",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients suspected to have pancreatic masses who are going to receive EUS-FNA operations for diagnostic purposes.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Shu Zhang, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "13770728926",
+                            "CentralContactPhoneExt": "+86",
+                            "CentralContactEMail": "zhangshu19900513@126.com"
+                        },
+                        {
+                            "CentralContactName": "Ying Lv, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "13770755008",
+                            "CentralContactPhoneExt": "+86",
+                            "CentralContactEMail": "lying1999@126.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ying Lv, PhD",
+                            "OverallOfficialAffiliation": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Nanjing Drum Tower Hospital the Affiliated Hospital of Nanjing University Medical School",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nanjing",
+                            "LocationState": "Jiangsu",
+                            "LocationZip": "210008",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Guangshu Han, PhD",
+                                        "LocationContactRole": "Contact"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

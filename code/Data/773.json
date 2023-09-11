@@ -1,0 +1,333 @@
+{
+    "Rank": 773,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04906330",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "V1 11.12. 2020 (C.I.R.E.C.)"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "IS003208",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "RENIS"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Hospital Militar Central Cirujano Mayor Dr. Cosme Argerich",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Onco-liq: Kit for Breast Cancer Diagnosis.",
+                "OfficialTitle": "Onco-liq: Kit for Breast Cancer Diagnosis."
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 1, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 1, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 13, 2021",
+                "StudyFirstSubmitQCDate": "May 25, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 28, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 12, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 27, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Adriana De Siervi",
+                    "ResponsiblePartyInvestigatorTitle": "Ph.D.; Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Hospital Militar Central Cirujano Mayor Dr. Cosme Argerich"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hospital Militar Central Cirujano Mayor Dr. Cosme Argerich",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Instituto Nacional del C\u00e1ncer, Argentina",
+                            "CollaboratorClass": "OTHER_GOV"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Onco-liq is a novel diagnosis kit for early breast cancer detection in blood based in liquid biopsies and microRNAs. This innovative kit will allow improving the accuracy of cancer diagnosis which will impact on health, reducing the patient mortality and health costs.\n\nTo develop this kit, it has been finished the preclinical PHASE I: in laboratory animals; PHASE II: exploratory clinical phase for the discovery of candidate biomarkers in breast cancer patients and PHASE III: clinical validation of biomarkers showing that Onco-liq has 95% specificity.\n\nCurrently it is been setting up a \"pilot test\" for breast cancer to enrol 500 woman volunteers without previous cancer diagnosis that go to the annual medical control. The results of the pilot test will give the accuracy for breast cancer early diagnosis and the management of Onco-liq positive patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Liquid biopsy, breast cancer, early diagnosis, microRNAs."
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "The plasma from participants will be obtained by centrifugation of blood collected with EDTA, and retained in a -80 \u00b0 C freezer exclusively for laboratory use and under lock and key. Samples will be codified and labelled."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "PPHM-0000-21",
+                            "ArmGroupDescription": "50-70 year old female patients, without a personal history of oncological pathology, who attend for gynecological and mammographic control.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Onco-liq: kit for breast cancer diagnosis."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Onco-liq: kit for breast cancer diagnosis.",
+                            "InterventionDescription": "Onco-liq is a novel diagnosis kit for early breast cancer diagnosis in blood, based on liquid biopsies and miRNAs. The main advantage of this kit is that miRNAs released from the tumor into the bloodstream can be detected in the plasma of patients even when the tumor is undetectable by other methods.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PPHM-0000-21"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "miRNA levels in plasma",
+                            "PrimaryOutcomeDescription": "miRNA levels in plasma will be determined by RT-qPCR using \u0394\u0394CT method.",
+                            "PrimaryOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen patients performing gynecological control\nBetween 50-70 years old\nWithout personal history of oncological disease\nInformed consent signed\n\nExclusion Criteria:\n\nPatients who don\u00b4t meet the inclusion criteria.\nActive infection with SARS-CoV-2 (COVID-19).",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Female patients, without a personal history of oncological pathology, who attend for gynecological and mammographic control.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Adriana De Siervi, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+54 911 3269-5832",
+                            "CentralContactEMail": "adrianadesiervi@gmail.com"
+                        },
+                        {
+                            "CentralContactName": "Juana Moro, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+54 9 11 5181-3320",
+                            "CentralContactEMail": "morojuana@gmail.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Adriana De Siervi, PhD",
+                            "OverallOfficialAffiliation": "IBYME-CONICET",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hospital Militar Central",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Caba",
+                            "LocationState": "Buenos Aires",
+                            "LocationZip": "C1426BOR",
+                            "LocationCountry": "Argentina",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Emilio Batagelj, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+54 9 113779-0638",
+                                        "LocationContactEMail": "ebatagelj@yahoo.com.ar"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Notice in a local online newspaper",
+                            "SeeAlsoLinkURL": "https://www.infobae.com/sociedad/2020/08/22/como-es-el-innovador-kit-argentino-que-promete-detectar-el-cancer-de-mama-y-el-de-prostata-antes-que-los-analisis-tradicionales/"
+                        },
+                        {
+                            "SeeAlsoLinkLabel": "Notice in a local TV-news program",
+                            "SeeAlsoLinkURL": "https://youtu.be/MeSAcWYHiEU"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M251766",
+                            "InterventionBrowseLeafName": "Imidacloprid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

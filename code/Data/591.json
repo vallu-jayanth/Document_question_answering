@@ -1,0 +1,596 @@
+{
+    "Rank": 591,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04755907",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CRC-3D-Bioprint"
+                },
+                "Organization": {
+                    "OrgFullName": "Peking Union Medical College Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "3D Bioprinted Models for Predicting Chemotherapy Response in Colorectal Cancer With/Without Liver Metastases",
+                "OfficialTitle": "Validation of the Three-dimensional Bioprinted Tumor Models as a Predictive Method of the Response to Chemotherapy for Colorectal Cancer With or Without Liver Metastases"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 13, 2021",
+                "StudyFirstSubmitQCDate": "February 13, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 16, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 16, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 19, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Peking Union Medical College Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Peking University Cancer Hospital & Institute",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "China-Japan Friendship Hospital",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The therapeutic regimens of adjuvant and neoadjuvant chemotherapy for colorectal cancer (CRC) remain largely relied on clinical experience, and thus preclinical models are needed to guide individualized medicine. The investigators are going to establish 3D bioprinted CRC models and organoids from surgically resected tumor tissues of CRC patients with or without liver metastases. In vitro 3D models and organoids will be treated with the same chemotherapy drugs with the corresponding patients from whom the models are derived. The sensitivity of chemotherapy drugs will be tested in these two types of in vitro models, and the actual response to chemotherapy in patients will be evaluated. The predictive ability of 3D models for chemotherapy sensitivity in CRC patients will be compared with that of the organoids. This observational study will validate the potential value of 3D bioprinted tumor models in predicting the response to chemotherapy in CRC."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Colorectal Cancer Liver Metastasis"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "colorectal cancer",
+                        "colorectal cancer liver metastasis",
+                        "three-dimensional bioprinting",
+                        "chemotherapy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "resected tumor tissue from surgery"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "120",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Group A",
+                            "ArmGroupDescription": "colorectal cancer patients at resectable stage II/III who will receive adjuvant chemotherapy after surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: surgical resection",
+                                    "Other: adjuvant chemotherapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Group B",
+                            "ArmGroupDescription": "colorectal cancer patients at locally advanced stage who will receive neoadjuvant chemotherapy before surgery and adjuvant chemotherapy after surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: surgical resection",
+                                    "Other: adjuvant chemotherapy",
+                                    "Other: neoadjuvant therapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Group C",
+                            "ArmGroupDescription": "colorectal cancer patients with liver metastases",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: surgical resection",
+                                    "Other: adjuvant chemotherapy",
+                                    "Other: neoadjuvant therapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "surgical resection",
+                            "InterventionDescription": "Surgical resection will be performed for locoregional lesions or liver metastases.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group A",
+                                    "Group B",
+                                    "Group C"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "adjuvant chemotherapy",
+                            "InterventionDescription": "Regimens of adjuvant chemotherapy are directed by clinical guidance and experience.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group A",
+                                    "Group B",
+                                    "Group C"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "neoadjuvant therapy",
+                            "InterventionDescription": "Regimens of neoadjuvant chemotherapy are directed by clinical guidance and experience.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group B",
+                                    "Group C"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Response of 3D tumor models/organoids to the same chemotherapy drugs as the corresponding patients.",
+                            "PrimaryOutcomeDescription": "The investigators will establish and culture 3D colorectal cancer models and organoids. The 3D models and organoids will be treated with the same chemotherapy drugs as the corresponding patients. The viability of the 3D tumor models and organoids will be observed after treatment and the IC50 of each drug will be calculated. The correlation of 3D model/organoid sensitivity and the patient response will be analyzed.",
+                            "PrimaryOutcomeTimeFrame": "2021.03-2021.12"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Response of the colorectal cancer patients to neoadjuvant chemotherapy.",
+                            "SecondaryOutcomeDescription": "For patients who receive neoadjuvant chemotherapy before surgery, the response to neoadjuvant chemotherapy will be evaluated according to clinical imaging results and the RECIST scores.",
+                            "SecondaryOutcomeTimeFrame": "2021.03-2022.03"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Response of the colorectal cancer patients to adjuvant chemotherapy.",
+                            "OtherOutcomeDescription": "The response to adjuvant chemotherapy will be evaluated according to disease free survival (DFS). Regular follow-ups will be conducted, and DFS is difined as the interval between the date of surgery and the date of last follow-up or recurrence/progression.",
+                            "OtherOutcomeTimeFrame": "2021.03-2023.12"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMore than 18 years old\nDiagnosed as colorectal cancer with or without liver metastases before\nPathologically proven colorectal cancer after surgery\n\nExclusion Criteria:\n\nMedical history with other malignancies or serious diseases\nDisable to sign the informed consent independently",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Clinically and pathologically proven colorectal cancer patients are considered as potential candidates of this study. Medical history will be thouroughly taken by clincal practicitioners. Only patients older than 18 years will be included. Those with medical hostory of other malignancies or serious diseases will be excluded. Patients who are not able to sign the informed consent independently will not be included in this study. All the patients included in this study will receive adjuvant/neoadjuvant chemotherapy and surgical resection for the treatment of CRC.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Yilei Mao, MD PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "8600-010-69156042",
+                            "CentralContactEMail": "pumch-liver@hotmail.com"
+                        },
+                        {
+                            "CentralContactName": "Lejia Sun, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "8600-18811152352",
+                            "CentralContactEMail": "sunlejia361@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yilei Mao, MD PhD",
+                            "OverallOfficialAffiliation": "Peking Union Medical College Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100021",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Hong Zhao, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8600-010-87787100",
+                                        "LocationContactEMail": "zhaohong@cicams.ac.cn"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "China-Japan Friendship Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100029",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Zhiying Yang, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8600-010-84205017",
+                                        "LocationContactEMail": "yangzhy@aliyun.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Beijing Cancer Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100143",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Baocai Xing, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8600-010-88196098",
+                                        "LocationContactEMail": "xingbaocai88@sina.com"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Peking Union Medical College Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100730",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yilei Mao, MD PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8600-010-69156042",
+                                        "LocationContactEMail": "pumch-liver@hotmail.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Lejia Sun, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8600-18811152352",
+                                        "LocationContactEMail": "sunlejia361@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30704229",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu J, Lu AD, Zhang LP, Zuo YX, Jia YP. [Study of clinical outcome and prognosis in pediatric core binding factor-acute myeloid leukemia]. Zhonghua Xue Ye Xue Za Zhi. 2019 Jan 14;40(1):52-57. doi: 10.3760/cma.j.issn.0253-2727.2019.01.010. Chinese."
+                        },
+                        {
+                            "ReferencePMID": "31918229",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Brancato V, Oliveira JM, Correlo VM, Reis RL, Kundu SC. Could 3D models of cancer enhance drug screening? Biomaterials. 2020 Feb;232:119744. doi: 10.1016/j.biomaterials.2019.119744. Epub 2019 Dec 26."
+                        },
+                        {
+                            "ReferencePMID": "32299813",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bruun J, Kryeziu K, Eide PW, Moosavi SH, Eilertsen IA, Langerud J, Rosok B, Totland MZ, Brunsell TH, Pellinen T, Saarela J, Bergsland CH, Palmer HG, Brudvik KW, Guren T, Dienstmann R, Guren MG, Nesbakken A, Bjornbeth BA, Sveen A, Lothe RA. Patient-Derived Organoids from Multiple Colorectal Cancer Liver Metastases Reveal Moderate Intra-patient Pharmacotranscriptomic Heterogeneity. Clin Cancer Res. 2020 Aug 1;26(15):4107-4119. doi: 10.1158/1078-0432.CCR-19-3637. Epub 2020 Apr 16."
+                        },
+                        {
+                            "ReferencePMID": "31761724",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Yao Y, Xu X, Yang L, Zhu J, Wan J, Shen L, Xia F, Fu G, Deng Y, Pan M, Guo Q, Gao X, Li Y, Rao X, Zhou Y, Liang L, Wang Y, Zhang J, Zhang H, Li G, Zhang L, Peng J, Cai S, Hu C, Gao J, Clevers H, Zhang Z, Hua G. Patient-Derived Organoids Predict Chemoradiation Responses of Locally Advanced Rectal Cancer. Cell Stem Cell. 2020 Jan 2;26(1):17-26.e6. doi: 10.1016/j.stem.2019.10.010. Epub 2019 Nov 21."
+                        },
+                        {
+                            "ReferencePMID": "33007612",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Xie F, Sun L, Pang Y, Xu G, Jin B, Xu H, Lu X, Xu Y, Du S, Wang Y, Feng S, Sang X, Zhong S, Wang X, Sun W, Zhao H, Zhang H, Yang H, Huang P, Mao Y. Three-dimensional bio-printing of primary human hepatocellular carcinoma for personalized medicine. Biomaterials. 2021 Jan;265:120416. doi: 10.1016/j.biomaterials.2020.120416. Epub 2020 Sep 22."
+                        },
+                        {
+                            "ReferencePMID": "32582546",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sun L, Yang H, Wang Y, Zhang X, Jin B, Xie F, Jin Y, Pang Y, Zhao H, Lu X, Sang X, Zhang H, Lin F, Sun W, Huang P, Mao Y. Application of a 3D Bioprinted Hepatocellular Carcinoma Cell Model in Antitumor Drug Research. Front Oncol. 2020 Jun 3;10:878. doi: 10.3389/fonc.2020.00878. eCollection 2020."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Individual participant data (IPD) can be accessed with reasonable requests via e-mail. IPD will be shared after the study is completed.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Statistical Analysis Plan (SAP)",
+                        "Informed Consent Form (ICF)",
+                        "Clinical Study Report (CSR)",
+                        "Analytic Code"
+                    ]
+                },
+                "IPDSharingTimeFrame": "The IPD data will available after the study is completed.",
+                "IPDSharingAccessCriteria": "Data can be accessed via e-mail with reasonable requests."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionMeshId": "D000008113",
+                            "ConditionMeshTerm": "Liver Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008107",
+                            "ConditionAncestorTerm": "Liver Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10803",
+                            "ConditionBrowseLeafName": "Liver Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Liver Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10797",
+                            "ConditionBrowseLeafName": "Liver Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

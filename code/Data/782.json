@@ -1,0 +1,1554 @@
+{
+    "Rank": 782,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02553538",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2013P000473"
+                },
+                "Organization": {
+                    "OrgFullName": "Massachusetts General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Improving Comprehensive Cancer Screening Among Vulnerable Patients Using Patient Navigation",
+                "OfficialTitle": "Improving Comprehensive Cancer Screening Among Vulnerable Patients Using Patient Navigation as Part of a Population-Based Health IT System: A Randomized Control Trial"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2017",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 2014"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2014",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2014",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "September 16, 2015",
+                "StudyFirstSubmitQCDate": "September 16, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 17, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "September 20, 2016",
+                "ResultsFirstSubmitQCDate": "August 29, 2017",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "March 26, 2018",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 29, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 26, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Sanja Percac-Lima, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Assistant Professor in Medicine at Harvard Medical School; Primary Care Physician at MGH Chelsea Community HealthCare Center",
+                    "ResponsiblePartyInvestigatorAffiliation": "Massachusetts General Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Massachusetts General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Patient navigation (PN) has been shown to improve rates of cancer screening in vulnerable populations. Most cancer PN programs are located in community health centers and focus on a single cancer. The investigators will evaluate the impact of PN program on breast, cervical, and/or colorectal cancer screening in vulnerable patients receiving care in a large, academic, primary care network using a population-based IT system.",
+                "DetailedDescription": "It is important to note that the TopCare system is currently the standard of care in the MGPC-PBRN. As such, this proposal does not involve evaluating the TopCare system or the patients and providers using it. Rather, the study evaluates the part of the TopCare system that involves the automated identification and referral to PN of patients at increased risk of screening non-adherence. All eligible patients overdue for cancer screening tests will receive usual care that includes a reminder letter and referral to a scheduling delegate for follow-up. Since the TopCare system represents usual care for patients with the MGH primary care network, no patient contact will occur solely for research purposes. The study will involve randomly assigning participants overdue for screening and identified as high risk for not completing screening to early or delayed PN. The investigators believe this random assignment is ethical because PN is an extremely limited resource, and all patients in the investigators network identified as high risk for not completing screening could not be contacted by the investigators navigators in a short period of time. Thus, the investigators will randomly assign access to PN during the study period, and then allow all participants to be navigated after the study period is over. As a result, all overdue, high risk patients will be referred for PN, but the timing of the referral will be randomly assigned. In this study, the investigators objectives are to improve the algorithm to automatically identify patients who are more likely to benefit from PN (Specific Aim 1), and to evaluate the clinical impact of PN in a randomized controlled trial within the MGPC-PBRN (Specific Aim 2). Investigators will also survey all patients identified by the TopCare algorithm to assess their overall satisfaction with healthcare to determine whether PN impacts satisfaction with healthcare (Specific Aim 3).\n\nRevising and improving the current 'high risk' algorithm to automatically identify patients who may be helped by PN in Specific Aim 1 will help us to most effectively utilize limited PN resources. The current algorithm utilizes information about patient age, number of overdue tests, primary language, and no-show visit history. The investigators will investigate adding patient registration information about insurance and education status to better identify patients at high risk for not completing screening.\n\nIn Specific Aim 2, investigators will randomize eligible patients from the MGPC-PBRN primary care practices to either Arm 1 - TopCare with PN: Patients identified as at high risk for not completing screening by the automated algorithm will be assigned to a PN list for contact to help schedule and complete screening (breast, cervical, and colon), or Arm 2 - TopCare without PN: These patients will benefit from the standard features of the TopCare system, including automated identification of overdue patients, patient reminder letters, and referral to a scheduling delegate. All high risk patients in this arm will be eligible for PN after the study period is over."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Patient Compliance"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "cancer screening",
+                        "patient navigation"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1612",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patient Navigation Intervention",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these participants, reach out to them in their own language, and provide intense outreach to help them complete cancer screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Patient Navigation"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Standard of Care - No Intervention",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Participants randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the participant a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Patient Navigation",
+                            "InterventionDescription": "Navigators utilized TopCare to track participants, reach out to them in their own language, and provide intense outreach to help them complete cancer screening.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patient Navigation Intervention"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of Cancer Screening Tests Completed - Intention to Treat",
+                            "PrimaryOutcomeDescription": "The primary outcome was the overall cancer screening test completion rate over the follow-up period for each eligible patient, with all eligible cancers combined in intention to treat analyses. For example, a patient who was eligible for a total of 3 screening tests at a given time could have a completion rate of 0% (none of the 3 tests completed) 33%, 67%, or 100% (all 3 tests completed). By assessing each patient's completion rate over the 8-month follow-up period, the average completion rate over time was estimated from the area under the curve. We also calculated the completion rate for each individual cancer as the percentage of time screening was up to date among eligible patients during follow-up.",
+                            "PrimaryOutcomeTimeFrame": "8 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of Cancer Screening Tests Completed - As Treated",
+                            "PrimaryOutcomeDescription": "The primary outcome was the average cancer screening test completion rate over the follow-up period for each eligible patient, with all eligible cancers combined in as treated analyses - excluding patients who either left the network or died during follow-up. The cancer screening test completion rate for each subject was calculated daily, then averaged across the 8-month study period. On any given day, the screening test completion rate was calculated as the number of tests completed divided by the number of eligible tests.",
+                            "PrimaryOutcomeTimeFrame": "8 Months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Percentage of Patients Completing Any Cancer Screening Test (Intention to Treat)",
+                            "SecondaryOutcomeDescription": "The percentage of patients completing any cancer screening during follow-up among those who were eligible and overdue for at least one cancer screening at baseline in intention to treat analyses, as the percentage of patients completing each type of cancer screening among those who were eligible and overdue at baseline in intention to treat analyses.",
+                            "SecondaryOutcomeTimeFrame": "8 Months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Percentage of Patients Completing Any Cancer Screening Test (As Treated)",
+                            "SecondaryOutcomeDescription": "The percentage of patients completing any cancer screening during follow-up among those who were eligible and overdue for at least one cancer screening at baseline in intention to treat analyses, as the percentage of patients completing each type of cancer screening among those who were eligible and overdue at baseline, removing patients who left our primary care network or who died during follow-up from both intervention and control arms, and also removed patients the navigators were not able to contact from the intervention arm.",
+                            "SecondaryOutcomeTimeFrame": "8 Months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge 21-75\nSeen in MGPC Practices within the Past 3 Years\nLinked to a Specific PCP or to a Specific Practice\n\nExclusion Criteria:\n\nA PCP Outside of the MGPC-PBRN network\nGreater Than 75 Years Old\nMGH Chelsea Health Center Patients",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "21 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Sanja Percac-Lima, MD",
+                            "OverallOfficialAffiliation": "Massachusetts General Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "25957378",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Beaber EF, Kim JJ, Schapira MM, Tosteson AN, Zauber AG, Geiger AM, Kamineni A, Weaver DL, Tiro JA; Population-based Research Optimizing Screening through Personalized Regimens Consortium. Unifying screening processes within the PROSPR consortium: a conceptual model for breast, cervical, and colorectal cancer screening. J Natl Cancer Inst. 2015 May 7;107(6):djv120. doi: 10.1093/jnci/djv120. Print 2015 Jun."
+                        },
+                        {
+                            "ReferencePMID": "25678378",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Berkowitz SA, Percac-Lima S, Ashburner JM, Chang Y, Zai AH, He W, Grant RW, Atlas SJ. Building Equity Improvement into Quality Improvement: Reducing Socioeconomic Disparities in Colorectal Cancer Screening as Part of Population Health Management. J Gen Intern Med. 2015 Jul;30(7):942-9. doi: 10.1007/s11606-015-3227-4. Epub 2015 Feb 13."
+                        },
+                        {
+                            "ReferencePMID": "24043318",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Zai AH, Kim S, Kamis A, Hung K, Ronquillo JG, Chueh HC, Atlas SJ. Applying operations research to optimize a novel population management system for cancer screening. J Am Med Inform Assoc. 2014 Feb;21(e1):e129-35. doi: 10.1136/amiajnl-2013-001681. Epub 2013 Sep 16."
+                        },
+                        {
+                            "ReferencePMID": "25002002",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Atlas SJ, Zai AH, Ashburner JM, Chang Y, Percac-Lima S, Levy DE, Chueh HC, Grant RW. Non-visit-based cancer screening using a novel population management system. J Am Board Fam Med. 2014 Jul-Aug;27(4):474-85. doi: 10.3122/jabfm.2014.04.130319."
+                        },
+                        {
+                            "ReferencePMID": "24691564",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Percac-Lima S, Lopez L, Ashburner JM, Green AR, Atlas SJ. The longitudinal impact of patient navigation on equity in colorectal cancer screening in a large primary care network. Cancer. 2014 Jul 1;120(13):2025-31. doi: 10.1002/cncr.28682. Epub 2014 Apr 1."
+                        },
+                        {
+                            "ReferencePMID": "23686510",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Percac-Lima S, Ashburner JM, Bond B, Oo SA, Atlas SJ. Decreasing disparities in breast cancer screening in refugee women using culturally tailored patient navigation. J Gen Intern Med. 2013 Nov;28(11):1463-8. doi: 10.1007/s11606-013-2491-4. Epub 2013 May 18."
+                        },
+                        {
+                            "ReferencePMID": "19067085",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Percac-Lima S, Grant RW, Green AR, Ashburner JM, Gamba G, Oo S, Richter JM, Atlas SJ. A culturally tailored navigator program for colorectal cancer screening in a community health center: a randomized, controlled trial. J Gen Intern Med. 2009 Feb;24(2):211-7. doi: 10.1007/s11606-008-0864-x."
+                        },
+                        {
+                            "ReferencePMID": "27273602",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Percac-Lima S, Ashburner JM, Zai AH, Chang Y, Oo SA, Guimaraes E, Atlas SJ. Patient Navigation for Comprehensive Cancer Screening in High-Risk Patients Using a Population-Based Health Information Technology System: A Randomized Clinical Trial. JAMA Intern Med. 2016 Jul 1;176(7):930-7. doi: 10.1001/jamainternmed.2016.0841."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Patient Navigation Intervention",
+                            "FlowGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                        },
+                        {
+                            "FlowGroupId": "FG001",
+                            "FlowGroupTitle": "Standard of Care - No Intervention",
+                            "FlowGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "792"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "820"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "605"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "764"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "187"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "56"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Could Not Reach by Telephone",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "133"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Died or Left Network",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "54"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "56"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Patient Navigation Intervention",
+                            "BaselineGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                        },
+                        {
+                            "BaselineGroupId": "BG001",
+                            "BaselineGroupTitle": "Standard of Care - No Intervention",
+                            "BaselineGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                        },
+                        {
+                            "BaselineGroupId": "BG002",
+                            "BaselineGroupTitle": "Total",
+                            "BaselineGroupDescription": "Total of all reporting groups"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "792"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG001",
+                                        "BaselineDenomCountValue": "820"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG002",
+                                        "BaselineDenomCountValue": "1612"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "56.9",
+                                                                "BaselineMeasurementSpread": "9.3"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "57.1",
+                                                                "BaselineMeasurementSpread": "9.4"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "57.0",
+                                                                "BaselineMeasurementSpread": "9.35"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "479"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "496"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "975"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "313"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "324"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "637"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Asian",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "61"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "82"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "143"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Black",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "94"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "83"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "177"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Hispanic",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "104"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "71"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "175"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Other/Unknown",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "44"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "42"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "86"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "White",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "489"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "542"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1031"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Language",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "English",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "565"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "608"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1173"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Not English",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "227"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "212"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "439"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Insurance",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Commercial",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "430"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "410"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "840"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Medicaid",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "174"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "200"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "374"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Medicare",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "147"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "169"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "316"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Self-Pay",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "41"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "41"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "82"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Patient-Physician Connectedness Status",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Physician-connected",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "670"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "674"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1344"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Practice-connected",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "122"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "146"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "268"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Clinic Visits in Prior 3-Year",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "visits",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6.9",
+                                                                "BaselineMeasurementSpread": "7.0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "6.8",
+                                                                "BaselineMeasurementSpread": "6.5"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "6.85",
+                                                                "BaselineMeasurementSpread": "6.75"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Percentage of Cancer Screening Tests Completed - Intention to Treat",
+                            "OutcomeMeasureDescription": "The primary outcome was the overall cancer screening test completion rate over the follow-up period for each eligible patient, with all eligible cancers combined in intention to treat analyses. For example, a patient who was eligible for a total of 3 screening tests at a given time could have a completion rate of 0% (none of the 3 tests completed) 33%, 67%, or 100% (all 3 tests completed). By assessing each patient's completion rate over the 8-month follow-up period, the average completion rate over time was estimated from the area under the curve. We also calculated the completion rate for each individual cancer as the percentage of time screening was up to date among eligible patients during follow-up.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Mean",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "percentage of screening visits completed",
+                            "OutcomeMeasureTimeFrame": "8 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patient Navigation Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Standard of Care - No Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "792"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "820"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "All Cancers Combined",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "10.2",
+                                                                "OutcomeMeasurementLowerLimit": "8.7",
+                                                                "OutcomeMeasurementUpperLimit": "11.7"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "6.8",
+                                                                "OutcomeMeasurementLowerLimit": "5.5",
+                                                                "OutcomeMeasurementUpperLimit": "8.1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Breast",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "14.7",
+                                                                "OutcomeMeasurementLowerLimit": "12.0",
+                                                                "OutcomeMeasurementUpperLimit": "17.4"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "11.0",
+                                                                "OutcomeMeasurementLowerLimit": "8.5",
+                                                                "OutcomeMeasurementUpperLimit": "13.4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Cervical",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "11.1",
+                                                                "OutcomeMeasurementLowerLimit": "8.4",
+                                                                "OutcomeMeasurementUpperLimit": "13.9"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "5.7",
+                                                                "OutcomeMeasurementLowerLimit": "3.7",
+                                                                "OutcomeMeasurementUpperLimit": "7.7"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Colorectal",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "7.6",
+                                                                "OutcomeMeasurementLowerLimit": "5.9",
+                                                                "OutcomeMeasurementUpperLimit": "9.2"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "4.6",
+                                                                "OutcomeMeasurementLowerLimit": "3.2",
+                                                                "OutcomeMeasurementUpperLimit": "5.9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                                        "OutcomeAnalysisPValue": "<0.001",
+                                        "OutcomeAnalysisStatisticalMethod": "Mixed Models Analysis",
+                                        "OutcomeAnalysisCINumSides": "2-Sided"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Percentage of Patients Completing Any Cancer Screening Test (Intention to Treat)",
+                            "OutcomeMeasureDescription": "The percentage of patients completing any cancer screening during follow-up among those who were eligible and overdue for at least one cancer screening at baseline in intention to treat analyses, as the percentage of patients completing each type of cancer screening among those who were eligible and overdue at baseline in intention to treat analyses.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "percentage of patients",
+                            "OutcomeMeasureTimeFrame": "8 Months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patient Navigation Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Standard of Care - No Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "792"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "820"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Any Screening",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "25.5"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "17.0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Breast",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "23.4"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "16.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Cervical",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "14.4"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "8.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Colorectal",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "13.7"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "7.0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                                        "OutcomeAnalysisPValue": "<0.001",
+                                        "OutcomeAnalysisStatisticalMethod": "Regression, Logistic",
+                                        "OutcomeAnalysisCINumSides": "2-Sided"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Percentage of Patients Completing Any Cancer Screening Test (As Treated)",
+                            "OutcomeMeasureDescription": "The percentage of patients completing any cancer screening during follow-up among those who were eligible and overdue for at least one cancer screening at baseline in intention to treat analyses, as the percentage of patients completing each type of cancer screening among those who were eligible and overdue at baseline, removing patients who left our primary care network or who died during follow-up from both intervention and control arms, and also removed patients the navigators were not able to contact from the intervention arm.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "percentage of patients",
+                            "OutcomeMeasureTimeFrame": "8 Months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patient Navigation Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Standard of Care - No Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "605"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "764"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Any Screening",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "32.9"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "18.1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Breast",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "29.6"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "17.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Cervical",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "18.0"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "9.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Colorectal",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "18.1"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "7.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                                        "OutcomeAnalysisPValue": "<0.001",
+                                        "OutcomeAnalysisStatisticalMethod": "Regression, Logistic",
+                                        "OutcomeAnalysisCINumSides": "2-Sided"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Percentage of Cancer Screening Tests Completed - As Treated",
+                            "OutcomeMeasureDescription": "The primary outcome was the average cancer screening test completion rate over the follow-up period for each eligible patient, with all eligible cancers combined in as treated analyses - excluding patients who either left the network or died during follow-up. The cancer screening test completion rate for each subject was calculated daily, then averaged across the 8-month study period. On any given day, the screening test completion rate was calculated as the number of tests completed divided by the number of eligible tests.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Mean",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "percentage of completed screening visits",
+                            "OutcomeMeasureTimeFrame": "8 Months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patient Navigation Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Standard of Care - No Intervention",
+                                        "OutcomeGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "605"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "764"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "All Cancers Combined",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "13.1",
+                                                                "OutcomeMeasurementLowerLimit": "11.8",
+                                                                "OutcomeMeasurementUpperLimit": "15.6"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "7.2",
+                                                                "OutcomeMeasurementLowerLimit": "5.9",
+                                                                "OutcomeMeasurementUpperLimit": "8.6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Breast",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "18.8",
+                                                                "OutcomeMeasurementLowerLimit": "15.6",
+                                                                "OutcomeMeasurementUpperLimit": "22.4"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "11.7",
+                                                                "OutcomeMeasurementLowerLimit": "9.0",
+                                                                "OutcomeMeasurementUpperLimit": "14.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Cervical",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "14.1",
+                                                                "OutcomeMeasurementLowerLimit": "11.0",
+                                                                "OutcomeMeasurementUpperLimit": "18.2"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "6.2",
+                                                                "OutcomeMeasurementLowerLimit": "4.0",
+                                                                "OutcomeMeasurementUpperLimit": "8.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Colorectal",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "9.9",
+                                                                "OutcomeMeasurementLowerLimit": "8.0",
+                                                                "OutcomeMeasurementUpperLimit": "12.3"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "4.9",
+                                                                "OutcomeMeasurementLowerLimit": "3.4",
+                                                                "OutcomeMeasurementUpperLimit": "6.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                                        "OutcomeAnalysisPValue": "<0.001",
+                                        "OutcomeAnalysisStatisticalMethod": "Mixed Models Analysis",
+                                        "OutcomeAnalysisCINumSides": "2-Sided"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Patient Navigation Intervention",
+                            "EventGroupDescription": "Patients randomized to the intervention arm were transferred to a navigator roster within the TopCare application for the 8-month study period. Navigators utilized TopCare to track these patients, reach out to them in their own language, and provide intense outreach to help them complete cancer screening.",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "792",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "729"
+                        },
+                        {
+                            "EventGroupId": "EG001",
+                            "EventGroupTitle": "Standard of Care - No Intervention",
+                            "EventGroupDescription": "Patients randomized to the control arm received usual care within TopCare, which meant that clinicians and staff could elect to send the patient a reminder letter about their overdue cancer screening exams, reach out to schedule overdue exams, or document appropriate reasons for deferral or exclusion.",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "820",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "820"
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes",
+                    "AgreementRestrictiveAgreement": "No"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Dr. Sanja Percac-Lima",
+                    "PointOfContactOrganization": "Massachusetts General Hospital",
+                    "PointOfContactEMail": "spercaclima@partners.org",
+                    "PointOfContactPhone": "617-643-6980"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

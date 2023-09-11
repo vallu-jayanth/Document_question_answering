@@ -1,0 +1,388 @@
+{
+    "Rank": 477,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01077648",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "112951"
+                },
+                "Organization": {
+                    "OrgFullName": "GlaxoSmithKline",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Brain Metastasis in Breast Cancer Patients",
+                "OfficialTitle": "Occurrence of Brain Metastasis in Breast Cancer Patients Diagnosed at Advanced Stages of the Disease"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2014",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 2013",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 2013",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 25, 2010",
+                "StudyFirstSubmitQCDate": "February 25, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 1, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 22, 2014",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 26, 2014",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "GlaxoSmithKline",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this epidemiologic study is to establish a population-based cohort of women with advanced stage breast cancer which can be used to quantify the frequency and timing of brain metastases, and other distant metastases, in this patient population.",
+                "DetailedDescription": "A retrospective cohort study will be conducted in the Henry Ford Health System (HFHS). Using medical record review, we will identify all women diagnosed with advanced stage (stage III and IV) breast cancer between January 1, 1995- December 31, 2007. For each case included in the study, we will obtain data on demographics, tumor information, treatment related medical encounters and procedures, and occurrence and timing of brain and/or other distant metastases. The main outcome for this study is the development of distant metastases. Each patient in the cohort will be classified as to the occurrence and date of distant metastases. Metastases will be classified as Brain, Distant lymph node, Lung/pleural effusion, Liver, Bone, Other visceral, Other non-visceral.\n\nOther secondary outcomes to be explored include:\n\nSurvival after advanced breast cancer-time in months from the date of advanced stage breast cancer diagnosis until death or end of study period\nTime to brain metastases-time in month from the date of advanced stage breast cancer diagnosis until brain metastases diagnosis\nSurvival after brain metastases-time in months from the date of diagnosis of brain metastases until death or end of study period"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer",
+                        "Treatment",
+                        "Brain metastases",
+                        "ErbB2 expression"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Women diagnosed with advanced breast cancer",
+                            "ArmGroupDescription": "Women diagnosed with advanced breast cancer during January 1, 1995-December 31, 2007 and treated as part of the Henry Ford Health System",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Trastuzumab or Lapatinib"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Trastuzumab or Lapatinib",
+                            "InterventionDescription": "Anti-erbB2 therapy for breast cancer treatment will be analyzed as a class level variable; individual drugs including trastuzumab and lapatinib will also be explored as exposures if sufficient numbers of patients exist.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Women diagnosed with advanced breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of advanced stage breast cancer patients that develop brain metastases, overall and stratified by anti-HER2 therapy (for HER2+ patients only).",
+                            "PrimaryOutcomeTimeFrame": "Time from breast cancer diagnosis until death or end of study periods (September 1, 2009)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival from advanced stage breast cancer, overall and stratified by tumor characteristics and anti-HER2 therapy (for HER2+ patients only).",
+                            "SecondaryOutcomeTimeFrame": "Time from diagnosis of advanced stage breast cancer until death or end of study period (September 1, 2009)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to brain metastases stratified by key tumor characteristics and anti-HER2 therapy (for HER2+ patients only).",
+                            "SecondaryOutcomeTimeFrame": "Time from diagnosis of advanced stage breast cancer until brain metastases diagnosis"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Survival after brain metastases diagnosis, overall and stratified by key tumor characteristics and anti-HER2 therapy (for HER2+ patients only)",
+                            "SecondaryOutcomeTimeFrame": "Time from diagnosis of brain metastases until death or end of study period (September 1, 2009)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nInitially diagnosed with American Joint Commission on Cancer (AJCC) stage III or stage IV breast cancer between January 1, 1995 through December 31, 2007 -OR- diagnosed with AJCC stage I or II breast cancer and progressed to stage III or IV disease between January 1, 1995 through December 31, 2007;\nAt least one year of follow-up after initial diagnosis (among patients who did not die before one year of follow-up); and\nAge 30 years or older at diagnosis.\n\nExclusion Criteria:\n\nDoes not have at least one year of follow-up after initial diagnosis (among patients who did not die before one year of follow-up); and\nAge less than 30 years or older at diagnosis.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "30 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This study aims to retrospectively collect data on nearly 4,000 advanced breast cancer cases treated within the Henry Ford Health System",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "GSK Clinical Trials",
+                            "OverallOfficialAffiliation": "GlaxoSmithKline",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionMeshId": "D000001932",
+                            "ConditionMeshTerm": "Brain Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000016543",
+                            "ConditionAncestorTerm": "Central Nervous System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009423",
+                            "ConditionAncestorTerm": "Nervous System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001927",
+                            "ConditionAncestorTerm": "Brain Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002493",
+                            "ConditionAncestorTerm": "Central Nervous System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009422",
+                            "ConditionAncestorTerm": "Nervous System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4899",
+                            "ConditionBrowseLeafName": "Brain Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Brain Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18627",
+                            "ConditionBrowseLeafName": "Central Nervous System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12057",
+                            "ConditionBrowseLeafName": "Nervous System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4894",
+                            "ConditionBrowseLeafName": "Brain Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5432",
+                            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC10",
+                            "ConditionBrowseBranchName": "Nervous System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000068878",
+                            "InterventionMeshTerm": "Trastuzumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000077341",
+                            "InterventionMeshTerm": "Lapatinib"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000047428",
+                            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M325",
+                            "InterventionBrowseLeafName": "Trastuzumab",
+                            "InterventionBrowseLeafAsFound": "Via",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1778",
+                            "InterventionBrowseLeafName": "Lapatinib",
+                            "InterventionBrowseLeafAsFound": "Healthy controls",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25510",
+                            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

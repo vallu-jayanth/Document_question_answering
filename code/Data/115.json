@@ -1,0 +1,342 @@
+{
+    "Rank": 115,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00474604",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC BRE 0588"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "P30CA068485",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA068485"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-BRE-0588"
+                        },
+                        {
+                            "SecondaryId": "VU-VICC-IRB-051230"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Breast MRI in Women With Known or Suspected Breast Cancer and in Healthy Participants",
+                "OfficialTitle": "MRI Evaluation of Breast Tumor Growth and Treatment Response"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 2006",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 16, 2007",
+                "StudyFirstSubmitQCDate": "May 16, 2007",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 17, 2007",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 11, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 13, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "A Bapsi Chakravarthy, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Professor; Radiation Oncologist",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Diagnostic procedures, such as MRI, may help diagnose breast cancer. It may also help doctors predict a patient's response to treatment.\n\nPURPOSE: This clinical trial is studying breast MRI in women with known or suspected breast cancer and in healthy participants.",
+                "DetailedDescription": "OBJECTIVES:\n\nDevelop and combine advanced, quantitative, multiparametric magnetic resonance imaging methods (i.e., dynamic contrast-enhanced MRI [DCE-MRI], diffusion-weighted MRI [DW-MRI], and magnetic resonance spectroscopy [MRS]) to characterize breast tumors in women with known or suspected breast cancer.\nIdentify surrogate biomarkers that can guide diagnosis and treatment of breast cancer using these methods.\nCorrelate biochemical information obtained from magnetic resonance analysis with clinical, radiologic, and pathologic findings in these patients.\nEstablish an imaging data bank that includes information on DCE-MRI, DW-MRI, and MRS findings in these patients and in healthy participants.\n\nOUTLINE: Quantitative, multi-parametric magnetic imaging methods will be employed for breast imaging for the following subjects:\n\nGroup A: Healthy volunteers who undergo up to 3 breast MRIs over 6 weeks.\nGroup B: Patients diagnosed with breast cancer who will: 1) undergo preoperative breast MRI followed by definitive surgery or 2) undergo MRI prior to initiating neoadjuvant chemotherapy, at 1-2 weeks after initiation of chemotherapy, and prior to definitive surgery.\n\nClinical information, including radiologic and pathologic data, on all patients is collected for inclusion in the imaging data bank.\n\nAfter completion of the study, patients and healthy participants are followed periodically."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "209",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants without breast cancer",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: diffusion-weighted magnetic resonance imaging",
+                                    "Procedure: dynamic contrast-enhanced magnetic resonance imaging",
+                                    "Procedure: magnetic resonance spectroscopic imaging"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Participants with breast cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: diffusion-weighted magnetic resonance imaging",
+                                    "Procedure: dynamic contrast-enhanced magnetic resonance imaging",
+                                    "Procedure: magnetic resonance spectroscopic imaging"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "diffusion-weighted magnetic resonance imaging",
+                            "InterventionDescription": "A scan will be performed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with breast cancer",
+                                    "Participants without breast cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "dynamic contrast-enhanced magnetic resonance imaging",
+                            "InterventionDescription": "A scan will be performed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with breast cancer",
+                                    "Participants without breast cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "magnetic resonance spectroscopic imaging",
+                            "InterventionDescription": "A scan will be performed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with breast cancer",
+                                    "Participants without breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Feasibility of advanced, quantitative, multi-parametric magnetic resonance imaging (MRI) methods for characterizing breast tumors to develop potential surrogate imaging markers for diagnosis and prediction of treatment response",
+                            "PrimaryOutcomeDescription": "Quantitative, multi-parametric MRI imaging methods include Dynamic Contrast MRI, Diffusion Weighted MRI, and Magnetic Resonance Spectroscopy. Patients will include healthy female volunteers and women diagnosed with breast cancer. Time frames begin at study entry (healthy volunteers) , pre-surgical and pre- and post-chemotherapy (breast cancer patients)",
+                            "PrimaryOutcomeTimeFrame": "on-study date and at 6 months, up to 4 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of biochemical data obtained from magnetic resonance analysis with clinical, radiological, and pathological findings",
+                            "SecondaryOutcomeDescription": "Biochemical data from advanced MRIs are compared and contrasted with findings from patients' clinical, chemotherapeutic, and radiologic treatments for breast cancer.",
+                            "SecondaryOutcomeTimeFrame": "at 6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Establishment of an imaging data bank",
+                            "SecondaryOutcomeDescription": "Results of advanced MRI imaging methods for subjects assessed after completion of all MRI procedures",
+                            "SecondaryOutcomeTimeFrame": "at 6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion criteria:\n\nWomen who satisfy the following conditions are the only subjects who will be eligible for this study:\n\nNormal volunteers\nSubjects with known or suspected breast disease\nSubjects must have signed an approved consent form.\nSubjects must be \u2265 18 years old.\nThe protocol nurse will check with the patient that there is no h/o kidney disease\n\nNormal creatinine and estimated GFR* within 30 days under the following circumstances\n\nHad abnormal creatinine in the last 60 days\nAre over 60 years of age\nHas received chemotherapy within the past 30 days\nHas diabetes, HIV, renal disease or hx of renal cancer\n* GFR will be calculated using: http://www.kidney.org/professionals/kdoqi/gfr_calculator.cfm\nPatients with an eGFR>90ml/min reported within 30 days, and who have not had intervening chemotherapy or other treatment or condition that might deteriorate renal function, may receive any gadolinium agent.\n\nExclusion Criteria:\n\nChildren will be excluded from this study.\nPregnant women and women who are breast feeding will be excluded from this study. (The Vanderbilt University Medical Center radiology \"MRI Procedure Screening Form\" will be used to identify and exclude subjects who are pregnant or breastfeeding. A urine pregnancy test/or serum beta HCG will also be performed for each pre-menopausal subject.)\nSubjects found to have any constitutionally present non-MR compatible ferromagnetic materials will be excluded from this study.\nPatients who are acutely ill who are deemed by their treating physician as not suitable candidates for this study\nSubjects for whom an MRI is technically not feasible (e.g. breast volume, obesity)\nSubjects who have vascular access ports or other implanted devices rated as anything other than \"Safe\" or \"Conditional 6\"",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "A. Bapsi Chakravarthy, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt-Ingram Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vanderbilt-Ingram Cancer Center",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37232-6838",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "17222711",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Yankeelov TE, Lepage M, Chakravarthy A, Broome EE, Niermann KJ, Kelley MC, Meszoely I, Mayer IA, Herman CR, McManus K, Price RR, Gore JC. Integration of quantitative DCE-MRI and ADC mapping to monitor treatment response in human breast cancer: initial results. Magn Reson Imaging. 2007 Jan;25(1):1-13. doi: 10.1016/j.mri.2006.09.006. Epub 2006 Nov 21."
+                        },
+                        {
+                            "ReferencePMID": "23157877",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Li X, Abramson RG, Arlinghaus LR, Chakravarthy AB, Abramson V, Mayer I, Farley J, Delbeke D, Yankeelov TE. An algorithm for longitudinal registration of PET/CT images acquired during neoadjuvant chemotherapy in breast cancer: preliminary results. EJNMMI Res. 2012 Nov 16;2(1):62. doi: 10.1186/2191-219X-2-62."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Vanderbilt-Ingram Cancer Center, Find a Clinical Trial",
+                            "SeeAlsoLinkURL": "http://www.vicc.org/ct/"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

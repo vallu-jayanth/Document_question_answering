@@ -1,0 +1,428 @@
+{
+    "Rank": 818,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05070884",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RADIOVAL"
+                },
+                "Organization": {
+                    "OrgFullName": "Instituto de Investigacion Sanitaria La Fe",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Clinical Validation of Radiomics Artificial Intelligence: Application to Breast Cancer Treatment Planning",
+                "OfficialTitle": "Clinical Validation of Radiomics Artificial Intelligence: Application to Breast Cancer",
+                "Acronym": "RADIOVAL"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 20, 2021",
+                "StudyFirstSubmitQCDate": "October 4, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 7, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 1, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 3, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Instituto de Investigacion Sanitaria La Fe",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Karolinska Institutet",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Medical University of Gdansk",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Medical School University of Zagreb",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Medical University of Vienna",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Hacettepe University Hospital",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Alexander Fleming Institute",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Ain Shams University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RadioVal will develop and implement interoperable solutions for clinical deployment of the radiomics tools, including information, training, and communication packages for clinicians and patients, as well as standard operating procedures for the integration of radiomics in clinical oncology. With this study, we will clinically validate these solutions, by looking at their reliability for precise breast cancer diagnosis, treatment recommendation and prognosis estimate, treatment response, evaluation of residual disease and outcome prediction."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "5000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "non respondants of neo treatment",
+                            "ArmGroupDescription": "those patients with no response or partial response when administered with Chemotherapy prior to sugery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: The development of new clinical AI solutions to predict treatment response to neoadjuvant chemotherapy (NAC) in breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "The development of new clinical AI solutions to predict treatment response to neoadjuvant chemotherapy (NAC) in breast cancer",
+                            "InterventionDescription": "Evaluate response to neoadjuvant treatment in advanced breast cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "non respondants of neo treatment"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of patients non-respondents vs respondents in neoadjuvant breast cancer treatment (Estimate tumor aggressiveness)",
+                            "PrimaryOutcomeDescription": "Proportion of patients who have complete response evaluating the target lesion according to Miller/Payne Grading system [Ogston et al., 2003]: 1A. Evaluation of target Tumor: G5 as pathological complete response, no tumor left; G4:more than 90% loss of tumor cells; G3: between 30-90% reduction in tumor cells; G2: loss of tumor <30%; G1: no reduction. 1B: Evaluating the lymph nodes: A: negative; B: lymph nodes with metastasis and without changes by chemotherapy; C: lymph nodes with metastasis with evidence of partial response, D: lymph nodes with changes attributed to response without residual infiltration. 1C: Using images to evaluated radiological response: Size and diameter in millimeters of the target lesion using RM and TC or PET/CT for extension analysis (lymph nodes and metastasis).",
+                            "PrimaryOutcomeTimeFrame": "Baseline and after neoadjuvant treatment (4-6 months)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFemales \u2265 18 years up to 85 years old\nIndividuals referred to hospitals for diagnosis of breast cancer\nAvailability of radiological images: 2D mammography or 2D synthetic digital tomosynthesis, ultrasound, or magnetic resonance\nAvailability of pathological report (surgical specimen)\nAvailability of (Neoadjuvant) treatment allocation (scheme, duration, benefit)\nAvailability of treatment response\n\nExclusion Criteria:\n\nPatient with incomplete or low-quality data (radiological, pathological or clinical)",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "85 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients treated with chemotherapy prior to surgery",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Ana Penades-Blasco, M.Ec",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+34 961245633",
+                            "CentralContactEMail": "ana_penades@iislafe.es"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Alexander Fleming",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Buenos Aires",
+                            "LocationCountry": "Argentina",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Daniel Cl Mysler",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Medical University of Vienna",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Vienna",
+                            "LocationCountry": "Austria",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pascal Baltzer",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University of Zagreb School of Medicine",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Zagreb",
+                            "LocationCountry": "Croatia",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Boris Brkljacic",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ain Shams University",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "El Cairo",
+                            "LocationCountry": "Egypt",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Abeer Hamed",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Medical University of Gdansk",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Gda\u0144sk",
+                            "LocationCountry": "Poland",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Maciej Bobowicz, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitario y Polit\u00e9cnico La Fe de Valencia",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Valencia",
+                            "LocationZip": "46026",
+                            "LocationCountry": "Spain",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gloria Ribas, PHD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gloria_ribas@iislafe.es"
+                                    },
+                                    {
+                                        "LocationContactName": "Luis Marti-Bonmati, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Ana Santaballa, MD, PhD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Guillermina Montoliu, MD, PhD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Rosa Garc\u00eda, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Karolinska Institute",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Stockholm",
+                            "LocationCountry": "Sweden",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Fredrik Strand",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Apostolia Tsirikoglou, PhD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hacettepe University",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Ankara",
+                            "LocationCountry": "Turkey",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Meltem Gulsun Akpinar",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "N/D"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M21550",
+                            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "PhSol",
+                            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

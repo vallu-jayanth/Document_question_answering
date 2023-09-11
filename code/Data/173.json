@@ -1,0 +1,336 @@
+{
+    "Rank": 173,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05570266",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "ID-RPSBC-01-20201012"
+                },
+                "Organization": {
+                    "OrgFullName": "Nalagenetics Pte Ltd",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Genetic and Non-Genetic Breast Cancer Risk Prediction Evaluation in Indonesian Samples",
+                "OfficialTitle": "Genetic and Non-Genetic Breast Cancer Risk Prediction Evaluation in Indonesian Samples"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 13, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 30, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 4, 2022",
+                "StudyFirstSubmitQCDate": "October 4, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 6, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 4, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 6, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Nalagenetics Pte Ltd",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "SJH Initiatives",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "MRCCC Siloam Hospitals Semanggi",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Breast cancer is the most common cancer and cause of cancer- related deaths among women, accounting for 1.67 million (25.2%) new cases and 521,907 (14.7%) deaths worldwide. The prevalence and survival rates of breast cancer differ per country. In Indonesia, majority of patients (70.9%) go to the clinic with advanced stages of breast cancer. Five-year survival rate is 51.07%. One of the most important determinants of survival is education level and stage of breast cancer (Sinaga et al., 2018).\n\nCurrent screening methods include mammography and radiology assessments, both of which have disadvantages specifically in Asian population. Mammography is less useful in Asian population because the population has denser breast, resulting to failure to diagnose cases of breast cancer in this population in 37-70% of cases (Vachon et al., 2010). Moreover, screening methods provide binary answers, and therefore does not inform risk profile of the patients.\n\nWe aim to implement PRS into the breast cancer screening process while observing the differences of genetic and non-genetic risk factor in patients with breast cancer and patients without any medical/family history of breast cancer in Indonesian population.",
+                "DetailedDescription": "Breast cancer is the most common cancer and cause of cancer- related deaths among women, accounting for 1.67 million (25.2%) new cases and 521,907 (14.7%) deaths worldwide. The prevalence and survival rates of breast cancer differ per country. In Indonesia, majority of patients (70.9%) go to the clinic with advanced stages of breast cancer. Five-year survival rate is 51.07%. One of the most important determinants of survival is education level and stage of breast cancer (Sinaga et al., 2018).\n\nCurrent screening methods include mammography and radiology assessments, both of which have disadvantages specifically in Asian population. Mammography is less useful in Asian population because the population has denser breast, resulting to failure to diagnose cases of breast cancer in this population in 37-70% of cases (Vachon et al., 2010). Moreover, screening methods provide binary answers, and therefore does not inform risk profile of the patients.\n\nTraditionally, risk prediction algorithms such as the GAIL model, BODACIEA, and Tyler-Cuzick use medical history and clinical factors of patients. However recently, genetics have grown in importance due to the heritability nature of cancer and availability of testing services and guidelines. About 10-30% of all cases are attributed to familial breast cancers, and of these, only 5%-10% correlate with hereditary factors linked with high penetrance (Costa & Saldanha, 2017). The most common genetic test to screen today is BRCA 1 and 2, and then other 22 genes curated by expert opinions on NCCN and other guidelines.\n\nThe prevalences estimated for carriers of mutations in BRCA1/2 are, respectively, 0.11% and 0.12% in the general population, and between 12.8%-16% in high risk families with three or more cases of breast or ovarian cancer. Approximately 10-15% of ovarian cancer cases are believed to be due to a BRCA1/2 mutation (Zhang et al., 2011), however ~50% of individuals with a pathogenic BRCA mutation may not report a strong family history of cancer (Manchanda et al., 2014). NCCN, ASCO, St Gallen and has established guidelines to screen patients (Costa & Saldanha, 2017), but the low awareness in patients to go screening in the first place is hard.\n\nGenetic testing using polygenic risk scores (PRS) combines the effects of low penetrance genes that together creates predictive value as strong as high-penetrance genes, but is much more common than high-penetrance gene testing (Khera et al., 2018). A PRS is most commonly calculated as a weighted sum of the number of risk alleles carried by an individual, where the risk alleles and their weights are defined by the loci and their measured effects as detected by genome wide association studies.\n\nFor some common adult-onset diseases, the polygenic risk conveyed to a substantial segment (10-20%) of the population whose genomes are enriched in risk alleles is comparable to the risk conveyed by commonly used clinical risk factors (Khera et al., 2018). A recent large-scale comprehensive GWAS for breast cancer found that 45% of familial relative risk of breast cancer can be explained by genetic variants captured by genotyping and imputation (Mavaddat et al., 2018). As genotyping technologies advance, and consortia build algorithms on more samples, the predictive values of PRS algorithms are maturing. After analysis of 120,000 patients and optimizing for highest predictability, a PRS score combining 313 SNPs and clinical factors have a predictive value of 68%, compared to only 58% using clinical risk factors (Mavaddat et al., 2018). A study conducted in the Breast Cancer Association Consortium showed that PRS combined with environmental risk factors can be used to distinguish women at different levels of breast cancer risk in the general population (Rudolph et al., 2018).\n\nThis score gives providers the opportunity to stratify the patients may result in some people with higher risk profile to start risk-reducing therapy earlier, start screening at a younger age, and modify their lifestyles with the aim of reducing their risk. For example, those who are at the top 1.5% of polygenic risk score have an odds ratio of 3 or more compared to the general population.\n\nPolygenic risk scores have been applied in leading institutions in the world as clinical trials and in the commercial settings. However, there has been little application in developing countries to use polygenic risk score to increase awareness of risk-reducing strategies of breast cancer in patients.\n\nOne of the main concerns about the clinical implementation of population-based genetic screening is experts' availability post-test. A study in the UK for physicians' attitude towards risk stratification of ovarian cancer showed that 70% oncologists and 50% of GPs would be willing to offer genetic testing to their patients. About 60% believe that the test would give patients a sense of control, and over 80% of providers are willing to personalize recommendations based on risk stratification (Hann et al., 2017).\n\nWe aim to implement PRS into the breast cancer screening process while observing the differences of genetic and non-genetic risk factor in patients with breast cancer and patients without any medical/family history of breast cancer in Indonesian population."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast Cancer",
+                        "Polygenic Risk Score"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "3 Months",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "gDNA extracted from Buccal Sample"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "316",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cases",
+                            "ArmGroupDescription": "Cases are taken by recruiting women who:\n\nhave no first degree family history of breast or ovarian cancer\nare or had been diagnosed with primary breast cancer or tested positive for high penetrance genes (e.g. BRCA 1/2)\nmenarche age >12 years old\npremenopausal",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Breast Cancer Risk Prediction Software"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort",
+                            "ArmGroupDescription": "Controls are taken from clients who visited Breast Cancer Care Alliance (BCCA) and:\n\nhave no family history of breast or ovarian cancer\npremenopausal\nmenarche age >12 years old\nasymptomatic\ndo not have any first-degree relationship with the cases\nconsented for the study and follow up",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Breast Cancer Risk Prediction Software"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Breast Cancer Risk Prediction Software",
+                            "InterventionDescription": "Genotyping of known breast cancer-related markers (313 variants) will be conducted using a microarray genotyping chip (Genetic Risk). Survey answers will determine Gail Model scores and thus Clinical Risk Score.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cases",
+                                    "Cohort"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Absolute risk difference between breast cancer patients and non-breast cancer patients in terms of their non-genetic risk",
+                            "PrimaryOutcomeDescription": "Absolute non-genetic risk is calculated using the MDCalc Gail Model",
+                            "PrimaryOutcomeTimeFrame": "Q1 2023"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Absolute risk difference between breast cancer patients and non-breast cancer patients in terms of their genetic risk",
+                            "PrimaryOutcomeDescription": "Genetic risk is derived from polygenic risk score acquired from running a microarray sample result through an algorithm (see Mavaddat et al 2019)",
+                            "PrimaryOutcomeTimeFrame": "Q1 2023"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFor case group\n\nHad been diagnosed with primary breast cancer or tested positive for high penetrance genes (e.g. BRCA 1/2)\nMenarche age >12 years old\nPremenopausal\n\nFor control group\n\nPremenopausal\nMenarche age >12 years old\nAsymptomatic\nConsented for the study and follow up\n\nExclusion Criteria:\n\nFor case group:\n\nFirst degree family history of breast or ovarian cancer\n\nFor control group:\n\nFamily history of breast or ovarian cancer\nFirst-degree relationship with the cases",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "GenderBased": "Yes",
+                "MinimumAge": "35 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Controls are taken from clients who visited Breast Cancer Care Alliance (BCCA) We will not impose any selection to age at diagnosis for both cases and controls",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Femmy Bahroen,, MD, MHA",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+6587494699",
+                            "CentralContactEMail": "femmy@nalagenetics.com"
+                        },
+                        {
+                            "CentralContactName": "Astrid Irwanto, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+65844992126",
+                            "CentralContactEMail": "astrid@nalagenetics.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Samuel Haryono, MD, PhD",
+                            "OverallOfficialAffiliation": "SJH Initiatives",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "MRCC Siloam Hospitals Semanggi",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Jakarta",
+                            "LocationState": "Jakarta Raya",
+                            "LocationZip": "12930",
+                            "LocationCountry": "Indonesia",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Faustina Agatha",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+6281294642",
+                                        "LocationContactEMail": "agatha_audrey@yahoo.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Samuel Haryono, MD, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "samuelharyono@yahoo.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28894848",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Costa M, Saldanha P. Risk Reduction Strategies in Breast Cancer Prevention. Eur J Breast Health. 2017 Jul 1;13(3):103-112. doi: 10.5152/ejbh.2017.3583. eCollection 2017 Jul."
+                        },
+                        {
+                            "ReferencePMID": "30554720",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Mavaddat N, Michailidou K, Dennis J, Lush M, Fachal L, Lee A, Tyrer JP, Chen TH, Wang Q, Bolla MK, Yang X, Adank MA, Ahearn T, Aittomaki K, Allen J, Andrulis IL, Anton-Culver H, Antonenkova NN, Arndt V, Aronson KJ, Auer PL, Auvinen P, Barrdahl M, Beane Freeman LE, Beckmann MW, Behrens S, Benitez J, Bermisheva M, Bernstein L, Blomqvist C, Bogdanova NV, Bojesen SE, Bonanni B, Borresen-Dale AL, Brauch H, Bremer M, Brenner H, Brentnall A, Brock IW, Brooks-Wilson A, Brucker SY, Bruning T, Burwinkel B, Campa D, Carter BD, Castelao JE, Chanock SJ, Chlebowski R, Christiansen H, Clarke CL, Collee JM, Cordina-Duverger E, Cornelissen S, Couch FJ, Cox A, Cross SS, Czene K, Daly MB, Devilee P, Dork T, Dos-Santos-Silva I, Dumont M, Durcan L, Dwek M, Eccles DM, Ekici AB, Eliassen AH, Ellberg C, Engel C, Eriksson M, Evans DG, Fasching PA, Figueroa J, Fletcher O, Flyger H, Forsti A, Fritschi L, Gabrielson M, Gago-Dominguez M, Gapstur SM, Garcia-Saenz JA, Gaudet MM, Georgoulias V, Giles GG, Gilyazova IR, Glendon G, Goldberg MS, Goldgar DE, Gonzalez-Neira A, Grenaker Alnaes GI, Grip M, Gronwald J, Grundy A, Guenel P, Haeberle L, Hahnen E, Haiman CA, Hakansson N, Hamann U, Hankinson SE, Harkness EF, Hart SN, He W, Hein A, Heyworth J, Hillemanns P, Hollestelle A, Hooning MJ, Hoover RN, Hopper JL, Howell A, Huang G, Humphreys K, Hunter DJ, Jakimovska M, Jakubowska A, Janni W, John EM, Johnson N, Jones ME, Jukkola-Vuorinen A, Jung A, Kaaks R, Kaczmarek K, Kataja V, Keeman R, Kerin MJ, Khusnutdinova E, Kiiski JI, Knight JA, Ko YD, Kosma VM, Koutros S, Kristensen VN, Kruger U, Kuhl T, Lambrechts D, Le Marchand L, Lee E, Lejbkowicz F, Lilyquist J, Lindblom A, Lindstrom S, Lissowska J, Lo WY, Loibl S, Long J, Lubinski J, Lux MP, MacInnis RJ, Maishman T, Makalic E, Maleva Kostovska I, Mannermaa A, Manoukian S, Margolin S, Martens JWM, Martinez ME, Mavroudis D, McLean C, Meindl A, Menon U, Middha P, Miller N, Moreno F, Mulligan AM, Mulot C, Munoz-Garzon VM, Neuhausen SL, Nevanlinna H, Neven P, Newman WG, Nielsen SF, Nordestgaard BG, Norman A, Offit K, Olson JE, Olsson H, Orr N, Pankratz VS, Park-Simon TW, Perez JIA, Perez-Barrios C, Peterlongo P, Peto J, Pinchev M, Plaseska-Karanfilska D, Polley EC, Prentice R, Presneau N, Prokofyeva D, Purrington K, Pylkas K, Rack B, Radice P, Rau-Murthy R, Rennert G, Rennert HS, Rhenius V, Robson M, Romero A, Ruddy KJ, Ruebner M, Saloustros E, Sandler DP, Sawyer EJ, Schmidt DF, Schmutzler RK, Schneeweiss A, Schoemaker MJ, Schumacher F, Schurmann P, Schwentner L, Scott C, Scott RJ, Seynaeve C, Shah M, Sherman ME, Shrubsole MJ, Shu XO, Slager S, Smeets A, Sohn C, Soucy P, Southey MC, Spinelli JJ, Stegmaier C, Stone J, Swerdlow AJ, Tamimi RM, Tapper WJ, Taylor JA, Terry MB, Thone K, Tollenaar RAEM, Tomlinson I, Truong T, Tzardi M, Ulmer HU, Untch M, Vachon CM, van Veen EM, Vijai J, Weinberg CR, Wendt C, Whittemore AS, Wildiers H, Willett W, Winqvist R, Wolk A, Yang XR, Yannoukakos D, Zhang Y, Zheng W, Ziogas A; ABCTB Investigators; kConFab/AOCS Investigators; NBCS Collaborators; Dunning AM, Thompson DJ, Chenevix-Trench G, Chang-Claude J, Schmidt MK, Hall P, Milne RL, Pharoah PDP, Antoniou AC, Chatterjee N, Kraft P, Garcia-Closas M, Simard J, Easton DF. Polygenic Risk Scores for Prediction of Breast Cancer and Breast Cancer Subtypes. Am J Hum Genet. 2019 Jan 3;104(1):21-34. doi: 10.1016/j.ajhg.2018.11.002. Epub 2018 Dec 13."
+                        },
+                        {
+                            "ReferencePMID": "31086616",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sinaga ES, Ahmad RA, Shivalli S, Hutajulu SH. Age at diagnosis predicted survival outcome of female patients with breast cancer at a tertiary hospital in Yogyakarta, Indonesia. Pan Afr Med J. 2018 Nov 7;31:163. doi: 10.11604/pamj.2018.31.163.17284. eCollection 2018."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

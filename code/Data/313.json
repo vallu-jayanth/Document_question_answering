@@ -1,0 +1,365 @@
+{
+    "Rank": 313,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04763317",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CCR4948"
+                },
+                "Organization": {
+                    "OrgFullName": "Institute of Cancer Research, United Kingdom",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Precision Medicine in the Prostate Cancer Care Pathway",
+                "OfficialTitle": "Precision Medicine in the Prostate Cancer Care Pathway: an Evaluation of Integrating Germline Genetic Testing Into the Management of Men at Risk of / Living With Prostate Cancer",
+                "Acronym": "PMPRC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 14, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 28, 2020",
+                "StudyFirstSubmitQCDate": "February 18, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 21, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 6, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 7, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Institute of Cancer Research, United Kingdom",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Royal Marsden NHS Foundation Trust",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to evaluate the use of a prostate cancer specific predisposition genetic panel test in men with / at high risk of prostate cancer. The genetic test will analyse men's DNA samples for the presence of mutations in rare genes as well as common genetic variation to provide men with information about their risk of prostate cancer. This study will evaluate the clinical impact of the test on risk assessment and clinical management in terms of screening and treatment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer",
+                        "Genetic Predisposition"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Whole blood DNA or Saliva sample is collected from the participant for genetic analysis"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "2000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "AFFECTED",
+                            "ArmGroupDescription": "Affected with PrCa < 70 years\nAffected with metastatic castration resistant PrCa (mCRPC) at any age\n\nAffected with PrCa and a family history defined as\n\ntwo or more cases in family with one case < 70\nthree or more cases any age (FDR or SDR)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Prostate cancer risk gene panel"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "UNAFFECTED",
+                            "ArmGroupDescription": "- Aged >30 and with a family history defined as::\n\nFDR diagnosed < 70\n2 or more cases in First or Second Degree Relatives (FDR/SDR) with one case diagnosed < 70 years\n3 or more cases at any age (on same side of family)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Prostate cancer risk gene panel"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Prostate cancer risk gene panel",
+                            "InterventionDescription": "A list of genes created by study experts, thought to increase the risk of prostate cancer from from review previous research, this list is regularly reviewed for accuracy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "AFFECTED",
+                                    "UNAFFECTED"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of genetic variation in affected men",
+                            "PrimaryOutcomeDescription": "To determine the prevalence of prostate cancer (PrCa) specific genetic variation in men with: (a)young onset PrCa; (b) metastatic PrCa; (c) men with PrCa and a family history of PrCa compared with controls.",
+                            "PrimaryOutcomeTimeFrame": "Through study completion, an average of 1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Prevalence of genetic variation in unaffected men",
+                            "SecondaryOutcomeDescription": "To determine the prevalence of prostate cancer specific genetic variation in unaffected men with a strong family history of prostate cancer compared with controls.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, an average of 1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Prostate Cancer genetic variation on clinical outcome",
+                            "SecondaryOutcomeDescription": "To determine how prostate cancer specific genetic variation influences clinical outcome in 'high-risk' vs 'low risk' groups.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, an average of 1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAffected cohort:\n\nAffected with PrCa < 70 years or\nAffected with metastatic castration resistant PrCa (mCRPC) at any age or\n\nAffected with PrCa and a family history defined as\n\ntwo or more cases in family with one case < 70\nthree or more cases any age (FDR or SDR)\n\nUnaffected cohort:\n\nAged >30 and with a family history defined as:\n\nFDR diagnosed < 70\n2 or more cases in First or Second Degree Relatives (FDR/SDR) with one case diagnosed < 70 years\n3 or more cases at any age (on same side of family)\n\nExclusion Criteria:\n\n\u2022 WHO performance status 4",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "30 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "There are two pathways for men to be approached about this study; first eligible men will be identified and approached by their clinical team in Urology and Uro-Oncology clinics at the Royal Marsden. Second, men already under the care of the Oncogenetics Research team due to their family history of prostate cancer and who meet the eligibility criteria will be given information about the study as deemed appropriate by the research clinician who has been managing their care (Research Nurse or Clinical Research Fellow).",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Royal Marsden Hosital,",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sutton",
+                            "LocationState": "England",
+                            "LocationZip": "SM2 5PT",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ros Eeles",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "0208 7224483",
+                                        "LocationContactEMail": "prostate.research@rmh.nhs.uk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000020022",
+                            "ConditionMeshTerm": "Genetic Predisposition to Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004198",
+                            "ConditionAncestorTerm": "Disease Susceptibility"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7070",
+                            "ConditionBrowseLeafName": "Disease Susceptibility",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M21565",
+                            "ConditionBrowseLeafName": "Genetic Predisposition to Disease",
+                            "ConditionBrowseLeafAsFound": "Genetic Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,2186 @@
+{
+    "Rank": 776,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02981524",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J16154"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "IRB00114053",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHMIRB"
+                        },
+                        {
+                            "SecondaryId": "MISP53919",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Merck and Company"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study of GVAX (With CY) and Pembrolizumab in MMR-p Advanced Colorectal Cancer",
+                "OfficialTitle": "A Phase 2 Study of GVAX Colon Vaccine (With Cyclophosphamide) and Pembrolizumab in Patients With Mismatch Repair-Proficient (MMR-p) Advanced Colorectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 26, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 20, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 20, 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 1, 2016",
+                "StudyFirstSubmitQCDate": "December 1, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 5, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "August 29, 2019",
+                "ResultsFirstSubmitQCDate": "September 16, 2019",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "October 8, 2019",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 8, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 10, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Merck Sharp & Dohme LLC",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will be looking at the objective response rate (ORR) as measured by RECIST in in patients with mismatch repair-proficient (MMR-p), advanced colorectal cancer that treated with CY/GVAX in combination with Pembrolizumab."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colorectal Neoplasms",
+                        "Gastrointestinal Neoplasms",
+                        "Digestive System Neoplasms",
+                        "Neoplasms by Site",
+                        "Neoplasms",
+                        "Digestive System Diseases",
+                        "Gastrointestinal Diseases",
+                        "Intestinal Diseases",
+                        "Rectal Diseases",
+                        "Colonic Diseases"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "17",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "CY/GVAX with Pembrolizumab",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells for the first 4 cycles of treatment. After cycle 4, cyclophosphamide and GVAX will be administered with every 4th cycle.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: CY",
+                                    "Biological: GVAX",
+                                    "Drug: Pembrolizumab"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "CY",
+                            "InterventionDescription": "CY is administered intravenously at 200 mg/m2",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "CY/GVAX with Pembrolizumab"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Cyclophosphamide, Cytoxan"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "GVAX",
+                            "InterventionDescription": "GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "CY/GVAX with Pembrolizumab"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Colon cancer vaccine"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Pembrolizumab",
+                            "InterventionDescription": "Pembrolizumab is administered intravenously at 200 mg",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "CY/GVAX with Pembrolizumab"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "KEYTRUDA, MK-3475"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Objective Response Rate (ORR)",
+                            "PrimaryOutcomeDescription": "ORR is defined as the number of patients achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) at any time during the study. CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions, progressive disease (PD) is >20% increase in sum of diameters of target lesions, stable disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions.",
+                            "PrimaryOutcomeTimeFrame": "up to 1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of Participants With Adverse Events as a Measure of Safety and Tolerability",
+                            "SecondaryOutcomeDescription": "Number of participants who experience treatment related adverse events \u2265 grade 3 as defined by CTCAE 4.0.",
+                            "SecondaryOutcomeTimeFrame": "up to 1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression Free Survival (PFS)",
+                            "SecondaryOutcomeDescription": "Progression-free Survival (PFS) is defined as the number of days from cycle 1, day 1 of immunotherapy until first documented local progression or death due to any cause. PD is >20% increase in sum of diameters of target lesions as assessed using RECIST (version 1.1).",
+                            "SecondaryOutcomeTimeFrame": "up to 1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival (OS)",
+                            "SecondaryOutcomeDescription": "OS is defined as the number of days from start of study treatment to time of death. Individuals will be censored at the date of the last study visit if no event occurs. The estimation method used was Kaplan-Meier.",
+                            "SecondaryOutcomeTimeFrame": "Up to 1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Duration of Response (DOR)",
+                            "SecondaryOutcomeDescription": "Number of weeks from the start date of PR or CR (whichever response is recorded first) and subsequently confirmed to the first date that recurrent or progressive disease or death is documented. Per RECIST 1.1, CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDocumented mismatch repair-proficient cancer of colorectum, who have received at least two prior lines of therapy for metastatic disease\nMeasurable disease by RECIST v1.1\nAge >18 years\nECOG Performance Status of 0 to 1\nEstimated life expectancy of greater than 3 months.\nAdequate organ function as defined by study-specified laboratory tests\nMust use acceptable form of birth control through the study and for 120 days after final dose of study drug\nSigned informed consent form\nWilling and able to comply with study procedures\n\nExclusion Criteria:\n\nHas a known additional malignancy that is progressing or requires active treatment.\nHas known central nervous system (CNS) metastases and/or carcinomatous meningitis.\nHas known malignant small bowel obstruction within the last 6 months.\nCurrently have or have history of certain study-specified heart, liver, kidney, lung, neurological, immune or other medical conditions.\nSystemically active steroid use.\nHas an active infection requiring systemic therapy.\nHas a known history of active TB (Bacillus Tuberculosis).\nInfection with HIV or hepatitis B or C.\nHas history of (non-infectious) pneumonitis that required steroids.\nMust not require supplemental oxygen or have a pulse oximetry < 92% on room air.\nConditions, including therapy, laboratory abnormalities, psychiatric or substance abuse disorders, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures.\nPregnant or lactating.\nAnother investigational product within 28 days prior to receiving study drug.\nMajor surgery or significant traumatic injury (or unhealed surgical wounds) occurring within 28 days prior to receiving study drug.\nChemotherapy, radiation, hormonal, or biological cancer therapy within 28 days prior to receiving study drug.\nHas received a live vaccine within 30 days of planned start of study therapy.\nPrior treatment with immunotherapy agents (including, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA4, etc.).\nPatients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), GM-CSF, erythropoietin, within 14 days of study drug administration.\nHypersensitivity to pembrolizumab or any of its excipients.\nPatient has a known or suspected hypersensitivity to GM-CSF, hetastarch, corn, dimethyl sulfoxide, fetal bovine serum, trypsin (porcine origin), yeast or any other component of GVAX vaccine.\nPresence of any tissue or organ allograft and history of allogeneic hematopoietic stem cell transplant.\nUnwilling or unable to comply with study procedures.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "100 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nilofer Azad, MD",
+                            "OverallOfficialAffiliation": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21231",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "31876399",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Yarchoan M, Huang CY, Zhu Q, Ferguson AK, Durham JN, Anders RA, Thompson ED, Rozich NS, Thomas DL 2nd, Nauroth JM, Rodriguez C, Osipov A, De Jesus-Acosta A, Le DT, Murphy AG, Laheru D, Donehower RC, Jaffee EM, Zheng L, Azad NS. A phase 2 study of GVAX colon vaccine with cyclophosphamide and pembrolizumab in patients with mismatch repair proficient advanced colorectal cancer. Cancer Med. 2020 Feb;9(4):1485-1494. doi: 10.1002/cam4.2763. Epub 2019 Dec 26."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "CY/GVAX With Pembrolizumab",
+                            "FlowGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "17"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "17"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Progressive Disease",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Death (unrelated)",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Treatment Related Toxicity",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Withdrawal by Subject",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "CY/GVAX With Pembrolizumab",
+                            "BaselineGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Ethnicity (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Hispanic or Latino",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Not Hispanic or Latino",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "16"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "American Indian or Alaska Native",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Asian",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Native Hawaiian or Other Pacific Islander",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Black or African American",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "White",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "More than one race",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "17"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Eastern Cooperative Oncology Group (ECOG) Performance Status",
+                            "BaselineMeasureDescription": "The ECOG scale measures performance status, with scores ranging from 0-5; 0= fully active, performs without restriction, 1= can ambulate, but restricted in physically strenuous activity, 2= ambulatory and capable of self-care, but unable to work, active for >50% of waking hours, 3= limited self-care, confined to bed or chair for >50% of waking hours, 4= completely disabled, totally confined to bed/chair, 5= deceased",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "ECOG 0",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "ECOG 1",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Baseline Carcinoembryonic Antigen (CEA)",
+                            "BaselineMeasureParamType": "Median",
+                            "BaselineMeasureDispersionType": "Inter-Quartile Range",
+                            "BaselineMeasureUnitOfMeasure": "ng/ml",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "84.8",
+                                                                "BaselineMeasurementLowerLimit": "51.4",
+                                                                "BaselineMeasurementUpperLimit": "333.9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Objective Response Rate (ORR)",
+                            "OutcomeMeasureDescription": "ORR is defined as the number of patients achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) at any time during the study. CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions, progressive disease (PD) is >20% increase in sum of diameters of target lesions, stable disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions.",
+                            "OutcomeMeasurePopulationDescription": "Data to assess objective response was only collected from 14/17 participants. The remaining 3 patients were withdrawn from study therapy for early clinical progression and were not evaluable for this outcome measure.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "up to 1 year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "CY/GVAX With Pembrolizumab",
+                                        "OutcomeGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "14"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Number of Participants With Adverse Events as a Measure of Safety and Tolerability",
+                            "OutcomeMeasureDescription": "Number of participants who experience treatment related adverse events \u2265 grade 3 as defined by CTCAE 4.0.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "up to 1 year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "CY/GVAX With Pembrolizumab",
+                                        "OutcomeGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "17"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Progression Free Survival (PFS)",
+                            "OutcomeMeasureDescription": "Progression-free Survival (PFS) is defined as the number of days from cycle 1, day 1 of immunotherapy until first documented local progression or death due to any cause. PD is >20% increase in sum of diameters of target lesions as assessed using RECIST (version 1.1).",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "days",
+                            "OutcomeMeasureTimeFrame": "up to 1 year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "CY/GVAX With Pembrolizumab",
+                                        "OutcomeGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "17"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "82",
+                                                                "OutcomeMeasurementLowerLimit": "48",
+                                                                "OutcomeMeasurementUpperLimit": "97"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Overall Survival (OS)",
+                            "OutcomeMeasureDescription": "OS is defined as the number of days from start of study treatment to time of death. Individuals will be censored at the date of the last study visit if no event occurs. The estimation method used was Kaplan-Meier.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "days",
+                            "OutcomeMeasureTimeFrame": "Up to 1 year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "CY/GVAX With Pembrolizumab",
+                                        "OutcomeGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "17"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "213",
+                                                                "OutcomeMeasurementLowerLimit": "179",
+                                                                "OutcomeMeasurementUpperLimit": "441"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Duration of Response (DOR)",
+                            "OutcomeMeasureDescription": "Number of weeks from the start date of PR or CR (whichever response is recorded first) and subsequently confirmed to the first date that recurrent or progressive disease or death is documented. Per RECIST 1.1, CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions.",
+                            "OutcomeMeasurePopulationDescription": "There were no patients that had a CR or PR. Therefore, data could not be collected to assess this outcome measure.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "1 year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "CY/GVAX With Pembrolizumab",
+                                        "OutcomeGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "5",
+                "EventsTimeFrame": "1 year",
+                "EventsDescription": "Adverse reporting collection was conducted by regular investigator assessment and laboratory measurements.",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "CY/GVAX With Pembrolizumab",
+                            "EventGroupDescription": "During each 21 day cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 followed by Pembrolizumab at 200mg, the colon cancer vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells.\n\nCY: CY is administered intravenously at 200 mg/m2\n\nGVAX: GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting\n\nPembrolizumab: Pembrolizumab is administered intravenously at 200 mg",
+                            "EventGroupDeathsNumAffected": "14",
+                            "EventGroupDeathsNumAtRisk": "17",
+                            "EventGroupSeriousNumAffected": "6",
+                            "EventGroupSeriousNumAtRisk": "17",
+                            "EventGroupOtherNumAffected": "17",
+                            "EventGroupOtherNumAtRisk": "17"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Eye disorders-Corneal transplant rejection",
+                            "SeriousEventOrganSystem": "Eye disorders",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Hip fracture",
+                            "SeriousEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Death, Disease progression",
+                            "SeriousEventOrganSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Neoplasms, progression (Brain metastases)",
+                            "SeriousEventOrganSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "2",
+                                        "SeriousEventStatsNumAffected": "2",
+                                        "SeriousEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Dyspnea",
+                            "SeriousEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Anemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hemolytic anemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypothyroidism",
+                            "OtherEventOrganSystem": "Endocrine disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Blurred vision",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Conjunctivitis",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Flashing lights",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal distension",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal pain",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Bloating",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Constipation",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Diarrhea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rectal hemorrhage",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rectal pain",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vomiting",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Edema-limbs",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventNotes": "and administration site conditions",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fatigue",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventNotes": "and administration site conditions",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fever",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventNotes": "and administration site conditions",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Flu-like symptoms",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventNotes": "and administration site conditions",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pain",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventNotes": "and administration site conditions",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "10",
+                                        "OtherEventStatsNumAffected": "10",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fall",
+                            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary tract infection",
+                            "OtherEventOrganSystem": "Infections and infestations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "AST increased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "CPK increased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anorexia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyponatremia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Myalgia",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Headache",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Lethargy",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Paresthesia",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Confusion",
+                            "OtherEventOrganSystem": "Psychiatric disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Depression",
+                            "OtherEventOrganSystem": "Psychiatric disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urine discoloration",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary incontinence",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary pain",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary retention",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Erectile dysfuntion",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dyspnea",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Post-nasal drip",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sore throat",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Bruising, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyperhidrosis, nightsweats",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Erythema, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "15",
+                                        "OtherEventStatsNumAffected": "15",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Induration, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "16",
+                                        "OtherEventStatsNumAffected": "16",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pain, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Macular papular rash",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritis",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritis, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "15",
+                                        "OtherEventStatsNumAffected": "15",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rash",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Warmth, vaccine site reaction",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hot Flashes",
+                            "OtherEventOrganSystem": "Vascular disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Memory Impairment",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Nilofer Azad, MD",
+                    "PointOfContactOrganization": "Sidney Kimmel Cancer Center at Johns Hopkins",
+                    "PointOfContactEMail": "nazad2@jhmi.edu",
+                    "PointOfContactPhone": "410-614-9169"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "January 17, 2018",
+                            "LargeDocUploadDate": "08/13/2019 14:23",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000003520",
+                            "InterventionMeshTerm": "Cyclophosphamide"
+                        },
+                        {
+                            "InterventionMeshId": "C000582435",
+                            "InterventionMeshTerm": "Pembrolizumab"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007166",
+                            "InterventionAncestorTerm": "Immunosuppressive Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018501",
+                            "InterventionAncestorTerm": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018906",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000477",
+                            "InterventionAncestorTerm": "Alkylating Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000019653",
+                            "InterventionAncestorTerm": "Myeloablative Agonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        },
+                        {
+                            "InterventionAncestorId": "D000082082",
+                            "InterventionAncestorTerm": "Immune Checkpoint Inhibitors"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M349349",
+                            "InterventionBrowseLeafName": "Pembrolizumab",
+                            "InterventionBrowseLeafAsFound": "Open-label",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6417",
+                            "InterventionBrowseLeafName": "Cyclophosphamide",
+                            "InterventionBrowseLeafAsFound": "Time",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9902",
+                            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20294",
+                            "InterventionBrowseLeafName": "Antirheumatic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20632",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3510",
+                            "InterventionBrowseLeafName": "Alkylating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2343",
+                            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ARhu",
+                            "InterventionBrowseBranchName": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

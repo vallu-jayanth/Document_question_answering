@@ -1,0 +1,472 @@
+{
+    "Rank": 573,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05295407",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "EH21-338"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "EH21-338",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "NorthShoreUH"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "NorthShore University HealthSystem",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Performance of Inherited Risk Assessment for Predicting Prostate Cancer From Prostate Biopsy",
+                "OfficialTitle": "Observational and Prospective Study on the Performance of Inherited Risk Assessment for Predicting Prostate Cancer From Prostate Biopsy (GenBx)",
+                "Acronym": "GenBx"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 13, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 13, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 13, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "December 13, 2021",
+                "StudyFirstSubmitQCDate": "March 16, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 25, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 26, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 27, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Jianfeng Xu",
+                    "ResponsiblePartyInvestigatorTitle": "Director of Program for Personalized Cancer Care",
+                    "ResponsiblePartyInvestigatorAffiliation": "NorthShore University HealthSystem"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "NorthShore University HealthSystem",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Northwestern University",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Johns Hopkins University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Condition: Prostate cancer Intervention: Biopsy and inherited risk assessment",
+                "DetailedDescription": "Inherited genetic changes, including rare pathogenic mutations (RPMs) in several major genes and single nucleotide polymorphisms (SNPs)-based genetic risk scores (GRS) have been consistently associated with prostate cancer (PCa) risk. Furthermore, results from retrospective analyses of two clinical trials (PCPT and REDUCE) and biopsy cohorts revealed Caucasian men with higher GRS are 1) more likely to have positive biopsy and 2) have higher number of positive biopsy cores. These findings suggest inherited risk assessment may have clinical utility in identifying men who have a higher likelihood of positive results from diagnostic prostate biopsy. The objective of this observational trial is to confirm the clinical utility of both RPMs and GRS in a prospective study of multi-racial patients. Results from this trial will provide a critical piece of evidence for guideline committees to consider the adoption of inherited risk assessment in decision making for prostate biopsy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate biopsy",
+                        "prostate cancer",
+                        "inherited risk assessment",
+                        "PSA"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "2 Months",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Saliva samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Men 40-69 years old",
+                            "ArmGroupDescription": "Men with moderately-elevated PSA (2.5-10 ng/mL) undergoing prostate biopsy for detecting prostate cancer at NorthShore University HealthSystem, Northwestern University, or Johns Hopkins Hospital. The trial will not alter any clinical practice for diagnostic biopsy that includes state-of-the-art procedures (transperineal fusion biopsy, multiparametric MRI, and novel biomarkers).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Genetic Assessment"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Genetic Assessment",
+                            "InterventionDescription": "The trial is to observe whether inherited risk, including rare pathogenic mutations (RPMs) in several major genes and SNPs-based genetic risk scores (GRS), is correlated with prostate cancer detection rate from diagnostic prostate biopsy.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Men 40-69 years old"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prostate Cancer Diagnosis from Prostate Biopsy Report",
+                            "PrimaryOutcomeDescription": "The primary outcome measure is prostate cancer diagnosis from the prostate biopsy report. The primary goal is to compare prostate cancer detection rate in patients of three inherited risk groups (high-risk, intermediate-risk, and low-risk).",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The first type of secondary outcome measures is demographic key clinical variables from chart review, including",
+                            "SecondaryOutcomeDescription": "Age of the patient at recruitment, measured in years\nEthnicity, which will be reported as either Hispanic or Latino, or not Hispanic or Latino\nRace, which will be reported as Black/African American, East Asian, White, or Other\nMost recent body mass index (BMI), which height and weight will be combined and reported in kg/m^2\nMost recent PSA test result prior to prostate biopsy, which will be reported in ng/mL\nMost recent prostate health index (PHI), which is a combination of three PSA-based blood tests that estimates the probability of having detectable prostate cancer\nTRUS prostate volume, based on the height, length, and width of the prostate and will be reported in mL",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The second type of secondary outcome measures is results from multi-parametric Magnetic Resonance Imaging (mpMRI), including",
+                            "SecondaryOutcomeDescription": "Prostate total volume, measured in mL\nOverall Prostate Imaging Reporting and Data System (PI-RAD) score, which assesses risk of clinically significant cancer being present or absent\nExtraprostatic extension, which will be reported as present or absent\nSeminal vesicle invasion, which will be reported as present or absent\nLymph node enlargement, which will be reported as present or absent\nMRI bone metastasis, which will be reported as present or absent\nNumber of lesions, which will be reported as a numerical value\nFor each lesion, location of lesion, which will be reported as the anatomical region of the prostate where the lesion is present\nFor each lesion, size of lesion, measured in mm\nFor each lesion, PIRAD score of lesion, which assesses risk of clinically significant cancer being present or absent in the lesion",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The third type of secondary outcome measures is pathological variables from prostate biopsy, including",
+                            "SecondaryOutcomeDescription": "Type of prostate biopsy that was performed on the patient, which will be reported as either transperineal (TP) or transrectal ultrasound (TRUS)\nNumber of cores positive, which will be reported as a numerical value\nNumber of cores examined, which will be reported as a numerical value\nOverall Gleason score (primary), which predicts cancer aggressiveness and prognosis\nOverall Gleason score (secondary), which predicts cancer aggressiveness and prognosis\nFor each core, length of core, measured in cm\nFor each core, length of tumor, measured in mm\nFor each core, % of core positive, which will be reported as a numerical value as a percentage\nFor each core, % Gleason 4\nFor each core, presence of perineural invasion (PNI), will be reported as Yes or No\nFor each core, presence of cribriform, will be reported as Yes or No",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nConsecutive patients undergoing prostate biopsy for detection of prostate cancer\nAged 40 to 69 years\nFour ethnicity groups (Caucasian, African Americans, East Asians, Latinos)\nPSA between 2.5-10 ng/mL\n\nExclusion Criteria:\n\nPrevious diagnosis of prostate cancer.\nEthnicity outside the inclusion criterion (including mixed ethnicity).\nAny prior PSA test result outside the range of inclusion criterion.",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "69 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Men with moderately-elevated PSA (2.5-10 ng/mL) undergoing prostate biopsy for detecting prostate cancer at NorthShore University HealthSystem, Johns Hopkins Hospital, and Northwestern University.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Andrew Rifkin",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "2243647502",
+                            "CentralContactEMail": "arifkin2@northshore.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jianfeng Xu, MD, Dr.PH",
+                            "OverallOfficialAffiliation": "NorthShore University HealthSystem",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "NorthShore University HealthSystem",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Evanston",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60626",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pooja Talaty",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "847-503-4280",
+                                        "LocationContactEMail": "ptalaty@northshore.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Malgorzata Antoniak",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "847-570-2112",
+                                        "LocationContactEMail": "mantoniak@northshore.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Jianfeng Xu, MD, DrPH",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "27433846",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pritchard CC, Mateo J, Walsh MF, De Sarkar N, Abida W, Beltran H, Garofalo A, Gulati R, Carreira S, Eeles R, Elemento O, Rubin MA, Robinson D, Lonigro R, Hussain M, Chinnaiyan A, Vinson J, Filipenko J, Garraway L, Taplin ME, AlDubayan S, Han GC, Beightol M, Morrissey C, Nghiem B, Cheng HH, Montgomery B, Walsh T, Casadei S, Berger M, Zhang L, Zehir A, Vijai J, Scher HI, Sawyers C, Schultz N, Kantoff PW, Solit D, Robson M, Van Allen EM, Offit K, de Bono J, Nelson PS. Inherited DNA-Repair Gene Mutations in Men with Metastatic Prostate Cancer. N Engl J Med. 2016 Aug 4;375(5):443-53. doi: 10.1056/NEJMoa1603144. Epub 2016 Jul 6."
+                        },
+                        {
+                            "ReferencePMID": "27989354",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Na R, Zheng SL, Han M, Yu H, Jiang D, Shah S, Ewing CM, Zhang L, Novakovic K, Petkewicz J, Gulukota K, Helseth DL Jr, Quinn M, Humphries E, Wiley KE, Isaacs SD, Wu Y, Liu X, Zhang N, Wang CH, Khandekar J, Hulick PJ, Shevrin DH, Cooney KA, Shen Z, Partin AW, Carter HB, Carducci MA, Eisenberger MA, Denmeade SR, McGuire M, Walsh PC, Helfand BT, Brendler CB, Ding Q, Xu J, Isaacs WB. Germline Mutations in ATM and BRCA1/2 Distinguish Risk for Lethal and Indolent Prostate Cancer and are Associated with Early Age at Death. Eur Urol. 2017 May;71(5):740-747. doi: 10.1016/j.eururo.2016.11.033. Epub 2016 Dec 15."
+                        },
+                        {
+                            "ReferencePMID": "30309687",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Carter HB, Helfand B, Mamawala M, Wu Y, Landis P, Yu H, Wiley K, Na R, Shi Z, Petkewicz J, Shah S, Fantus RJ, Novakovic K, Brendler CB, Zheng SL, Isaacs WB, Xu J. Germline Mutations in ATM and BRCA1/2 Are Associated with Grade Reclassification in Men on Active Surveillance for Prostate Cancer. Eur Urol. 2019 May;75(5):743-749. doi: 10.1016/j.eururo.2018.09.021. Epub 2018 Oct 8."
+                        },
+                        {
+                            "ReferencePMID": "29892016",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Schumacher FR, Al Olama AA, Berndt SI, Benlloch S, Ahmed M, Saunders EJ, Dadaev T, Leongamornlert D, Anokian E, Cieza-Borrella C, Goh C, Brook MN, Sheng X, Fachal L, Dennis J, Tyrer J, Muir K, Lophatananon A, Stevens VL, Gapstur SM, Carter BD, Tangen CM, Goodman PJ, Thompson IM Jr, Batra J, Chambers S, Moya L, Clements J, Horvath L, Tilley W, Risbridger GP, Gronberg H, Aly M, Nordstrom T, Pharoah P, Pashayan N, Schleutker J, Tammela TLJ, Sipeky C, Auvinen A, Albanes D, Weinstein S, Wolk A, Hakansson N, West CML, Dunning AM, Burnet N, Mucci LA, Giovannucci E, Andriole GL, Cussenot O, Cancel-Tassin G, Koutros S, Beane Freeman LE, Sorensen KD, Orntoft TF, Borre M, Maehle L, Grindedal EM, Neal DE, Donovan JL, Hamdy FC, Martin RM, Travis RC, Key TJ, Hamilton RJ, Fleshner NE, Finelli A, Ingles SA, Stern MC, Rosenstein BS, Kerns SL, Ostrer H, Lu YJ, Zhang HW, Feng N, Mao X, Guo X, Wang G, Sun Z, Giles GG, Southey MC, MacInnis RJ, FitzGerald LM, Kibel AS, Drake BF, Vega A, Gomez-Caamano A, Szulkin R, Eklund M, Kogevinas M, Llorca J, Castano-Vinyals G, Penney KL, Stampfer M, Park JY, Sellers TA, Lin HY, Stanford JL, Cybulski C, Wokolorczyk D, Lubinski J, Ostrander EA, Geybels MS, Nordestgaard BG, Nielsen SF, Weischer M, Bisbjerg R, Roder MA, Iversen P, Brenner H, Cuk K, Holleczek B, Maier C, Luedeke M, Schnoeller T, Kim J, Logothetis CJ, John EM, Teixeira MR, Paulo P, Cardoso M, Neuhausen SL, Steele L, Ding YC, De Ruyck K, De Meerleer G, Ost P, Razack A, Lim J, Teo SH, Lin DW, Newcomb LF, Lessel D, Gamulin M, Kulis T, Kaneva R, Usmani N, Singhal S, Slavov C, Mitev V, Parliament M, Claessens F, Joniau S, Van den Broeck T, Larkin S, Townsend PA, Aukim-Hastie C, Gago-Dominguez M, Castelao JE, Martinez ME, Roobol MJ, Jenster G, van Schaik RHN, Menegaux F, Truong T, Koudou YA, Xu J, Khaw KT, Cannon-Albright L, Pandha H, Michael A, Thibodeau SN, McDonnell SK, Schaid DJ, Lindstrom S, Turman C, Ma J, Hunter DJ, Riboli E, Siddiq A, Canzian F, Kolonel LN, Le Marchand L, Hoover RN, Machiela MJ, Cui Z, Kraft P, Amos CI, Conti DV, Easton DF, Wiklund F, Chanock SJ, Henderson BE, Kote-Jarai Z, Haiman CA, Eeles RA; Profile Study; Australian Prostate Cancer BioResource (APCB); IMPACT Study; Canary PASS Investigators; Breast and Prostate Cancer Cohort Consortium (BPC3); PRACTICAL (Prostate Cancer Association Group to Investigate Cancer-Associated Alterations in the Genome) Consortium; Cancer of the Prostate in Sweden (CAPS); Prostate Cancer Genome-wide Association Study of Uncommon Susceptibility Loci (PEGASUS); Genetic Associations and Mechanisms in Oncology (GAME-ON)/Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE) Consortium. Association analyses of more than 140,000 men identify 63 new prostate cancer susceptibility loci. Nat Genet. 2018 Jul;50(7):928-936. doi: 10.1038/s41588-018-0142-8. Epub 2018 Jun 11. Erratum In: Nat Genet. 2019 Feb;51(2):363."
+                        },
+                        {
+                            "ReferencePMID": "18199855",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Zheng SL, Sun J, Wiklund F, Smith S, Stattin P, Li G, Adami HO, Hsu FC, Zhu Y, Balter K, Kader AK, Turner AR, Liu W, Bleecker ER, Meyers DA, Duggan D, Carpten JD, Chang BL, Isaacs WB, Xu J, Gronberg H. Cumulative association of five genetic variants with prostate cancer. N Engl J Med. 2008 Feb 28;358(9):910-9. doi: 10.1056/NEJMoa075819. Epub 2008 Jan 16."
+                        },
+                        {
+                            "ReferencePMID": "33257031",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Shi Z, Platz EA, Wei J, Na R, Fantus RJ, Wang CH, Eggener SE, Hulick PJ, Duggan D, Zheng SL, Cooney KA, Isaacs WB, Helfand BT, Xu J. Performance of Three Inherited Risk Measures for Predicting Prostate Cancer Incidence and Mortality: A Population-based Prospective Analysis. Eur Urol. 2021 Mar;79(3):419-426. doi: 10.1016/j.eururo.2020.11.014. Epub 2020 Nov 28."
+                        },
+                        {
+                            "ReferencePMID": "31948886",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu Y, Yu H, Li S, Wiley K, Zheng SL, LaDuca H, Gielzak M, Na R, Sarver BAJ, Helfand BT, Walsh PC, Lotan TL, Cooney KA, Black MH, Xu J, Isaacs WB. Rare Germline Pathogenic Mutations of DNA Repair Genes Are Most Strongly Associated with Grade Group 5 Prostate Cancer. Eur Urol Oncol. 2020 Apr;3(2):224-230. doi: 10.1016/j.euo.2019.12.003. Epub 2020 Jan 14."
+                        },
+                        {
+                            "ReferencePMID": "29520813",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wu Y, Yu H, Zheng SL, Na R, Mamawala M, Landis T, Wiley K, Petkewicz J, Shah S, Shi Z, Novakovic K, McGuire M, Brendler CB, Ding Q, Helfand BT, Carter HB, Cooney KA, Isaacs WB, Xu J. A comprehensive evaluation of CHEK2 germline mutations in men with prostate cancer. Prostate. 2018 Jun;78(8):607-615. doi: 10.1002/pros.23505. Epub 2018 Mar 9."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "The plan is to release de-identified genomic and clinical data for approved researchers to replicate study or use for other discoveries.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Statistical Analysis Plan (SAP)",
+                        "Informed Consent Form (ICF)"
+                    ]
+                },
+                "IPDSharingTimeFrame": "Data will become available after the study (after analysis) indefinitely",
+                "IPDSharingAccessCriteria": "With approval, researchers will be able to access published, de-identified data."
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol",
+                            "LargeDocDate": "October 27, 2021",
+                            "LargeDocUploadDate": "12/29/2021 17:03",
+                            "LargeDocFilename": "Prot_000.pdf"
+                        },
+                        {
+                            "LargeDocTypeAbbrev": "SAP",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Statistical Analysis Plan",
+                            "LargeDocDate": "December 12, 2021",
+                            "LargeDocUploadDate": "12/29/2021 17:06",
+                            "LargeDocFilename": "SAP_001.pdf"
+                        },
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "November 7, 2021",
+                            "LargeDocUploadDate": "12/29/2021 17:17",
+                            "LargeDocFilename": "ICF_002.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,507 @@
+{
+    "Rank": 582,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04145388",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "1407426"
+                },
+                "Organization": {
+                    "OrgFullName": "Kaiser Permanente",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Family History Study on Cancer Risk",
+                "OfficialTitle": "Systems-Level Capture of Family History Data to Assess Risk of Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 31, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 30, 2019",
+                "StudyFirstSubmitQCDate": "October 28, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 30, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 7, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 8, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Kaiser Permanente",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Patient-Centered Outcomes Research Institute",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to identify the optimal method to recognize, risk stratify, and provide follow-up care for individuals at risk of hereditary cancer. The study team will conduct a Hybrid Type II comparative effectiveness-implementation trial, with a mixed methods component and process/formative evaluations for stakeholder engagement. The study team will evaluate three methods for identifying and risk-stratifying individuals at risk of hereditary cancer and providing post-risk stratification longitudinal care.",
+                "DetailedDescription": "The study team proposes a randomized, Hybrid Type II comparative effectiveness-implementation trial, with a mixed methods component and process/formative evaluations for stakeholder engagement. The study team will evaluate three methods for identifying and risk-stratifying individuals at risk of hereditary cancer and providing post-risk stratification longitudinal care.\n\nHypothesis: The study hypothesis is that Comparator 3 will identify more people at high risk of hereditary cancers and result in more screening behaviors, greater resource use, increased distress, higher perceived risk of cancer and higher satisfaction.\n\nLong term objective: At study end, the study will show: 1) each comparator's strengths and weaknesses, 2) patient preferences, clinical outcomes, and compliance with each step from history collection to screening test completion, 3) the resources needed for each strategy, and 4) the contextual factors that impact their sustainability, dissemination and implementation. Study findings have high potential for generalizability because: 1) The multidisciplinary stakeholder team will help to minimize barriers to dissemination and implementation of the investigator's findings in other research settings; 2) Study results are independent of study setting; 3) The tested methods of family history assessment can occur remotely via paper or electronic interfaces; 4) The care coordination method has successful precedent in other disciplines and can be delivered remotely; 5) A process and formative evaluation with a diverse stakeholder team will inform sustainability, dissemination, and implementation, and result in an implementation guide; 6) The results will be relevant for both family history-based and direct-genetic testing strategies for population screening for hereditary cancer; 7) The results will inform population screening for any disease with hereditary risk."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lynch Syndrome",
+                        "Colorectal Cancer",
+                        "Breast Cancer",
+                        "Ovarian Cancer",
+                        "Family Characteristics",
+                        "Genetic Predisposition"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "cancer",
+                        "family characteristics",
+                        "genetic predisposition",
+                        "primary care"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "18000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Comparator 1",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "Participants will have their cancer risk assessed via usual care. Usual Care is defined as provider capture of family history during a clinical encounter and its entry into the electronic health record (EHR). Participants will take the a patient reported outcomes (PRO) survey once to assess participants experience, perspectives and thoughts on cancer, cancer risk, and cancer risk assessments.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Usual care"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Comparator 2",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants will have their cancer risk assessed using a short, standardized web-based questionnaire that will populate validated cancer risk models (such as Breast Cancer Risk Assessment Tool/Gail model 2, PREMM and/or MMRpro) which will take 5-10 minutes to complete. Following the cancer risk assessment, participants will be asked to take a PRO survey. PRO surveys will also be administered at the time of the cancer risk assessment and then 6 and 12 months following.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: online cancer risk assessment"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Comparator 3",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants will have their cancer risk assessed using a more detailed, full version of the family history survey than the one comparator 2 participants take. This version is a full pedigree assessment, which entails family health history for all 1st, 2nd, and 3rd-degree relatives. Time needed for completion is 15-25 minutes, depending on family size and cancer risk. Participants will also be asked to take the PRO survey following the full cancer risk assessment and also at 6 and 12 months.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: online cancer risk assessment"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "online cancer risk assessment",
+                            "InterventionDescription": "Electronic surveys to collect family cancer history information.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Comparator 2",
+                                    "Comparator 3"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Usual care",
+                            "InterventionDescription": "Family cancer history captured by provider during a clinical encounter",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Comparator 1"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of patients identified at high risk of cancer",
+                            "PrimaryOutcomeDescription": "Number of patients identified at high risk of cancer (cancer syndromes)",
+                            "PrimaryOutcomeTimeFrame": "0 to 12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAdult patients with \u22652 years of prior membership, \u22651 clinical visit in prior two years, and a listed email are eligible\nPatients must also have received healthcare services during the past 2 years at Kaiser Permanente Northern California (KPNC) sampling sites\n\nExclusion Criteria:\n\nPatients outside the targeted geographic area\nPatients who cannot speak or read English (given some survey instruments are validated only in English)\nKaiser Permanente Northern California members in the no-contact database for research studies",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "25 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Laura B Amsden, MSW, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "510-891-3870",
+                            "CentralContactEMail": "laura.b.amsden@kp.org"
+                        },
+                        {
+                            "CentralContactName": "Cecilia Doan, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "510-891-3710",
+                            "CentralContactEMail": "cecilia.doan@kp.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Douglas Corley, MD, PhD",
+                            "OverallOfficialAffiliation": "Division of Research, Kaiser Permanente Northern California",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Division of Research, Kaiser Permanente Northern California",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Oakland",
+                            "LocationState": "California",
+                            "LocationZip": "94612",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Laura B Amsden, MSW, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "510-891-3870",
+                                        "LocationContactEMail": "laura.b.amsden@kp.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Cecilia Doan, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "510-891-3710",
+                                        "LocationContactEMail": "cecilia.doan@kp.org"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000003123",
+                            "ConditionMeshTerm": "Colorectal Neoplasms, Hereditary Nonpolyposis"
+                        },
+                        {
+                            "ConditionMeshId": "D000004198",
+                            "ConditionMeshTerm": "Disease Susceptibility"
+                        },
+                        {
+                            "ConditionMeshId": "D000020022",
+                            "ConditionMeshTerm": "Genetic Predisposition to Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009386",
+                            "ConditionAncestorTerm": "Neoplastic Syndromes, Hereditary"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030342",
+                            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+                        },
+                        {
+                            "ConditionAncestorId": "D000049914",
+                            "ConditionAncestorTerm": "DNA Repair-Deficiency Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008659",
+                            "ConditionAncestorTerm": "Metabolic Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12664",
+                            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1704",
+                            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16045",
+                            "ConditionBrowseLeafName": "Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7070",
+                            "ConditionBrowseLeafName": "Disease Susceptibility",
+                            "ConditionBrowseLeafAsFound": "Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M21565",
+                            "ConditionBrowseLeafName": "Genetic Predisposition to Disease",
+                            "ConditionBrowseLeafAsFound": "Genetic Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6041",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms, Hereditary Nonpolyposis",
+                            "ConditionBrowseLeafAsFound": "Lynch Syndrome",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12021",
+                            "ConditionBrowseLeafName": "Neoplastic Syndromes, Hereditary",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23376",
+                            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M25821",
+                            "ConditionBrowseLeafName": "DNA Repair-Deficiency Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11329",
+                            "ConditionBrowseLeafName": "Metabolic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4352",
+                            "ConditionBrowseLeafName": "Ovarian Cancer",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4354",
+                            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC18",
+                            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

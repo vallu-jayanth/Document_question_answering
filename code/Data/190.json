@@ -1,0 +1,300 @@
+{
+    "Rank": 190,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05611632",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GRAIL-009"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "ISRCTN91431511",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "ISRCTN"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "GRAIL, LLC",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Does Screening With the Galleri Test in the NHS Reduce the Likelihood of a Late-stage Cancer Diagnosis in an Asymptomatic Population? A Randomised Clinical Trial",
+                "OfficialTitle": "A Randomized, Controlled Trial to Assess the Clinical Utility of a Multi-cancer Early Detection (MCED) Test for Population Screening in the United Kingdom (UK) When Added to Standard of Care",
+                "Acronym": "NHS-Galleri"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 31, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 15, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 28, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 28, 2022",
+                "StudyFirstSubmitQCDate": "November 3, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 10, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 24, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 26, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "GRAIL, LLC",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Cancer Research UK and King's College London Cancer Prevention Trials Unit (UK)",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUnapprovedDevice": "Yes",
+                "IsUSExport": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The Galleri test is a new test that looks for potential signs of cancer in a blood sample. The test can find many different types of cancer but cannot find all cancers. The trial aims to see if using the Galleri test alongside standard cancer testing in the NHS can help to find cancers at an early stage when they are easier to treat.\n\nThe trial has enrolled approximately 140,000 participants who will be actively followed for approximately three years from the date of enrollment.",
+                "DetailedDescription": "This is a prospective, randomized, controlled trial to assess the performance and clinical utility of a multi-cancer early detection test for population screening in the UK when added to standard of care. Participants and the study teams remain blinded throughout the study with the exception of the study nurses returning the results and a small number of staff to enable them to perform administrative duties. Blinding is maintained for participants with the exception of those participants who test positive. Those who test positive will be informed by designated trial staff and will be referred for standard of care investigations and treatment. Trial sponsor employees, the CIs and site staff (unless identified differently in the blinding plan for study conduct needs) will remain blinded throughout the study.\n\nRandomization will be to either the intervention arm, with blood collection and evaluation of the test with consequent investigation and treatment of a positive test through referral to the NHS urgent two week wait pathway, or to the control arm, where blood samples are collected at designated intervals and will be stored for potential future evaluation, but participants do not receive test results and otherwise continue to receive routine NHS care.\n\nUnless diagnosed with cancer, participants in both arms will be asked to return for annual visits at approximately 12 and 24 months. All participants whether test positive, test negative or not tested will be followed for cancer and associated outcomes via NHS dataset linkages."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "multi-cancer early detection",
+                        "cancer screening",
+                        "MCED",
+                        "circulating cell-free tumor DNA"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignInterventionModelDescription": "Participants will be randomised to either the intervention arm, with blood collection and evaluation of the test with consequent investigation and treatment of a positive test through referral to the NHS urgent two week wait pathway, or to the control arm, where blood samples are collected at designated intervals and will be stored for potential future evaluation, but participants do not receive test results and otherwise continue to receive routine NHS care.",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Triple",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Investigator",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "140000",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Interventional",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Blood collection and multi-cancer early detection testing with return of positive test results.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Multi-cancer early detection test (Galleri test)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Blood collection only."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Multi-cancer early detection test (Galleri test)",
+                            "InterventionDescription": "Blood collection and multi cancer early detection testing with return of positive test results.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Interventional"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Galleri test"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "absolute numbers of stage III and IV cancers diagnosed",
+                            "PrimaryOutcomeTimeFrame": "3-4 years after randomization"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "absolute numbers of advanced cancers (stage III and IV cancers or one that results in a cancer-specific death) diagnosed",
+                            "SecondaryOutcomeTimeFrame": "3-4 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "absolute numbers of stage IV cancers diagnosed",
+                            "SecondaryOutcomeTimeFrame": "1 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "absolute numbers of stage IV cancers diagnosed",
+                            "SecondaryOutcomeTimeFrame": "3-4 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "cancer-specific mortality for a pre-specified group of cancer types",
+                            "SecondaryOutcomeTimeFrame": "3-4 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "cancer-specific mortality",
+                            "SecondaryOutcomeTimeFrame": "up to 8 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "proportion of Stage I and II cancers",
+                            "SecondaryOutcomeTimeFrame": "3-4 years after randomization"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "test performance (sensitivity, specificity, positive predictive value, negative predictive value) and cancer signal origin accuracy) in the intervention arm.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "number of follow up procedures and invasive procedures, complications and deaths associated with follow-up diagnostic procedures in all test positive cases",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "number and type of invasive procedures performed in false positive cases",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "radiation exposure measured in mSv per participant due to test result directed evaluations in all test positive cases",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "psychological impact using the short form State Trait Anxiety Index-6 questionnaire (a six item validated measure of state anxiety), at various timepoints in all test positive cases",
+                            "SecondaryOutcomeDescription": "Scores range from 20-80 with the general population expected to score 34-36 and very high anxiety classed as scoring > 49.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "healthcare resource utilisation",
+                            "OtherOutcomeDescription": "The data collected may be used to conduct future exploratory economic analyses, and will include: Number and types of medical encounters and cancer-specific diagnostic and treatment procedures, including clinical lab visits, imaging tests, invasive tests, and clinic visits.",
+                            "OtherOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipants must be at 50-77 years of age, inclusive, at the time of data extraction from NHS datasets or GP records used to identify potential participants; and\nCapable of giving signed and legally effective informed consent, which includes compliance with the requirements and restrictions listed in the Informed Consent Form (ICF) and in this protocol. Consent provided by a legally authorised representative is not permitted in this protocol.\n\nExclusion Criteria:\n\nPrevious or current participation in another GRAIL-sponsored study.\nPersonal history of invasive cancer or haematologic malignancy, diagnosed within the three years prior to expected enrolment date. Note: Individuals with a diagnosis of non-melanoma skin cancer and prostate cancer patients whose only treatment is active surveillance are NOT excluded\nDefinitive treatment for invasive cancer or haematologic malignancy within the 3 years prior to expected enrolment date, including adjuvant hormone therapy for cancer (e.g. for breast or prostate cancer).\nCurrently taking demethylating or cytotoxic agents for any condition.\nUndergoing current investigation for suspected cancer, defined as having been referred to a two week wait clinic or undergoing investigations at an RDC or other clinic with a stated suspicion of cancer.\nCurrently on a palliative care pathway.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "77 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Liz Holmes",
+                            "OverallOfficialAffiliation": "GRAIL, LLC",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "EMS Healthcare Ltd",
+                            "LocationCity": "Chester",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "36230741",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Neal RD, Johnson P, Clarke CA, Hamilton SA, Zhang N, Kumar H, Swanton C, Sasieni P. Cell-Free DNA-Based Multi-Cancer Early Detection Test in an Asymptomatic Screening Population (NHS-Galleri): Design of a Pragmatic, Prospective Randomised Controlled Trial. Cancers (Basel). 2022 Oct 1;14(19):4818. doi: 10.3390/cancers14194818."
+                        },
+                        {
+                            "ReferencePMID": "37185463",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sasieni P, Smittenaar R, Hubbell E, Broggio J, Neal RD, Swanton C. Modelled mortality benefits of multi-cancer early detection screening in England. Br J Cancer. 2023 Jul;129(1):72-80. doi: 10.1038/s41416-023-02243-9. Epub 2023 Apr 25."
+                        },
+                        {
+                            "ReferencePMID": "37095697",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Brentnall AR, Mathews C, Beare S, Ching J, Sleeth M, Sasieni P. Dynamic data-enabled stratified sampling for trial invitations with application in NHS-Galleri. Clin Trials. 2023 Aug;20(4):425-433. doi: 10.1177/17407745231167369. Epub 2023 Apr 24."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

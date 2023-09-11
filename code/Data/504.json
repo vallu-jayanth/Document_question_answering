@@ -1,0 +1,354 @@
+{
+    "Rank": 504,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05596435",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "PANC-2022"
+                },
+                "Organization": {
+                    "OrgFullName": "Tianjin Medical University Cancer Institute and Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Early Detection of Pancreatic Cancer",
+                "OfficialTitle": "Early Detection of Pancreatic Cancer Using Plasma Cell-free DNA Fragmentomics"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 10, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 12, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 12, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 24, 2022",
+                "StudyFirstSubmitQCDate": "October 24, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 27, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 24, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 27, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Tianjin Medical University Cancer Institute and Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to enable non-invasive early detection of pancreatic cancer in high-risk populations through the establishment of a machine learning model using plasma cell-free DNA fragmentomics. Plasma cell-free DNA from early stage pancreatic cancer patients and healthy individuals will be subjected to whole-genome sequencing. Features, such as cell-free DNA fragmentation, copy number variations and the status of KRAS gene mutation, will be assessed to generate this model.",
+                "DetailedDescription": "The incidence of pancreatic cancer is insidious. Most patients were in advanced stage when diagnosed and could not be cured by surgery. Early diagnosis of pancreatic cancer through screening is so important. Early screening detection projects derived from liquid biopsy technology are not only limited to circulating DNA methylation markers, but have developed into multi-dimensional indicators for joint evaluation. This large-scale early detection study will randomly enroll 260 stage I/II/III pancreatic patients, 80 patients with pancreatic benign diseases and 156 age- and sex-matched healthy individuals upon providing written informed consent. Plasma samples will be collected and extracted cell-free DNA will be subjected to whole genome sequencing. We aimed to incorporate genome-wide copy number variations, cell-free DNA fragmentomics, and status of KRAS gene mutation into the development of a multimodal biomarker-based prediction model."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Plasma Cell-free DNA"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "496",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Stage I-III pancreatic cancer",
+                            "ArmGroupDescription": "Cell-free DNA collected from plasma samples of 260 patients with stage I-III pancreatic cancer will undergo whole-genome sequencing",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Pancreatic disease",
+                            "ArmGroupDescription": "Cell-free DNA collected from plasma samples of 80 patients with pancreatic benign disease will undergo whole-genome sequencing",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy controls",
+                            "ArmGroupDescription": "Cell-free DNA collected from plasma samples of 100 non-cancer individuals will serve as controls",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "No intervention",
+                            "InterventionDescription": "No intervention",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Healthy controls",
+                                    "Pancreatic disease",
+                                    "Stage I-III pancreatic cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Area under curve of the model for detecting stage I/II/III pancreatic cancer",
+                            "PrimaryOutcomeDescription": "The area under curve of the model for the ultrasensitive early detection of stage I/II/III pancreatic cancer would be evaluate",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity of the early detection modell",
+                            "SecondaryOutcomeDescription": "The sensitivity of the model for the ultrasensitive early detection of stage I/II/III pancreatic cancer would be evaluate",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Specificity of the early detection model",
+                            "SecondaryOutcomeDescription": "The specificity of the model for the ultrasensitive early detection of stage I/II/III pancreatic cancer would be evaluate",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge minimum 18 years\nParticipants must have histologically and/or cytologically confirmed stage I/II/III pancreatic cancer\nFull access to the patients' clinical and pathological records\nAbility to understand and the willingness to sign a written informed consent document\nNon-cancer controls are sex- and age-matched individuals without presence of any tumors or nodules or any other severe chronic diseases through systematic screening\n\nExclusion Criteria:\n\nParticipants must not be pregnant or breastfeeding\nParticipants must not have prior cancer histories or a second non-pancreatic malignancy\nParticipants must not have had any form of cancer treatment before enrollment or plasma collection, including surgery, chemotherapy, radiotherapy, targeted therapy and immunotherapy\nParticipants must not present medical conditions of fever or have acute or immunological diseases that required treatment 14 days before plasma collection\nParticipants who underwent organ transplant or allogenic bone marrow or hematopoietic stem cell transplantation\nParticipants with clinically important abnormalities or conditions unsuitable for blood collection\nAny uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, myocardial infarction, major seizure disorder, unstable spinal cord compression, superior vena cava syndrome, or psychiatric illness/social situations that would limit compliance with study requirements or influence patient signing the written informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Approximately 260 stage I/II/III gastric cancer patients, 70 patients with pancreatic benign diseases and 150 non-cancer controls",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Gao Chuntao, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "15822757365",
+                            "CentralContactEMail": "gaochuntao@tjmuch.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Gao Chuntao",
+                            "OverallOfficialAffiliation": "Tianjin Medical University Cancer Institute and Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Tianjin Medical University Cancer Institute and Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Tianjin",
+                            "LocationState": "Tianjin",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gao Chuntao",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "15822757365",
+                                        "LocationContactEMail": "gaochuntao@tjmuch.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,369 @@
+{
+    "Rank": 680,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04677413",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2020-1394"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Texas Southwestern Medical Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Ultra-fractionated Radiotherapy for Rectal Cancer",
+                "OfficialTitle": "Phase I Trial of Ultra-fractionated Adaptive Radiotherapy, Chemotherapy and Selective Omission of Surgery for Locally Advanced Rectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 3, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "December 16, 2020",
+                "StudyFirstSubmitQCDate": "December 16, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 21, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 30, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 2, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Nina Sanford",
+                    "ResponsiblePartyInvestigatorTitle": "Assistant Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Texas Southwestern Medical Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Texas Southwestern Medical Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The rationale of this clinical trial is to assess the feasibility of selective non-operative management for locally advanced rectal cancer using dose-escalated ultra-fractionated short course radiation therapy interdigitated with chemotherapy. We believe delivering short course radiotherapy over a prolonged interval, at escalated doses and with concurrent chemotherapy may be feasible and allow for improved clinical response.",
+                "DetailedDescription": "To determine the maximal tolerated dose (MTD) of dose-escalated hypofractionated adaptive RT, in patients with locally advanced rectal cancer treated with RT, FOLFOX (5-FU, oxaliplatin, leucovorin) or CAPOX (capecitabine, oxaliplatin) chemotherapy and selective omission of surgery."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Rectal Cancer,T3-4 or N+"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "Prospective dose evaluation",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "27",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Phase I Dose Cohorts",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "DOSE LEVEL 1 : 30 Gy (tumor)/ 25 Gy (pelvis)\n\nDOSE LEVEL 2 : 35 Gy (tumor)/ 25 Gy (pelvis)\n\nDOSE LEVEL 3 : 40 Gy (tumor)/ 25 Gy (pelvis)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: Ultrafractionated radiotherapy for rectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "Ultrafractionated radiotherapy for rectal cancer",
+                            "InterventionDescription": "To determine the toxicity of dose-escalated hypofractionated RT, in patients with locally advanced rectal cancer treated with RT, FOLFOX or CAPOX chemotherapy and selective omission of surgery.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Phase I Dose Cohorts"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To determine the maximal tolerated dose (MTD) of dose-escalated hypofractionated RT.",
+                            "PrimaryOutcomeDescription": "The MTD will be based upon toxicity, which will be assessed according to the NCI's CTCAE v5.0 toxicity criteria. Dose limiting toxicities will include any of the following Grade 3+ GI toxicities.",
+                            "PrimaryOutcomeTimeFrame": "0 to 60 days post radiation therapy"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To evaluate the rate of clinical complete and near complete response to radiation and chemotherapy.",
+                            "SecondaryOutcomeDescription": "Clinical complete response, assessed at 4-8 weeks after completion of chemotherapy and radiation, will be defined based upon endoscopy and MRI as described in section 4.11.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To determine the organ preservation rate at 1 year after radiotherapy and FOLFOX or CAPOX chemotherapy.",
+                            "SecondaryOutcomeDescription": "Organ preservation rate will be defined as rate of intact rectum and no local regional failure at 1 year from completion of treatment.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To evaluate local regional recurrence, defined as the time between date of therapy initiation and date of local progression.",
+                            "SecondaryOutcomeDescription": "The rate of local regional recurrence will be defined as disease recurrence in the pelvis and will be recorded on a time interval since completion of treatment. This will be evaluated as a median and rate up to 1 year post treatment. The time will be backdated to when the recurrence was observed.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To evaluate disease-free survival (DFS), defined as the time between date of therapy completion the first date of documented disease progression or death.",
+                            "SecondaryOutcomeDescription": "The disease-free survival endpoint will be defined as the percent of patients without disease recurrence at 1-year.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "For patients undergoing surgery, to evaluate the rate of R0 resection, defined as a negative surgical margin at time of total mesorectal excision.",
+                            "SecondaryOutcomeDescription": "R0 resection will be defined by the percent of patients with an R0 resection or negative surgical margin at the time of total mesorectal excision. Acute and late toxicities will be recorded as the rate of treatment related grade 3-5 adverse events experienced in the acute phase from initiation of therapy to 6 weeks treatment to the late phase 6 weeks to 1 year, using the NCI's CTCAE v5.0 toxicity criteria.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To evaluate the rate of distant failure, defined as development of disease outside of the pelvis.",
+                            "SecondaryOutcomeDescription": "The rate of distant failure will be recurrence of disease outside of the pelvis that will be collected on time interval since completion of therapy and be evaluated as a median or rate up to 1-year follow-up. Time will be backdated to when the recurrence was observed.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAt least 18 years of age. Both men and women and members of all races and ethnic groups will be included.\nWilling and able to provide written informed consent\nPathologic diagnosis of rectal adenocarcinoma\nT3-4 and/or N+ disease per AJCC 8th edition\nNo prior treatment for rectal adenocarcinoma\nEastern Cooperative Group (ECOG) performance status of 0-2.\n\nLaboratory values supporting acceptable organ and marrow function within 30 days of eligibility confirmation. Defined as follows:\n\nWBC \u2265 3,000/mL;\nANC WBC \u2265 1,000/mL;\nPLT \u2265 75,000/mL;\nT Bili \u2264 1.5 x upper limit of normal (ULN);\nAST/ALT \u2264 2.5 x ULN;\nCreatinine not above ULN, or creatinine clearance >50 mL/min/1.73 m2 for participants with creatinine levels above institutional normal.\nAll men, as well as women of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) starting with the first dose of study therapy through 90 days after the last dose of study drugs. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n\nA female of child-bearing potential is any woman (regardless of sexual orientation, marital status, having undergone a tubal ligation, or remaining celibate by choice) who meets the following criteria:\n\nHas not undergone a hysterectomy or bilateral oophorectomy; or\nHas not been naturally postmenopausal for at least 12 consecutive months (i.e., has had menses at any time in the preceding 12 consecutive months).\n\nExclusion Criteria:\n\nDistant nodal disease (retroperitoneal nodes) including inguinal nodes, or any metastatic disease by CT.\nPrior RT to the pelvis.\nUncontrolled comorbid illness or condition including congestive heart failure, unstable angina, cardiac arrhythmia, or psychiatric illness that would limit compliance with the study requirements.\nPsychiatric illness/social situations that would limit consenting and compliance with study requirements.\nParticipants who are pregnant or nursing due to the potential for congenital abnormalities and the potential of this regimen to harm nursing infants",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Kimberly Zepeda",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "12146458525",
+                            "CentralContactEMail": "kimberly.zepeda@utsouthwestern.edu"
+                        },
+                        {
+                            "CentralContactName": "Sarah Hardee",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "12146458525",
+                            "CentralContactEMail": "sarah.hardee@utsouthwestern.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nina Sanford, MD",
+                            "OverallOfficialAffiliation": "UT SOUTHWESTERN medical CENTRE",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "UT Southwestern Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Dallas",
+                            "LocationState": "Texas",
+                            "LocationZip": "75390-8849",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "sarah Hardee",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "214-645-8525",
+                                        "LocationContactEMail": "sarah.neufeld@UTSouthwestern.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Nina Sanford, M.D.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

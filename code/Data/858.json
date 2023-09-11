@@ -1,0 +1,324 @@
+{
+    "Rank": 858,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT06024538",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CHUBX 2023/34"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Bordeaux",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Role of Cancer-associated Fibroblast, MDSCs and Immune Cell Interplays in the Resistance of Non-small Cell Lung Cancer to Anti-PD1/PD-L1 Therapies",
+                "OfficialTitle": "Role of Cancer-associated Fibroblast, MDSCs and Immune Cell Interplays in the Resistance of Non-small Cell Lung Cancer to Anti-PD1/PD-L1 Therapies",
+                "Acronym": "COCKPI-T"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 28, 2023",
+                "StudyFirstSubmitQCDate": "August 28, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 6, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 28, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 6, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Bordeaux",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Immunotherapy have revolutionized the field of oncology, but response rates are low and all patients relapse, due to cellular and soluble immunosuppressive mechanisms. We want to better characterize these immunosuppressive mechanisms and their involvement in therapeutic responses in non-small cell lung cancers (NSCLC). Indeed, we will perform large transcriptomic analysis of different subsets of immunosuppressive cells, correlating them to clinical outcome in a cohort of stage III disease, treated by radiochemotherapy and immunotherapy as maintenance, and stage IV treated by immunotherapy as first-line treatment. Furthermore, we will analyse cellular mechanisms by in vitro studies, assessing the effect of immunosuppressive cells, provided by fresh tumor samples, on phenotype and functions of lung cancer cell lines. The aim of this study is to better characterize immunosuppressive landscape of NSCLC and mechanisms involved in their protumor functions.",
+                "DetailedDescription": "In recent years, immune-based therapies have revolutionized the field of oncology by significantly improving survival of cancer patients. Despite sustained responses, only 20% to 40% of cancer patients respond. It has become clear that the immunosuppressive environment induced by tumor through cellular and/or soluble pathways critically contribute to hinder efficient antitumor immunity. The inhibition of these immunosuppressive networks thus represents an essential prerequisite for the improvement of responses to anticancer immunotherapies. Several immune and non -immune cell populations have been identified as key actors of tumor-induced immunosuppression, among which are myeloid-derived suppressor cells (MDSC), and cancer associated fibroblasts (CAF). However, in non-small cell lung cancers (NSCLC), the phenotypic characteristics and the prognostic role of these cells, the mechanisms underlying their immunosuppressive functions, and their role in dampening the efficacy of immunotherapies in clinical practice are less characterized. The aim of this project is to better characterize these different immunosuppressive subpopulations, and to study their role promoting NSCLC development and resistance to immunotherapies.\n\nFirst the tumor CAF and immunosuppressive microenvironment using single cell RNA sequencing will be characterized (objective 1a). After identification of phenotypic markers, the immunosuppressive landscape of stage III NSCLC on a lung cancer cohort treated at Bordeaux University Hospital will be analysed, and data on CAF, MDSC and immune infiltration will be correlated with tumor characteristics and cancer outcome (objective 1b). Finally, we will assess in vitro the pro-tumor functions of CAF isolated from lung cancer patients (objective 2)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Neoplasm",
+                        "Cancer Associated Fibroblast",
+                        "Myeloid-Derived Suppressive Cells Immunosuppression"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung cancer",
+                        "Immunosuppression",
+                        "Immunotherapy",
+                        "Immuno-oncology",
+                        "Antitumor immune escape"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "25",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Prospective part of the study",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Tumor samples"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Tumor samples",
+                            "InterventionDescription": "Tumor samples will be collected by the pathologist at the reception of the tumor removed during surgery",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective part of the study"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Descriptive analysis of immune infiltration and phenotypic and functional characteristics of the different cell subgroups isolated from fresh tumors",
+                            "PrimaryOutcomeDescription": "Exploratory analysis of the immune infiltration (phenotype and function of immunosuppressive and antitumor immune cells) and of the cancer-associated fibroblasts through a transcriptomic analysis of fresh resected lung carcinoma, comparing patients with lymph node involvement or not. Bioinformatics analysis of gene panels",
+                            "PrimaryOutcomeTimeFrame": "At the time of surgery only, when fresh tumor is resected"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between the infiltration of CAF and immunosuppressive immune cells and with clinicopathological parameters and patient prognosis (relapse free-survival, overall survival) in stage III NSCLC exposed to immunotherapy",
+                            "SecondaryOutcomeDescription": "Analyze CAF and immunosuppressive immune infiltration in a cohort of unresectable stage III lung carcinoma treated with radiochemotherapy followed by immunotherapy, assessing correlation between immunosuppressive subpopulations and clinical parameters and patient outcome. We will use a multiplexing immunofluorescence assay",
+                            "SecondaryOutcomeTimeFrame": "Between September 2018 and December 2021, receiving concomitant radiochemotherapy followed by durvalumab (maintenance)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Comparative analysis of the modifications of phenotype and functions of MDSC and T lymphocytes when exposed to CAF extracted from patient tumor tissue",
+                            "SecondaryOutcomeDescription": "Functional in vitro studies of the effect of CAF on phenotype and function of T lymphocytes and of MDSC being extracted from resected NSCLC prospectively collected",
+                            "SecondaryOutcomeTimeFrame": "At the time of surgery only, when fresh tumor is resected"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nconsecutive patients\nlung carcinoma surgically treated by surgery only (objectives 1a and 2), or stage III lung carcinoma treated by concomitant radiochemotherapy followed by durvalumab (maintenance) treated between September 2018 and december 2021 (objective 1b)\n\nExclusion Criteria:\n\npatient receiving chemotherapy, radiotherapy or immunotherapy in the neoadjuvant setting (all objectives)\npatient with previous cancer",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with lung carcinoma surgically treated by surgery only, or stage III lung carcinoma treated by concomitant radiochemotherapy followed by durvalumab (maintenance) treated between September 2018 and december 2021",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Charlotte DOMBLIDES",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "charlotte.domblides@chu-bordeaux.fr"
+                        },
+                        {
+                            "CentralContactName": "Matthieu THUMEREL",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "matthieu.thumerel@chu-bordeaux.fr"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "CHU de Bordeaux - H\u00f4pital Saint-Andr\u00e9, Service d'Oncologie M\u00e9dicale",
+                            "LocationCity": "Bordeaux",
+                            "LocationZip": "33000",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charlotte DOMBLIDES",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "charlotte.domblides@chu-bordeaux.fr"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

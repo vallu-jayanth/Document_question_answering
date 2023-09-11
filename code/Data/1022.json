@@ -1,0 +1,431 @@
+{
+    "Rank": 1022,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00899782",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CALGB-140202"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "CALGB-140202"
+                        },
+                        {
+                            "SecondaryId": "CDR0000271323",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI Physician Data Query"
+                        },
+                        {
+                            "SecondaryId": "U10CA031946",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/U10CA031946"
+                        },
+                        {
+                            "SecondaryId": "U10CA180821",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/U10CA180821"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Alliance for Clinical Trials in Oncology",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Collection and Storage of Blood and Tissue Samples From Patients Who Are Undergoing Surgery For Lung Cancer",
+                "OfficialTitle": "The CALGB Lung Cancer Tissue Bank"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 15, 2004",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 15, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 9, 2009",
+                "StudyFirstSubmitQCDate": "May 9, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 12, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 2, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 3, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Alliance for Clinical Trials in Oncology",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This research studies collecting and storing tissue and blood samples from patients with lung cancer who are undergoing surgery. Collecting and storing samples of tissue and blood from patients with lung cancer to study in the laboratory may help doctors learn more about changes that may occur in deoxyribonucleic acid (DNA) and identify biomarkers related to cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nTo collect, catalog and store frozen samples of lung carcinoma and when possible, portions of involved lymph nodes, as well as adjacent grossly uninvolved lung tissue obtained from surgical specimens of patients undergoing surgical resection for previously untreated lung cancer as a source of quality DNA, messenger ribonucleic acid (mRNA) and protein for molecular analysis.\nTo collect, catalog and store frozen samples of blood pre- and post-resection from the same patients to provide a source of reference DNA to assess somatic mutations associated with tumor or preneoplastic \"normal\" lung, and to allow assessment of levels of circulating markers.\nTo associate these specimens with historical, clinical, pathological, and outcome information.\n\nGrossly viable tumor and grossly normal lung tissue are identified and removed from patient surgical specimens and cryopreserved until shipment to the Cancer and Leukemia Group B (CALGB) Lung Cancer Tissue Bank for future use in research. Blood specimens are also collected prior to surgery and at 4-12 weeks post-surgery (before the start of adjuvant therapy) and shipped immediately to the Tissue Bank."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Carcinoma",
+                        "Lung Neoplasm",
+                        "Malignant Lung Neoplasm"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Tumor, blood"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Ancillary-Correlative (lung cancer tissue bank)",
+                            "ArmGroupDescription": "Grossly viable tumor and grossly normal lung tissue are identified and removed from patient surgical specimens and cryopreserved until shipment to the CALGB Lung Cancer Tissue Bank for future use in research. Blood specimens are also collected prior to surgery and at 4-12 weeks post-surgery (before the start of adjuvant therapy) and shipped immediately to the Tissue Bank.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: cytology specimen collection procedure"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "cytology specimen collection procedure",
+                            "InterventionDescription": "correlative studies",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Ancillary-Correlative (lung cancer tissue bank)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "cytologic sampling"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Collection and storage of frozen tissue samples for molecular analysisor resection of lung cancer",
+                            "PrimaryOutcomeTimeFrame": "Up to 5 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Collection and storage of frozen blood samples for the assessment of somatic mutations and levels of circulating markersto assess levels of circulating markers",
+                            "PrimaryOutcomeTimeFrame": "Up to 5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Histologic Documentation: All patients with suspected or histologically documented previously untreated lung cancer undergoing surgical resection are eligible whether or not the patient participates in a CALGB-sponsored treatment trial; patients enrolled on a CALGB trial of preoperative chemotherapy for lung cancer will be eligible if a pre-treatment frozen sample of tumor (e.g., a positive lymph node from mediastinoscopy) can be submitted to the bank; patients enrolled on CALGB 140203, intraoperative sentinel node mapping in non-small cell lung cancer, are not eligible.\nNo patients with known infectious disease, such as human immunodeficiency virus (HIV), tuberculosis (TB), or hepatitis B, C",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with suspected or histologically documented previously untreated lung cancer undergoing surgical resection at a CALGB Lung Cancer Tissue Bank-approved institution.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "William Richards, MD",
+                            "OverallOfficialAffiliation": "Brigham and Women's Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Tunnell Cancer Center at Beebe Medical Center",
+                            "LocationCity": "Lewes",
+                            "LocationState": "Delaware",
+                            "LocationZip": "19958",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Christiana Care Health Services",
+                            "LocationCity": "Newark",
+                            "LocationState": "Delaware",
+                            "LocationZip": "19713",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Union Hospital of Cecil County",
+                            "LocationCity": "Elkton",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21921",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber/Brigham and Women's Cancer Center",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber/Harvard Cancer Center at Dana-Farber Cancer Institute",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Masonic Cancer Center at University of Minnesota",
+                            "LocationCity": "Minneapolis",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55455",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Ellis Fischel Cancer Center at University of Missouri - Columbia",
+                            "LocationCity": "Columbia",
+                            "LocationState": "Missouri",
+                            "LocationZip": "65203",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Siteman Cancer Center at Barnes-Jewish Hospital - Saint Louis",
+                            "LocationCity": "Saint Louis",
+                            "LocationState": "Missouri",
+                            "LocationZip": "63110",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Institute of New Jersey at Cooper - Voorhees",
+                            "LocationCity": "Voorhees",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08043",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Roswell Park Cancer Institute",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14263-0001",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "SUNY Upstate Medical University Hospital",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13210",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Asheville",
+                            "LocationCity": "Asheville",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "28805",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Duke Cancer Institute",
+                            "LocationCity": "Durham",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27710",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Forbes Regional Hospital",
+                            "LocationCity": "Monroeville",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15146",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Alle-Kiski Medical Center",
+                            "LocationCity": "Natrona Heights",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15065",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Allegheny Cancer Center at Allegheny General Hospital",
+                            "LocationCity": "Pittsburgh",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15212",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Rhode Island Hospital Comprehensive Cancer Center",
+                            "LocationCity": "Providence",
+                            "LocationState": "Rhode Island",
+                            "LocationZip": "02903",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Miriam Hospital",
+                            "LocationCity": "Providence",
+                            "LocationState": "Rhode Island",
+                            "LocationZip": "02906",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Fletcher Allen Health Care - University Health Center Campus",
+                            "LocationCity": "Burlington",
+                            "LocationState": "Vermont",
+                            "LocationZip": "05401",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "Rank": 485,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01212510",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2009/170/HP"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Rouen",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study of Circulating Markers in Serum of Patients Treated for Metastatic Colorectal Cancer",
+                "OfficialTitle": "Study of Circulating Markers in Serum of Patients Treated for Metastatic Colorectal Cancer",
+                "Acronym": "Coca-Colon"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "September 29, 2010",
+                "StudyFirstSubmitQCDate": "September 29, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 30, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 16, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 17, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Rouen",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The primary purpose of the study is to confirm the results of previous study about the usefulness of the serum Carcinoembryonic antigen (CEA) kinetic for chemotherapy monitoring in patients with unresectable metastasis of colorectal cancer (J Clin Oncol 2008;26:3681-6). The secondary purpose is to evaluate the value of circulating free mutant DNA and circulating tumor cells (CTC) and their variations during the treatment.",
+                "DetailedDescription": "Prospective cohort study of patients treated with systemic chemotherapy for unresectable metastatic colorectal cancer. The chemotherapy monitoring is currently based on radiological evaluation (RECIST criteria) and clinical evaluation. Circulating markers as CEA, free mutant DNA, CTC represent an alternative approach. A previous study on usefulness of the serum Carcinoembryonic antigen (CEA) kinetic for chemotherapy monitoring in patients with unresectable metastasis of colorectal cancer has been published (J Clin Oncol 2008;26:3681-6). The present study is designed to validate the previous data. The secondary purpose is to evaluate variations of free mutant DNA and CTC during the chemotherapy. Patients will be included prospectively in 4 centers in Normandy. All systemic chemotherapy and biotherapy validate in this clinical situation by the French National Cancer Institute (INCa) is accepted. Evaluation of response based on RECIST criteria will be performed every 3 months. Blood samples for CEA and CA 19-9 levels will be performed every courses of chemotherapy during first 3 months. Blood samples for detection of free mutant DNA and CTC will be performed at day 1 and 42 of chemotherapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "metastatic colorectal cancer",
+                        "circulating tumor markers",
+                        "circulating tumor cell",
+                        "circulating tumor DNA",
+                        "marker's kinetic"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Tumor markers",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "measurement of tumor markers ( blood rate of ACE, CA19-9, circulating tumor cell, circulating tumor DNA )",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Blood sampling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Blood sampling",
+                            "InterventionDescription": "blood rate of ACE, CA19-9, circulating tumor cell, circulating tumor DNA",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Tumor markers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prediction of tumor progression",
+                            "PrimaryOutcomeDescription": "sensitivity and specificity of CEA kinetic to predict tumor progression at 3 months (RECIST)",
+                            "PrimaryOutcomeTimeFrame": "3 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Prediction of tumor response",
+                            "SecondaryOutcomeDescription": "sensitivity and specificity of CEA kinetic to predict tumor response at 3 months (RECIST)",
+                            "SecondaryOutcomeTimeFrame": "3 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient has Stage IV colorectal adenocarcinoma histologically proved\nPatient has at least one measurable lesion\nPatient has performance status 0-2 on the WHO performance scale\nPatient is male or female, and > 18 years of age\nPatient has agree to participate by giving written informed consent\n\nExclusion Criteria:\n\nPatient has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "95 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Pierre MICHEL, Pr",
+                            "OverallOfficialAffiliation": "UH Rouen",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Centre Fran\u00e7ois Baclesse",
+                            "LocationCity": "Caen",
+                            "LocationZip": "14000",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "University Hospital",
+                            "LocationCity": "Caen",
+                            "LocationZip": "14000",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Fr\u00e9d\u00e9ric Joliot",
+                            "LocationCity": "Rouen",
+                            "LocationZip": "76000",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "University Hospital",
+                            "LocationCity": "Rouen",
+                            "LocationZip": "76000",
+                            "LocationCountry": "France"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34112948",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Sefrioui D, Beaussire L, Gillibert A, Blanchard F, Toure E, Bazille C, Perdrix A, Ziegler F, Gangloff A, Hassine M, Elie C, Bignon AL, Parzy A, Gomez P, Thill C, Clatot F, Sabourin JC, Frebourg T, Benichou J, Bouhier-Leporrier K, Gallais MP, Sarafan-Vasseur N, Michel P, Di Fiore F. CEA, CA19-9, circulating DNA and circulating tumour cell kinetics in patients treated for metastatic colorectal cancer (mCRC). Br J Cancer. 2021 Aug;125(5):725-733. doi: 10.1038/s41416-021-01431-9. Epub 2021 Jun 10."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

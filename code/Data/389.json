@@ -1,0 +1,359 @@
+{
+    "Rank": 389,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03225235",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CYBERPROST"
+                },
+                "Organization": {
+                    "OrgFullName": "The Greater Poland Cancer Centre",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Prospective Evaluation of Hypofractionated Stereotactic RT Using CyberKnife for Patients With Prostate Cancer",
+                "OfficialTitle": "Prospective Evaluation of Hypofractionated Stereotactic RT (SBRT) Using CyberKnife for Patients With Low and Intermediate Risk of Progression Prostate Cancer.",
+                "Acronym": "CYBERPROST"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2020",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 26, 2013",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 19, 2017",
+                "StudyFirstSubmitQCDate": "July 20, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 21, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 4, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 5, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "The Greater Poland Cancer Centre",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main purpose of study is to evaluate hypofractionated stereotactic radiotherapy (SBRT) using CyberKnife for Patients with low and intermediate risk of progression prostate cancer.",
+                "DetailedDescription": "Evaluation of the usefulness expression of selected proteins (PTEN, SMAD4, Cyclin D1, SPP1) as prognostic and predictive factors."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate cancer, SBRT, Ultrafractionation, CyberKnife"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "600",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Hypofractionated Stereotactic SBRT",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "By assuming a hypofractionated irradiation scheme, it is assumed that between the fractions sublethal radiation damage is being treated and the time factor does not significantly affect RT result. The SBRT fractional dose was determined on the basis of a Biologically Effective Dose (BED) calculation using a linear-square model, which assumes that \u03b1 / \u03b2 takes the following values for:\n\ntumor (RS) = 1.5\nLate rectal and bladder complications = 3.0\nearly rectal and bladder complications = 10.0.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: SBRT"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "SBRT",
+                            "InterventionDescription": "hypofractionated stereotactic radiotherapy (SBRT) using CyberKnife for Patients With Low and Intermediate Risk of Progression Prostate Cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Hypofractionated Stereotactic SBRT"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "survival time without biochemical recurrence,",
+                            "PrimaryOutcomeDescription": "Phoenix definition of biochemical failure",
+                            "PrimaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "survival time specific for prostate cancer,",
+                            "SecondaryOutcomeDescription": "the period of time from randomization until death from prostate cancer",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "QoL-EORTC quality of life",
+                            "OtherOutcomeDescription": "For QoL the EORTC questionnaire (C30 with PR25) is used.",
+                            "OtherOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nmen from 40 to 75 years of age with a confirmed adenocarcinoma prostate, prostate biopsy will be performed <180 days prior to the randomization date,\ncompleted assessment of tumor differentiation according to Gleason grading allows to perform stratification;\ngeneral Performance Status according to the Eastern Cooperative Oncology Group (ECOG) classification ( 0 -1),\nbelonging to the group of low and intermedium risk of progression; (cT1-cT2c, Gleason 7, PSA to 19.9 ng / ml), cT specified by AJCC 7 Edition (appendix 2),\nPSA marked at least 10 days after or before the biopsy, and for patients taking phytosterol 30 days after discontinuation,\nno distant metastases,\nsigning informed consent,\nmorphological and biochemical blood parameters within the normal limits.\n\nExclusion Criteria:\n\nthe presence of active cancer, except skin cancer preceding period 5 years prior to randomization,\nsurgical treatment (radical prostatectomy) or RT in the pelvic area,\nco-morbidities that may significantly affect the expectancy life of the patients\ndo not meet the criteria for inclusion.",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Piotr Milecki, PhD., MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+48618850878",
+                            "CentralContactEMail": "piotr.milecki@wco.pl"
+                        },
+                        {
+                            "CentralContactName": "Sylwia Kr\u0105kowska, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+48 61 885 08 78",
+                            "CentralContactEMail": "sylwia.krakowska@wco.pl"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Piotr Milecki, PhD., MD",
+                            "OverallOfficialAffiliation": "Greater Poland Cancer Centre",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Greater Poland Cancer Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Poznan",
+                            "LocationState": "Wielkopolska",
+                            "LocationZip": "61-866",
+                            "LocationCountry": "Poland",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Piotr Milecki, MD PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+48 61 885 08 78",
+                                        "LocationContactEMail": "piotr.milecki@wco.pl"
+                                    },
+                                    {
+                                        "LocationContactName": "Sylwia Kr\u0105kowska, MA",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+48 61 885 08 78",
+                                        "LocationContactEMail": "sylwia.krakowska@wco.pl"
+                                    },
+                                    {
+                                        "LocationContactName": "Piotr Milecki, MD PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20249",
+                            "ConditionBrowseLeafName": "Disease Progression",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

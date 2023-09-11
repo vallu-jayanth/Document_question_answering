@@ -1,0 +1,2611 @@
+{
+    "Rank": 136,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01238172",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CALGB-70807"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "CALGB-70807"
+                        },
+                        {
+                            "SecondaryId": "CDR0000687958",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI Physician Data Query"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Alliance for Clinical Trials in Oncology",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Diet in Altering Disease Progression in Patients With Prostate Cancer on Active Surveillance",
+                "OfficialTitle": "The Men's Eating and Living (MEAL) Study: A Randomized Trial of Diet to Alter Disease Progression in Prostate Cancer Patients on Active Surveillance"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2011",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 18, 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 15, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 9, 2010",
+                "StudyFirstSubmitQCDate": "November 9, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 10, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "February 20, 2019",
+                "ResultsFirstSubmitQCDate": "February 20, 2019",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "March 12, 2019",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 21, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Alliance for Clinical Trials in Oncology",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Eating a diet high in vegetables may slow down disease progression in patients with prostate cancer.\n\nPURPOSE: This randomized clinical trial is studying how well diet works in altering disease progression in patients with prostate cancer on active surveillance.",
+                "DetailedDescription": "CALGB 70807 is a randomized, phase III clinical trial designed to test this practical, diet-based intervention for prostate cancer in a broader clinical setting. Patients on AS will be randomized either to an intervention of centralized, telephone-based dietary counseling and structured dietary education or to a comparison control condition in which they receive the Prostate Cancer Foundation booklet. Study endpoints will include disease progression, incidence of treatment, and health-related quality of life.\n\nOBJECTIVES:\n\nPrimary\n\nTo determine if a telephone-based dietary intervention compared to no intervention will decrease clinical progression in AS patients.\n\nSecondary\n\nTo compare the incidence of active treatment (surgery, irradiation, local ablation, or androgen deprivation) in AS patients receiving dietary intervention compared to no intervention.\nTo compare prostate cancer-related anxiety in AS patients receiving dietary intervention compared to no intervention.\nTo compare health-related quality of life in AS patients receiving dietary intervention compared to no intervention.\n\nOUTLINE: This is a multicenter study. Patients are stratified according to age (\u2264 70 years vs > 70 years), race (black or african american vs other), and baseline prostate biopsy (0-12 months before registration vs > 12-24 months before registration). Patients are randomized to 1 of 2 treatment arms. Please see the arms section for more information."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage I prostate cancer",
+                        "stage IIB prostate cancer",
+                        "stage IIA prostate cancer",
+                        "adenocarcinoma of the prostate"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 3"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "478",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Arm A - MEAL Program Intervention",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: dietary education and counseling"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Arm B - Prostate Cancer Foundation Booklet",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients receive information about diet, nutrition, exercise and cancer. Patients also receive regularly scheduled newsletters.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: prostate cancer foundation booklet"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "dietary education and counseling",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Arm A - MEAL Program Intervention"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "prostate cancer foundation booklet",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Arm B - Prostate Cancer Foundation Booklet"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Time to Progression",
+                            "PrimaryOutcomeDescription": "Time to progression (TTP) was defined as the length of time from the date of random assignment to progression; patients who died from any cause without experiencing disease progression were censored at the time of death. Disease progression is defined by (a) PSA doubling time (PSADT) less than 3 years, (b) PSA above 10 at any time, or (c) Gleason score on repeat biopsy \u2265 7 for men 70 years or younger and \u2265 4+3 = 7 for men older than 70 years. For the primary analysis, TTP was analyzed using the Kaplan-Meier method; the log-rank test was used to determine superiority of the intervention arm (Arm A: MEAL Program Intervention) compared with the control arm (Arm B: Prostate Cancer Foundation Booklet).",
+                            "PrimaryOutcomeTimeFrame": "Up to 2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Time to Treatment: Censoring Death, Progression or Last Follow-up as Measured by Number of Events Observed",
+                            "SecondaryOutcomeDescription": "Time to treatment was analyzed by the Kaplan-Meier method. For this analysis, patients who did not withdrawal from the study to pursue treatment were censored at the time of clinical progression, death, or their last follow-up visit, whichever occurred first. The number of patients who observed an event (treatment) are summarized below.",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Quality of Life (QOL) Was Measured Using Change From Baseline in Total Summary Score of Memorial Anxiety Scale for Prostate Cancer (MAX-PC) at Month 24",
+                            "SecondaryOutcomeDescription": "Quality of Life (QOL) was measured using Observed Total Summary Score of Memorial Anxiety Scale for Prostate Cancer [MAX-PC] at Month 24 on a 0-108 scale, with lower scores corresponding to worse overall QOL and higher scores corresponding to better overall QOL. MAX-PC is a prostate cancer-specific measure to assess patient anxiety due to prostate cancer, PSA tests and fears of recurrence. Change from baseline to month-24 was calculated by subtracting the baseline scores from the scores at month-24. Higher scores on MAX-PC indicate better QOL",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Total Vegetables (Servings Per Day) Evaluated at Baseline and Month 24 Based on Dietary Recall",
+                            "SecondaryOutcomeDescription": "At baseline and 24 months, participant diet including total vegetables (servings/day) was measured with a series of three separate interviews at each time point, on three-randomly selected days in a single week, using the Nutrition Data Systems for Research (NDS-R, current version 2010, University of Minnesota Nutrition Coordinating Center, University of Minnesota, Minneapolis, MN) software and nutrient database. Total vegetables were measured as the number of servings per day (range: \u2265 0), where higher values correspond to more servings per day. The within-participant change from baseline at 24 months was calculated by subtracting the baseline number of servings per day from the number of servings per day at month 24; positive values correspond to increased consumption of total vegetables.",
+                            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Preregistration Eligibility:\n\nHistologic Documentation:\n\nThe initial biopsy showing diagnosis of prostate cancer should be used for the purposes of determining eligibility.\nHowever, if a subsequent biopsy performed before patient enrollment shows that the patient is ineligible, he may not be enrolled to the study.\n\nEligible patients must meet all of the following criteria:\n\nBiopsy-proven (consisting of \u2265 10 tissue cores) adenocarcinoma of the prostate diagnosed within 24 months prior to pre-registration\n< 25% of biopsy tissue cores positive for cancer\n\u2264 50% of any one biopsy tissue core positive for cancer\nClinical stage \u2264 T2a\nPatients who have prostate cancer with distant metastases are not eligible\nNOTE: If a patient undergoes a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia (BPH), and prostate cancer is diagnosed incidentally from the TURP specimen, eligibility for CALGB 70807 cannot be determined from the TURP specimen. However, if the patient subsequently undergoes a minimum 10-core prostate biopsy within 2 years of prostate cancer diagnosis from the TURP, and prostate cancer is detected in the biopsy specimen and meets the requirements above, the patient is eligible for this study. If prostate cancer is not detected in the biopsy specimen, the patient is not eligible.\nPrior Treatment: Patients who have had prior treatment for prostate cancer by surgery, irradiation, local ablative (i.e. cryosurgery or high-intensity focused ultrasound) or androgen deprivation therapy are not eligible.\nPatients who have had a history of non-cutaneous malignancy (other than nonmelanoma skin cancer) in the previous 5 years are not eligible.\nLanguage: Patients must be able to read and comprehend English language text and be able to understand spoken English over the phone.\nLife expectancy of at least 3 years\nPatients who are currently taking vitamin supplements including lycopene and beta-carotene are eligible.\nPatients receiving treatment with 5-alpha reductase inhibitors (e.g., finasteride, dutasteride) within 90 days prior to preregistration are not eligible. Treatment with these agents during the protocol intervention is not permitted.\nPatients who are currently taking coumadin are not eligible.\nParticipants will be men aged 50 to 80 years.\nFor men \u2264 70 years, biopsy Gleason score \u2264 6; for men > 70 years, biopsy Gleason score \u2264 (3 + 4) = 7.\n\nRequired Initial Laboratory Values:\n\nSerum PSA < 10 ng/mL\nNOTE: Baseline PSA for determination of eligibility must be measured after discontinuation of any 5-alpha reductase inhibitors.\n\nRegistration Eligibility:\n\nSuccessful completion of three 24-hour dietary recalls during the run-in period.\nPatients consuming \u2265 6 servings per day of fruits and vegetables (not including juices), as determined by the run-in dietary recalls are not eligible.",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "J. Kellogg Parsons, MD, MHS",
+                            "OverallOfficialAffiliation": "University of California, San Diego",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Fairbanks Cancer Treatment Center at Fairbanks Memorial Hospital",
+                            "LocationCity": "Fairbanks",
+                            "LocationState": "Alaska",
+                            "LocationZip": "99701",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mayo Clinic Scottsdale",
+                            "LocationCity": "Scottsdale",
+                            "LocationState": "Arizona",
+                            "LocationZip": "85259-5499",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kaiser Permanente Medical Center - Bellflower",
+                            "LocationCity": "Bellflower",
+                            "LocationState": "California",
+                            "LocationZip": "90706",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "California Cancer Care, Incorporated - Greenbrae",
+                            "LocationCity": "Greenbrae",
+                            "LocationState": "California",
+                            "LocationZip": "94904",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Rebecca and John Moores UCSD Cancer Center",
+                            "LocationCity": "La Jolla",
+                            "LocationState": "California",
+                            "LocationZip": "92093-0658",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Loma Linda University Cancer Institute at Loma Linda University Medical Center",
+                            "LocationCity": "Loma Linda",
+                            "LocationState": "California",
+                            "LocationZip": "92354",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kaiser Permanente Medical Center - Los Angeles",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90027",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Samuel Oschin Comprehensive Cancer Institute at Cedars-Sinai Medical Center",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90048",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Helena Hospital",
+                            "LocationCity": "Saint Helena",
+                            "LocationState": "California",
+                            "LocationZip": "94574",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kaiser Permanente Medical Center - Kaiser Foundation Hospital - San Diego",
+                            "LocationCity": "San Diego",
+                            "LocationState": "California",
+                            "LocationZip": "92120",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Naval Medical Center - San Diego",
+                            "LocationCity": "San Diego",
+                            "LocationState": "California",
+                            "LocationZip": "92134",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - San Diego",
+                            "LocationCity": "San Diego",
+                            "LocationState": "California",
+                            "LocationZip": "92161",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "UCSF Helen Diller Family Comprehensive Cancer Center",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Colorado Cancer Center at UC Health Sciences Center",
+                            "LocationCity": "Aurora",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80045",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Poudre Valley Hospital",
+                            "LocationCity": "Fort Collins",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80524",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Front Range Cancer Specialists",
+                            "LocationCity": "Fort Collins",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80528",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Francis/Mount Sinai Regional Cancer Center at Saint Francis Hospital and Medical Center",
+                            "LocationCity": "Hartford",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06105",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Middlesex Hospital Cancer Center",
+                            "LocationCity": "Middletown",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06457",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Tunnell Cancer Center at Beebe Medical Center",
+                            "LocationCity": "Lewes",
+                            "LocationState": "Delaware",
+                            "LocationZip": "19958",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Christiana Care Health Services",
+                            "LocationCity": "Newark",
+                            "LocationState": "Delaware",
+                            "LocationZip": "19713",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lakeland Regional Cancer Center at Lakeland Regional Medical Center",
+                            "LocationCity": "Lakeland",
+                            "LocationState": "Florida",
+                            "LocationZip": "33805",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Florida Hospital Cancer Institute at Florida Hospital Orlando",
+                            "LocationCity": "Orlando",
+                            "LocationState": "Florida",
+                            "LocationZip": "32803-1273",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cleveland Clinic Florida - Weston",
+                            "LocationCity": "Weston",
+                            "LocationState": "Florida",
+                            "LocationZip": "33331",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kapiolani Medical Center at Pali Momi",
+                            "LocationCity": "'Aiea",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96701",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oncare Hawaii, Incorporated - Pali Momi",
+                            "LocationCity": "'Aiea",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96701",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Research Center of Hawaii",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96813",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "OnCare Hawaii, Incorporated - Lusitana",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96813",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Queen's Cancer Institute at Queen's Medical Center",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96813",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Straub Clinic and Hospital, Incorporated",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96813",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "OnCare Hawaii, Incorporated - Kuakini",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96817-3169",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kapiolani Medical Center for Women and Children",
+                            "LocationCity": "Honolulu",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96826",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Castle Medical Center",
+                            "LocationCity": "Kailua",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96734",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kauai Medical Clinic",
+                            "LocationCity": "Lihue",
+                            "LocationState": "Hawaii",
+                            "LocationZip": "96766",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Alphonsus Cancer Care Center at Saint Alphonsus Regional Medical Center",
+                            "LocationCity": "Boise",
+                            "LocationState": "Idaho",
+                            "LocationZip": "83706",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Joseph Regional Medical Center",
+                            "LocationCity": "Lewiston",
+                            "LocationState": "Idaho",
+                            "LocationZip": "83501",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Idaho Urologic Institute, PA",
+                            "LocationCity": "Meridian",
+                            "LocationState": "Idaho",
+                            "LocationZip": "83642",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Resurrection Medical Center",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60631",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Chicago Cancer Research Center",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60637-1470",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Louis A. Weiss Memorial Hospital",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60640",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Hines",
+                            "LocationCity": "Hines",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60141",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "La Grange Memorial Hospital",
+                            "LocationCity": "La Grange",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60525",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "West Suburban Center for Cancer Care",
+                            "LocationCity": "River Forest",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60305",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Bloomington Hospital Regional Cancer Institute",
+                            "LocationCity": "Bloomington",
+                            "LocationState": "Indiana",
+                            "LocationZip": "47403",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Elkhart Clinic, LLC",
+                            "LocationCity": "Elkhart",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46514-2098",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Michiana Hematology-Oncology, PC - Elkhart",
+                            "LocationCity": "Elkhart",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46514",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Elkhart General Hospital",
+                            "LocationCity": "Elkhart",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46515",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Howard Community Hospital",
+                            "LocationCity": "Kokomo",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46904",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Center for Cancer Therapy at LaPorte Hospital and Health Services",
+                            "LocationCity": "La Porte",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46350",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Michiana Hematology-Oncology, PC - South Bend",
+                            "LocationCity": "Mishawaka",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46545-1470",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Joseph Regional Medical Center",
+                            "LocationCity": "Mishawaka",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46545-1470",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Michiana Hematology Oncology PC - Plymouth",
+                            "LocationCity": "Plymouth",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46563",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Northern Indiana CR Consortium",
+                            "LocationCity": "South Bend",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Hospital of South Bend",
+                            "LocationCity": "South Bend",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Michiana Hematology Oncology PC - La Porte",
+                            "LocationCity": "Westville",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46391",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "McFarland Clinic, PC",
+                            "LocationCity": "Ames",
+                            "LocationState": "Iowa",
+                            "LocationZip": "50010",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Wendt Regional Cancer Center at Finley Hospital",
+                            "LocationCity": "Dubuque",
+                            "LocationState": "Iowa",
+                            "LocationZip": "52001",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Holden Comprehensive Cancer Center at University of Iowa",
+                            "LocationCity": "Iowa City",
+                            "LocationState": "Iowa",
+                            "LocationZip": "52242-1002",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Siouxland Hematology-Oncology Associates, LLP",
+                            "LocationCity": "Sioux City",
+                            "LocationState": "Iowa",
+                            "LocationZip": "51101",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mercy Medical Center - Sioux City",
+                            "LocationCity": "Sioux City",
+                            "LocationState": "Iowa",
+                            "LocationZip": "51102",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Luke's Regional Medical Center",
+                            "LocationCity": "Sioux City",
+                            "LocationState": "Iowa",
+                            "LocationZip": "51104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Rose Ambulatory and Surgery Center",
+                            "LocationCity": "Great Bend",
+                            "LocationState": "Kansas",
+                            "LocationZip": "67530",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Hays Medical Center",
+                            "LocationCity": "Hays",
+                            "LocationState": "Kansas",
+                            "LocationZip": "67601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Hutchinson Hospital Corporation",
+                            "LocationCity": "Hutchinson",
+                            "LocationState": "Kansas",
+                            "LocationZip": "67502",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Centers - West",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66112",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas Masonic Cancer Research Institute at the University of Kansas Medical Center",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66160-7357",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Centers - Southwest",
+                            "LocationCity": "Overland Park",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66210",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mount Carmel Regional Cancer Center",
+                            "LocationCity": "Pittsburg",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66762",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Tammy Walker Cancer Center at Salina Regional Health Center",
+                            "LocationCity": "Salina",
+                            "LocationState": "Kansas",
+                            "LocationZip": "67401",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Center - Shawnee Mission",
+                            "LocationCity": "Shawnee Mission",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66204",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Francis Comprehensive Cancer Center",
+                            "LocationCity": "Topeka",
+                            "LocationState": "Kansas",
+                            "LocationZip": "66606",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lucille P. Markey Cancer Center at University of Kentucky",
+                            "LocationCity": "Lexington",
+                            "LocationState": "Kentucky",
+                            "LocationZip": "40536-0093",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mary Bird Perkins Cancer Center - Baton Rouge",
+                            "LocationCity": "Baton Rouge",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70809",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "MBCCOP - LSU Health Sciences Center",
+                            "LocationCity": "New Orleans",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70112",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Medical Center of Louisiana - New Orleans",
+                            "LocationCity": "New Orleans",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70112",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Maine Medical Center - Bramhall Campus",
+                            "LocationCity": "Portland",
+                            "LocationState": "Maine",
+                            "LocationZip": "04102",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Maine Center for Cancer Medicine and Blood Disorders - Scarborough",
+                            "LocationCity": "Scarborough",
+                            "LocationState": "Maine",
+                            "LocationZip": "04074",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "York Hospital's Oncology Treatment Center",
+                            "LocationCity": "York",
+                            "LocationState": "Maine",
+                            "LocationZip": "03909",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Walter Reed National Military Medical Center",
+                            "LocationCity": "Bethesda",
+                            "LocationState": "Maryland",
+                            "LocationZip": "20889-5600",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Union Hospital of Cecil County",
+                            "LocationCity": "Elkton",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21921",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Joseph Mercy Cancer Center",
+                            "LocationCity": "Ann Arbor",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48106-0995",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Michigan Cancer Research Consortium",
+                            "LocationCity": "Ann Arbor",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48106",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Battle Creek Health System Cancer Care Center",
+                            "LocationCity": "Battle Creek",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49017",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mecosta County Medical Center",
+                            "LocationCity": "Big Rapids",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49307",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oakwood Cancer Center at Oakwood Hospital and Medical Center",
+                            "LocationCity": "Dearborn",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48123-2500",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Genesys Hurley Cancer Institute",
+                            "LocationCity": "Flint",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48503",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Hurley Medical Center",
+                            "LocationCity": "Flint",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48503",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Genesys Regional Medical Center",
+                            "LocationCity": "Grand Blanc",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48439",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Butterworth Hospital at Spectrum Health",
+                            "LocationCity": "Grand Rapids",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49503",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Grand Rapids",
+                            "LocationCity": "Grand Rapids",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49503",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lacks Cancer Center at Saint Mary's Health Care",
+                            "LocationCity": "Grand Rapids",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49503",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Van Elslander Cancer Center at St. John Hospital and Medical Center",
+                            "LocationCity": "Grosse Pointe Woods",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48236",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Foote Memorial Hospital",
+                            "LocationCity": "Jackson",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49201",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Sparrow Regional Cancer Center",
+                            "LocationCity": "Lansing",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48912-1811",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Mary Mercy Hospital",
+                            "LocationCity": "Livonia",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48154",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mercy General Health Partners",
+                            "LocationCity": "Muskegon",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49444",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Joseph Mercy Oakland",
+                            "LocationCity": "Pontiac",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48341-2985",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mercy Regional Cancer Center at Mercy Hospital",
+                            "LocationCity": "Port Huron",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48060",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Spectrum Health Reed City Hospital",
+                            "LocationCity": "Reed City",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49677",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "William Beaumont Hospital - Royal Oak Campus",
+                            "LocationCity": "Royal Oak",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48073",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Seton Cancer Institute at Saint Mary's - Saginaw",
+                            "LocationCity": "Saginaw",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lakeland Regional Cancer Care Center - St. Joseph",
+                            "LocationCity": "Saint Joseph",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49085",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lakeside Cancer Specialists, PLLC",
+                            "LocationCity": "Saint Joseph",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49085",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Munson Medical Center",
+                            "LocationCity": "Traverse City",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49684",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. John Macomb Hospital",
+                            "LocationCity": "Warren",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48093",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mayo Clinic Cancer Center",
+                            "LocationCity": "Rochester",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55905",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CentraCare Clinic - River Campus",
+                            "LocationCity": "Saint Cloud",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "56303",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Coborn Cancer Center",
+                            "LocationCity": "Saint Cloud",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "56303",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Adult and Pediatric Urology, PLLP",
+                            "LocationCity": "Sartell",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "56377",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Truman Medical Center - Hospital Hill",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Missouri",
+                            "LocationZip": "64108",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Kansas City",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Missouri",
+                            "LocationZip": "64128",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Centers - South",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Missouri",
+                            "LocationZip": "64131",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Centers - North",
+                            "LocationCity": "Kansas City",
+                            "LocationState": "Missouri",
+                            "LocationZip": "64154",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kansas City Cancer Centers - East",
+                            "LocationCity": "Lee's Summit",
+                            "LocationState": "Missouri",
+                            "LocationZip": "64064",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Siteman Cancer Center at Barnes-Jewish Hospital - Saint Louis",
+                            "LocationCity": "Saint Louis",
+                            "LocationState": "Missouri",
+                            "LocationZip": "63110",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Montana Cancer Consortium",
+                            "LocationCity": "Billings",
+                            "LocationState": "Montana",
+                            "LocationZip": "59101",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Vincent Healthcare Cancer Care Services",
+                            "LocationCity": "Billings",
+                            "LocationState": "Montana",
+                            "LocationZip": "59101",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Hematology-Oncology Centers of the Northern Rockies - Billings",
+                            "LocationCity": "Billings",
+                            "LocationState": "Montana",
+                            "LocationZip": "59102",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Billings Clinic - Downtown",
+                            "LocationCity": "Billings",
+                            "LocationState": "Montana",
+                            "LocationZip": "59107-7000",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Bozeman Deaconess Cancer Center",
+                            "LocationCity": "Bozeman",
+                            "LocationState": "Montana",
+                            "LocationZip": "59715",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. James Healthcare Cancer Care",
+                            "LocationCity": "Butte",
+                            "LocationState": "Montana",
+                            "LocationZip": "59701",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Benefis Sletten Cancer Institute",
+                            "LocationCity": "Great Falls",
+                            "LocationState": "Montana",
+                            "LocationZip": "59405",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Great Falls Clinic - Main Facility",
+                            "LocationCity": "Great Falls",
+                            "LocationState": "Montana",
+                            "LocationZip": "59405",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Peter's Hospital",
+                            "LocationCity": "Helena",
+                            "LocationState": "Montana",
+                            "LocationZip": "59601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kalispell Regional Medical Center",
+                            "LocationCity": "Kalispell",
+                            "LocationState": "Montana",
+                            "LocationZip": "59901",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Montana Cancer Specialists at Montana Cancer Center",
+                            "LocationCity": "Missoula",
+                            "LocationState": "Montana",
+                            "LocationZip": "59807-7877",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Montana Cancer Center at St. Patrick Hospital and Health Sciences Center",
+                            "LocationCity": "Missoula",
+                            "LocationState": "Montana",
+                            "LocationZip": "59807",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University Medical Center of Southern Nevada",
+                            "LocationCity": "Las Vegas",
+                            "LocationState": "Nevada",
+                            "LocationZip": "89102",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Nevada Cancer Research Foundation",
+                            "LocationCity": "Las Vegas",
+                            "LocationState": "Nevada",
+                            "LocationZip": "89106",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Elliot Regional Cancer Center at Elliot Hospital",
+                            "LocationCity": "Manchester",
+                            "LocationState": "New Hampshire",
+                            "LocationZip": "03103",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Foundation Medical Partners",
+                            "LocationCity": "Nashua",
+                            "LocationState": "New Hampshire",
+                            "LocationZip": "03060",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Saint Clare's Hospital",
+                            "LocationCity": "Denville",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07834",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dizzy Gillespie Cancer Institute at Englewood Hospital and Medical Center",
+                            "LocationCity": "Englewood",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07631",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Somerset Medical Center",
+                            "LocationCity": "Somerville",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08876",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Institute of New Jersey at Cooper - Voorhees",
+                            "LocationCity": "Voorhees",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08043",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Buffalo",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14215",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Roswell Park Cancer Institute",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14263-0001",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Monter Cancer Center of the North Shore-LIJ Health System",
+                            "LocationCity": "Lake Success",
+                            "LocationState": "New York",
+                            "LocationZip": "11042",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - North Shore University Hospital",
+                            "LocationCity": "Manhasset",
+                            "LocationState": "New York",
+                            "LocationZip": "11030",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Don Monti Comprehensive Cancer Center at North Shore University Hospital",
+                            "LocationCity": "Manhasset",
+                            "LocationState": "New York",
+                            "LocationZip": "11030",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mount Kisco Medical Group, PC",
+                            "LocationCity": "Mount Kisco",
+                            "LocationState": "New York",
+                            "LocationZip": "10549-3417",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Long Island Jewish Medical Center",
+                            "LocationCity": "New Hyde Park",
+                            "LocationState": "New York",
+                            "LocationZip": "11040",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "New York Weill Cornell Cancer Center at Cornell University",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10021",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "James P. Wilmot Cancer Center at University of Rochester Medical Center",
+                            "LocationCity": "Rochester",
+                            "LocationState": "New York",
+                            "LocationZip": "14642",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lineberger Comprehensive Cancer Center at University of North Carolina - Chapel Hill",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27599-7295",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Pardee Memorial Hospital",
+                            "LocationCity": "Hendersonville",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "28791",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "High Point Regional Hospital",
+                            "LocationCity": "High Point",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27261",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "McDowell Cancer Center at Akron General Medical Center",
+                            "LocationCity": "Akron",
+                            "LocationState": "Ohio",
+                            "LocationZip": "44307",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oklahoma University Cancer Institute",
+                            "LocationCity": "Oklahoma City",
+                            "LocationState": "Oklahoma",
+                            "LocationZip": "73104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Bay Area Hospital",
+                            "LocationCity": "Coos Bay",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97420",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Morgan Cancer Center at Lehigh Valley Hospital - Cedar Crest",
+                            "LocationCity": "Allentown",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "18105",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Center at Phoenixville Hospital",
+                            "LocationCity": "Phoenixville",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19460",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - San Antonio (Murphy)",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78209",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Texas Health Science Center at San Antonio",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78229-3900",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Therapy and Research Center",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78229",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University Hospital - San Antonio",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78229",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Huntsman Cancer Institute at University of Utah",
+                            "LocationCity": "Salt Lake City",
+                            "LocationState": "Utah",
+                            "LocationZip": "84112",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Auburn Regional Center for Cancer Care",
+                            "LocationCity": "Auburn",
+                            "LocationState": "Washington",
+                            "LocationZip": "98002",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Overlake Cancer Center at Overlake Hospital Medical Center",
+                            "LocationCity": "Bellevue",
+                            "LocationState": "Washington",
+                            "LocationZip": "98004",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Providence Centralia Hospital",
+                            "LocationCity": "Centralia",
+                            "LocationState": "Washington",
+                            "LocationZip": "98531-9027",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Providence Regional Cancer Partnership",
+                            "LocationCity": "Everett",
+                            "LocationState": "Washington",
+                            "LocationZip": "98201",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Francis Hospital",
+                            "LocationCity": "Federal Way",
+                            "LocationState": "Washington",
+                            "LocationZip": "98003",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cascade Cancer Center at Evergreen Hospital Medical Center",
+                            "LocationCity": "Kirkland",
+                            "LocationState": "Washington",
+                            "LocationZip": "98033",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Seattle Cancer Care Alliance at EvergreenHealth",
+                            "LocationCity": "Kirkland",
+                            "LocationState": "Washington",
+                            "LocationZip": "98034",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Providence St. Peter Hospital Regional Cancer Center",
+                            "LocationCity": "Olympia",
+                            "LocationState": "Washington",
+                            "LocationZip": "98506-5166",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Good Samaritan Cancer Center",
+                            "LocationCity": "Puyallup",
+                            "LocationState": "Washington",
+                            "LocationZip": "98372",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Virginia Mason Research Center",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98101",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Virginia Mason Medical Center",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98101",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Pacific Medical Center",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Franciscan Cancer Center at St. Joseph Medical Center",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98405-3004",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Allenmore Hospital",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98405",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Northwest",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98405",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "MultiCare Regional Cancer Center at Tacoma General Hospital",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98405",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Madigan Army Medical Center - Tacoma",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98431",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "St. Clare Hospital",
+                            "LocationCity": "Tacoma",
+                            "LocationState": "Washington",
+                            "LocationZip": "98499",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Gundersen Lutheran Center for Cancer and Blood",
+                            "LocationCity": "La Crosse",
+                            "LocationState": "Wisconsin",
+                            "LocationZip": "54601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "D.N. Greenwald Center",
+                            "LocationCity": "Mukwonago",
+                            "LocationState": "Wisconsin",
+                            "LocationZip": "53149",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Regional Cancer Center at Oconomowoc Memorial Hospital",
+                            "LocationCity": "Oconomowoc",
+                            "LocationState": "Wisconsin",
+                            "LocationZip": "53066",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Waukesha Memorial Hospital Regional Cancer Center",
+                            "LocationCity": "Waukesha",
+                            "LocationState": "Wisconsin",
+                            "LocationZip": "53188",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Rocky Mountain Oncology",
+                            "LocationCity": "Casper",
+                            "LocationState": "Wyoming",
+                            "LocationZip": "82609",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Welch Cancer Center at Sheridan Memorial Hospital",
+                            "LocationCity": "Sheridan",
+                            "LocationState": "Wyoming",
+                            "LocationZip": "82801",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "31935026",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Parsons JK, Zahrieh D, Mohler JL, Paskett E, Hansel DE, Kibel AS, Liu H, Seisler DK, Natarajan L, White M, Hahn O, Taylor J, Hartman SJ, Stroup SP, Van Veldhuizen P, Hall L, Small EJ, Morris MJ, Pierce JP, Marshall J. Effect of a Behavioral Intervention to Increase Vegetable Consumption on Cancer Progression Among Men With Early-Stage Prostate Cancer: The MEAL Randomized Clinical Trial. JAMA. 2020 Jan 14;323(2):140-148. doi: 10.1001/jama.2019.20207."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Data Available: Select individual patient-level data from this trial can be requested from the NCTN/NCORP Data Archive",
+                            "SeeAlsoLinkURL": "https://nctn-data-archive.nci.nih.gov/"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowPreAssignmentDetails": "Of 602 total patients were pre-registered, only 478 patients were deemed eligible and randomized.",
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Arm A - MEAL Program Intervention",
+                            "FlowGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                        },
+                        {
+                            "FlowGroupId": "FG001",
+                            "FlowGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                            "FlowGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowMilestoneComment": "Intention-to-treat (ITT) Cohort",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "237"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "241"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowMilestoneComment": "modified intention-to-treat (m-ITT) Cohort",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "226"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "217"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "11"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "24"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Ineligible: based on Eligibility Review",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "2"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Ineligible: based on Central Path Review",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "9"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "19"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselinePopulationDescription": "The m-ITT population included all randomized patients; however, patients who later became ineligible by eligibility review or centralized pathology review of their baseline tissue specimens were excluded.",
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Arm A - MEAL Program Intervention",
+                            "BaselineGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                        },
+                        {
+                            "BaselineGroupId": "BG001",
+                            "BaselineGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                            "BaselineGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                        },
+                        {
+                            "BaselineGroupId": "BG002",
+                            "BaselineGroupTitle": "Total",
+                            "BaselineGroupDescription": "Total of all reporting groups"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "226"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG001",
+                                        "BaselineDenomCountValue": "217"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG002",
+                                        "BaselineDenomCountValue": "443"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "63.7",
+                                                                "BaselineMeasurementSpread": "6.5"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "63.5",
+                                                                "BaselineMeasurementSpread": "6.6"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "63.6",
+                                                                "BaselineMeasurementSpread": "6.5"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "226"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "217"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "443"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race/Ethnicity, Customized",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "American Indian or Alaska Native",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Asian",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "15"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Black or African American",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "24"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "26"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "50"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Hispanic or Latino",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "7"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "16"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "More than one race",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "2"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Native Hawaiian or Pacific Islander",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "White",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "186"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "171"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "357"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Not Reported",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "226"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "217"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "443"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Body Mass Index (BMI)",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "kg/m2",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "28.7",
+                                                                "BaselineMeasurementSpread": "5.9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "28.3",
+                                                                "BaselineMeasurementSpread": "3.7"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "28.5",
+                                                                "BaselineMeasurementSpread": "4.9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Time to Progression",
+                            "OutcomeMeasureDescription": "Time to progression (TTP) was defined as the length of time from the date of random assignment to progression; patients who died from any cause without experiencing disease progression were censored at the time of death. Disease progression is defined by (a) PSA doubling time (PSADT) less than 3 years, (b) PSA above 10 at any time, or (c) Gleason score on repeat biopsy \u2265 7 for men 70 years or younger and \u2265 4+3 = 7 for men older than 70 years. For the primary analysis, TTP was analyzed using the Kaplan-Meier method; the log-rank test was used to determine superiority of the intervention arm (Arm A: MEAL Program Intervention) compared with the control arm (Arm B: Prostate Cancer Foundation Booklet).",
+                            "OutcomeMeasurePopulationDescription": "The primary analysis was based on the modified intention-to-treat (m-ITT) analysis population. The m-ITT population included all randomized patients; however, patients who later became ineligible by eligibility review or centralized pathology review of their baseline tissue specimens were excluded.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "days",
+                            "OutcomeMeasureTimeFrame": "Up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm A - MEAL Program Intervention",
+                                        "OutcomeGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                                        "OutcomeGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "226"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "217"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "683.0",
+                                                                "OutcomeMeasurementLowerLimit": "471.0",
+                                                                "OutcomeMeasurementUpperLimit": "733.0"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "549.0",
+                                                                "OutcomeMeasurementLowerLimit": "418.0",
+                                                                "OutcomeMeasurementUpperLimit": "728.0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority",
+                                        "OutcomeAnalysisPValue": "0.76",
+                                        "OutcomeAnalysisStatisticalMethod": "Log Rank",
+                                        "OutcomeAnalysisParamType": "Hazard Ratio (HR)",
+                                        "OutcomeAnalysisParamValue": "0.96",
+                                        "OutcomeAnalysisCIPctValue": "95",
+                                        "OutcomeAnalysisCINumSides": "2-Sided",
+                                        "OutcomeAnalysisCILowerLimit": "0.75",
+                                        "OutcomeAnalysisCIUpperLimit": "1.24"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Time to Treatment: Censoring Death, Progression or Last Follow-up as Measured by Number of Events Observed",
+                            "OutcomeMeasureDescription": "Time to treatment was analyzed by the Kaplan-Meier method. For this analysis, patients who did not withdrawal from the study to pursue treatment were censored at the time of clinical progression, death, or their last follow-up visit, whichever occurred first. The number of patients who observed an event (treatment) are summarized below.",
+                            "OutcomeMeasurePopulationDescription": "The m-ITT population included all randomized patients; however, patients who later became ineligible by eligibility review or centralized pathology review of their baseline tissue specimens were excluded.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "Up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm A - MEAL Program Intervention",
+                                        "OutcomeGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                                        "OutcomeGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "226"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "217"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "3"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority",
+                                        "OutcomeAnalysisPValue": "0.71",
+                                        "OutcomeAnalysisStatisticalMethod": "Log Rank",
+                                        "OutcomeAnalysisParamType": "Hazard Ratio (HR)",
+                                        "OutcomeAnalysisParamValue": "1.41",
+                                        "OutcomeAnalysisCIPctValue": "95",
+                                        "OutcomeAnalysisCINumSides": "2-Sided",
+                                        "OutcomeAnalysisCILowerLimit": "0.23",
+                                        "OutcomeAnalysisCIUpperLimit": "8.41"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Quality of Life (QOL) Was Measured Using Change From Baseline in Total Summary Score of Memorial Anxiety Scale for Prostate Cancer (MAX-PC) at Month 24",
+                            "OutcomeMeasureDescription": "Quality of Life (QOL) was measured using Observed Total Summary Score of Memorial Anxiety Scale for Prostate Cancer [MAX-PC] at Month 24 on a 0-108 scale, with lower scores corresponding to worse overall QOL and higher scores corresponding to better overall QOL. MAX-PC is a prostate cancer-specific measure to assess patient anxiety due to prostate cancer, PSA tests and fears of recurrence. Change from baseline to month-24 was calculated by subtracting the baseline scores from the scores at month-24. Higher scores on MAX-PC indicate better QOL",
+                            "OutcomeMeasurePopulationDescription": "modified ITT population: Only participants with available data on the individual study measure at baseline and 24 months were included in the analysis.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "Full Range",
+                            "OutcomeMeasureUnitOfMeasure": "score on a scale",
+                            "OutcomeMeasureTimeFrame": "Up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm A - MEAL Program Intervention",
+                                        "OutcomeGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                                        "OutcomeGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "150"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "140"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "2.0",
+                                                                "OutcomeMeasurementLowerLimit": "-39.5",
+                                                                "OutcomeMeasurementUpperLimit": "41.9"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "2.8",
+                                                                "OutcomeMeasurementLowerLimit": "-42.3",
+                                                                "OutcomeMeasurementUpperLimit": "34.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority",
+                                        "OutcomeAnalysisPValue": "0.995",
+                                        "OutcomeAnalysisStatisticalMethod": "Wilcoxon (Mann-Whitney)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Total Vegetables (Servings Per Day) Evaluated at Baseline and Month 24 Based on Dietary Recall",
+                            "OutcomeMeasureDescription": "At baseline and 24 months, participant diet including total vegetables (servings/day) was measured with a series of three separate interviews at each time point, on three-randomly selected days in a single week, using the Nutrition Data Systems for Research (NDS-R, current version 2010, University of Minnesota Nutrition Coordinating Center, University of Minnesota, Minneapolis, MN) software and nutrient database. Total vegetables were measured as the number of servings per day (range: \u2265 0), where higher values correspond to more servings per day. The within-participant change from baseline at 24 months was calculated by subtracting the baseline number of servings per day from the number of servings per day at month 24; positive values correspond to increased consumption of total vegetables.",
+                            "OutcomeMeasurePopulationDescription": "Participants with available data on the individual study measure at baseline and 24 months were included in the analysis",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Mean",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "servings per day",
+                            "OutcomeMeasureTimeFrame": "Up to 2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm A - MEAL Program Intervention",
+                                        "OutcomeGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months."
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                                        "OutcomeGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "233"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "240"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "2.01",
+                                                                "OutcomeMeasurementLowerLimit": "1.75",
+                                                                "OutcomeMeasurementUpperLimit": "2.28"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "0.37",
+                                                                "OutcomeMeasurementLowerLimit": "0.11",
+                                                                "OutcomeMeasurementUpperLimit": "0.62"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeAnalysisList": {
+                                "OutcomeAnalysis": [
+                                    {
+                                        "OutcomeAnalysisGroupIdList": {
+                                            "OutcomeAnalysisGroupId": [
+                                                "OG000",
+                                                "OG001"
+                                            ]
+                                        },
+                                        "OutcomeAnalysisNonInferiorityType": "Superiority",
+                                        "OutcomeAnalysisPValue": "<0.001",
+                                        "OutcomeAnalysisStatisticalMethod": "t-test, 2 sided",
+                                        "OutcomeAnalysisStatisticalComment": "Two-sided"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventsTimeFrame": "Adverse events were not collected for this study.",
+                "EventsDescription": "Adverse events were not collected for this study.",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Arm A - MEAL Program Intervention",
+                            "EventGroupDescription": "Patients will receive dietary education and telephone counseling sessions over 24 months.",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "0",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "0",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "0"
+                        },
+                        {
+                            "EventGroupId": "EG001",
+                            "EventGroupTitle": "Arm B - Prostate Cancer Foundation Booklet",
+                            "EventGroupDescription": "Patients receive education material about diet, nutrition, exercise and cancer.",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "0",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "0",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "0"
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "J. Kellogg Parsons, M.D., MHS",
+                    "PointOfContactOrganization": "Moores Cancer Center",
+                    "PointOfContactEMail": "jkparsons@ucsd.edu",
+                    "PointOfContactPhone": "858-822-7874"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "September 26, 2018",
+                            "LargeDocUploadDate": "02/05/2019 12:11",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000018450",
+                            "ConditionMeshTerm": "Disease Progression"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20249",
+                            "ConditionBrowseLeafName": "Disease Progression",
+                            "ConditionBrowseLeafAsFound": "Disease Progression",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

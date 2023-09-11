@@ -1,0 +1,563 @@
+{
+    "Rank": 328,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01966289",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J13138"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NA_00087578",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHMIRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "SGI-110 in Combination With an Allogeneic Colon Cancer Cell Vaccine (GVAX) and Cyclophosphamide (CY) in Metastatic Colorectal Cancer (mCRC)",
+                "OfficialTitle": "A Pilot Study of SGI-110 in Combination With an Allogeneic Colon Cancer Cell Vaccine (GVAX) and Cyclophosphamide (CY) in Metastatic Colorectal Cancer (mCRC) as Maintenance Therapy"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2021",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 14, 2014",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 6, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 6, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "October 10, 2013",
+                "StudyFirstSubmitQCDate": "October 16, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 21, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 26, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 30, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Astex Therapeutics, Ltd",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Susan Cohan Colon Cancer Foundation",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will be looking at whether CY/GVAX in combination with SGI-110 is effective (recruits CD45RO+ T cells to the tumor which may be a marker of anti-tumor activity) and safe in patients with metastatic colon or rectum cancers."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colorectal Neoplasms",
+                        "Intestinal Neoplasms",
+                        "Gastrointestinal Neoplasms",
+                        "Digestive System Neoplasms",
+                        "Neoplasms by Site",
+                        "Neoplasms",
+                        "Digestive System Diseases",
+                        "Gastrointestinal Diseases",
+                        "Colonic Diseases",
+                        "Intestinal Diseases",
+                        "Rectal Diseases"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "18",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cohort 1:CY/GVAX concurrently with SGI-110",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "During each of the four cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2, the colon cancer tumor vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 Granulocyte macrophage-colony stimulating factor (GM-CSF) secreting cells, and SGI-110 is administered on Days 1-5 at 60 mg/m2. Each cycle is 28 days. Enrollment will begin first in Cohort 1 and 2. If a response to the treatment is seen in Cohorts 1 and 2, enrollment in Cohort 3 and 4 will begin.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: CY",
+                                    "Biological: GVAX",
+                                    "Drug: SGI-110"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort 2: CY/GVAX after SGI-110",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "During each of the four cycles, SGI-110 is administered on Days 1-5 at 60 mg/m2, Cyclophosphamide (CY) is administered on Day 8 at 200 mg/m2, and the colon cancer tumor vaccine (GVAX) is administered on Day 9 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells. Each cycle is 28 days. Enrollment will begin first in Cohort 1 and 2. If a response to the treatment is seen in Cohorts 1 and 2, enrollment in Cohort 3 and 4 will begin.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: CY",
+                                    "Biological: GVAX",
+                                    "Drug: SGI-110"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort 3: CY/GVAX",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "During each of the four cycles, Cyclophosphamide (CY) is administered on Day 1 at 200 mg/m2 and the colon cancer tumor vaccine (GVAX) is administered on Day 2 at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells. Each cycle is 28 days. Enrollment will begin first in Cohort 1 and 2. If a response to the treatment is seen in Cohorts 1 and 2, enrollment in Cohort 3 and 4 will begin.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: CY",
+                                    "Biological: GVAX"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cohort 4: SGI-110",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "During each of the four cycles, SGI-110 is administered on Days 1-5 at 60 mg/m2. Each cycle is 28 days. Enrollment will begin first in Cohort 1 and 2. If a response to the treatment is seen in Cohorts 1 and 2, enrollment in Cohort 3 and 4 will begin.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: SGI-110"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "CY",
+                            "InterventionDescription": "CY is administered intravenously at 200 mg/m2",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort 1:CY/GVAX concurrently with SGI-110",
+                                    "Cohort 2: CY/GVAX after SGI-110",
+                                    "Cohort 3: CY/GVAX"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Cyclophosphamide, Cytoxan"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "GVAX",
+                            "InterventionDescription": "GVAX is administered intradermally at 5E8 colon cancer cells + 5E7 GM-CSF secreting cells",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort 1:CY/GVAX concurrently with SGI-110",
+                                    "Cohort 2: CY/GVAX after SGI-110",
+                                    "Cohort 3: CY/GVAX"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Colon cancer tumor vaccine"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "SGI-110",
+                            "InterventionDescription": "SGI-110 is administered subcutaneously at 60 mg/m2",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort 1:CY/GVAX concurrently with SGI-110",
+                                    "Cohort 2: CY/GVAX after SGI-110",
+                                    "Cohort 4: SGI-110"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Difference in CD45RO+ tumor infiltrating lymphocytes (TILs) measured by immunohistochemistry in pre and post-treatment tumor biopsies from patients with metastatic colorectal cancer",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Number of Participants with Adverse Events as a Measure of Safety and Tolerability",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival (OS)",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time To Progression (TTP)",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression Free Survival (PFS)",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDocumented cancer of the colon or rectum who have received and are stable on first or second-line therapy regimens for metastatic colorectal cancer\nEastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1\nAdequate organ function as defined by study-specified laboratory tests\nMust use acceptable form of birth control through the study and for 28 days after final dose of study drug\nSigned informed consent form\nWilling and able to comply with study procedures\n\nExclusion Criteria:\n\nCurrently have or have history of certain study-specified heart, liver, kidney, lung, neurological, immune or other medical conditions\nSystemically active steroid use\nAnother investigational product within 28 days prior to receiving study drug\nMajor surgery or significant traumatic injury (or unhealed surgical wounds) occurring within 28 days prior to receiving study drug\nChemotherapy, radiation, hormonal, or biological cancer therapy within 28 days prior to receiving study drug\nPregnant or lactating\nUnwilling or unable to comply with study procedures",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nilofer Azad, MD",
+                            "OverallOfficialAffiliation": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21231",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "33531075",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Bever KM, Thomas DL 2nd, Zhang J, Diaz Rivera EA, Rosner GL, Zhu Q, Nauroth JM, Christmas B, Thompson ED, Anders RA, Judkins C, Liu M, Jaffee EM, Ahuja N, Zheng L, Azad NS. A feasibility study of combined epigenetic and vaccine therapy in advanced colorectal cancer with pharmacodynamic endpoint. Clin Epigenetics. 2021 Feb 2;13(1):25. doi: 10.1186/s13148-021-01014-8."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000003520",
+                            "InterventionMeshTerm": "Cyclophosphamide"
+                        },
+                        {
+                            "InterventionMeshId": "C000580831",
+                            "InterventionMeshTerm": "Guadecitabine"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007166",
+                            "InterventionAncestorTerm": "Immunosuppressive Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018501",
+                            "InterventionAncestorTerm": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018906",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000477",
+                            "InterventionAncestorTerm": "Alkylating Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000019653",
+                            "InterventionAncestorTerm": "Myeloablative Agonists"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6417",
+                            "InterventionBrowseLeafName": "Cyclophosphamide",
+                            "InterventionBrowseLeafAsFound": "Time",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M257602",
+                            "InterventionBrowseLeafName": "Molgramostim",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M219154",
+                            "InterventionBrowseLeafName": "Sargramostim",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M117289",
+                            "InterventionBrowseLeafName": "Guadecitabine",
+                            "InterventionBrowseLeafAsFound": "Massive",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9902",
+                            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20294",
+                            "InterventionBrowseLeafName": "Antirheumatic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20632",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3510",
+                            "InterventionBrowseLeafName": "Alkylating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ARhu",
+                            "InterventionBrowseBranchName": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

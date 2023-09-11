@@ -1,0 +1,378 @@
+{
+    "Rank": 223,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05313074",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "013_2021RC_IN695"
+                },
+                "Organization": {
+                    "OrgFullName": "National Cancer Institute, Thailand",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "SARS-CoV-2 Specific Immune Response After COVID-19 Vaccination in Cancer Patients",
+                "OfficialTitle": "SARS-CoV-2 Specific Immune Response After COVID-19 Vaccination in Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 23, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 25, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 25, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "April 4, 2022",
+                "StudyFirstSubmitQCDate": "April 4, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 6, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 9, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 15, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Thanarath Imsuwansri, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Head of Research Division",
+                    "ResponsiblePartyInvestigatorAffiliation": "National Cancer Institute, Thailand"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "National Cancer Institute, Thailand",
+                    "LeadSponsorClass": "OTHER_GOV"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Mahidol University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Our study highlights a low degree of neutralization-afforded protection mounted by CoronaVac in cancer patients when compared with healthy volunteers, especially patients who received chemotherapy. Further booster doses, beyond the conventional two-dose regimen might be needed for recipients of CoronaVac to maintain a long-term anamnestic response.",
+                "DetailedDescription": "A total of 311 participants, including 107 patients with solid tumor and 204 healthy volunteers who received 2 doses of CoronaVac were recruited from National Cancer Institute of Thailand between 2020-2021. Blood samples were collected after second dose of CoronaVac for 15 days and the neutralizing antibody (NAb) titers were detected using live-virus neutralization.SARS-CoV-2 antibody positivity was detected in 77 (72%) patients and 199 (97.5%) healthy volunteers. Antibody positivity rate was lowest (67.2%) in patients who received chemotherapy, followed by patients with post-treatment (74.2%) and patients who planned to start treatment (91.7%). Our study highlights a low degree of neutralization-afforded protection mounted by CoronaVac in cancer patients when compared with healthy volunteers, especially patients who received chemotherapy. Further booster doses, heterologous or otherwise, beyond the conventional two-dose regimen might be needed for recipients of CoronaVac to maintain a long-term anamnestic response."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "COVID-19",
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "COVID-19",
+                        "Cancer",
+                        "Immune response"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignInterventionModelDescription": "Cancer patients and healthy volunteers will be compared for effectiveness of CoronaVac vaccine in parallel after 2 doses of vaccination for 15 days by neutralizing antibody test",
+                    "DesignPrimaryPurpose": "Prevention",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)",
+                        "DesignMaskingDescription": "All participants, including patients with solid tumor and healthy volunteers will be received 2 doses of CoronaVac at National Cancer Institute of Thailand between 2020-2021. Blood samples will be collected after second dose of Sinovac for 15 days and the neutralizing antibody (NAb) titers will be detected using live-virus neutralization"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "311",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Healthy volunteers",
+                            "ArmGroupType": "Placebo Comparator",
+                            "ArmGroupDescription": "Healthcare workers at National Cancer Institute",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: CoronaVac vaccine"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Cancer patients",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Cancer patients were divided into 3 groups based on treatment status including\n\nactive cancer on treatment\nPlanned to start treatment\nPost-treatment (<6 months)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: CoronaVac vaccine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "CoronaVac vaccine",
+                            "InterventionDescription": "An inactivated virus COVID-19 vaccine developed by the Chinese company Sinovac Biotech.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer patients",
+                                    "Healthy volunteers"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Sinovac"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Immune response of Coronavac vaccine in Thai cancer patients",
+                            "PrimaryOutcomeDescription": "Immune response of of the inactivated COVID-19 vaccine (Coronavac) in Thai cancer patients",
+                            "PrimaryOutcomeTimeFrame": "15 days after 2 doses of vaccination"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or Female age at least 18 years\nPatients with a diagnosis of solid tumors\nAbility to understand the patient information and study consent. Signed and dated written informed consent must be available before performing any study-related procedure\nWilling and able to comply with the study procedures.\nWilling to receive a Coronavac vaccine (Sinovac).\n\nExclusion Criteria:\n\nPatients who cannot provide consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Thanarath Imsuwansri, MD",
+                            "OverallOfficialAffiliation": "National Cancer Institute of Thailand",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "National Cancer Institute",
+                            "LocationCity": "Ratchathewi",
+                            "LocationState": "Bangkok",
+                            "LocationZip": "10400",
+                            "LocationCountry": "Thailand"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000086382",
+                            "ConditionMeshTerm": "COVID-19"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000011024",
+                            "ConditionAncestorTerm": "Pneumonia, Viral"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011014",
+                            "ConditionAncestorTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018352",
+                            "ConditionAncestorTerm": "Coronavirus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003333",
+                            "ConditionAncestorTerm": "Coronaviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030341",
+                            "ConditionAncestorTerm": "Nidovirales Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012327",
+                            "ConditionAncestorTerm": "RNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M2562",
+                            "ConditionBrowseLeafName": "COVID-19",
+                            "ConditionBrowseLeafAsFound": "COVID-19",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13604",
+                            "ConditionBrowseLeafName": "Pneumonia, Viral",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20180",
+                            "ConditionBrowseLeafName": "Coronavirus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6245",
+                            "ConditionBrowseLeafName": "Coronaviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23375",
+                            "ConditionBrowseLeafName": "Nidovirales Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14839",
+                            "ConditionBrowseLeafName": "RNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

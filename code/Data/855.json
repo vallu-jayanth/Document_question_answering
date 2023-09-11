@@ -1,0 +1,482 @@
+{
+    "Rank": 855,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04489238",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "20-315"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Collection of Information to Better Understand Young Onset Colorectal Cancer",
+                "OfficialTitle": "Young Onset Gastrointestinal Cancer Prospective Registry"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 22, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 22, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 22, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 23, 2020",
+                "StudyFirstSubmitQCDate": "July 23, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 28, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 5, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 6, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this registry study is to create a database-a collection of information-for better understanding young onset colorectal cancer. Colorectal cancer patients are considered to have young onset colorectal cancer if they are diagnosed with their cancer before the age of 50. Researchers will use the information from this database to learn more about how young onset colorectal cancer may be similar to or different from colorectal cancer that is diagnosed later in life. Researchers will also use information from the database for current and future research on young onset colorectal cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Colorectal Carcinoma"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "young onset colorectal cancer",
+                        "colorectal registry",
+                        "20-315",
+                        "Memorial Sloan Kettering Cancer Center"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "1 Year",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "666",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Young onset Colorectal Cancer Participants",
+                            "ArmGroupDescription": "(Stool collection on newly diagnosed patients in this cohort) Participants will include patients under the age of 50 who are diagnosed with colorectal adenocarcinoma.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Risk Factor Questionnaire"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Average onset Colorectal Cancer Participants",
+                            "ArmGroupDescription": "(Stool collection cohort only) 166 colorectal cancer patients 50 year-old or older will serve as controls.\n\nStool collection cohort only.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Risk Factor Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Risk Factor Questionnaire",
+                            "InterventionDescription": "Participants, both cases and controls, will complete the CYOC risk factor questionnaire, preferably at the time of first visit",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Average onset Colorectal Cancer Participants",
+                                    "Young onset Colorectal Cancer Participants"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "CYOC Risk Factor Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Establish a prospective database of patients with Young Onset Colorectal Cancer",
+                            "PrimaryOutcomeDescription": "from diagnosis through survivorship",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipant Inclusion Criteria for database and questionnaire (YOGI)\n\nHistological or cytological diagnosis of gastrointestinal cancer\n18 - 49 years old at time of consent\nNo Known hereditary CRC or other cancer predisposition syndrome (stool collection cohort only)\nNo history of inflammatory bowel disease (stool collection cohort only)\nNo prior diagnosis of gastrointestinal cancer (stool collection cohort only)\n\nParticipant Inclusion Criteria for database and questionnaire (Controls)\n\nHistological or cytological diagnosis of colorectal adenocarcinoma\nNo previous treatment for CRC (including surgery, chemotherapy, immunotherapy or radiation)\nAge 50 or older at time of consent\nNo Known hereditary CRC or other cancer predisposition syndrome\nNo history of inflammatory bowel disease\nNo prior diagnosis of CRC",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Potential research subjects will be identified through the Center for Young Onset Gastrointestinal Cancer, a member of the patient's treatment team, the principal investigator, or research team at Memorial Sloan Kettering Cancer Center (MSKCC). All study participants will be recruited from patients under the care of consenting professionals. If the investigator is a member of the treatment team, s/he will screen their patient's medical records for suitable research study participants and discuss the study and their potential for enrolling in the research study. Potential subjects contacted by their treating physician will be referred to the investigator/research staff of the study.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Andrea Cercek, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-4189",
+                            "CentralContactEMail": "cerceka@mskcc.org"
+                        },
+                        {
+                            "CentralContactName": "Rona Yaeger, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-5109",
+                            "CentralContactEMail": "yaegerr@mskcc.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Andrea Cercek, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Basking Ridge (All Protocol Activities)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Basking Ridge",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07920",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Monmouth",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Middletown",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07748",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Bergen",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Montvale",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07645",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center @ Commack",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Commack",
+                            "LocationState": "New York",
+                            "LocationZip": "11725",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Westchester",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Harrison",
+                            "LocationState": "New York",
+                            "LocationZip": "10604",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrew Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "MSK at Ralph Lauren",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10035",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrew Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrew Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Nassau",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rockville Centre",
+                            "LocationState": "New York",
+                            "LocationZip": "11553",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Cercek, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4189"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

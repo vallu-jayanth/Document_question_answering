@@ -1,0 +1,480 @@
+{
+    "Rank": 456,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05306600",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "55457122.3.0000.5330"
+                },
+                "Organization": {
+                    "OrgFullName": "Hospital Moinhos de Vento",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Onco-Genomas Brasil: Mapping Breast and Prostate Cancer in the Brazilian Public Health System",
+                "OfficialTitle": "Onco-Genomas Brasil: Mapping Breast and Prostate Cancer in the Brazilian Public Health System"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 9, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 9, 2022",
+                "StudyFirstSubmitQCDate": "March 22, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 1, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 19, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hospital Moinhos de Vento",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Ministry of Health, Brazil",
+                            "CollaboratorClass": "OTHER_GOV"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This project aims to perform complete sequencing of the somatic (tumor) and germline exomes during clinical investigation of cancer patients treated through the Brazilian Unified Health System to generate genomic and phenotypic data for the Brazilian Ministry of Health's National Precision Genomics and Health Program, called Genomas Brasil, as well as to collect data on the population's ancestry.",
+                "DetailedDescription": "In Brazil, the most frequent types of neoplasm are prostate cancer in men and breast cancer in women. Understanding the molecular variants in tumors, which result from mutations and variants that occur during carcinogenesis, can affect treatment response and disease prognosis and is an important target of oncology research. Detecting hereditary genetic syndromes also helps in oncological follow-up, allowing prediction of the risk of new neoplasms. This project aims to perform complete sequencing of the somatic (tumor) and germline exomes during clinical investigation of cancer patients treated through the Brazilian Unified Health System to generate genomic and phenotypic data for the Brazilian Ministry of Health's National Precision Genomics and Health Program, called Genomas Brasil, as well as to collect data on the population's ancestry."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer",
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "prostate cancer",
+                        "exome"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Whole blood and formalin-fixed paraffin-embedded (FFPE) tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "550",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast cancer",
+                            "ArmGroupDescription": "300 patients with locally advanced HER2-positive breast cancer who underwent neoadjuvant therapy followed by breast surgery.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: whole exome sequencing analysis"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Prostate cancer",
+                            "ArmGroupDescription": "250 patients with metastatic prostate cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: whole exome sequencing analysis"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "whole exome sequencing analysis",
+                            "InterventionDescription": "Somatic and germline whole exome sequencing will be analyzed",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast cancer",
+                                    "Prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To characterize complete somatic and germline exomes in a Brazilian population",
+                            "PrimaryOutcomeDescription": "Mutations in the somatic and germline exomes of women with locally advanced HER2-positive breast cancer and of men with metastatic prostate cancer will be described",
+                            "PrimaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To identify genetic variants related to tumor prognosis",
+                            "SecondaryOutcomeDescription": "Mutations in the somatic and germline exomes will be correlated to clinical outcomes",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To identify genetic variants predictive of response to treatments",
+                            "SecondaryOutcomeDescription": "Mutations in the somatic and germline exomes will be correlated to response to treatments",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients with mutations in cancer-predisposing genes",
+                            "SecondaryOutcomeDescription": "Identify mutations in germline exomes related to hereditary cancer syndromes",
+                            "SecondaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "To identify the ancestry of patients with breast and prostate cancer",
+                            "OtherOutcomeDescription": "Characterize the genomic ancestry of Brazilian patients with breast and prostate cancer",
+                            "OtherOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion criteria for breast cancer patients (Arm 1):\n\nWomen aged \u2265 18 years;\nAfter review at the Hospital Moinhos de Vento, confirmed histological diagnosis of breast carcinoma with overexpression of HER-2 (classified by immunohistochemistry as 3+ or 2+ with positive in-situ hybridization);\nClinical stage II or III - American Joint Committee on Cancer (AJCC) 8th edition;\nPatients must undergo neoadjuvant chemotherapy plus trastuzumab in the following regimens: anthracycline (doxorubicin or epirubicin) followed by taxane (docetaxel or paclitaxel), combined with trastuzumab, or a non-anthracycline option consisting of taxane (docetaxel or paclitaxel) combined with carboplatin and trastuzumab;\nPatients must provide written informed consent prior to inclusion\n\nInclusion criteria for patients with prostate cancer (Arm 2):\n\nMen aged \u2265 18 years;\nConfirmed histological diagnosis of prostate adenocarcinoma;\nAJCC 8th edition clinical stage IV;\nPatients must provide written informed consent.\n\nExclusion criteria for Arms 1 and 2:\n\nNo available paraffin-embedded tumor tissue for genomic analysis;\nInability to collect blood for genomic evaluation.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Institutions from each region that serve Public Health System patients and have high complexity oncology care centers will be included in both Arms to provide a sample that represents the heterogeneity of the Brazilian population. Institutions previously evaluated and validated by the Brazilian Ministry of Health will be selected after completing a feasibility questionnaire. It is estimated that 25 to 30 institutions will be included (at least one from each region) in Arm 1. For Arm 2, 10 centers will be selected from among previously approved institutions.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Marina Bessel",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+555135378345",
+                            "CentralContactEMail": "marina.bessel@hmv.org.br"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Daniela D Rosa, PhD",
+                            "OverallOfficialAffiliation": "Hospital Moinhos de Vento",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hospital do C\u00e2ncer/Uni\u00e3o Oeste Paranaense de Estudo e Combate ao C\u00e2ncer",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cascavel",
+                            "LocationState": "Paran\u00e1",
+                            "LocationZip": "85.806-300",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Aline BL Gongora",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital Universit\u00e1rio Maria Aparecida Pedrossian",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Campo Grande",
+                            "LocationZip": "79080-190",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Henrique G Ascen\u00e7o",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital Ara\u00fajo Jorge",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Goi\u00e2nia",
+                            "LocationZip": "74605-070",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ruffo Freitas Jr.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital de Cl\u00ednicas de Porto Alegre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Porto Alegre",
+                            "LocationZip": "90035-903",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pedro ER Liedke",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital S\u00e3o Lucas da PUCRS",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Porto Alegre",
+                            "LocationZip": "90610-001",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gustavo Werutsky",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Grupo Hospitalar Concei\u00e7\u00e3o",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Porto Alegre",
+                            "LocationZip": "91350-200",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Juliana J Menezes",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital S\u00e3o Camilo",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "S\u00e3o Paulo",
+                            "LocationZip": "04015-070",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Lilian AR Barros",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hospital Universit\u00e1rio Cassiano Ant\u00f4nio de Moraes",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Vit\u00f3ria",
+                            "LocationZip": "29043-260",
+                            "LocationCountry": "Brazil",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Vitor F Vasconcellos",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

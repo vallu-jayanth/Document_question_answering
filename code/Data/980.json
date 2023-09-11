@@ -1,0 +1,285 @@
+{
+    "Rank": 980,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03096093",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "ACIT-1-1001"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "2012-005426-30",
+                            "SecondaryIdType": "EudraCT Number"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Cancer Vaccines Limited",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Investigation of a Therapeutic Vaccine (ACIT-1) in Cancer",
+                "OfficialTitle": "A Phase I Clinical Study to Determine the Optimal Dose for the Safe Immune Restoration and Immune Response of Allogeneic Cell Immunotherapy (ACIT-1) in Adult Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 25, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 17, 2017",
+                "StudyFirstSubmitQCDate": "March 24, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 30, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 24, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 27, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cancer Vaccines Limited",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Liverpool University Hospitals NHS Foundation Trust",
+                            "CollaboratorClass": "OTHER_GOV"
+                        },
+                        {
+                            "CollaboratorName": "The Clatterbridge Cancer Centre NHS Foundation Trust",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "University of Liverpool",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Cancer Research UK",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "National Institute for Health Research, United Kingdom",
+                            "CollaboratorClass": "OTHER_GOV"
+                        },
+                        {
+                            "CollaboratorName": "Cancer Vaccines Charitable Trust",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study evaluates four different doses of ACIT-1 for safety and for the ability to raise effective anti-cancer immune responses in patients with pancreatic and other cancers. Approximately half of the patients will have pancreatic cancer and the other half will have other cancers.",
+                "DetailedDescription": "The immune system has an important role in helping prevent cancer by destroying early cancer cells. When cancer does develop antigen-specific immune (T) cells are still present in the blood but are either not responding or are not effective. Vaccines stimulate these T cells to respond and kill cancer cells.\n\nACIT-1 is designed to stimulate tumour antigen-specific T cells to respond and kill cancer cells."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer",
+                        "Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Pancreatic",
+                        "Late stage cancer",
+                        "Immunotherapy",
+                        "Phase I",
+                        "Vaccination"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "34",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Immunotherapy - pancreatic cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Intradermal injection of ACIT-1 cellular immunotherapy, a total of 2 doses, 4 weeks apart of either 10e5, 10e6, 10e7 or 3x10e7 cells. For patients with pancreatic or haematological cancer. Treatment will run concurrently with standard chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: ACIT-1"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Immunotherapy - other late stage cancers",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Intradermal injection of ACIT-1 cellular immunotherapy, a total of 2 doses, 4 weeks apart of either 10e5, 10e6, 10e7 or 3x10e7 cells. For patients with other late stage cancers, not receiving any other standard treatment.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: ACIT-1"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "ACIT-1",
+                            "InterventionDescription": "Cell suspension",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Immunotherapy - other late stage cancers",
+                                    "Immunotherapy - pancreatic cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Toxicity",
+                            "PrimaryOutcomeDescription": "Toxicity based on the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.03.",
+                            "PrimaryOutcomeTimeFrame": "From start of treatment to 20 weeks."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Clinical benefit",
+                            "SecondaryOutcomeDescription": "Survival time",
+                            "SecondaryOutcomeTimeFrame": "From start of treatment up to 14 months."
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Immune responses",
+                            "OtherOutcomeDescription": "Changes in tumour antigen specific immune responses in the blood compared to baseline",
+                            "OtherOutcomeTimeFrame": "Baseline, weeks 4, 8 and 20"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically confirmed malignancy\nLife-expectancy of 3 months or greater\nAged 18 years or above\nWilling and able to give written informed consent for participation in the study\nEastern Cooperative Oncology Group performance status of 0,1,2.\nAbsolute neutrophil count of \u2265 1 x 10e12/m3\nPlatelet count of at least 70 x 10e12/m3\nTotal bilirubin < 1.5x upper limit of normal; and aspartate transaminase/alanine transaminase (AST/ALT) < 5x upper limit of normal\nCreatinine < 1.5x upper limit of normal and/or glomerular filtration rate (GFR) > 40ml/min\nFemale patients of child bearing potential and male patients whose partner is of child bearing potential must be willing to ensure that they or their partner use effective contraception during the study and for 3 months thereafter\nNormal ECG measurements\nAble (in the Investigators opinion) and willing to comply with all study requirements\nWilling to allow his or her General Practitioner (GP) and consultant, if appropriate, to be notified of participation in the study, and for the GP and/or the National Cancer Registry to be contacted during follow up after the end of treatment.\n\nExclusion Criteria:\n\nConcurrent use of immunosuppressive drugs, in particular systemic steroid therapy, above a threshold of 10mg per day prednisolone equivalent\nEvidence of active infection e.g. Hepatitis B, Hepatitis C, HIV or syphilis\nChemotherapy, radiotherapy or biological therapy within 28 days of treatment with the exception of standard of care chemotherapy for pancreatic and haematological cancer patients\nParticipation in another investigational medicinal product trial within 28 days of treatment\nOther vaccination within previous 4 weeks\nAntibody treatment within previous 3 months\nMajor surgery within the 14 days preceding the screening visit\nScheduled elective surgery or other procedures requiring general anaesthesia during the study\nAllogeneic graft transplantation recipient\nActive systemic autoimmune and allergic disease\nPregnant or lactating females\nSignificant renal or hepatic impairment as defined by the following: Serum creatinine \u2265 1.5 x upper limit of normal and/or GFR \u2264 40 ml/min. Total bilirubin \u2265 1.5 x upper limit of normal; and AST/ALT \u2265 5 x upper limit of normal\nLife threatening illness unrelated to the patient's cancer\nPrevious history of serious adverse allergic reaction to any medication\nUncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the participant at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Daniel H Palmer, MBChB PhD",
+                            "OverallOfficialAffiliation": "Clatterbridge Cancer Centre",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Royal Liverpool University Hospital",
+                            "LocationCity": "Liverpool",
+                            "LocationState": "Merseyside",
+                            "LocationZip": "L7 8XP",
+                            "LocationCountry": "United Kingdom"
+                        },
+                        {
+                            "LocationFacility": "The Clatterbridge Cancer Centre NHS Foundation Trust",
+                            "LocationCity": "Bebington",
+                            "LocationState": "Wirral",
+                            "LocationZip": "CH63 4JY",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

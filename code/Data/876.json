@@ -1,0 +1,404 @@
+{
+    "Rank": 876,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04711473",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "UPCC 13220"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "843772",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "University of Pennsylvania IRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Abramson Cancer Center at Penn Medicine",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Choice Architecture and Mailed Colorectal Cancer Screening Outreach in a Community Health Setting",
+                "OfficialTitle": "Choice Architecture and Mailed Colorectal Cancer Screening Outreach in a Community Health Setting"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 27, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 11, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 11, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 12, 2021",
+                "StudyFirstSubmitQCDate": "January 12, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 15, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 12, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 13, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Shivan Mehta",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Abramson Cancer Center at Penn Medicine"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Abramson Cancer Center at Penn Medicine",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Comprehensive Cancer Network",
+                            "CollaboratorClass": "NETWORK"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a 3-arm randomized trial aimed at increasing rates of participation in colorectal cancer (CRC) screening by outreach to patients' homes using choice architecture informed by behavioral science principles.",
+                "DetailedDescription": "The investigators will evaluate the effectiveness of mailed outreach with choice between colonoscopy and FIT, and FIT alone, as compared to colonoscopy alone in increasing CRC screening rates."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "screening",
+                        "prevention",
+                        "colonoscopy",
+                        "stool testing"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Prevention",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Double",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Investigator"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "800",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colonoscopy Only",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants in this arm will receive a letter from their provider informing them they are overdue for colon cancer screening and requesting their participation in colonoscopy, and including a referral for the procedure at a local endoscopy center. Participants will be provided a phone number if interested in navigated colonoscopy scheduling.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Colonoscopy Only"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Choice",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants in this arm will receive a letter from their provider informing them they are overdue for colon cancer screening and requesting their participation in their choice of either colonoscopy or mailed fecal immunochemical testing (FIT). The letter will include both a referral for the colonoscopy at a local endoscopy enter and a FIT kit with a lab requisition and instructions for completion.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Choice"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "FIT Only",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants in this arm will receive a letter from their provider informing them they are overdue for colon cancer screening and requesting their participation in FIT testing. The letter will include a FIT kit with lab requisition and instructions for completion.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: FIT Only"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Colonoscopy Only",
+                            "InterventionDescription": "Mailed letter asking participants to complete CRC screening by colonoscopy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colonoscopy Only"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Choice",
+                            "InterventionDescription": "Mailed letter and FIT test asking participants to complete CRC screening by their choice of either colonoscopy or mailed FIT",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Choice"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "FIT Only",
+                            "InterventionDescription": "Mailed letter and FIT test asking participants to complete CRC screening by mailed FIT",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "FIT Only"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Colorectal Cancer Screening Completion",
+                            "PrimaryOutcomeDescription": "Screening completion rate in arm 2 (Choice) to arm 1 (Colonoscopy only) and arm 3 (FIT only) separately.",
+                            "PrimaryOutcomeTimeFrame": "6 months from initial outreach"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Choice of Colorectal Cancer Screening Test",
+                            "SecondaryOutcomeDescription": "The proportion of patients choosing either FIT or Colonoscopy in study arm 2 (Choice)",
+                            "SecondaryOutcomeTimeFrame": "6 months from initial outreach"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAt least 1 visit with CHDC in the past 2 years\nNot up to date on CRC screening (no evidence of colonoscopy in the last 10 years, sigmoidoscopy in the last 5 years, or stool testing in the past 12 months)\n\nExclusion Criteria:\n\nHistory of CRC or polyps\nSignificant family history of CRC\nHistory of Inflammatory Bowel Disease or Ulcerative Colitis\nHistory of colectomy\nHistory of metastatic cancer\nCurrent use of Medication Assisted Therapy (MAT)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "74 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Shivan Mehta, MD",
+                            "OverallOfficialAffiliation": "University of Pennsylvania",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Community Health and Dental Care",
+                            "LocationCity": "Pottstown",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19465",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

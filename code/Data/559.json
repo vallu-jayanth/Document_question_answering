@@ -1,0 +1,477 @@
+{
+    "Rank": 559,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01671891",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "SCRC-NM-1001"
+                },
+                "Organization": {
+                    "OrgFullName": "Fudan University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Detection and Enumeration of Circulating Tumor Cells in Rectal Cancer",
+                "OfficialTitle": "Detection and Enumeration of Circulating Tumor Cells in Rectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2012",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 2012"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2013",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 19, 2012",
+                "StudyFirstSubmitQCDate": "August 21, 2012",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 24, 2012",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 21, 2012",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 24, 2012",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Zhen Zhang",
+                    "ResponsiblePartyInvestigatorTitle": "director of radiotherapy department in Fudan university shanghai cancer center",
+                    "ResponsiblePartyInvestigatorAffiliation": "Fudan University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fudan University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Rectal cancer is one of the most common malignant tumors in the world. However, there's also no reliable and sensitive method to monitor diseases and evaluate therapy responses till now. Circulating tumor cells, which could reflect tumor's status correctly and reliably, may be a promising method in this field. This study is to investigate the role of circulating tumor cells in evaluating and predicting the responses of chemoradiotherapy in rectal cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "rectal cancer",
+                        "circulating tumor cells",
+                        "predict responses"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "whole blood"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "rectal cancer with stage II-IV",
+                            "ArmGroupDescription": "rectal cancer with stage II-IV intervention: pelvic radiotherapy (45-55Gy) concurrent chemotherapy using capecitabine and oxaliplatin",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: radiation therapy",
+                                    "Drug: capecitabine (625mg/m2,bid,d1-5 qw)and oxaliplatin (85mg/m2 d1 qw)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "radiation therapy",
+                            "InterventionDescription": "45-55Gy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "rectal cancer with stage II-IV"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "capecitabine (625mg/m2,bid,d1-5 qw)and oxaliplatin (85mg/m2 d1 qw)",
+                            "InterventionDescription": "radiotherapy concurrent chemotherapy(capecitabine+oxaliplatin)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "rectal cancer with stage II-IV"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Xeloda"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "circulating tumor cells level changes after radiotherapy",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "overall survival",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "disease-free survival",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "serum carcinoembryonic antigen (CEA) level",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "pathological response (tumor regression grade)if surgery",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "RECIST-based tumor response at 10 week after radiotherapy",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically verified rectal carcinoma\nLocally advanced tumor (cT3-4 and/or N+ by transrectal ultrasound and/or pelvic magnetic resonance imaging)\nthe distance from anal verge <= 12cm\nwith or without metastasis\nAge 18-75 years old\nECOG PS 0-2\nNo previous chemotherapy or radiotherapy for rectal carcinoma\nWritten informed consent\n\nExclusion Criteria:\n\nno histologically verified rectal carcinoma\nrectal cancer with stage I\ndistance from verge >12cm\nage <=18 or >=75 years old\nperformed previously chemotherapy or radiotherapy\ninfection diseases within three months\nserious other diseases\nno written informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "rectal cancer diagnosed with stage II-IV",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Wenjie Sun, Master",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-21-64175590-1600",
+                            "CentralContactEMail": "ganjumedecin@hotmail.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Fudan University Shanghai Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shanghai",
+                            "LocationZip": "200032",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Wenjie Sun, Master",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-21-64175590",
+                                        "LocationContactEMail": "ganjumedecin@hotmail.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Zhen Zhang, PhD,MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Wenjie Sun, Master,MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "circulating tumor cells in colorectal cancer",
+                            "SeeAlsoLinkURL": "http://www.ncbi.nlm.nih.gov/pubmed/22230943"
+                        },
+                        {
+                            "SeeAlsoLinkLabel": "Circulating tumors cells as biomarkers: progress toward biomarker qualification",
+                            "SeeAlsoLinkURL": "http://www.ncbi.nlm.nih.gov/pubmed/22157288"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009360",
+                            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000069287",
+                            "InterventionMeshTerm": "Capecitabine"
+                        },
+                        {
+                            "InterventionMeshId": "D000077150",
+                            "InterventionMeshTerm": "Oxaliplatin"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000964",
+                            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000963",
+                            "InterventionAncestorTerm": "Antimetabolites"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M1674",
+                            "InterventionBrowseLeafName": "Oxaliplatin",
+                            "InterventionBrowseLeafAsFound": "Function",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M377",
+                            "InterventionBrowseLeafName": "Capecitabine",
+                            "InterventionBrowseLeafAsFound": "Ultrasound",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3971",
+                            "InterventionBrowseLeafName": "Antimetabolites",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

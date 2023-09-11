@@ -1,0 +1,311 @@
+{
+    "Rank": 379,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05404087",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NL75855.091.21"
+                },
+                "Organization": {
+                    "OrgFullName": "Radboud University Medical Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of Contrast Enhanced Breast CT for Diagnosis and Staging of Breast Cancer",
+                "OfficialTitle": "Clinical Evaluation of Contrast Enhanced Breast CT to Improve Staging and Treatment Follow up in Women With Breast Cancer",
+                "Acronym": "CEBCTvsMRI"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2022",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1, 2022",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 1, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 24, 2022",
+                "StudyFirstSubmitQCDate": "May 30, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 3, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 30, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 3, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Radboud University Medical Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "The Netherlands Cancer Institute",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUSExport": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Contrast-enhanced breast CT is a novel high resolution and fully 3D imaging method to document abnormalities within the breast. I will establish its value for breast cancer staging and in monitoring therapy response.",
+                "DetailedDescription": "Breast CT is a novel modality that has not been largely evaluated in a clinical setting. Only recently FDA and CE marked BCT machines have been released, and the number of installed bases internationally is below 10 (although rapidly rising).\n\nInternationally only a few studies on contrast enhanced breast CT have been performed in small numbers of patients, albeit with excellent results. Nevertheless, substantial evidence for this novel modality is still absent. In particular, the correlation of enhancement and histological grade of DCIS, correlation of CEBCT findings with histopathology, and prediction and assessment of primary systemic treatment are open fields for which more substantial evaluation is clearly needed. In this study we want to establish the value of CEBCT in staging of women with breast cancer, particularly those with extensive carcinoma in situ (DCIS), and in the evaluation of women treated with primary systemic therapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "413",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pre-operative staging of breast cancer with CEBCT",
+                            "ArmGroupDescription": "Women who have been diagnosed with breast cancer and need to have a pre-operative staging and this will be done with contrast-enhanced breast CT.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Dedicated breast CT"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Follow-up of women with breast cancer treated with neo-adjuvant chemotherapy",
+                            "ArmGroupDescription": "Women who are selected for neo-adjuvant chemotherapy to reduce the size of the tumor need to be followed-up in order to evaluate the treatment response.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Dedicated breast CT"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Dedicated breast CT",
+                            "InterventionDescription": "Administration of contrast agent and scanning of the breast in order to evaluate the enhancement of the tumor",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Follow-up of women with breast cancer treated with neo-adjuvant chemotherapy",
+                                    "Pre-operative staging of breast cancer with CEBCT"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Non-inferiority of CEBCT error rate vs DCE MRI error rate, both as compared to the golden standard for tumor staging.",
+                            "PrimaryOutcomeDescription": "Non-inferiority of CEBCT error rate against the golden standard, i.e. histopathology, to DCE MRI error rate against the golden standard for tumor staging.\n\ni.e. histopathology, to DCE MRI error rate against the golden standard for tumor staging.",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Non-inferiority of CEBCT to predict pCR after primary systemic therapy as compared to DCE MRI.",
+                            "PrimaryOutcomeDescription": "Non-inferiority of CEBCT to predict pCR after primary systemic therapy as compared to DCE MRI computed from the area under the receiver operating characteristic (ROC) curve (AUC) (or AUROC).",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Concordance of tumor extent between CEBCT and large section histopathology",
+                            "SecondaryOutcomeDescription": "We will evaluate the rate of concordance between the size of the tumour determined at CEBCT images and those at final histopathology sections",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Frequency of detection of contralateral cancers with CEBCT",
+                            "SecondaryOutcomeDescription": "We will record how many times we will find a contralateral incidental breast cancer, not previously reported, after performing CEBCT",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Concordance between morphological and enhancement characteristics of cancers on CEBCT to their expected response to primary systemic therapy.",
+                            "SecondaryOutcomeDescription": "We will evaluate the rate of concordance of breast cancer response to primary systemic therapy compared to the expected response based on literature by evaluating their morphological and enhancement characteristics at CEBCT examinations",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Potential of CEBCT predicting the response to primary systemic therapy early in treatment",
+                            "SecondaryOutcomeDescription": "We will assess the potential of CEBCT in predicting the response of breast cancer to primary systemic therapy as compared to the assessment made at final histopathology section",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnoses of breast cancer\nScheduled for a pre-surgery staging contrast enhanced breast MRI\nEligible for primary systemic therapy\n\nExclusion Criteria:\n\nWomen with suspected or confirmed pregnancy\nWomen with prior history of breast cancer\nWomen who are breastfeeding\nWomen who are very frail and unable to cooperate\nWomen who cannot give informed consent\nContra indication of iodine contrast (i.e. untreatable contrast allergy, renal function impairment (GFR <60 ml/min/1.73m2))\nContra indication for irradiation (i.e. genetic mutation that predispose to breast cancer)\nMale subjects",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Women with breast cancer",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Alma Hoxhaj, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+31 24 361 45 45",
+                            "CentralContactEMail": "alma.hoxhaj@radboudumc.nl"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ritse Mann, MD-PhD",
+                            "OverallOfficialAffiliation": "Radboudumc/The Netherlands Cancer Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided",
+                "IPDSharingDescription": "We will evaluate the possibility to share anonimised data for future research"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol",
+                            "LargeDocDate": "March 14, 2022",
+                            "LargeDocUploadDate": "05/20/2022 08:22",
+                            "LargeDocFilename": "Prot_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

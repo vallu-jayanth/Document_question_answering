@@ -1,0 +1,308 @@
+{
+    "Rank": 652,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01879189",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "81670"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Pennsylvania",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PROSPR/PCIPS Project 3: Communication of Personalized Breast Cancer Risk",
+                "OfficialTitle": "PROSPR/PCIPS Project 3: Communication of Personalized Breast Cancer Risk Using a Web-based Breast Cancer Screening Decision Aid Tool"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2013",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "June 12, 2013",
+                "StudyFirstSubmitQCDate": "June 12, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 17, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 28, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 29, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Pennsylvania",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In order to better communicate personal risk of breast cancer to women who have not yet initiated breast cancer screening (mammography), The Annenberg School of Communication at the University of Pennsylvania has created a personal breast cancer screening decision aid tool. This tool will be pilot tested, and then implemented and tested in nine primary care and OB/GYN practices within the University of Pennsylvania Health System.",
+                "DetailedDescription": "In order to better communicate personal risk of breast cancer to women who have not yet initiated breast cancer screening (mammography), The Annenberg School of Communication at the University of Pennsylvania has created a personal breast cancer screening decision aid tool. This tool incorporates questions about a women's personal history of breast cancer and compares her to the average women her age in terms of breast cancer risk. The tool helps the women to understand the benefits and risks of breast cancer screening. This tool will be pilot tested using SSI to help develop the final version of the decision aid tool. The decision aid tool will then be implemented and tested in nine general internal medicine, family medicine, and OB/GYN practices within the University of Pennsylvania Health System."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1302",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Decision Aid",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Those in the decision aid arm of the study will be given access to the breast cancer screening decision aid.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Breast Cancer Screening Decision Aid"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Standard of Care",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Those in the standard of care arm will not be given access to the decision aid."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Breast Cancer Screening Decision Aid",
+                            "InterventionDescription": "The intervention will include access to the personal decision aid tool for patients in the intervention arm of the study, determined by the randomized physician schedule and the patient's appointment time.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Decision Aid"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Mammography Use Correlated to Personal Risk of Breast Cancer",
+                            "PrimaryOutcomeDescription": "Medical charts of women in both the intervention and control groups of the study will be analyzed to determine if these women initiated breast cancer screening (mammography) correlated to their personal risk of breast cancer as displayed by the decision aid.",
+                            "PrimaryOutcomeTimeFrame": "One year post-intervention"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Knowledge, Worry, Regret, Decisional Conflict, Accuracy of Risk Perception",
+                            "SecondaryOutcomeDescription": "Six weeks after a women's appointment with their primary care or OB/GYN provider, they will receive a post-intervention survey which will assess knowledge, worry, satisfaction, numeracy, behavior, etc.",
+                            "SecondaryOutcomeTimeFrame": "6 weeks post-intervention"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen ages 39-48\nPatient of one of the nine primary care or OB/GYN practices that are participating in the study\nMust have had an appointment at one of these locations in the past 24 months\nMust have an appointment during the study period\nWoman has not yet initiated breast cancer screening (no prior mammogram)\nNo history of breast cancer\n\nExclusion Criteria:\n\nPrior diagnosis of breast cancer\nMajor comorbidity that substantially affects their 10 year mortality\nNon-English speaker",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "39 Years",
+                "MaximumAge": "48 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Marilyn Schapira, MD",
+                            "OverallOfficialAffiliation": "University of Pennsylvania",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Edward S. Cooper Internal Medicine",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Family Medicine St. Leonard's Court",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Family Medicine",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Helen O. Dickens Center for Women's Health",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Penn Center for Primary Care",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Penn Internal Medicine Associates",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Penn OB/GYN Associates",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Internal Medicine Radnor",
+                            "LocationCity": "Radnor",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19087",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Penn Health for Women",
+                            "LocationCity": "Radnor",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19087",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

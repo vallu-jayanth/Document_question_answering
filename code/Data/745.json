@@ -1,0 +1,447 @@
+{
+    "Rank": 745,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01789983",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "LCCC1226"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "12-1975",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "UNC IRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "UNC Lineberger Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Feasibility of an Evidence-based Walking Program in Cancer Pts 60+ During Chemotherapy",
+                "OfficialTitle": "Feasibility of an Evidence-based Walking Program in a Sample of Cancer Patients >60 Years of Age Undergoing Cytotoxic Chemotherapy",
+                "Acronym": "WWE"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2012"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2014",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 8, 2013",
+                "StudyFirstSubmitQCDate": "February 8, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 12, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 2, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 3, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The study will look at conducting a medium-intense walking program called Walk With Ease with cancer patients age 60 and above who are starting chemotherapy treatment. We will measure how many of these patients complete their participation in this program.",
+                "DetailedDescription": "The primary purpose of this study is to evaluate the feasibility of implementing a moderate-intensity walking program (Walk With Ease/WWE) among cancer patients, age \u226560 years, as they undergo cytotoxic chemotherapy treatment. Feasibility will be determined based on the rate of participation in the WWE program. As secondary objectives, we will also establish the rate of completion of a number of instruments, including a Geriatric Assessment tool, and other instruments that measure self-reported quality of life (e.g., fatigue, depression, and pain), and self-reported physical activity (PA). Data from these instruments, as well as from serial measurements of a biomarker of aging (p16INK4a) will be explored and used to inform future studies designed to evaluate any relationship between these variables and participation in the WWE program.\n\nWe propose a sample (n=30) of cancer patients \u226560 years of age with potentially curable cancer and a diagnosis of Stage I-III breast cancer, Stage I-III lung cancer, or Stage II-III colon cancer, who are about to begin chemotherapy. Participation will be defined as completing the 6-week WWE program. Results from this study will be used in an RO1 application to the National Cancer Institute (NCI) pertaining to PA interventions among cancer patients and the effects of biomarkers on prognosis and survival."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer",
+                        "Colon Cancer",
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Physical Activity",
+                        "Chemotherapy",
+                        "Elderly",
+                        "Geriatric",
+                        "Walking",
+                        "Geriatric Assessment",
+                        "Geriatric Oncology"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Whole Blood Sample"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "29",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast Cancer Patients 60+",
+                            "ArmGroupDescription": "Breast Cancer Patients age 60 and older who have histologically confirmed stage I, II or III disease.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Walk With Ease Program",
+                                    "Other: Collect Blood, GA and Other Survey Tools"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Lung Cancer Patients 60+",
+                            "ArmGroupDescription": "Lung Cancer Patients age 60 and above who have stage I, II or III disease",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Walk With Ease Program",
+                                    "Other: Collect Blood, GA and Other Survey Tools"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Colon Cancer Patients 60+",
+                            "ArmGroupDescription": "Colon cancer patients age 60 and above who have stage II or III disease.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Walk With Ease Program",
+                                    "Other: Collect Blood, GA and Other Survey Tools"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Walk With Ease Program",
+                            "InterventionDescription": "The primary activity required of study subjects is a 6-week self-directed (non-group) WWE walking program that study participants do at a place and time that is convenient for them. To start the intervention/program, we schedule a brief baseline meeting with study participants to discuss the program, provide the WWE workbook, secure printed informed consent, and complete various questionnaires. Study participants are also asked to maintain a daily walking diary that is provided to them.\n\nThe WWE program includes a workbook with strengthening and stretching exercises, basic facts about arthritis and PA, and information on how to individualize the program.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast Cancer Patients 60+",
+                                    "Colon Cancer Patients 60+",
+                                    "Lung Cancer Patients 60+"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "WWE"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Collect Blood, GA and Other Survey Tools",
+                            "InterventionDescription": "Geriatric Assessment (GA) (Version 5)\nFunctional Assessment of Cancer Therapy-General (FACT)\nFunctional Assessment of Chronic Illness Therapy (FACIT)-Fatigue36\nOutcome Expectations for Exercise (OEE) scale29\nSelf-Efficacy to Manage Arthritis or Joint Pain (ASE/Arthritis Self-Efficacy)\nPerceived Self-Efficacy for Fatigue Self-Management (PSEFSM)34,35\nVisual Analog Scales (VAS)\n\nSurveys included in study are listed above. Whole Blood Sample will be collected for p16 analysis.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast Cancer Patients 60+",
+                                    "Colon Cancer Patients 60+",
+                                    "Lung Cancer Patients 60+"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To measure the feasibility of implementing the WWE program among cancer patients, age \u226560, as they undergo cytotoxic chemotherapy treatment.",
+                            "PrimaryOutcomeDescription": "Feasibility will be defined as the proportion of recruited subjects who complete the 6-week WWE program.",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To measure the rate of completion of each of the following questionnaires/assessments at 3 different time points",
+                            "SecondaryOutcomeDescription": "The rate of completion of assessments will be measured at baseline, 6 weeks and end of chemotherapy treatment.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To measure relationships between physical activity levels and p16 levels.",
+                            "SecondaryOutcomeDescription": "To measure the association between number of minutes walked per day and number of times per week with p16 levels.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n\u226560 years of age, male or female\nHistologically confirmed Stage I, II or III breast cancer (if the patient has had more than one breast cancer diagnosis, then the most recent diagnosis); Stage I, II or III lung cancer, or Stage II or III colon cancer\nScheduled to begin a chemotherapy (or concomitant chemoradiotherapy) regimen that will last at least 6 weeks in duration\nEnglish speaking\nIRB approved, signed written informed consent\nApproval from their treating physician to engage in moderate-intensity physical activity\nPatient-assessed ability to walk and engage in moderate physical activity\nWilling and able to meet all study requirements.\n\nExclusion Criteria:\n\nOne or more significant medical conditions that in the physician's judgment preclude participation in the walking intervention\nCancer surgery scheduled within the study period\nUnable to walk or engage in moderate-intensity physical activity",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "60 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Colon, lung and breast cancer patients age 60 and above who are beginning chemotherapy or chemoradiation treatment.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Hyman Muss, MD",
+                            "OverallOfficialAffiliation": "University of North Carolina Lineberger Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Kirsten A Nyrop, PhD",
+                            "OverallOfficialAffiliation": "University of North Carolina Thurston Arthritis Research Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of North Carolina Cancer Hospital",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27514",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "The Geriatric Oncology Research Program at UNC",
+                            "SeeAlsoLinkURL": "https://unclineberger.org/patientcare/programs/geriatric"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000003110",
+                            "ConditionMeshTerm": "Colonic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6028",
+                            "ConditionBrowseLeafName": "Colonic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colon Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M4544",
+                            "InterventionBrowseLeafName": "Benzocaine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T433",
+                            "InterventionBrowseLeafName": "Tannic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "CNSDep",
+                            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Ot",
+                            "InterventionBrowseBranchName": "Other Dietary Supplements"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

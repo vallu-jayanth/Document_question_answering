@@ -1,0 +1,434 @@
+{
+    "Rank": 397,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04208724",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RG1006143"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2019-08033",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI / CTRP"
+                        },
+                        {
+                            "SecondaryId": "10307",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Fred Hutch/University of Washington Cancer Consortium"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Fred Hutchinson Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Support Program for Adoption of Cancer Screening Interventions at a Rural Community-Based Organization",
+                "OfficialTitle": "Implementation Studio, an Innovative, Structured Approach to Facilitate Rural Community-Based Organizations' Adaptation and Implementation of Evidence-Based Interventions"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 18, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 30, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 10, 2019",
+                "StudyFirstSubmitQCDate": "December 19, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 23, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 22, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 26, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fred Hutchinson Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This pilot trial study uses a structural support program for adoption of cancer screening interventions at a rural community-based organization. Rural communities face unique barriers in implementation of evidence-based interventions due to a lack of infrastructure, community capacity, and expertise as academic and research centers are often clustered in urban areas. The support program may help a rural community-based organization select, adapt, and implement cancer prevention and control evidence-based interventions.",
+                "DetailedDescription": "OUTLINE:\n\nCommunity-based organizations participate in the support program, consisting of 2 half-day training workshops over 2 weeks, and 30-minute bi-weekly consultations in order to adapt and implement the cancer screening intervention for community members.\n\nAfter completion of study, participants are followed up at 3 months."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Carcinoma",
+                        "Cervical Carcinoma",
+                        "Colorectal Carcinoma",
+                        "Malignant Solid Neoplasm"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "35",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Training program",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Community-based organizations participate in the support program, consisting of 2 half-day training workshops over 2 weeks, and 30-minute bi-weekly consultations in order to adapt and implement the cancer screening intervention for community members.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Training",
+                                    "Other: Cancer Screening intervention",
+                                    "Other: Survey Administration"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Training",
+                            "InterventionDescription": "Participate in the training program",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Training program"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Training Programs"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Cancer Screening intervention",
+                            "InterventionDescription": "Receive cancer screening intervention",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Training program"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "cancer screening"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Survey Administration",
+                            "InterventionDescription": "Ancillary studies",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Training program"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Develop the structural program",
+                            "PrimaryOutcomeDescription": "Development of the structural training program and accompanying tools",
+                            "PrimaryOutcomeTimeFrame": "3 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Implementation Monitoring",
+                            "PrimaryOutcomeDescription": "Implementation of the evidence-based intervention by the community-based organization including 1) dosage (how many interventions were delivered to the participants), 2) types (for which cancer), 3) length of exposure (for how long), and 4) who is involved in the implementation (by whom).",
+                            "PrimaryOutcomeTimeFrame": "4 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Intention to get screened for cancer (type of cancer will be determined by the community-based organization) pre- and post-intervention",
+                            "PrimaryOutcomeDescription": "Difference in the proportion of intention to get screened for cancer pre- and post-intervention using chi-square analyses",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nObjective II COMMUNITY-BASED ORGANIZATION: Located in the Yakima Valley of Washington State\nObjective II COMMUNITY-BASED ORGANIZATION: Serve community members who are 18 and older\nObjective II COMMUNITY-BASED ORGANIZATION: Willing to commit to the 6-month program\nObjective II PARTICIPANTS: Receiving services from the recruited community-based organization\n\nObjective III PARTICIPANTS: Not up-to-date for breast, cervical, and colorectal cancer screening according to current U.S. Preventive Services Tasks Force (USPSTF) guidelines. The current USPSTF recommendations for breast, cervical, and colorectal cancer are:\n\nBreast Cancer Screening: Women ages 50-74 should be screened for breast cancer with mammography every 2 years.\nCervical Cancer Screening: Women ages 21-29 should be screened for cervical cancer every 3 years with cervical cancer cytology alone. For women ages 30-65, the USPSTF recommends screening every 3 years with cervical cytology alone, every 5 years or every 5 years with high risk human papillomavirus (hrHPV) testing in combination of cytology.\nColorectal Cancer Screening: Individuals ages 50-75 should be screened for colorectal cancer with guaiac-based fecal occult blood tests (gFOBT) or fecal immunochemical test (FIT) once a year, or colonoscopy every 10 years (USPSTF approves additional screening tests, but these are the most commonly used).\nObjective III PARTICIPANTS: If the community-based organization selects breast cancer screening, we will recruit women ages 50-74.\nObjective III PARTICIPANTS: If the community-based organization selects cervical cancer screening, we will recruit women ages 21-65.\nObjective III PARTICIPANTS: If the community-based organization selects colorectal cancer screening, we will recruit women and men ages 50-75.\nObjective III PARTICIPANTS: Average risk for breast, cervical, or colorectal cancer",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Linda Ko",
+                            "OverallOfficialAffiliation": "Fred Hutch/University of Washington Cancer Consortium",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Fred Hutch/University of Washington Cancer Consortium",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98109",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "July 22, 2020",
+                            "LargeDocUploadDate": "12/27/2021 13:30",
+                            "LargeDocFilename": "ICF_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

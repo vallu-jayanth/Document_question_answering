@@ -1,0 +1,511 @@
+{
+    "Rank": 140,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05006131",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2020P000872"
+                },
+                "Organization": {
+                    "OrgFullName": "Beth Israel Deaconess Medical Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Pancreatic Cancer Screening for At-risk Individuals",
+                "OfficialTitle": "Pancreatic Cancer Screening for At-risk Individuals (The Pancreas Scan Study)",
+                "Acronym": "PancreasScan"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 10, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 10, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 10, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 18, 2021",
+                "StudyFirstSubmitQCDate": "August 7, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 16, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 2, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 4, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Mandeep Sawhney",
+                    "ResponsiblePartyInvestigatorTitle": "Co-Director for GI Endoscopy & Director for Endoscopy Research, BIDMC",
+                    "ResponsiblePartyInvestigatorAffiliation": "Beth Israel Deaconess Medical Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Beth Israel Deaconess Medical Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Wake Forest University Health Sciences",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Washington University School of Medicine",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Zucker School of Medicine at Hofstra/Northwell",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "University of Arkansas",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The investigators' goal is to conduct a prospective multicenter study to evaluate the yield and outcomes of screening of pancreas cancer in individuals who are at-risk for pancreatic cancer. We plan to use International Cancer of the Pancreas Screening (CAPS3) Consortium recommendations to standardize study population, screening methodology, and study outcomes.",
+                "DetailedDescription": "Methods The investigators' goal is to conduct a prospective multicenter study to evaluate the yield and outcomes of pancreas cancer screening in high-risk individuals. High-risk patients who are undergoing pancreatic cancer screening in accordance with national guidelines at participating study centers will be eligible for the study. Information regarding patient characteristics, findings at screening examination, and patient outcomes will be collected.\n\nPrimary Outcome (Primary Aim):\n\nTo identify the proportion of patients who meet International Cancer of the Pancreas Screening Consortium screening criteria 3rd update (CAPS Jan 2020), or more updated national guidelines, who are found at the screening to have high-risk pancreatic lesions amenable to treatment (definition of \"high-risk lesions amenable to treatment\" is provided under the section on study outcomes).\n\nSecondary outcomes (Secondary Aims) will include (details are provided under the section on study outcomes):\n\nProportion of patients diagnosed with any stage pancreatic cancer\nproportion of patients undergoing pancreatic surgery\nCancer-related outcome, defined as a cancer-related death\nproportion of patients experience harms, defined as any complications/adverse event due to screen related procedures\nComparison of cancer outcome, defined cancer-related death, in screen-detected cancer with cancer outcomes reported by the SEERs population-based registry. Study overview Study type: a prospective observational cohort High-risk patients who meet study inclusion criteria at study centers will be identified.\n\nScreening and patient follow-up will be performed at individual study centers per standard clinical practice. Patient characteristics, screening performed and screening results, clinical outcome data will be collected by individual study centers. This data will be stored and analyzed at central study REDCap located at Beth Israel Deaconess Medical Center (BIDMC)"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer, Adult"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Pancreatic cancer screening",
+                        "Early detection of pancreatic cancer",
+                        "Genetic susceptibility to pancreatic cancer",
+                        "BRCA 1",
+                        "BRCA 2",
+                        "familial pancreatic cancer",
+                        "Endoscopic Ultrasound",
+                        "MRI"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients who are at high-risk for pancreatic cancer",
+                            "ArmGroupDescription": "Patients that meet the eligibility criteria based on CAPS3 or updated national pancreatic cancer screening guidelines",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Screening for pancreatic cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Screening for pancreatic cancer",
+                            "InterventionDescription": "Screening for pancreatic cancer using EUS or MRI",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients who are at high-risk for pancreatic cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of screening patients found to have high-risk pancreatic lesions amenable to treatment",
+                            "PrimaryOutcomeDescription": "Proportion of patients who meet CAPS 3 or updated national screening guidelines criteria who are found at screening to have high-risk pancreatic lesions amenable to treatment. These are defined as the following: Lesions with high-grade dysplasia (HGD), High-grade pancreatic intraepithelial neoplasia (PanIN), Resectable or borderline resectable pancreatic cancer. Pancreatic cancers that were staged T1-3, N0-2, and M0 designated as resectable or borderline resectable. Cancers that were staged as T4 or M1 were considered locally advanced or metastatic and therefore designated as unresectable, Main duct intra-ductal papillary mucinous neoplasm (IPMN)., Branch-duct IPMN with \"worrisome features\", cyst associated with an abrupt change in main pancreatic duct caliber with pancreatic atrophy, Neuroendocrine tumor \u2265 2 cm.",
+                            "PrimaryOutcomeTimeFrame": "From year 1 to year 8, according to the standard of care designated by GI team."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of screening patients found to have high-risk pancreatic lesions",
+                            "SecondaryOutcomeDescription": "Proportion of patients who meet CAPS screening eligibility criteria, who are found at screening to have high-risk pancreatic lesions amenable to treatment",
+                            "SecondaryOutcomeTimeFrame": "From year 1 screening to year 8 screening (annually)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of screening patients found to have low or moderate-risk pancreatic lesions by screening",
+                            "SecondaryOutcomeDescription": "Proportion of patients undergoing pancreatic cancer screening who are found to have low or moderate-risk pancreatic lesions. Low or moderate-risk pancreatic lesions pancreatic lesions are defined as:\n\nBranch-duct IPMN without HGD\nNeuroendocrine tumor < 2 cm\ndilation of main pancreatic duct < 8 mm\nChronic pancreatitis-like change",
+                            "SecondaryOutcomeTimeFrame": "From year 1 to year 8, according to the standard of care designated by GI team."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients undergoing screening who undergo pancreatic surgery",
+                            "SecondaryOutcomeDescription": "Proportion of patients who undergo pancreatic surgery as a result of screening test results following the Fukuoka revised guidelines for the management for high-risk lesions or surgical treatment designated by interdisciplinary medical team",
+                            "SecondaryOutcomeTimeFrame": "From year 1 to year 8.(throughout the duration of the study)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of \"low yield\" pancreatic surgeries performed in screening patients",
+                            "SecondaryOutcomeDescription": "Proportion of patients who undergo \"low-yield pancreatic surgery\" as a result of screening test results. Low yield pancreatic surgery is defined surgery where surgical pathology does not yield high-risk pancreatic lesions. See primary outcome for definition of high-risk pancreatic lesions.",
+                            "SecondaryOutcomeTimeFrame": "From year 1 to year 8.(throughout the duration of the study)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of screening patients who undergo non-pancreatic surgery",
+                            "SecondaryOutcomeDescription": "Proportion of patients who undergo non- pancreatic surgery as a result of screening test results.",
+                            "SecondaryOutcomeTimeFrame": "From year 1 to year 8, according to the standard of care designated by GI team"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of screening patients who experience complications/adverse events of screen-related procedures",
+                            "SecondaryOutcomeDescription": "Proportion of patients who experienced any complications or adverse events due to screen-related procedures as Endoscopic Ultrasound (EUS), Magnetic resonance cholangiopancreatography (MRCP) or others that have been designated by attending in the GI department. Complications and adverse events will be aggregated to be reported as one value (complications/adverse events). Complications, defined as adverse events that emphasize direct causality between medical care and the adverse outcome or event. Adverse event, defined as an event that may or may not be preventable or result from a medical error",
+                            "SecondaryOutcomeTimeFrame": "From year 1 to year 8, according to standard of care designated by GI team"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nInclusion criteria 1-3 are indications for pancreatic cancer screening as defined by the CAPS3 guidelines or updated national pancreatic cancer screening guidelines. Patients who do not meet these guidelines but are undergoing pancreatic cancer screening at the discretion of their treating physician at participating study centers will also be included in the study. Based upon the indication for screening, patients will be categorized as either meeting CAPS3 screening criteria, or not meeting CAPS3 screening criteria.\n\nFamilial Pancreatic cancer kindred. This is defined as family history of pancreas cancer that meet the criteria listed below.\n\nIf at least two affected relatives who are First degree relatives (FDR) to each other, of whom at least one is an FDR to the individual considered for surveillance\nIf at least three affected relatives on the same side of the family, of whom at least one is an FDR to the individual considered for surveillance\nIf at least two affected relatives on the same side of the family, of whom at least one is an FDR to the individual considered for surveillance Screening is usually initialed at age 50 years or 10 years younger than the youngest family member with pancreatic cancer\n\nPatients with genetic susceptibility to pancreas cancer\n\nPatients with Peutz-Jeghers syndrome diagnosed with using clinical criteria or with a deleterious mutation in liver kinase B1/Serine/threonine kinase 11 (LKB1/STK11). Screening is usually initiated at age 40 years or later.\nPatients with Familial Atypical Multiple Mole Melanoma Syndrome (FAMMM syndrome), diagnosed using clinical criteria or CDKN2A p16 mutation.\n\nScreening is usually initiated at age 45 years or 10 years younger than the youngest family member with pancreatic cancer.\n\nHereditary Breast and Ovarian Cancer syndrome: diagnosed using clinical criteria or deleterious Breast Cancer gene 1 (BRCA1), Breast Cancer gene 2 (BRCA2), Partner and Localizer of BRCA2 (PALB2). The usual indication for screening is:\n\nBRCA1 mutation and at least one affected first-degree relative with pancreatic cancer\nBRCA 2 mutation and at least one affected first-degree relative, or at least two relatives of any degree with pancreatic cancer\nPALB2 mutation and at least one affected first-degree relative with pancreatic cancer Screening is usually initiated at age 45 or 10 years younger than the youngest family member with pancreatic cancer; or per updated national screening guidelines\n\nLynch syndrome or Ataxia Telangiectasia Mutated (ATM) mutations with at least one affected first-degree relative (FDR). Lynch syndrome could be diagnosed either by using clinical criteria or Mutator L homolog 1 (MLH1), Mutator S homolog 2 (MSH2), Mutator S homolog 6 (MSH6), Postmeiotic Segregation Increased, S. Cerevisiae, 2 (PMS2) or EPCAM mutation.\n\nScreening to be initiated at age 45 or 10 years younger than the youngest family member with pancreatic cancer.\n\nPatients with hereditary pancreatitis diagnosed using clinical criteria or deleterious Serine Protease 1 (PRSS1) mutation. Screening is usually initiated at age 40 years or 10 years younger than the youngest family member with pancreatic cancer 3. New-onset diabetes, age > 50 years with weight loss. 4. Patients who do not meet these CAPS screening criteria but are determined by the site principal investigator to be high-risk for pancreatic cancer based upon family history or other risk factors, and are undergoing pancreatic cancer screening will also be included in the study. Indication for pancreatic cancer screening and age at which screening was initiated will be recorded.\n\nExclusion Criteria:\n\nPatients presenting with symptoms suggestive of pancreatic cancer who are undergoing diagnostic EUS or MRCP e.g. acute recurrent pancreatitis, abnormal imaging",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Any patient who meets the eligibility criteria exposed above based on CAPS3 or updated national pancreatic screening guidelines criteria at BIDMC and collaboration centers part of the study in the time frame of 2020-2028",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Andy Silva-Santisteban, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "857-207-7380",
+                            "CentralContactEMail": "asantist@bidmc.harvard.edu"
+                        },
+                        {
+                            "CentralContactName": "Roya Dastjerdi, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "617-667-4046",
+                            "CentralContactEMail": "rdastjer@bidmc.harvard.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Mandeep Sawhney, MD,MS,FASGE",
+                            "OverallOfficialAffiliation": "BIDMC-Harvard Medical School",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Beth Israel Deaconess Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02215",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Roya Dastjerdi, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "617-667-4046",
+                                        "LocationContactEMail": "rdastjer@bidmc.harvard.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Mandeep Sawhney, MD,MS,FASGE",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Andy Silva-Santisteban, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Borgida, A., Holter, S., Thomas, C., Jhaveri, K., Haider, M. A., & Gallinger, S. Screening individuals at increased risk for pancreatic cancer using biannual contrast MRI. Familial Cancer, 2017, 16 (1 Supplement 1), S108"
+                        },
+                        {
+                            "ReferencePMID": "29803839",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Canto MI, Almario JA, Schulick RD, Yeo CJ, Klein A, Blackford A, Shin EJ, Sanyal A, Yenokyan G, Lennon AM, Kamel IR, Fishman EK, Wolfgang C, Weiss M, Hruban RH, Goggins M. Risk of Neoplastic Progression in Individuals at High Risk for Pancreatic Cancer Undergoing Long-term Surveillance. Gastroenterology. 2018 Sep;155(3):740-751.e2. doi: 10.1053/j.gastro.2018.05.035. Epub 2018 May 24."
+                        },
+                        {
+                            "ReferencePMID": "29775792",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Corral JE, Mareth KF, Riegert-Johnson DL, Das A, Wallace MB. Diagnostic Yield From Screening Asymptomatic Individuals at High Risk for Pancreatic Cancer: A Meta-analysis of Cohort Studies. Clin Gastroenterol Hepatol. 2019 Jan;17(1):41-53. doi: 10.1016/j.cgh.2018.04.065. Epub 2018 Jun 30."
+                        },
+                        {
+                            "ReferencePMID": "29683970",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Gangi A, Malafa M, Klapman J. Endoscopic Ultrasound-Based Pancreatic Cancer Screening of High-Risk Individuals: A Prospective Observational Trial. Pancreas. 2018 May/Jun;47(5):586-591. doi: 10.1097/MPA.0000000000001038."
+                        },
+                        {
+                            "ReferencePMID": "31672839",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Goggins M, Overbeek KA, Brand R, Syngal S, Del Chiaro M, Bartsch DK, Bassi C, Carrato A, Farrell J, Fishman EK, Fockens P, Gress TM, van Hooft JE, Hruban RH, Kastrinos F, Klein A, Lennon AM, Lucas A, Park W, Rustgi A, Simeone D, Stoffel E, Vasen HFA, Cahen DL, Canto MI, Bruno M; International Cancer of the Pancreas Screening (CAPS) consortium. Management of patients with increased risk for familial pancreatic cancer: updated recommendations from the International Cancer of the Pancreas Screening (CAPS) Consortium. Gut. 2020 Jan;69(1):7-17. doi: 10.1136/gutjnl-2019-319352. Epub 2019 Oct 31. Erratum In: Gut. 2020 Jun;69(6):e3."
+                        },
+                        {
+                            "ReferencePMID": "33077384",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kogekar N, Diaz KE, Weinberg AD, Lucas AL. Surveillance of high-risk individuals for pancreatic cancer with EUS and MRI: A meta-analysis. Pancreatology. 2020 Dec;20(8):1739-1746. doi: 10.1016/j.pan.2020.10.025. Epub 2020 Oct 9."
+                        },
+                        {
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kwon, R., Dust, H., McCarthy, S., Hosmer, A., Carulli, A., Scheiman, J., . . . Stoffel, E Outcomes of pancreatic cancer surveillance in high risk individuals. American Journal of Gastroenterology, 2019, 114 (Supplement), S19."
+                        },
+                        {
+                            "ReferencePMID": "30309438",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lachter J, Rosenberg C, Hananiya T, Khamaysi I, Klein A, Yassin K, Half E. Screening to Detect Precursor Lesions of Pancreatic Adenocarcinoma in High-risk Individuals: A Single-center Experience. Rambam Maimonides Med J. 2018 Oct 4;9(4):e0029. doi: 10.5041/RMMJ.10353."
+                        },
+                        {
+                            "ReferencePMID": "24840647",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Rahib L, Smith BD, Aizenberg R, Rosenzweig AB, Fleshman JM, Matrisian LM. Projecting cancer incidence and deaths to 2030: the unexpected burden of thyroid, liver, and pancreas cancers in the United States. Cancer Res. 2014 Jun 1;74(11):2913-21. doi: 10.1158/0008-5472.CAN-14-0155. Erratum In: Cancer Res. 2014 Jul 15;74(14):4006."
+                        },
+                        {
+                            "ReferencePMID": "31912902",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J Clin. 2020 Jan;70(1):7-30. doi: 10.3322/caac.21590. Epub 2020 Jan 8."
+                        },
+                        {
+                            "ReferencePMID": "28735806",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tanaka M, Fernandez-Del Castillo C, Kamisawa T, Jang JY, Levy P, Ohtsuka T, Salvia R, Shimizu Y, Tada M, Wolfgang CL. Revisions of international consensus Fukuoka guidelines for the management of IPMN of the pancreas. Pancreatology. 2017 Sep-Oct;17(5):738-753. doi: 10.1016/j.pan.2017.07.007. Epub 2017 Jul 13."
+                        },
+                        {
+                            "ReferencePMID": "30285076",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "van Roessel S, Kasumova GG, Verheij J, Najarian RM, Maggino L, de Pastena M, Malleo G, Marchegiani G, Salvia R, Ng SC, de Geus SW, Lof S, Giovinazzo F, van Dam JL, Kent TS, Busch OR, van Eijck CH, Koerkamp BG, Abu Hilal M, Bassi C, Tseng JF, Besselink MG. International Validation of the Eighth Edition of the American Joint Committee on Cancer (AJCC) TNM Staging System in Patients With Resected Pancreatic Cancer. JAMA Surg. 2018 Dec 1;153(12):e183617. doi: 10.1001/jamasurg.2018.3617. Epub 2018 Dec 19. Erratum In: JAMA Surg. 2019 Feb 20;:"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7070",
+                            "ConditionBrowseLeafName": "Disease Susceptibility",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M21565",
+                            "ConditionBrowseLeafName": "Genetic Predisposition to Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2243",
+                            "ConditionBrowseLeafName": "Familial Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M22244",
+                            "InterventionBrowseLeafName": "Pancrelipase",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M12804",
+                            "InterventionBrowseLeafName": "Pancreatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "Rank": 484,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03973307",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RD2018-68"
+                },
+                "Organization": {
+                    "OrgFullName": "East and North Hertfordshire NHS Trust",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "UroX Biomarker Bladder Cancer Study",
+                "OfficialTitle": "Evaluation of UroX\u2122 Biomarker Screening Test in the Investigation of Bladder Cancer From Urine Samples - a Single Site Pilot Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2019",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 21, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 1, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 1, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 1, 2019",
+                "StudyFirstSubmitQCDate": "June 1, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 4, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 1, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 4, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "East and North Hertfordshire NHS Trust",
+                    "LeadSponsorClass": "OTHER_GOV"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "KDx Diagnostics Inc.",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective observational study looking at urine samples from participants under referral for a standard of care investigative cystoscopy and biopsy.\n\nThe study aims to test if the UroX\u2122 biomarker (a measurable indicator of a biological condition) can be detected in urine samples from participants who may later test positive following a biopsy for bladder cancer. The study aims to assess the value of the biomarker as a screening tool for bladder cancer.\n\nPatients with and those without bladder cancer are required for the study.",
+                "DetailedDescription": "Patients who undergo investigation for bladder cancer will have a cystoscopy and biopsy as part of their routine care. These patients are then brought back to urology outpatient clinic for their biopsy results within two weeks.\n\nA UroX Biomarker Bladder Cancer Study patient information leaflet will be sent to all patients who are booked for these investigations, explaining the study aims and the requirements for participation.\n\nOn the day of their cystoscopy, potential participants will be approached and after signing a study specific consent form, the urine sample will be accepted, given a study number and sent for UroX biomarker testing.\n\nThese results will then be returned to the study team for comparison against the biopsy histology result to assess for sensitivity and specificity.\n\nWhile cystoscopy and biopsy are the current gold standard for diagnosis of bladder cancer, it has been shown to have false-negatives of between 10-40%, due to factors such as operator error or small areas of malignancy(15-17). The possibility of a screening/outpatient test for bladder cancer with high positive predictive value would help with reduction or prioritisation of further investigations and early diagnosis of disease thus potentially allowing alternative treatment options."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Urine samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants with bladder cancer",
+                            "ArmGroupDescription": "50 participants with histologically confirmed evidence of malignancy for bladder cancer following routine cystoscopy and biopsy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: UroX bladder cancer biomarker test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Participants without bladder cancer",
+                            "ArmGroupDescription": "50 participants with negative biopsy for bladder cancer following routine cystoscopy and biopsy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: UroX bladder cancer biomarker test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "UroX bladder cancer biomarker test",
+                            "InterventionDescription": "Urine test using novel UroX biomarker test for bladder malignancy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with bladder cancer",
+                                    "Participants without bladder cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluate the diagnostic accuracy of the UroX\u2122 biomarker urine test",
+                            "PrimaryOutcomeDescription": "UroX\u2122 urine biomarker staining result compared with standard of care biopsy result",
+                            "PrimaryOutcomeTimeFrame": "1 day (single visit/test)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients aged \u2265 18 years of age\nPatients under investigation for bladder cancer due to undergo investigative standard of care biopsy\n\nExclusion Criteria:\n\nPatients aged < 18 years of age\nPatients who are currently undergoing radiation therapy.\nProposed subject has no bladder (due to surgical removal).\nNo cystoscopy and/or pathology information for proposed subject (following cystoscopy for final inclusion in study results)\nPatients unable or unwilling to provide consent\nPatients currently on investigational drug trials\nPatients with Catheter in Situ",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Participants under investigation for possible bladder cancer due to undergo cystoscopy and biopsy.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Nikhil Vasdev",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "01438 28 4042",
+                            "CentralContactEMail": "nikhil.vasdev@nhs.net"
+                        },
+                        {
+                            "CentralContactName": "Alex Hampson",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "01438 28 4379",
+                            "CentralContactEMail": "alexander.hampson@nhs.net"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nikhil Vasdev",
+                            "OverallOfficialAffiliation": "East and North Hertfordshire NHS Trust",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "East and North Hertfordshire NHS Trust",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Stevenage",
+                            "LocationState": "Hertfordshire",
+                            "LocationZip": "SG14AB",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Nikhil Vasdev",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "01438 28 4042",
+                                        "LocationContactEMail": "nikhil.vasdev@nhs.net"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

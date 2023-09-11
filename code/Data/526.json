@@ -1,0 +1,425 @@
+{
+    "Rank": 526,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03857477",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CCR5044"
+                },
+                "Organization": {
+                    "OrgFullName": "Institute of Cancer Research, United Kingdom",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "The BARCODE 1 Study (Full Study): The Use of Genetic Profiling to Guide Prostate Cancer Targeted Screening.",
+                "OfficialTitle": "The BARCODE 1 Study: The Use of Genetic Profiling to Guide Prostate Cancer Targeted Screening.",
+                "Acronym": "BARCODE1"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 14, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 1, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 1, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 26, 2019",
+                "StudyFirstSubmitQCDate": "February 26, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 28, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 28, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 29, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Institute of Cancer Research, United Kingdom",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "BARCODE 1 is a screening study designed to investigate the role of genetic profiling for targeting population prostate cancer screening. A pilot of 300 men were recruited aiming to inform the feasibility and accessibility of the study approach. The full study is an extension of the pilot study aiming to recruit a total of 5000 men.",
+                "DetailedDescription": "The BARCODE 1 study aims to evaluate genetic profiling using the known ~170 prostate cancer (PrCa) risk single-nucleotide polymorphisms (SNPs) as a means of offering targeted screening for PrCa in men at a genetically higher risk. Initially, 300 men were recruited via participating General Practices (GPs). The full study aims to recruit an additional 4700 participants. Men aged 55-69 years who are likely to be eligible for the study will be identified by GPs from medical records. Participants will be contacted via invitation letters from GPs and if interested in the study will be asked to sign a consent form and complete a questionnaire to confirm eligibility to participate. If eligible, men will then be sent a DNA collection saliva kit. DNA from saliva will be analysed with SNP profiling for the known ~170 clinically relevant SNPs. Men with a genetic risk equivalent to the top 10% of the population distribution (approximately 470 men in total from the full study) will be invited for an MRI and a transperineal (TP) prostate biopsy under local anaesthetic (LA), plus further biological samples. Biopsy results will be correlated with the genetic score. The study also aims to determine the incidence and aggressiveness of prostate cancer in men within the top 10% of the genetic score. Furthermore, the association of MRI appearance and biological sample biomarker profile with prostate biopsy result in men at genetically higher prostate cancer risk undergoing targeted screening will also be determined."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Saliva, blood, urine"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "4700",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Stage 1",
+                            "ArmGroupDescription": "Caucasian men aged 55-69 to undergo genetic SNP profiling.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Genetic SNP profiling"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Stage 2",
+                            "ArmGroupDescription": "Men from Stage 1 identified as having a higher genetic risk score (top 10%) for prostate cancer will be offered an MRI scan, prostate biopsy and prostate cancer screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Genetic SNP profiling",
+                                    "Other: Prostate cancer screening",
+                                    "Procedure: MRI Scan",
+                                    "Procedure: Prostate biopsy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Genetic SNP profiling",
+                            "InterventionDescription": "Genetic SNP profiling of known prostate cancer predisposition SNPs will be performed on DNA extracted from saliva samples.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Stage 1",
+                                    "Stage 2"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Prostate cancer screening",
+                            "InterventionDescription": "Prostate cancer screening in the form of PSA testing will be offered to all men who have a benign biopsy result for five years in order to track development of cancer in the future.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Stage 2"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "MRI Scan",
+                            "InterventionDescription": "MRI scan will be offered to men identified within the top 10% genetic risk score profile.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Stage 2"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Prostate biopsy",
+                            "InterventionDescription": "Transperineal prostate biopsy under local anaesthetic will be offered to men identified within the top 10% genetic risk score profile.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Stage 2"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Transperineal Biopsy (TP biopsy)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Association of SNP genetic risk score with prostate biopsy results.",
+                            "PrimaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Incidence and aggressiveness of PrCa in men within the top 10% of the genetic score.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association of the biomarker profile with genetic score and biopsy results.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Use of genetic profiling to target prostate cancer screening in a population screening clinical environment.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMen aged 55 to 69 years.\nCaucasian ethnicity.\nWHO performance status 0-2.\nAbsence of any psychological, familial, sociological or geographical situation potentially hampering compliance with the study protocol and follow-up schedule.\n\nExclusion Criteria:\n\nNon-Caucasian ethnicity (including mixed race or Ashkenazi Jewish (excluded as these groups have different genetic risk profiles from those being studied).\nPrevious diagnosis of cancer with a life-expectancy of less than five years.\nNegative prostate biopsy within one year before recruitment.\nPrevious diagnosis of prostate cancer.\nCo-morbidities making prostate biopsy risk unacceptable (anticoagulants or antiplatelet medication including Warfarin, Clopidogrel, Apixaban, Dabigatran or other NOAC medications (Novel Oral Anti-Coagulant); poorly controlled diabetes, cardiovascular/respiratory disease, immunosuppressive medication or splenectomy).\nMen with body mass index (BMI) 40 and above.\nMen with BMI 35 and above plus other co-morbidities.\nContraindications to having an MRI (pacemakers, aneurysm clips, metallic cardiac valve/stent, Ventriculo-Peritoneal (VP) shunt, cochlear implant, neurotransmitter, metallic foreign bodies in eye(s), other metalwork, claustrophobia).\nAny significant psychological conditions that may be worsened or exacerbated by participation in the study.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Male",
+                "GenderBased": "Yes",
+                "GenderDescription": "Eligible participants must be of male gender at birth.",
+                "MinimumAge": "55 Years",
+                "MaximumAge": "69 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Men of Caucasian ethnicity (not Mixed race or Jewish), aged 55 - 69 years, willing to undergo genetic SNP profiling.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Eva McGrowder, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+ 44 208 722 4483",
+                            "CentralContactEMail": "eva.mcgrowder@icr.ac.uk"
+                        },
+                        {
+                            "CentralContactName": "Elizabeth K Bancroft, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+44 207 808 2136"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Rosalind A Eeles, FRCP, FRFR",
+                            "OverallOfficialAffiliation": "Institute of Cancer Research and Royal Marsden Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Institute of Cancer Research and Royal Marsden Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sutton",
+                            "LocationState": "Surrey",
+                            "LocationZip": "SM2 5PT",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rosalind Eeles, FRCP FRFR",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "02086613642",
+                                        "LocationContactEMail": "rosalind.eeles@icr.ac.uk"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Anonymised data can be applied for via the Data Access Committee."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M3797",
+                            "InterventionBrowseLeafName": "Anesthetics",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3799",
+                            "InterventionBrowseLeafName": "Anesthetics, Local",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "CNSDep",
+                            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

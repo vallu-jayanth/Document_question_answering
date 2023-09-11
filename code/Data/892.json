@@ -1,0 +1,297 @@
+{
+    "Rank": 892,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02810093",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "6373"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Strasbourg, France",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Big Data and Text-mining Technologies Applied for Breast Cancer Medical Data Analysis",
+                "OfficialTitle": "SENOMETRY : Big Data and Text-mining Technologies Applied for Breast Cancer Medical Data Analysis",
+                "Acronym": "SENOMETRY"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2016",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2016",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2016",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 20, 2016",
+                "StudyFirstSubmitQCDate": "June 20, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 22, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "June 20, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 22, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Strasbourg, France",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Quantmetry",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Primary purpose :\n\nTo develop a method to automatically extract and structure the information included in numerous medical records from breast cancer patients.\n\nSecondary purpose :\n\nWith this procedure we can analyze the content of ten thousand anonymized textual medical records.\n\nThis information should enable us to explore many subjects, such as:\n\nThe impact of certain therapeutic procedures\nThe characteristics of sub-groups of patients\nPregnancy associated breast cancers\nRisk factors"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast cancer",
+                        "Text mining",
+                        "Big Data",
+                        "Machine Learning"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "10000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast cancer patients between 2000 and 2016",
+                            "ArmGroupDescription": "Patients treated for a breast cancer between 2000 and 2016 in the Hospital of Strasbourg (France).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: retrospective medical records analyze"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "retrospective medical records analyze",
+                            "InterventionDescription": "Ten thousand medical records (between years 2000 and 2016) will be analyzed",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast cancer patients between 2000 and 2016"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Validate the reliability of a computer-based, automatic information retrieval method specific to medical records from breast cancer multidisciplinary meetings",
+                            "PrimaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Breast cancer recurrence rate after some therapeutic procedures",
+                            "SecondaryOutcomeDescription": "Study of the recurrence rate of different subgroups of patients where various procedures were performed",
+                            "SecondaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMajority (age > 18)\nMalignant breast tumors\nsigned informed consent\n\nExclusion Criteria:\n\nBenign breast pathology\nPatients not initially treated at the H\u00f4pitaux Universitaires de Strasbourg",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients (men and women) suffering from an in situ or invasive cancer treated at H\u00f4pitaux Universitaires de Strasbourg between years 2000 and 2016.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Anne Laudamy",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+33 3 88 11 66 88",
+                            "CentralContactEMail": "anne.laudamy@chru-strasbourg.fr"
+                        },
+                        {
+                            "CentralContactName": "anatta Razafimanantsoa",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+ 33 3 88 11 54 14",
+                            "CentralContactEMail": "anatta.razafimanantsoa@chru-strasbourg.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Carole Mathelin, MD",
+                            "OverallOfficialAffiliation": "Strasbourg's University Hospitals",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Strasbourg Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Strasbourg",
+                            "LocationZip": "67091",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Carole Mathelin, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "03 88 12 78 34",
+                                        "LocationContactEMail": "carole.mathelin.x@gmail.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Karl Neuberger",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "kneuberger@quantmetry.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

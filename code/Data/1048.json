@@ -1,0 +1,416 @@
+{
+    "Rank": 1048,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04520672",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2020-00014; me19Vetter"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Basel, Switzerland",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Circulating Tumor Cells (CTC) in Cancer",
+                "OfficialTitle": "Circulating Tumor Cells (CTC) in Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2021",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 2030",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 2030",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 5, 2020",
+                "StudyFirstSubmitQCDate": "August 17, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 20, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 8, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 9, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Basel, Switzerland",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This observational study with circulating tumor cells (CTC) count, isolation and analysis at several time points during disease progression is to investigate the role and biology of CTCs and clusters of CTCs in different cancer types. It also evaluates the role of CTCs as biomarkers, and aims at the identification of key signaling networks that are active in CTCs."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "circulating tumor cells (CTCs)",
+                        "CTC clusters",
+                        "Molecular analysis of CTCs",
+                        "CTC culture",
+                        "overall survival (OS)",
+                        "progression free survival (PFS)"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "CTC cultures stored in the refrigerator. A \"Biobank Reglement\" is enclosed to this protocol."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "3000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Blood samples",
+                            "InterventionDescription": "Blood samples (3 ethylenediaminetetraacetic acid (EDTA) tubes with a volume of 7.5 ml blood each) will be processed for CTC isolation and characterization, ranging from molecular analysis to culture and drug screen."
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Samples from tumor draining vessels",
+                            "InterventionDescription": "In case of tumor resection, 3 EDTA tubes (5 ml) will be withdrawn from the tumor draining vessels for CTC isolation and characterization, ranging from molecular analysis to culture and drug screen."
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Overall survival (OS) in heterogeneous cancer population",
+                            "PrimaryOutcomeDescription": "overall survival (OS) in heterogeneous cancer population",
+                            "PrimaryOutcomeTimeFrame": "Screening (Visit 1) until the date of death (assessed up to 240 months)"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change in total number of isolated CTCs",
+                            "PrimaryOutcomeDescription": "Change in total number of isolated CTCs",
+                            "PrimaryOutcomeTimeFrame": "Through study completion, an average of 20 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Progression free survival (PFS)",
+                            "SecondaryOutcomeDescription": "progression free survival (PFS) in the different cancer cohorts with different treatment regimes",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, an average of 20 years"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Change in circulating tumor DNA (ctDNA) from blood samples",
+                            "OtherOutcomeDescription": "Change in circulating tumor DNA (ctDNA) from blood samples",
+                            "OtherOutcomeTimeFrame": "Through study completion, an average of 20 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAdult cancer patients\nAll patients with histology-based proved diagnosis of cancer, all stages and subtypes can be included. Precancerous lesions cannot be included.\nAll patients with the diagnosis of a solid tumor including adenocarcinoma, squamous cell carcinoma, neuroendocrine carcinoma, sarcoma\nWritten pathology report must be available.\nWritten informed consent.\n\nExclusion Criteria:\n\nNo written informed consent.\nNo proved diagnosis of malignancy by pathology report.\nPatients with the diagnosis of blood cancer",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "adult patients (> 18 years) with a cancer diagnosis",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Marcus Vetter, PD Dr. med.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+41 61 925 27 15",
+                            "CentralContactEMail": "marcus.vetter@ksbl.ch"
+                        },
+                        {
+                            "CentralContactName": "Nicola Aceto, Prof. Dr. med.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+41 44 633 40 23",
+                            "CentralContactEMail": "nicola.aceto@biol.ethz.ch"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Marcus Vetter, PD Dr. med.",
+                            "OverallOfficialAffiliation": "Kantonsspital Baselland, Liestal",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Hospital Basel",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Basel",
+                            "LocationZip": "4031",
+                            "LocationCountry": "Switzerland",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christian Kurzeder, PD Dr. med.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+41 61 265 2525",
+                                        "LocationContactEMail": "christian.kurzeder@usb.ch"
+                                    },
+                                    {
+                                        "LocationContactName": "Christian Kurzeder, PD Dr. med.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Fabienne Schwab, Dr. med",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Viola Heinzelmann-Schwarz, Prof. Dr. med",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Christoph Rochlitz, Prof. Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Julia Landin, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Alfred Zippelius, Prof. Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Heinz L\u00e4ubli, PD Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Walter Weber, Prof. Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "D\u00f6rthe Schaefer-Rohr, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Homen Begovic, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Christine Wenk, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Daniel Steffens, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Anna Schollbach, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Ilker Acemoglu, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Simone M\u00fcnst, PD Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Tatjana Vlajnic, Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Department Oncology, Haematology & Immuntherapy, Kantonsspital Baselland",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Liestal",
+                            "LocationZip": "4410",
+                            "LocationCountry": "Switzerland",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marcus Vetter, PD Dr. med.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+41 61 925 27 15",
+                                        "LocationContactEMail": "marcus.vetter@ksbl.ch"
+                                    },
+                                    {
+                                        "LocationContactName": "Marcus Vetter, PD Dr. med.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Robert Rosenberg, Prof. Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Emanuel Burri, PD Dr. med.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009360",
+                            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M20249",
+                            "ConditionBrowseLeafName": "Disease Progression",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M7352",
+                            "InterventionBrowseLeafName": "Edetic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7233",
+                            "InterventionBrowseLeafName": "Pentetic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "AnCoag",
+                            "InterventionBrowseBranchName": "Anticoagulants"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

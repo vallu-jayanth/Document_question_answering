@@ -1,0 +1,355 @@
+{
+    "Rank": 704,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03183219",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Gd T cell and liver Ca"
+                },
+                "Organization": {
+                    "OrgFullName": "Fuda Cancer Hospital, Guangzhou",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Safety and Efficiency of \u03b3\u03b4 T Cell Against Liver Cancer",
+                "OfficialTitle": "\u03b3\u03b4 T Cell Immunotherapy for Treatment of Liver Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 15, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 15, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 15, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "June 8, 2017",
+                "StudyFirstSubmitQCDate": "June 8, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 12, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 10, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 13, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fuda Cancer Hospital, Guangzhou",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Jinan University Guangzhou",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In this study, effects of \u03b3\u03b4T cells on human Liver Cancer in combination with tumor reducing surgery, for example, cryosurgery going to be investigated.",
+                "DetailedDescription": "A liver tumor will be removed using tumor reducing surgery such as cryosurgery.PBMC of the patient will be separated from peripheral blood. After making them potential cancer killer \u03b3\u03b4 T Cell and DC-CIK, they will be infused to the patients as an immunotherapy treatment.\n\nNOTE: Originally, our designed proposal was to use autologous PBMCs from cancer patients to ex vivo expand V\u03b39V\u03b42-T cells, and then perform adoptive transfer therapy. However, PBMCs of majority of cancer patients could not be effectively expanded, including cell number, cell purity and cell function could not meet the requirements of reinfusion. Meanwhile, those patients could not tolerate 100ml of blood drawing for culture every 2 ~ 3 weeks.\n\nTherefore, we submitted new clinical study application to the ethical committee of the Fuda Hospital affiliated with Jinan University (Guangzhou, PR. China) by changing the autologous protocol with the allogeneic protocol. After the allogeneic protocol was approved, we adapted allogeneic cells instead of autologous in our subsequentially clinical study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Liver Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Immunotherapy, \u03b3\u03b4 T Cell, Liver Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Single",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Investigator"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Group A",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In this group, the patients will receive under CT Cryosurgery or IRE surgery to control the local tumor.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Cryosurgery or IRE surgery"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Group B",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In this group, the patients will receive multiple high-activity \u03b3\u03b4 T cell immunotherapies. The check indexes are CT scan and blood tests (including tumor markers, lymphocyte subsets and circulating tumor cell).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: \u03b3\u03b4 T cell"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Group C",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In this group, the patients will receive multiple high-activity \u03b3\u03b4 T cell immunotherapies and Cryosurgery or IRE surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: \u03b3\u03b4 T cells/ A Cryosurgery or IRE"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Cryosurgery or IRE surgery",
+                            "InterventionDescription": "Cryosurgery or IRE surgery will be used in local tumor",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group A"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "\u03b3\u03b4 T cell",
+                            "InterventionDescription": "\u03b3\u03b4 T cells will be used against Liver Cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group B"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "\u03b3\u03b4 T cells/ A Cryosurgery or IRE",
+                            "InterventionDescription": "Combination \u03b3\u03b4 T cell and Cryosurgery or IRE surgery will be used in Liver Cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Group C"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Relief degree of tumors",
+                            "PrimaryOutcomeDescription": "It will be evaluated by the Response Evaluation Criteria in Solid Tumors\uff08RECIST\uff09",
+                            "PrimaryOutcomeTimeFrame": "3 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Progress free survival\uff08PFS\uff09",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Overall survival\uff08OS\uff09",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge: 18-75\nKarnofsky performance status >50\nDiagnosis with Liver Cancer based on histology or the current accepted radiological measures\nClassification tumor,nodes,metastasis-classification(TNM) stage: \u2161,\u2162,\u2163\nWill receive cryosurgery, IRE, gd T cells\nLife expectancy: Greater than 3 months\nAbility to understand the study protocol and a willingness to sign a written informed consent document\n\nExclusion Criteria:\n\nPatients with other kinds of cancer\nHistory of coagulation disorders or anemia\nPatients with heart disease",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jibing Chen, PhD",
+                            "OverallOfficialAffiliation": "Biological treatment center in Fuda cancer hospital Guangzhou, Guangdong, China, 510000",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Biotherapy center in Fuda cancer hospital",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510665",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008113",
+                            "ConditionMeshTerm": "Liver Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008107",
+                            "ConditionAncestorTerm": "Liver Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10803",
+                            "ConditionBrowseLeafName": "Liver Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Liver Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10797",
+                            "ConditionBrowseLeafName": "Liver Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

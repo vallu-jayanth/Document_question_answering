@@ -1,0 +1,339 @@
+{
+    "Rank": 904,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04391933",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MR Colon"
+                },
+                "Organization": {
+                    "OrgFullName": "Vejle Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "MRI Staging in Colon Cancer",
+                "OfficialTitle": "MRI Staging in Colon Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 1, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 13, 2020",
+                "StudyFirstSubmitQCDate": "May 13, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 18, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 9, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 10, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vejle Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main purpose of this study is to investigate whether magnetic ressonance imaging (MRI) can be used in treatment planning with assessment of diagnostic accuracy. With the inclusion of 150 patients the study will investigate whether MRI is useful and better than CT scanning in patients with colon tumors. And also if MRI is useful after neoadjuvant treatment.",
+                "DetailedDescription": "Colon cancer is a frequent disease in Denmark with over 3200 new cases and about 1350 deaths per year.\n\nCT scanning is currently the national standard method for determining the stage of disease planning for treatment. CT scan can sufficiently distinct between minor and advanced colon tumors. Prevalence of advanced tumors was well over 40% in the CT study from Vejle Hospital in 2013. Sensitivity and specificity of detection of advanced colon tumors in the CT study was approx. 70% and 80%, respectively. A small MRI pilot study showed higher sensitivity and specificity of 89% and 96%, respectively.\n\nMRI scan is currently performed in most patients with rectal cancer, which has resulted in better treatment planning and increased survival. MRI scan of the rectum is documented with higher accuracy than CT scan. There has been reluctance to introduce MRI scan in patients with colon cancer, as the colon has more peristalsis than the rectum, and movement of the bowel can result in image quality reduction in MRI. However, in recent years MRI has become faster and thereby less sensitive to movements.\n\nMRI scanning may in the future help to select the patients who will benefit from neoadjuvant treatment. In addition, with MRI it is possible to perform MRI diffusion measurements of the tumor, which gives an estimate of the tumor's cell density. It will also be possible to investigate whether this changes the MRI diffusion restriction during the neoadjuvant treatment.\n\nThis study is prospective and uses state of the art equipment with a 3 tesla MRI unit.\n\nThe main purpose of the study is to investigate whether MRI can be used in treatment planning with assessment of diagnostic accuracy. With the inclusion of 150 patients the study investigates whether MRI is useful and better than CT in patients with colon tumors. And also if MRI is useful after neoadjuvant treatment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colon Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "Sensitivity, specificity, positivity predictive values and negative predictive values are calculated form the histopathological surgical specimen. This will be the endpoint for both CT and MRI.",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "130",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "MRI colon cancer",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "MRI scan of patients with colon cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MRI 3 tesla"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "MRI 3 tesla",
+                            "InterventionDescription": "MRI of colon cancer. Sensitivity, specificity, positivity predictive values and negative predictive values are calculated form the histopathological surgical specimen. This will be the endpoint for both CT and MRI.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "MRI colon cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Is MRI usefull in colon cancer patients",
+                            "PrimaryOutcomeDescription": "Investigate the degree of accuracy in tumor stage compared to the histopathological surgical composition.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosed with colon cancer\n18 years old or older\nWritten and verbally informed consent\n\nExclusion Criteria:\n\nPacemakers, implanted medical pumps, and nerve stimulators\nCochlea implants and cerebral aneurism clips will in some cases be absolute contraindications to MRI examinations.\nPrevious treatment with radiation and or chemotherapy\nSerious disease that contraindicates surgical treatment, including severe heart disease\nAny type of cancer other than of the colon (excluding skin cancer, cancer in situ, endometrial cancer, malignant melanoma)\nAny other condition or disease that from the investigator's point of view makes it inappropriate for the patient to participate.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "S\u00f8ren R Rafaelsen, MD, DMSc",
+                            "OverallOfficialAffiliation": "Vejle Hospital",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vejle Hospital",
+                            "LocationCity": "Vejle",
+                            "LocationZip": "DK-7100",
+                            "LocationCountry": "Denmark"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "hospital",
+                            "SeeAlsoLinkURL": "http://www.sygehuslillebaelt.dk/wm223295"
+                        }
+                    ]
+                },
+                "AvailIPDList": {
+                    "AvailIPD": [
+                        {
+                            "AvailIPDId": "CPR",
+                            "AvailIPDType": "Informed Consent Form",
+                            "AvailIPDURL": "https://komite.regionsyddanmark.dk/wm258128"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000003110",
+                            "ConditionMeshTerm": "Colonic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M6028",
+                            "ConditionBrowseLeafName": "Colonic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colon Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

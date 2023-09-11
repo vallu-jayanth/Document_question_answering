@@ -1,0 +1,439 @@
+{
+    "Rank": 232,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05275075",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "OU-SCC-miRPanCa"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Oklahoma",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Identify microRNAs in Cachexia in Pancreatic Carcinoma",
+                "OfficialTitle": "Pilot Trial to Identify microRNAs in Cachexia in Patients With Pancreatic Carcinoma"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 7, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 1, 2028",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 2, 2022",
+                "StudyFirstSubmitQCDate": "March 2, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 11, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 9, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 10, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Oklahoma",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to determine the proportion of pancreatic patients who experience weight loss and cachexia, and to identify any differences in the genes between patient groups.",
+                "DetailedDescription": "This research study will retrospectively examine 1395 patients from the University of Alabama and the University of Oklahoma Stephenson Cancer Center (OU-SCC) pancreatic cancer cohorts. The prospective arm, will enroll a total of 100 eligible volunteers at the OU-SCC. The demographic and medical data from the retrospective and prospective arms will be combined (1495 patients) to ascertain any racial disparities in pancreatic cancer patients with cachexia. Perspective volunteers at the OU-SCC will undergo routine tests to determine if their cancer is operable. Pancreatic tumors will be removed from the eligible patients, as part of their normal standard of care and will be examined for genes that may be related to unexplained muscle loss and compared to tumor tissue from other patients with pancreatic cancer. An optional hand strength exam, and standing on a scale that measures weight, muscle, and body fat will be available to OU-SCC patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Resectable Pancreatic Adenocarcinoma"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "pancreatic cancer",
+                        "cachexia",
+                        "microRNA",
+                        "mRNA",
+                        "PDAC"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Cross-Sectional"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "After surgical removal of the pancreatic cancer, part of the tumor tissue will be collected to analyze genes and RNA related to muscle loss in patients with pancreatic tumors. A portion of the tumor will be archived in a repository for future use related to this study."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pancreatic Cancer Cohort",
+                            "ArmGroupDescription": "All eligible adenocarcinoma pancreatic cancer patients with operable cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Pancreatic cancer microRNA and messenger RNA expression."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Pancreatic cancer microRNA and messenger RNA expression.",
+                            "InterventionDescription": "Tumor specimens from pancreatic patients will be analyzed for markers associated with muscle loss.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer Cohort"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of African American pancreatic cancer patients with weight loss and cachexia.",
+                            "PrimaryOutcomeDescription": "Evaluate weight loss and the markers of cachexia, albumin and psoas cross-sectional area, to see if African Americans with pancreatic cancer patients experience Grade I-IV cachexia at a higher frequency than other racial groups.",
+                            "PrimaryOutcomeTimeFrame": "1 - 12 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Differences in microRNA and messenger RNA tumor expression profiles in all cancer patients undergoing pancreatic surgery.",
+                            "SecondaryOutcomeDescription": "Assess fold-change expression differences in microRNA and messenger RNA tumor expression profiles in all cancer patients undergoing pancreatic surgery.",
+                            "SecondaryOutcomeTimeFrame": "1 - 12 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Differences in cachexia-associated RNA signatures in African American pancreatic cancer patients, and other racial groups.",
+                            "SecondaryOutcomeDescription": "Assess fold-change expression differences in cachexia-associated RNA signatures in African American pancreatic cancer patients, and other racial groups.",
+                            "SecondaryOutcomeTimeFrame": "1 - 12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female patient, who is \u2265 18 years old at the time of informed consent.\nPatients with operable pancreatic tumors diagnosed in the last 12 months prior to consent with clinical discretion or pathology confirmed as adenocarcinoma.\nPatient has stage I or higher disease who is considered a candidate for surgical resection of pancreatic cancer, with or without neoadjuvant chemotherapy.\nAbility to provide written informed consent and HIPAA authorization.\n\nExclusion Criteria:\n\nPatients with pancreatic adenocarcinoma who do not meet the criteria for surgical resection.\nPatient has cancer diagnosis other than primary pancreatic adenocarcinoma.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "The study population is inclusive of all races, ethnicities, and gender. Enrollment into the study is restricted to Stephenson Cancer Center site, part of the University Oklahoma Health Sciences Center.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Lead Nurse",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "405.271.8777",
+                            "CentralContactEMail": "scc-iit-office@ouhsc.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ajay Jain, MD",
+                            "OverallOfficialAffiliation": "University of Oklahoma Stephenson Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Stephenson Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Oklahoma City",
+                            "LocationState": "Oklahoma",
+                            "LocationZip": "73117",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ajay Jain, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Ajay-Jain@ouhsc.edu"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000019282",
+                            "ConditionMeshTerm": "Wasting Syndrome"
+                        },
+                        {
+                            "ConditionMeshId": "D000002100",
+                            "ConditionMeshTerm": "Cachexia"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000015431",
+                            "ConditionAncestorTerm": "Weight Loss"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001836",
+                            "ConditionAncestorTerm": "Body Weight Changes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001835",
+                            "ConditionAncestorTerm": "Body Weight"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013851",
+                            "ConditionAncestorTerm": "Thinness"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008659",
+                            "ConditionAncestorTerm": "Metabolic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009748",
+                            "ConditionAncestorTerm": "Nutrition Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5053",
+                            "ConditionBrowseLeafName": "Cachexia",
+                            "ConditionBrowseLeafAsFound": "Cachexia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20955",
+                            "ConditionBrowseLeafName": "Wasting Syndrome",
+                            "ConditionBrowseLeafAsFound": "Cachexia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16045",
+                            "ConditionBrowseLeafName": "Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4804",
+                            "ConditionBrowseLeafName": "Body Weight",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17792",
+                            "ConditionBrowseLeafName": "Weight Loss",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4805",
+                            "ConditionBrowseLeafName": "Body Weight Changes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16304",
+                            "ConditionBrowseLeafName": "Thinness",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11329",
+                            "ConditionBrowseLeafName": "Metabolic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12374",
+                            "ConditionBrowseLeafName": "Nutrition Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC18",
+                            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

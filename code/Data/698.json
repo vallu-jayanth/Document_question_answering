@@ -1,0 +1,318 @@
+{
+    "Rank": 698,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04253509",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2019-11-080"
+                },
+                "Organization": {
+                    "OrgFullName": "Samsung Medical Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Liquid Biopsy Using Methylation Sequencing for Lung Cancer",
+                "OfficialTitle": "Clinical Utility of Circulating Tumor DNA Methylation in the Diagnosis of Primary Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 3, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 31, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 31, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 31, 2020",
+                "StudyFirstSubmitQCDate": "January 31, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 5, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 5, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 8, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Sang-Won Um",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Samsung Medical Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Samsung Medical Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "EDGC Inc.",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to investigate the utility of circulating tumor DNA (ctDNA) methylation sequencing in the diagnosis of primary lung cancer.",
+                "DetailedDescription": "Plasma sample of patients with and without lung cancer will be collected and analyzed using methylation-sensitive enzyme sequencing method. Diagnostic performance of ctDNA methylation sequencing will be compared with that of tumor markers (CEA, Cyfra 21-1, and NSE) combined."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Diagnoses Disease"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung Cancer",
+                        "Methylation Sequencing",
+                        "Liquid Biopsy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "280",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Circulating Tumor DNA Methylation Sequencing"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Benign pulmonary disease",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Circulating Tumor DNA Methylation Sequencing"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Circulating Tumor DNA Methylation Sequencing",
+                            "InterventionDescription": "Whole blood (21mL) collection through venipuncture. Analysis of tumor markers and ctDNA methylation sequencing.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Benign pulmonary disease",
+                                    "Lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Diagnostic sensitivity of ctDNA methylation sequencing",
+                            "PrimaryOutcomeDescription": "Using pathologic diagnosis of lung cancer as gold standard, diagnostic sensitivity of ctDNA methylation will be compared with that of tumor markers.",
+                            "PrimaryOutcomeTimeFrame": "2 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Diagnostic specificity of ctDNA methylation sequencing",
+                            "PrimaryOutcomeDescription": "Using pathologic diagnosis of lung cancer as gold standard, diagnostic specificity of ctDNA methylation will be compared with that of tumor markers.",
+                            "PrimaryOutcomeTimeFrame": "2 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Diagnostic accuracy of ctDNA methylation sequencing",
+                            "SecondaryOutcomeDescription": "Using pathologic diagnosis of lung cancer as gold standard, diagnostic accuracy of ctDNA methylation will be compared with that of tumor markers.",
+                            "SecondaryOutcomeTimeFrame": "2 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Positive predictive value of ctDNA methylation sequencing",
+                            "SecondaryOutcomeDescription": "Using pathologic diagnosis of lung cancer as gold standard, positive predictive value of ctDNA methylation will be compared with that of tumor markers.",
+                            "SecondaryOutcomeTimeFrame": "2 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Negative predictive value of ctDNA methylation sequencing",
+                            "SecondaryOutcomeDescription": "Using pathologic diagnosis of lung cancer as gold standard, negative predictive value of ctDNA methylation will be compared with that of tumor markers.",
+                            "SecondaryOutcomeTimeFrame": "2 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nLung cancer group\n\nPathologically proven lung cancer\nClinically suspected lung cancer on chest CT scan\n\nBenign pulmonary disease group\n\nChronic obstructive pulmonary disease, interstitial lung disease, pneumonia, bronchiectasis, non-tuberculous mycobacterial lung disease, pulmonary vascular disease\n\nExclusion Criteria:\n\nPatients with previous history of lung cancer\nPatients who have been diagnosed with other malignancy within 5 years\nUnstable vital status\nActive pulmonary tuberculosis\nInfection with hepatitis B virus (HBV), hepatitis C virus (HCV), or human immunodeficiency virus (HIV)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "15 Years",
+                "MaximumAge": "85 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Lung cancer\n\nPathologically proven lung cancer\n\nClinically suspected lung cancer on chest CT scan\n\nnodule, mass, pulmonary infiltrate, or consolidation\nsize : diameter at least 1 cm\nCT attenuation of solid or part-solid\nplanned to follow-up, biopsy, or surgical resection\n\nBenign pulmonary disease\n\nCOPD : post bronchodilator FEV1/FVC < 0.7 and FEV1 pred < 80%\nILD : either histologic or clinical diagnosis\nPneumonia : community or hospital acquired\nBronchiectasis : chest CT diagnosis\nNTM : at least 2 isolation of pathogen from sputum\nPulmonary vascular disease : embolism, pulmonary hypertension, arteriovenous malformation",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Sang-Won Um, MD, PhD",
+                            "OverallOfficialAffiliation": "Samsung Medical Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Samsung Medical Center",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000004194",
+                            "ConditionMeshTerm": "Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,615 @@
+{
+    "Rank": 642,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04857528",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB20-0410"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Chicago",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Detecting HPV DNA in Anal and Cervical Cancers",
+                "OfficialTitle": "Circulating HPV DNA in Cancers of the Anus and Uterine Cervix Treated With Definitive Radiation Therapy"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 6, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 15, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 15, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "April 8, 2021",
+                "StudyFirstSubmitQCDate": "April 20, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 23, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 26, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 28, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Chicago",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a research study for individuals who have cancer associated with human papillomavirus (HPV) and are being treated with radiation as part of standard care for their cancer. Doctors leading this study will use blood tests to find out if they can detect the HPV virus in the blood of study participants before, during, and after radiation treatment. They will also collect blood and archival tumor tissue (from a previous biopsy) to perform other tests in the future that could provide more information about HPV-associated cancers and how they respond to treatment. Participation in this study will last approximately 2 years."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cervical Cancer",
+                        "Anal Cancer",
+                        "HPV-Related Anal Squamous Cell Carcinoma",
+                        "HPV-Related Cervical Carcinoma",
+                        "HPV-Related Carcinoma",
+                        "Uterine Cervical Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "HPV",
+                        "radiation treatment",
+                        "cervical cancer",
+                        "anal cancer",
+                        "uterine cervix"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Retrospective (Participants Who Have Already Been Treated for HPV-Related Cancer Before Study)",
+                            "ArmGroupDescription": "This group will use medical records from participants who have already received chemoradiation for their HPV-related anal or cervical cancer at a time before this study started. Because they have already received treatment, these participants will provide previous blood/tumor tissue samples that contain detectable HPV DNA as well as at least one post-treatment sample that their doctor collected before the study. Data from these previously collected samples will be compared to current samples from participants who are actively enrolled in this study in present day (chart review)."
+                        },
+                        {
+                            "ArmGroupLabel": "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)",
+                            "ArmGroupDescription": "This group is for participants who plan to receive radiation treatment (with or without chemotherapy) for their HPV-related anal or cervical cancer during the time this study will be conducted. Participants in this group will sign a consent form allowing researchers to collect their blood samples and analyze/compare them to the samples from the retrospective group of participants.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: Radiation Treatment With or Without Chemotherapy",
+                                    "Other: Blood Sample Collection",
+                                    "Diagnostic Test: HPV Genotyping (HPV DNA Test)",
+                                    "Diagnostic Test: Testing Archival Tumor Tissue",
+                                    "Other: Physical Exam",
+                                    "Diagnostic Test: Positron Emission Tomography Scan (PET Scan)/ Computed Tomography Scan (CT Scan)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "Radiation Treatment With or Without Chemotherapy",
+                            "InterventionDescription": "Standard care radiation treatment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Blood Sample Collection",
+                            "InterventionDescription": "Researchers will collect blood samples from participants before, during and after radiation treatment. Approximately 6 teaspoons of blood will be collected each time blood is drawn.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "HPV Genotyping (HPV DNA Test)",
+                            "InterventionDescription": "A test used to detect the type of HPV DNA found in the participant's blood and tumor tissue samples.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Testing Archival Tumor Tissue",
+                            "InterventionDescription": "Tumor tissue will be tested in a lab for all cervical cancer participants and some participants with anal cancer as assessed by the lead study doctor. This tumor tissue sample will be from a previous biopsy that the participant received before the study per standard care; no new biopsy will be required for this study.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Physical Exam",
+                            "InterventionDescription": "A physical exam will be given 12 months after radiation treatment. This physical exam may also include an anoscopy (a procedure to examine the anus using a device inserted into the anus) or sigmoidoscopy (a procedure that looks at the rectum and lower part of the colon using a device inserted into the anus).",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Positron Emission Tomography Scan (PET Scan)/ Computed Tomography Scan (CT Scan)",
+                            "InterventionDescription": "Tests that use computers and/or rotating x-rays to scan/create images of the body.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prospective (Participants Who Will Receive Radiation Treatment for HPV-Related Cancer During Study)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of Participants With Detectable Circulating HPV DNA in Blood/Tumor Samples",
+                            "PrimaryOutcomeDescription": "The rate of participants who have detectable HPV DNA in their blood and tumor samples as assessed by analyzing blood/ tumor tissue samples using Polymerase chain reaction (PCR) tests.",
+                            "PrimaryOutcomeTimeFrame": "25 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Accuracy of HPV DNA Levels in Predicting Cancer Recurrence at 24 Months",
+                            "SecondaryOutcomeDescription": "The accuracy of post-treatment HPV DNA levels in predicting cancer recurrence at 24 months after treatment. This accuracy will be assessed using statistical calculations incorporating data from the participant's HPV DNA detection test results and clinical records.",
+                            "SecondaryOutcomeTimeFrame": "24 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nStage I-III anal cancer or stage I-IVA cervical cancer that is p16+ based on immunohistochemistry.\nAge \u2265 18 years\nPlanned to undergo radiation therapy as definitive treatment, with or without concurrent systemic therapy\n\nExclusion Criteria:\n\nAnal carcinoma not associated with HPV-16, 18, 31, 33, or 35 will be removed from the\nPlanned to undergo radiation therapy as an adjuvant or post-operative therapy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Participants will be identified and selected from patients receiving treatment in the Departments of Radiation Oncology at University of Chicago and all participating sites where this study is being conducted including. Individuals from the public who have an HPV-associated cancer and fit the listed inclusion criteria can also be considered for participation in this study.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Christina Son, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "773-702-6870",
+                            "CentralContactEMail": "cson@radonc.uchicago.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Christina Son, MD",
+                            "OverallOfficialAffiliation": "University of Chicago",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Illinois at Chicago",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60612",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Meredith Russell",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "mrussel3@uic.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Christina Son",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University of Chicago",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60637",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Clinical Trials Intake",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "855-702-8222",
+                                        "LocationContactEMail": "cancerclinicaltrials@bsd.uchicago.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Christina Son, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000002583",
+                            "ConditionMeshTerm": "Uterine Cervical Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000001005",
+                            "ConditionMeshTerm": "Anus Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014594",
+                            "ConditionAncestorTerm": "Uterine Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002577",
+                            "ConditionAncestorTerm": "Uterine Cervical Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014591",
+                            "ConditionAncestorTerm": "Uterine Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012004",
+                            "ConditionAncestorTerm": "Rectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001004",
+                            "ConditionAncestorTerm": "Anus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5240",
+                            "ConditionBrowseLeafName": "Carcinoma, Squamous Cell",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5520",
+                            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Cervical Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4011",
+                            "ConditionBrowseLeafName": "Anus Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Anal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17032",
+                            "ConditionBrowseLeafName": "Uterine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5515",
+                            "ConditionBrowseLeafName": "Uterine Cervical Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17029",
+                            "ConditionBrowseLeafName": "Uterine Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4010",
+                            "ConditionBrowseLeafName": "Anus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T362",
+                            "ConditionBrowseLeafName": "Anal Cancer",
+                            "ConditionBrowseLeafAsFound": "Anal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

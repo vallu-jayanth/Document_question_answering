@@ -1,0 +1,355 @@
+{
+    "Rank": 713,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03862001",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "17-22564"
+                },
+                "Organization": {
+                    "OrgFullName": "University of California, San Francisco",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Lung Cancer Screening: A Multilevel Intervention",
+                "OfficialTitle": "Lung Cancer Screening: A Multilevel Intervention",
+                "Acronym": "LungCARE"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 1, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 30, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 30, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 1, 2019",
+                "StudyFirstSubmitQCDate": "March 1, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 5, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 21, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 23, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of California, San Francisco",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Tobacco Related Disease Research Program",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The study will develop and test the feasibility of the Lung Cancer Assessment of Risk and Education (LungCARE) intervention to increase discussions about lung cancer screening between patients and physicians. This intervention will be designed to reach primary care patients and will be implemented at three levels of the healthcare structure: patient, physician, and system. The patient component includes a short lung cancer screening video and questions regarding screening preferences. Patients will receive immediate feedback in a report (patient report) that summarizes their lung cancer screening preferences and a handout summarizing the educational video. At the physician level, primary care physicians (PCPs) will receive a similar report (physician report), which will be delivered to them prior to the patient visit. The report contains additional information about documenting discussion related to risk, screening, and referrals in the electronic health record (EHR) system (system component). The investigators will develop the LungCARE intervention and have a comparison group that will receive usual care. Preliminary testing of LungCARE will occur via a randomized controlled trial (RCT) at the University of California, San Francisco, General Internal Medicine and Women's Health Primary Care clinics. The RCT will evaluate LungCARE among 50 PCPs and 120 high-risk current and former smoker patients. The investigators will determine whether the intervention is accepted by patients and physicians and whether patients who received LungCARE are more likely to discuss lung cancer screening with their physicians when compared to patients and physicians in the comparison group. The investigators will also determine whether the intervention affects knowledge of lung cancer and low-dose computed tomography (LDCT) screening, perception of risk, and worry about lung cancer in patients when compared to patients in the comparison group. The investigators expect their research to provide specific recommendations that will facilitate patient-physician discussions about LDCT screening and promote shared decision-making among patients and physicians."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "randomized control trial",
+                        "lung cancer risk assessment",
+                        "shared decision making"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignInterventionModelDescription": "The intervention will involve a randomized control trial (RCT) with an intervention group that receives LungCARE and a comparison group that does not receive LungCARE.",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "66",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "LungCARE Group",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The intervention group will receive the LungCARE intervention",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: LungCARE"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Comparison Group",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "The comparison group will receive usual care."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "LungCARE",
+                            "InterventionDescription": "The LungCARE intervention involves patient and PCP components. The patient component consists of watching a short, educational video, answering questions about lung cancer screening preferences, and receiving a patient report and handout.\n\nThe PCP component consists of receiving a similar report (physician report) prior to the patient visit. This report is based on the patient's risk factors and lung cancer screening preferences. It contains additional information about documenting discussions related to risk, screening, and referrals in the electronic medical record system.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "LungCARE Group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Discussion of lung cancer risk and LDCT screening with PCP",
+                            "PrimaryOutcomeDescription": "Outcome 1 will be assessed in the follow-up survey, administered within one week following the clinic visit. All patients will answer the following yes/no questions: \"During your PCP visit, did you discuss...your personal risk of getting lung cancer/the risks and benefits of screening/how often people should be screened/whether you should be screened?\", \"Did you discuss smoking cigarettes?\", \"Did you talk about smoking and the risk of lung cancer?\", and \"Did your doctor refer you to or order a test for lung cancer screening?\" Each question will be looked at individually and summed into a single score (0-7). Higher scores indicate an increased discussion of lung cancer risk and LDCT screening.\n\nThree months following the clinic visit, the investigators will review the electronic health records for all patients who signed HIPAA forms. Investigators will gather information about discussion of lung cancer risk and documentation, referrals, counseling, and receipt of LDCT screening.",
+                            "PrimaryOutcomeTimeFrame": "Over 3 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Knowledge of lung cancer screening",
+                            "PrimaryOutcomeDescription": "Outcome 2 will be assessed in the follow-up survey, administered within one week following the clinic visit. All patients will answer true/false questions addressing various screening topics (e.g. annual lung cancer screening, false negative scans, false positive scans, who should be screened, and radiation exposure). Correct answers will be given a score of 1 and incorrect answers will be given a score of 0. Responses for each question will be added up to a single score, ranging between 0 and 10. Lower scores indicate lower knowledge and higher scores indicate higher knowledge.",
+                            "PrimaryOutcomeTimeFrame": "Over one week"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Perception of lung cancer risk",
+                            "PrimaryOutcomeDescription": "Outcome 3 will be measured using an adapted Lerman Cancer Worry Scale. The following question will be asked over the course of one week, both prior to and following the clinic visit: \"In your opinion, compared to most people of your same age, sex, and race, what are you chances of getting lung cancer someday?\" Participants will use a five-point Likert scale (\"much higher\" [1], \"higher\" [2], \"about the same\" [3], \"lower\" [4], \"much lower\" [5]) to answer the questions. A higher score indicates a lower perception of lung cancer risk. Responses will be compared between the baseline and follow-up surveys.",
+                            "PrimaryOutcomeTimeFrame": "Over one week"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Worry about lung cancer",
+                            "SecondaryOutcomeDescription": "Outcome 4 will be measured using an adapted Lerman Cancer Worry Scale. The following questions will be asked over the course of one week, both prior to and following the clinic visit: \"How worried are you about getting lung cancer someday?\", \"During the past month, how much has your worry about lung cancer affected your mood?\", \"During the past month, how much has your worry about lung cancer affected your ability to perform your daily activities?\", and \"During the past month, how often have you thought about your chances of getting lung cancer?\" Patients will use a 5-point Likert scale (\"a lot\" [1], \"somewhat\" [2], \"a little\" [3], \"not at all\" [4]) to answer the first 3 questions and a 4-point Likert scale (\"almost all the time\" [1], \"often\" [2], \"sometimes\" [3], \"not at all or rarely\" [4]) to answer the last question. Higher scores indicate a lower perception of risk. Each question will be examined individually. Responses will be compared between the baseline and follow-up surveys.",
+                            "SecondaryOutcomeTimeFrame": "Over one week"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nage 55-80\nsmoked at least 30 pack-years in lifetime\nif former smoker, quit smoking within the last 15 years\nEnglish speaker\nno prior history of lung cancer\ndid not have a lung cancer screening test within the last year\nPCP does not object to patient's participation\nhave a scheduled visit at University of California, San Francisco (UCSF) internal medicine clinics.\n\nExclusion Criteria:\n\nspeaking a language other than English\nhas a history of lung cancer\nhad a lung cancer screening test within the last year\nPCP objects to patient's participation.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "55 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Celia Kaplan, DrPH",
+                            "OverallOfficialAffiliation": "University of California, San Francisco",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of California, San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94143",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "21714641",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "National Lung Screening Trial Research Team; Aberle DR, Adams AM, Berg CD, Black WC, Clapp JD, Fagerstrom RM, Gareen IF, Gatsonis C, Marcus PM, Sicks JD. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med. 2011 Aug 4;365(5):395-409. doi: 10.1056/NEJMoa1102873. Epub 2011 Jun 29."
+                        },
+                        {
+                            "ReferencePMID": "9032835",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Charles C, Gafni A, Whelan T. Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango). Soc Sci Med. 1997 Mar;44(5):681-92. doi: 10.1016/s0277-9536(96)00221-3."
+                        },
+                        {
+                            "ReferencePMID": "21442338",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Henderson S, DeGroff A, Richards TB, Kish-Doto J, Soloe C, Heminger C, Rohan E. A qualitative analysis of lung cancer screening practices by primary care physicians. J Community Health. 2011 Dec;36(6):949-56. doi: 10.1007/s10900-011-9394-2."
+                        },
+                        {
+                            "ReferencePMID": "12729175",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McBride CM, Emmons KM, Lipkus IM. Understanding the potential of teachable moments: the case of smoking cessation. Health Educ Res. 2003 Apr;18(2):156-70. doi: 10.1093/her/18.2.156."
+                        },
+                        {
+                            "ReferencePMID": "22209869",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Poghosyan H, Kennedy Sheldon L, Cooley ME. The impact of computed tomography screening for lung cancer on smoking behaviors: a teachable moment? Cancer Nurs. 2012 Nov-Dec;35(6):446-75. doi: 10.1097/NCC.0b013e3182406297."
+                        },
+                        {
+                            "ReferencePMID": "22610500",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bach PB, Mirkin JN, Oliver TK, Azzoli CG, Berry DA, Brawley OW, Byers T, Colditz GA, Gould MK, Jett JR, Sabichi AL, Smith-Bindman R, Wood DE, Qaseem A, Detterbeck FC. Benefits and harms of CT screening for lung cancer: a systematic review. JAMA. 2012 Jun 13;307(22):2418-29. doi: 10.1001/jama.2012.5521. Erratum In: JAMA. 2012 Oct 3;308(13):1324. JAMA. 2013 Jun 5;309(21):2212."
+                        },
+                        {
+                            "ReferencePMID": "28402085",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stacey D, Legare F, Lewis K, Barry MJ, Bennett CL, Eden KB, Holmes-Rovner M, Llewellyn-Thomas H, Lyddiatt A, Thomson R, Trevena L. Decision aids for people facing health treatment or screening decisions. Cochrane Database Syst Rev. 2017 Apr 12;4(4):CD001431. doi: 10.1002/14651858.CD001431.pub5."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "U.S. Preventive Services Task Force. USPTF Bulletin: U.S. Preventive Services Task Force Issues Draft Recommendation Statement on Screening for Lung Cancer. U.S. Preventive Services Task Force 2013.",
+                            "SeeAlsoLinkURL": "https://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/lung-cancer-screening"
+                        },
+                        {
+                            "SeeAlsoLinkLabel": "Center for Medicare and Medicaid Services. Decision memo for screening for lung cancer with low dose computed tomography (LDCT).",
+                            "SeeAlsoLinkURL": "https://www.cms.gov/medicare-coverage-database/details/nca-decision-memo.aspx?NCAId=274"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

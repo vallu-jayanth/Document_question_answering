@@ -1,0 +1,416 @@
+{
+    "Rank": 454,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01088204",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NCCCTS-09-448"
+                },
+                "Organization": {
+                    "OrgFullName": "National Cancer Center, Korea",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Feasibility Study of Laparoscopy-assisted D2 Distal Gastrectomy to Treat Advanced Gastric Cancer",
+                "OfficialTitle": "A Multicenter Randomized Phase II Clinical Trial of Laparoscopy Assisted Versus Open Distal Gastrectomy With D2 Lymph Node Dissection for Advanced Gastric Cancer",
+                "Acronym": "COACT_1001"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2015",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2011",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2016",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 15, 2010",
+                "StudyFirstSubmitQCDate": "March 16, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 17, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "October 5, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 7, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Young-Woo Kim",
+                    "ResponsiblePartyInvestigatorTitle": "Head of Department of Gastric Cancer Surgery",
+                    "ResponsiblePartyInvestigatorAffiliation": "National Cancer Center, Korea"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "National Cancer Center, Korea",
+                    "LeadSponsorClass": "OTHER_GOV"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to evaluate the oncological feasibility of laparoscopy-assisted distal gastrectomy with D2 lymph node dissection for advanced gastric cancer.",
+                "DetailedDescription": "To test oncological feasibility, compliance of nodal dissection was selected as a primary end point. When there are more than two missing nodal station(no lymph nodes in dissected area), it is defined as a non-compliant nodal dissection. Other secondary outcomes will be supplementary to evaluate feasibility of D2 dissection."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "204",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "open distal gastrectomy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "open distal gastrectomy with D2 lymph node dissection for patients with advanced gastric cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: open distal gastrectomy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "laparoscopy assisted distal gastrectomy",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "laparoscopy assisted distal gastrectomy with D2 lymph node dissection for patients with advanced gastric cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: laparoscopy assisted distal gastrectomy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "laparoscopy assisted distal gastrectomy",
+                            "InterventionDescription": "laparoscopy assisted distal gastrectomy with D2 lymph node dissection for patients with advanced gastric cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "laparoscopy assisted distal gastrectomy"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "LADG"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "open distal gastrectomy",
+                            "InterventionDescription": "open distal gastrectomy with D2 lymph node dissection for patients with advanced gastric cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "open distal gastrectomy"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "ODG"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "noncompliance rate",
+                            "PrimaryOutcomeDescription": "A Case will be designated as \"noncompliant\" when there are more than one missing lymph node station according to the guidelines of \"The Japanese Research Society for Gastric Cancer\" (JRSGC) lymph node grouping",
+                            "PrimaryOutcomeTimeFrame": "postoperative 1 week"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Postoperative surgical complications",
+                            "SecondaryOutcomeDescription": "Major and minor, and short term and long term complications related with surgery will be monitored and recorded according to classification of Accordion Severity Classification of Postoperative Complications; Expanded Classification.",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 day, 1 week, 1 months, 3 months, 6 months, 12 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "operating time",
+                            "SecondaryOutcomeDescription": "From skin incision to wound closure",
+                            "SecondaryOutcomeTimeFrame": "operation day"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "time to first flatus",
+                            "SecondaryOutcomeDescription": "the day when a patient relieve gastrointestinal gas",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 week"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "number of retrieved lymph nodes",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 week"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "number of retrieved lymph nodes at each stations",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 week"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "proximal resection margin",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 week"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "distal resection margin,",
+                            "SecondaryOutcomeTimeFrame": "postoperative 1 week"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "unanimity rate of 3 randomly assigned laparoscopic gastric cancer surgeons",
+                            "SecondaryOutcomeDescription": "Three randomly assigned laparoscopic gastric cancer surgeons would evaluate the uneditted video and photoes and validate the lymph node dissection according to each stations.When the three surgeons agree that D2 lymph node dissection was performed, it is considered as unanimity.",
+                            "SecondaryOutcomeTimeFrame": "postoperative 3 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "3-year disease free survival",
+                            "SecondaryOutcomeTimeFrame": "postoperative 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nhistologically proven primary gastric adenocarcinoma\nT2 or T3 or T4a, N0 or N1 or N2 or N3a (AJCC 7th), which is assessed by computed tomography (CT) scan - mid 1/3 or low 1/3 location\nNo evidence of other distant metastasis\nnot stump carcinoma,(vi) aged 20-80 year old\nperformance status (PS) of 0 or 1 on Eastern Cooperative Oncology Group (ECOG) scale\nno prior treatment of chemotherapy or radiation therapy against any other malignancies, and no prior treatment for gastric cancer including endoscopic mucosal resection\n\nadequate organ functions defined as indicated below:\n\nWBC 3000/mm3, WBC 12 000/mm3\nHb 8.0 g/dl without any transfusion 2 weeks before enrollment\nPlt 100 000/mm3\nAST 100 IU/l\nALT 100 IU/l\nT.Bil 2.0 mg/dl\nwritten informed consent\n\nExclusion Criteria:\n\nactive double cancer (synchronous double cancer and metachronous double cancer within five disease-free years), excluding carcinoma in situ (lesions equal to intraepithelial or intramucosal cancer)\npregnant or breast-feeding women\nsevere mental disorder\nsystemic administration of corticosteroids\nunstable angina or myocardial infarction within 6 months of the trial\nunstable hypertension\nsevere respiratory disease requiring continuous oxygen therapy\nprevious upper abdominal surgery except laparoscopic cholecystectomy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "20 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Young-Woo Kim, MD,PhD",
+                            "OverallOfficialAffiliation": "National Cancer Center, Korea",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Chonnam National University Hwasun Hospital",
+                            "LocationCity": "Hwasun",
+                            "LocationState": "Chollanam Do",
+                            "LocationZip": "519-763",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "National Cancer Center",
+                            "LocationCity": "Goyang",
+                            "LocationState": "Gyeonggi-do",
+                            "LocationZip": "411-764",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Gyengsang National University Hospital",
+                            "LocationCity": "Jinju",
+                            "LocationState": "Gyeongsangnam -Do",
+                            "LocationZip": "660-702",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Kyungpook national university hospital",
+                            "LocationCity": "Dae Gu",
+                            "LocationZip": "700-721",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Konyang University Hospital",
+                            "LocationCity": "Dae Jeon",
+                            "LocationZip": "302-718",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Dae Gu Veterans Hospital",
+                            "LocationCity": "Daegu",
+                            "LocationZip": "704-802",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Kosin University Gospel Hospital",
+                            "LocationCity": "Pusan",
+                            "LocationZip": "602-702",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28187041",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Park YK, Yoon HM, Kim YW, Park JY, Ryu KW, Lee YJ, Jeong O, Yoon KY, Lee JH, Lee SE, Yu W, Jeong SH, Kim T, Kim S, Nam BH; COACT group. Laparoscopy-assisted versus Open D2 Distal Gastrectomy for Advanced Gastric Cancer: Results From a Randomized Phase II Multicenter Clinical Trial (COACT 1001). Ann Surg. 2018 Apr;267(4):638-645. doi: 10.1097/SLA.0000000000002168."
+                        },
+                        {
+                            "ReferencePMID": "24156036",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Nam BH, Kim YW, Reim D, Eom BW, Yu WS, Park YK, Ryu KW, Lee YJ, Yoon HM, Lee JH, Jeong O, Jeong SH, Lee SE, Lee SH, Yoon KY, Seo KW, Chung HY, Kwon OK, Kim TB, Lee WK, Park SH, Sul JY, Yang DH, Lee JS. Laparoscopy Assisted versus Open Distal Gastrectomy with D2 Lymph Node Dissection for Advanced Gastric Cancer: Design and Rationale of a Phase II Randomized Controlled Multicenter Trial (COACT 1001). J Gastric Cancer. 2013 Sep;13(3):164-71. doi: 10.5230/jgc.2013.13.3.164. Epub 2013 Sep 30."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "National Cancer Center web site",
+                            "SeeAlsoLinkURL": "http://ncc.re.kr"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

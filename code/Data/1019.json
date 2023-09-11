@@ -1,0 +1,300 @@
+{
+    "Rank": 1019,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05680311",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "autotaxin1"
+                },
+                "Organization": {
+                    "OrgFullName": "Ankara Etlik City Hospital",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Autotaxin: a Potential Biomarker for Breast Cancer.",
+                "OfficialTitle": "Is Autotaxin a Promising Biomarker for Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 15, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 26, 2022",
+                "StudyFirstSubmitQCDate": "January 10, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 11, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 25, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 26, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Gaye Seker",
+                    "ResponsiblePartyInvestigatorTitle": "Assistant Professor of Surgery",
+                    "ResponsiblePartyInvestigatorAffiliation": "Ankara Etlik City Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ankara Etlik City Hospital",
+                    "LeadSponsorClass": "OTHER_GOV"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Diskapi Yildirim Beyazit Education and Research Hospital",
+                            "CollaboratorClass": "OTHER_GOV"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The goal of this clinical trial is to test the efficiency of Autotaxin (ATX) as a biomarker for breast cancer patients.\n\nThe main questions it aims to answer are;\n\nis ATX a reliable tumor marker for breast cancer patients in diagnosis\ncan ATX differentiate cancer patients from non-cancer ones",
+                "DetailedDescription": "80 breast cancer patients and 30 normal patients with no known cancer history were enrolled in this study. All patients were female. The mean ages of cancer patients were 58.2 and 52.7 consecutively for cancer and non-cancer patients. The mean serum ATX levels of cancer and non-cancer patients were 1570.72 and 121.86 ng/mL consecutively (p=0.001). The cut-off value of ATX serum level was 178.49ng/mL according to the ROC analysis. The area under the ROC curve was 0.901showing that ATX is very efficient in distinguishing between two diagnostic groups (diseased/normal). ATX also showed good correlations with known tumor markers (CEA, CA15-3, CA125 levels). ATX levels were still higher than the cut-off value even in cancer patients with normal or low classical tumor marker levels."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "autotaxin",
+                        "tumor marker"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "110",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Breast Cancer Patients",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Group of patients with verified breast cancer diagnosis",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: measurement of serum autotaxin serum level"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Non-Cancer patients",
+                            "ArmGroupType": "Sham Comparator",
+                            "ArmGroupDescription": "Group of healthy patients with no verified any type of cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: measurement of serum autotaxin serum level"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "measurement of serum autotaxin serum level",
+                            "InterventionDescription": "autotaxin expression",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast Cancer Patients",
+                                    "Non-Cancer patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Autotaxin as a tumor marker",
+                            "PrimaryOutcomeDescription": "Diagnostic value of Autotaxin in breast cancer",
+                            "PrimaryOutcomeTimeFrame": "preoperative period"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPreoperatively diagnosed breast cancer patients with no synchronous cancer and without known hepatic or other inflammatory disorders.\n\nExclusion Criteria:\n\nPatients with benign breast diseases and no known cancer history.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Duray Seker, Professor",
+                            "OverallOfficialAffiliation": "Ankara Etlik City Hospital",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Ankara Etlik City Hospital",
+                            "LocationCity": "Ankara",
+                            "LocationZip": "06170",
+                            "LocationCountry": "Turkey"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34503097",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Lukasiewicz S, Czeczelewski M, Forma A, Baj J, Sitarz R, Stanislawek A. Breast Cancer-Epidemiology, Risk Factors, Classification, Prognostic Markers, and Current Treatment Strategies-An Updated Review. Cancers (Basel). 2021 Aug 25;13(17):4287. doi: 10.3390/cancers13174287."
+                        },
+                        {
+                            "ReferencePMID": "19204929",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Gaetano CG, Samadi N, Tomsig JL, Macdonald TL, Lynch KR, Brindley DN. Inhibition of autotaxin production or activity blocks lysophosphatidylcholine-induced migration of human breast cancer and melanoma cells. Mol Carcinog. 2009 Sep;48(9):801-9. doi: 10.1002/mc.20524."
+                        },
+                        {
+                            "ReferencePMID": "32824846",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Brindley DN, Tang X, Meng G, Benesch MGK. Role of Adipose Tissue-Derived Autotaxin, Lysophosphatidate Signaling, and Inflammation in the Progression and Treatment of Breast Cancer. Int J Mol Sci. 2020 Aug 18;21(16):5938. doi: 10.3390/ijms21165938."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "all collected IPD",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol"
+                    ]
+                },
+                "IPDSharingTimeFrame": "from the onset of publication",
+                "IPDSharingAccessCriteria": "Only access criteria is citing the article"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

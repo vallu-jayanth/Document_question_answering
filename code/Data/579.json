@@ -1,0 +1,437 @@
+{
+    "Rank": 579,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05447637",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "INVPC-1000"
+                },
+                "Organization": {
+                    "OrgFullName": "Invitae Corporation",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "PROCLAIM: Germline Genetic Testing for Prostate Cancer Patients",
+                "OfficialTitle": "A Multi-center Prospective Observational Study of Community Urology Practices Applying Germline Genetic Testing for Prostate Cancer Patients (PROCLAIM)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 1, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 1, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 31, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 1, 2022",
+                "StudyFirstSubmitQCDate": "July 1, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 7, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 1, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 7, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Invitae Corporation",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This registry is for men who have prostate cancer and have had multigene panel hereditary testing. The registry will gather data on genetic testing results and how that information may change physician treatment or follow up recommendations. It will also gather data on the patient's experience with genetic testing, through a post-test survey to be completed 60-90days after results have been received and discussed with their provider.",
+                "DetailedDescription": "This registry will enroll men with prostate cancer who have done multi-gene testing for their cancer. Patients will be enrolled into two cohorts, one for individuals who meet current NCCN testing guidelines, and one for individuals who do not meet current NCCN guidelines.\n\nThe main goal of this Registry is to assess whether nationally developed guidelines used to select patients for hereditary testing are adequate to identify all patients with prostate cancer who may benefit from testing. Patients will completed a post-test survey regarding their testing experience and clinicians will be asked to provide additional medical records review information via the Clinician Report Form."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "6 Months",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "None Retained",
+                    "BioSpecDescription": "Blood samples provided for clinical genetic testing that include DNA."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1000",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Individuals who meet NCCN Testing Criteria",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Invitae multi-cancer gene panel"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Individuals who do not meet NCCN Testing Criteria",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Invitae multi-cancer gene panel"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Invitae multi-cancer gene panel",
+                            "InterventionDescription": "Invitae's multi-cancer panel tests for 84 genes associated with hereditary cancer risk.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Individuals who do not meet NCCN Testing Criteria",
+                                    "Individuals who meet NCCN Testing Criteria"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Diagnostic yield of pathogenic and likely pathogenic genes in the patient population",
+                            "PrimaryOutcomeDescription": "Identify the diagnostic yield of pathogenic/likely pathogenic variants in known cancer syndrome genes in patients with prostate cancer, using the Invitae 84 gene multi-cancer panel. These rates will be compared between the two cohorts.",
+                            "PrimaryOutcomeTimeFrame": "to be assessed at baseline only"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluate the sensitivity of current NCCN criteria for germline genetic testing for identifying prostate cancer patients that have pathogenic/likely pathogenic variants",
+                            "SecondaryOutcomeDescription": "Compare rates of pathogenic / likely pathogenic variants found in both cohorts after testing using the Invitae 84 gene multi cancer panel.",
+                            "SecondaryOutcomeTimeFrame": "at baseline only"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluate the impact of genetic test results on clinical management decisions",
+                            "SecondaryOutcomeDescription": "Post-Test surveys for patients and the clinician report form will assess whether changes to clinical management were made as a result of the test results.",
+                            "SecondaryOutcomeTimeFrame": "60-90 days post test results received."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMen ages 18-90 who have been prescribed genetic testing as part of their clinical care\nHave prostate cancer at any stage, either actively under treatment or being followed who either: 1. meet NCCN criteria for testing or 2. do not meet NCCN criteria for testing\nPatients who are naive to clinical genetic testing for BRCA1/BRCA2 (single gene panel testing)\n\nExclusion Criteria:\n\nMental or cognitive impairment that interferes with ability to provide informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "GenderBased": "Yes",
+                "GenderDescription": "Men",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Men who have a diagnosis of prostate cancer who have not previously undergone testing for multi-gene hereditary cancer risk.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Genesis Healthcare Partners",
+                            "LocationCity": "San Diego",
+                            "LocationState": "California",
+                            "LocationZip": "92123",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Invitae",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94103",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94158",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Volunteer Faculty, University of California San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94158",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Colorado Urology",
+                            "LocationCity": "Lakewood",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80228",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Advanced Urology Institute",
+                            "LocationCity": "Saint Petersburg",
+                            "LocationState": "Florida",
+                            "LocationZip": "33710",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Florida Urology Partners",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33606",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "TGH Cancer Institute",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33606",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "North Georgia Urology",
+                            "LocationCity": "Dalton",
+                            "LocationState": "Georgia",
+                            "LocationZip": "30720",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Associated Urological Specialists",
+                            "LocationCity": "Chicago Ridge",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60415",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University Urology Associates of New Jersey",
+                            "LocationCity": "Hamilton",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08690",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Perlmutter Cancer Center, NYU Langone Health, New York",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10016",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Associated Medical Professionals",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13210",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "MidLantic Urology",
+                            "LocationCity": "Bala-Cynwyd",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19004",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Carolina Urologic Research Center",
+                            "LocationCity": "Myrtle Beach",
+                            "LocationState": "South Carolina",
+                            "LocationZip": "29572",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Urology Associates, P.C.",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37211",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Urology Partners",
+                            "LocationCity": "Arlington",
+                            "LocationState": "Texas",
+                            "LocationZip": "76017",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Urology Austin",
+                            "LocationCity": "Austin",
+                            "LocationState": "Texas",
+                            "LocationZip": "78759",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Urosurgery Houston",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77002",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "No plan to share IPD at this time."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

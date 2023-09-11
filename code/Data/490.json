@@ -1,0 +1,456 @@
+{
+    "Rank": 490,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00004891",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MSKCC-99048"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "CDR0000067567",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "PDQ (Physician Data Query)"
+                        },
+                        {
+                            "SecondaryId": "NCI-G00-1695"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PET and CT Scans in Patients With Locally Advanced Primary Rectal Cancer That Can Be Removed During Surgery",
+                "OfficialTitle": "Prospective Evaluation of 18F-Fluorodeoxyglucose Positron Emission Tomography (FDG-PET) in the Multimodality Management of Locally Advanced Primary Rectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 1999"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 2007",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 7, 2000",
+                "StudyFirstSubmitQCDate": "January 26, 2003",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 27, 2003",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 21, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 22, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Diagnostic procedures, such as PET and CT scans, may improve the ability to detect the extent of locally advanced primary rectal cancer and may also help to measure a patient's response to treatment.\n\nPURPOSE: This clinical trial is studying how well PET and CT scans detect residual or metastatic disease in patients with locally advanced primary rectal cancer that can be removed during surgery.",
+                "DetailedDescription": "OBJECTIVES:\n\nDetermine if fludeoxyglucose F 18 positron emission tomography (FDG-PET) is superior to CT scan at monitoring rectal cancer response to radiation and chemotherapy by identifying residual rectal cancer in the rectal wall or pelvic lymph nodes in order to optimize selection of patients suitable for a sphincter preserving rectal cancer resection or a local excision.\nDetermine the accuracy of FDG-PET in detecting extrapelvic metastatic disease in primary rectal cancer patients considered operable on the basis of currently accepted diagnostic work-up, including abdominal CT scan and chest x-ray.\n\nOUTLINE: This is a diagnostic study conducted concurrently with multimodality management.\n\nWithin 1-2 weeks prior to starting preoperative radiotherapy/chemotherapy, patients undergo baseline positron emission tomography (PET) imaging of the thorax, abdomen, and pelvis. Patients receive fludeoxyglucose F 18 (FDG) IV followed 45 minutes later by PET imaging. Patients also undergo baseline CT imaging of the abdomen and pelvis. A CT scan of the chest is obtained if the prestudy chest x-ray is abnormal.\n\nPatients receive preoperative radiotherapy/chemotherapy. Within 4-6 weeks of completion of radiotherapy/chemotherapy, patients undergo repeat FDG-PET imaging and CT scan. Patients undergo surgical resection 1-2 weeks later.\n\nPROJECTED ACCRUAL: A total of 125 patients will be accrued for this study within 3 years."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage II rectal cancer",
+                        "stage III rectal cancer",
+                        "stage IV rectal cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "149",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "primary resectable rectal cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: chemotherapy",
+                                    "Procedure: computed tomography",
+                                    "Procedure: conventional surgery",
+                                    "Procedure: neoadjuvant therapy",
+                                    "Procedure: positron emission tomography",
+                                    "Procedure: radionuclide imaging",
+                                    "Radiation: fludeoxyglucose F 18",
+                                    "Radiation: radiation therapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "chemotherapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "computed tomography",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "conventional surgery",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "neoadjuvant therapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "positron emission tomography",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "radionuclide imaging",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "fludeoxyglucose F 18",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "radiation therapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "primary resectable rectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Determine if fludeoxyglucose F 18 positron emission tomography (FDG-PET) is superior to CT scan",
+                            "PrimaryOutcomeDescription": "at monitoring rectal cancer response to radiation and chemotherapy by identifying residual rectal cancer in the rectal wall or pelvic lymph nodes in order to optimize selection of patients suitable for a sphincter preserving rectal cancer resection or a local excision",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Determine the accuracy of FDG-PET",
+                            "SecondaryOutcomeDescription": "in detecting extrapelvic metastatic disease in primary rectal cancer patients considered operable on the basis of currently accepted diagnostic work-up, including abdominal CT scan and chest x-ray.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nPrimary resectable rectal cancer as determined by currently accepted diagnostic work-up, including CT scan and endorectal ultrasound (EUS)\n\nMust meet criteria for preoperative radiotherapy and chemotherapy:\n\nBulky tumors and/or EUS evidence of T3-4 and/or N1 disease\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n18 and over\n\nPerformance status:\n\nNot specified\n\nLife expectancy:\n\nNot specified\n\nHematopoietic:\n\nNot specified\n\nHepatic:\n\nNot specified\n\nRenal:\n\nNot specified\n\nOther:\n\nNot pregnant or nursing\nNo uncontrolled diabetes mellitus (i.e., greater than 175 mg/dL)\nNo intolerance of being inside PET scanner for duration of study\nNo vulnerable patients (e.g., mentally retarded or prisoners)\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\nNot specified\n\nChemotherapy:\n\nSee Disease Characteristics\n\nEndocrine therapy:\n\nNot specified\n\nRadiotherapy:\n\nSee Disease Characteristics\n\nSurgery:\n\nSee Disease Characteristics",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "120 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jose G. Guillem, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "17882490",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Nahas CS, Akhurst T, Yeung H, Leibold T, Riedel E, Markowitz AJ, Minsky BD, Paty PB, Weiser MR, Temple LK, Wong WD, Larson SM, Guillem JG. Positron emission tomography detection of distant metastatic or synchronous disease in patients with locally advanced rectal cancer receiving preoperative chemoradiation. Ann Surg Oncol. 2008 Mar;15(3):704-11. doi: 10.1245/s10434-007-9626-y. Epub 2007 Sep 20. Erratum In: Ann Surg Oncol. 2008 Apr;15(4):1265. Leibold, Tobias [added]."
+                        },
+                        {
+                            "ReferencePMID": "10813118",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Guillem JG, Puig-La Calle J Jr, Akhurst T, Tickoo S, Ruo L, Minsky BD, Gollub MJ, Klimstra DS, Mazumdar M, Paty PB, Macapinlac H, Yeung H, Saltz L, Finn RD, Erdi Y, Humm J, Cohen AM, Larson S. Prospective assessment of primary rectal cancer response to preoperative radiation and chemotherapy using 18-fluorodeoxyglucose positron emission tomography. Dis Colon Rectum. 2000 Jan;43(1):18-24. doi: 10.1007/BF02237238."
+                        },
+                        {
+                            "ReferencePMID": "23187748",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Guillem JG, Ruby JA, Leibold T, Akhurst TJ, Yeung HW, Gollub MJ, Ginsberg MS, Shia J, Suriawinata AA, Riedel ER, Mazumdar M, Saltz LB, Minsky BD, Nash GM, Paty PB, Temple LK, Weiser MR, Larson SM. Neither FDG-PET Nor CT can distinguish between a pathological complete response and an incomplete response after neoadjuvant chemoradiation in locally advanced rectal cancer: a prospective study. Ann Surg. 2013 Aug;258(2):289-95. doi: 10.1097/SLA.0b013e318277b625."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000019788",
+                            "InterventionMeshTerm": "Fluorodeoxyglucose F18"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000019275",
+                            "InterventionAncestorTerm": "Radiopharmaceuticals"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M21376",
+                            "InterventionBrowseLeafName": "Fluorodeoxyglucose F18",
+                            "InterventionBrowseLeafAsFound": "Combination Product",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20948",
+                            "InterventionBrowseLeafName": "Radiopharmaceuticals",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

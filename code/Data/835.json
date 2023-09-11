@@ -1,0 +1,729 @@
+{
+    "Rank": 835,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04118192",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RG_16-108"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Birmingham",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "NOSTRA-Feasibility Study: A Study Looking at Ultrasound Guided Biopsies for Breast Cancer",
+                "OfficialTitle": "Can Patients With Residual Cancer After Chemotherapy for Early Breast Cancer be Identified With Multiple Ultrasound-guided Biopsies?",
+                "Acronym": "NOSTRA"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 22, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 5, 2019",
+                "StudyFirstSubmitQCDate": "October 3, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 8, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 9, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 10, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Birmingham",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Roche Pharma AG",
+                            "CollaboratorClass": "INDUSTRY"
+                        },
+                        {
+                            "CollaboratorName": "Cancer Research UK",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A prospective non-randomised multi-centre feasibility study to assess if patients with residual cancer following dual-targeted neoadjuvant chemotherapy treatment for HER2-positive, ER-negative early breast cancer can be identified by multiple ultrasound (US)-guided tumour bed core biopsies",
+                "DetailedDescription": "The NOSTRA-Feasibility study is designed to determine if it is safe to omit surgery after the planned neoadjuvant chemotherapy plus dual-targeted anti-HER2 treatment. The study is needed to determine whether patients with residual cancer can be identified by histological examination of multiple ultrasound-guided tumour bed core biopsies following dual-targeted neoadjuvant treatment for HER2-positive, ER-negative early primary breast cancer and whether there is concordance between local pathology reporting and central pathology reporting by the trials expert pathologists."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "HER2 positive",
+                        "ER negative",
+                        "Tumour bed core biopsies"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Tumour bed core biopsies"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "150",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Tumour bed core biopsy",
+                            "InterventionDescription": "Collection of up to 8 core biopsies across 4 zones of the whole tumour bed to detect residual cancer post neo-adjuvant treatment"
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Observed number of patients with false negative biopsies",
+                            "PrimaryOutcomeDescription": "The observed number of patients with false negative biopsies (i.e. no tumour in the biopsy but tumour in the surgical specimen) as a proportion of all those assessed by Local Histopathology Review",
+                            "PrimaryOutcomeTimeFrame": "12 months post last patient recruited"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Concordance between Local and Central Histopathology Review of core biopsies",
+                            "SecondaryOutcomeDescription": "is defined as the number of patients whose initial local pathological assessment of pCR is confirmed by Central Histopathology Review",
+                            "SecondaryOutcomeTimeFrame": "12 months post last patient recruited"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Compliance with treatment",
+                            "SecondaryOutcomeDescription": "assessed by calculating relative dose intensity taking into account of both reductions in dose and delays to treatment.",
+                            "SecondaryOutcomeTimeFrame": "12 months post last patient recruited"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to local recurrence",
+                            "SecondaryOutcomeDescription": "Compliance with neoadjuvant and adjuvant treatment; will be assessed by calculating relative dose intensity taking into account of both reductions in dose and delays to treatment.",
+                            "SecondaryOutcomeTimeFrame": "Number of days from registration to local recurrence (if within trial duration, approximately 6.5 years)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to distant recurrence",
+                            "SecondaryOutcomeDescription": "defined in whole days from date of registration to distant recurrence or death from any cause. Patients who are alive and without distant recurrence at the time of analysis will be censored at the date last seen.",
+                            "SecondaryOutcomeTimeFrame": "Number of days from registration to local recurrence (if within trial duration, approximately 6.5 years)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival",
+                            "SecondaryOutcomeDescription": "defined in whole days as the date of registration to death from any cause. Patients alive at the time of analysis will be censored at the date last seen.",
+                            "SecondaryOutcomeTimeFrame": "Whole days from registration to death from any cause (if within trial duration, approximately 6.5 years)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Re-evaluation of the primary outcome using the central pathological review determination of RCB to define false negative biopsies as RCB-0 or 1 (i.e. no tumour or minimal residual disease) in the core biopsies but RCB-2 or 3 in the surgical specimen",
+                            "SecondaryOutcomeDescription": "This will be reported as a proportion of all recruited patients",
+                            "SecondaryOutcomeTimeFrame": "Post-last patient last surgery (within approximately 6.5 years of start of trial)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Ability of the axillary lymph node assessments post-neoadjuvant treatment to identify definitive axillary lymph node involvement determined by surgery histopathology",
+                            "SecondaryOutcomeDescription": "Sensitivity, specificity and false negative rates will be reported.",
+                            "SecondaryOutcomeTimeFrame": "Post-last patient last surgery (within approximately 6.5 years of start of trial)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient with histological diagnosis of operable HER2-positive, ER-negative, early stage invasive breast cancer\nTumour size \u2265 1cm and visible on US (T1c to T4d)\nPatient fit and willing to receive, or is already receiving and has received no more than five cycles of a NOSTRA-Feasibility Study approved treatment regimen, in the opinion of the responsible clinician\nEastern Co-operative Group (ECOG) performance status of 0 or 1\nWomen of child-bearing potential, prepared to adopt highly effective contraceptive measures if sexually active for at least 6 months after completion of study medication\nFemale, 18 years or older\nAble to provide informed consent for the study\nAvailability of embedded paraffin tumour blocks from pre-chemotherapy biopsy\nThe radiology team are able and willing to perform the tumour bed core biopsies\n\nExclusion Criteria:\n\nPrevious ipsilateral invasive breast cancer or Ductal Carcinoma in Situ (DCIS)\nUnequivocal evidence of distant metastatic disease at registration\nMulti-focal disease at diagnosis\nActive malignancy\nPrevious chemotherapy\nPrior extensive radiotherapy (as judged by the Investigator) to bone marrow\nRisk factors precluding the safe administration of the intended cytotoxic chemotherapy regimen\nPatient unsuitable for the planned dual-targeted anti-HER2 treatment in opinion of the Investigator\nPrior diagnosis of cardiac failure\nUncontrolled hypertension, coronary heart disease or other significant cardiac abnormality\nBleeding diathesis\nAny evidence of other disease which in the opinion of the Investigator places the patient at high risk of treatment related complications\nPregnant (female patients of child bearing potential must have a urine or blood Human Chorionic Gonadotropin test performed to rule out pregnancy prior to study entry)\nPatient lactating\nPatients who have received live vaccine within 4 weeks of the date of study entry\nAny concomitant medical or psychiatric problems which in the opinion of the Investigator would prevent completion of treatment or follow-up\nPatient unfit and/or unwilling to undergo surgery\nPatient unwilling or unable to comply with scheduled visits, treatment plan and study procedures\nPatient has started protocol non-compliant neo-adjuvant chemotherapy\nPatient has started approved neoadjuvant chemotherapy but insufficient data is available to complete relevant CRFs\nPatient has already received more than five cycles of approved neoadjuvant chemotherapy\n\nAdditional Inclusion Criteria for ctDNA Sub-Study\n\nPatient has not yet started neoadjuvant treatment\nPatient is willing and able to give blood samples as per ctDNA Sub-Study Guidelines",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "HER-2 positive ER-negative breast cancer patients",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Natalia Nicholson",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "0121 414 3604",
+                            "CentralContactEMail": "nostra@trials.bham.ac.uk"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Daniel Rea",
+                            "OverallOfficialAffiliation": "University of Birmingham",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Basildon Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Basildon",
+                            "LocationState": "Essex",
+                            "LocationZip": "SS16 5NL",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Zina Aladili",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Zina Aladili",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Belfast City Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Belfast",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Eimear Nicholl",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Stuart McIntosh",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Queen Elizabeth Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Birmingham",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Shilpa Pius",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Daniel Rea",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Blackpool Teaching Hospitals NHS Trust",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Blackpool",
+                            "LocationZip": "FY3 8NR",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pavel Bezecny",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Pavel Bezecny",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Southmead Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bristol",
+                            "LocationZip": "BS10 5NB",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sam Loud",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Alexandra Valencia",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University Hospital of Llandough",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cardiff",
+                            "LocationZip": "CF64 2XX",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Goyal Sumit",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Goyal Sumit",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Cheltenham General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cheltenham",
+                            "LocationZip": "GL53 7AN",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Daniel Nelmes",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Daniel Nelmes",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Dumfries and Galloway Royal Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Dumfries",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Janice Duignan",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Aisling Hennessy",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Western General",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Edinburgh",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Richard Allan",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Caroline Michie",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Northwick Park Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Harrow",
+                            "LocationZip": "HA1 3UJ",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Prasanna Gurung",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Sabina Rashid",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "St James's University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Leeds",
+                            "LocationZip": "LS9 7TF",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Amy Barber",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Sebastian Trainor",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Liverpool Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Liverpool",
+                            "LocationZip": "L7 8XP",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alison McNamee",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Julia Henderson",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Marsden Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "London",
+                            "LocationZip": "SW3 6JJ",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Holly Hogan",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Marios Tasoulis",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Borders General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Melrose",
+                            "LocationZip": "TD6 9BS",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Carol Bedi",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Carol Bedi",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Royal Victoria Infirmary",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Newcastle Upon Tyne",
+                            "LocationZip": "NE1 4LP",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Henry Cain",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Henry Cain",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Nottingham City Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nottingham",
+                            "LocationZip": "NG5 1PB",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Steve Chan",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Steve Chan",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Peterborough City Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Peterborough",
+                            "LocationZip": "PE3 9GZ",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sarah Ayers",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Sarah Ayers",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Poole Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Poole",
+                            "LocationZip": "BH15 2JB",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Abigail Evans",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Abigail Evans",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Weston Park Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sheffield",
+                            "LocationZip": "S10 2SJ",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Matthew Winter",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Matthew Winter",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Southampton General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Southampton",
+                            "LocationZip": "SO16 6YD",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ramsey Cutress",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Ramsey Cutress",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Singleton Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Swansea",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Helen Cheley",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Nia Viney",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Marianne Dillon",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Arrowe Park Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Upton",
+                            "LocationZip": "CH49 5PE",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Raman Vinayagam",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Raman Vinayagam",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Thomas Linacre Centre",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Wigan",
+                            "LocationZip": "WN1 1RU",
+                            "LocationCountry": "United Kingdom",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jenny Cannon",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Konstantinos Zacharioudakis",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

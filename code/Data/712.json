@@ -1,0 +1,347 @@
+{
+    "Rank": 712,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05374044",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "SF2020-1-2151"
+                },
+                "Organization": {
+                    "OrgFullName": "Peking University Cancer Hospital & Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Establishment of MRI Model for pTRG in Rectal Cancer With Establishment of",
+                "OfficialTitle": "Establishment of a Quantified Imaging Method for Evaluating Tumor Response Grade in Rectal Cancer Patient With Neoadjuvant Therapy: a Multi-center Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 18, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 30, 2023",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "December 14, 2021",
+                "StudyFirstSubmitQCDate": "May 11, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 13, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 19, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 22, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Sun Ying-Shi",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Peking University Cancer Hospital & Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Peking University Cancer Hospital & Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Capital's Funds for Health Improvement and Research (2020-1- 2151).",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study proposeto integrate a variety of imaging quantitative indicators to establish a new MRI-based tumor response regression(mrTRG) classification method. The accuracy of the established mrTRG classification method according pathology TRG(pTRG) will be tested. The ability of the established mrTRG classification method to predict prognosis will also be tested.",
+                "DetailedDescription": "The study included two part: one is a retrospective single-center cohort for analyzing quantitative MRI factors associated with pTRG, from which a new MRI-based tumor response regression(mrTRG) classification method will be established. The other is a prospective multi-center cohort for testing the accuracy of the established mrTRG classification according to pTRG; and also for validating the established mrTRG classification associated with survival."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "rectal cancer",
+                        "neoadjuvant therapy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "385",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "rectal cancer with NAT",
+                            "ArmGroupDescription": "The patients are planned to receive neoadjvant therapy, and then receive radical surgery.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: pelvic MRI for establishing new mrTRG method"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "pelvic MRI for establishing new mrTRG method",
+                            "InterventionDescription": "they will received two pelvic MR examinations before and after neoadjvant therapy. The MRI before neoadjvant therapy is considered as baseline MRI, which is usually taken within 3 weeks before NAT. The MRI after neoadjvant therapy is considered as preoperative MRI, which is usually taken within 3-8 weeks before NAT.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "rectal cancer with NAT"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "pathological tumor regression grade(pTRG)",
+                            "PrimaryOutcomeDescription": "pTRG is evaluated according to the AJCC system. pTRG0-1 is defined as good response, pTRG2 as moderate response, and pTRG3 as poor response. The pTRG is judged by two experienced pathologists working together. If there are any discrepancies, then a third senior pathologist is consulted for arbitration. there were any discrepancies, then a third senior pathologist was consulted. there were any discrepancies, then a third senior pathologist was consulted.",
+                            "PrimaryOutcomeTimeFrame": "within 2 weeks after surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "distant metastasis",
+                            "SecondaryOutcomeDescription": "Distant metastastic lesion detected by follow-up CT which will be performed every 3 month for the first two year and every 6 month since the third year",
+                            "SecondaryOutcomeTimeFrame": "3 years from the data of surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Death",
+                            "SecondaryOutcomeDescription": "all cause death",
+                            "SecondaryOutcomeTimeFrame": "3 years from the data of surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "local recurrence",
+                            "SecondaryOutcomeTimeFrame": "3 years from the data of surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nbiopsy-proved primary rectal cancer\nbaseline MRI confirmed LARC (cT3 and/or cN+)\nscheduled to take neoadjuvant therapy\nreceive baseline and preoperative pelvic MRI\nreceive TME surgery after NAT\nhave routine follow-up after the operation\n\nExclusion Criteria:\n\nhistory of malignancy or multiple primary cancers\nreceive surgery directly without NAT\ndon't receive TME surgery\ndon't complete NAT\nsimultaneous distant metastasis at the baseline diagnosis\nlack of baseline or preoperative pelvic MRI\nincomplete or unavailable pathological information\nlost to follow-up within three months after surgery (lost since the first follow-up visit)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "biopsy-proved primary locally advanced rectal adenocarcinoma(cT3 and/or cN+)",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ying-Shi Sun, MD",
+                            "OverallOfficialAffiliation": "Peking University Cancer Hospital & Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Chinese PLA General Hospital",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100039",
+                            "LocationCountry": "China"
+                        },
+                        {
+                            "LocationFacility": "Beijing Cancer Hospital",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100142",
+                            "LocationCountry": "China"
+                        },
+                        {
+                            "LocationFacility": "Peking University Shougang Hospital",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100142",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

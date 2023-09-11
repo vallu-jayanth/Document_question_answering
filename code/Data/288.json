@@ -1,0 +1,451 @@
+{
+    "Rank": 288,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05755672",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2022-01242-01"
+                },
+                "Organization": {
+                    "OrgFullName": "Region Skane",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "On-treatment Biomarkers in Metastatic Colorectal Cancer for Life",
+                "OfficialTitle": "On-treatment Biomarkers in Metastatic Colorectal Cancer for Life: The On-CALL Study",
+                "Acronym": "On-CALL"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 1, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2033",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 17, 2023",
+                "StudyFirstSubmitQCDate": "March 2, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 6, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 21, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Region Skane",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "By virtue of an increased strategic use of cytotoxic and biological agents, and more options for locoregional treatment, the survival of patients with metastatic colorectal cancer (mCRC) has improved considerably in the past decades. The personalized approach to systemic treatment is further aided by the use of complementary molecular biomarkers. However, the evolutionary dynamics of mCRC, a disease harnessed by multiple adaptive genetic alterations towards its final stages, poses a particular challenge to single-sample biomarker analyses and standardized linear treatment protocols. The aim of the On-treatment biomarkers in metastatic ColorectAL cancer for Life (On-CALL) study is to generate further knowledge on the evolutionary progression of mCRC during treatment, and to elucidate the mechanisms underlying the therapeutic failure still seen in a substantial number of patients.\n\nThe On-CALL study is a prospective, single-arm observational study. All patients diagnosed with synchronous mCRC treated with curative intent at Sk\u00e5ne University Hospital will be invited to participate. Clinical and histopathological data will be compiled at study entry. An individual tissue microarray block with samples from resected primary tumours and metastases representing the full extent of the tumour spread will be constructed for each patient. Blood samples will be drawn for biomarker analyses at multiple time points prior to, during and after systemic treatment. DNA sequencing of tumour tissue and circulating tumour DNA (ctDNA) will be performed to define the spatial clonal landscape in primary tumours and metastases, as well as over time.",
+                "DetailedDescription": "The aim of the On-treatment biomarkers in metastatic ColorectAL cancer for Life (On-CALL) study is to generate further knowledge on the evolutionary progression of mCRC during treatment with curative intent, and to elucidate the mechanisms underlying the therapeutic failure still seen in a substantial number of patients.\n\nThe specific objectives are:\n\nTo comprehensively characterise the spatial intertumoural, intermetastatic and intrametastatic genetic heterogeneity\nTo delineate differences in the prevalence and type of genetic heterogeneity, as well as tumour evolvability, according to metastatic site\nTo examine the associations between spatial and temporal heterogeneity\nTo examine ctDNA quantity and quality as an early biomarker for response to neoadjuvant treatment\nTo examine ctDNA quantity and quality as an early biomarker for response to adjuvant treatment\nTo evaluate the relationship between phylogenetic patterns, i.e. the tumour evolvability, and survival in relation to different treatment modalities\nTo examine the heterogeneity of the tumour microenvironment in relation to the genetic heterogeneity and evolvability of the tumours\nTo examine circulating immune cells and inflammatory biomarkers, and their relationship with the genetic and microenvironmental heterogeneity of the tumours\nTo delineate parallel events at the transcriptomic and proteomic levels, with particular reference to their potential utility as clinically relevant surrogate biomarkers of genetic alterations underlying the evolvability of the tumours"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Colorectal Cancer",
+                        "Chemotherapy Effect",
+                        "Peritoneal Metastases",
+                        "Liver Metastasis Colon Cancer",
+                        "Lung Metastases"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Metastatic colorectal cancer",
+                        "Chemotherapy",
+                        "Targeted therapy",
+                        "Tumor heterogeneity",
+                        "Tumor evolution"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "10 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Tissue from the first histological specimen for diagnosis (usually a biopsy)\nBlood sample during ongoing neoadjuvant and/or adjuvant chemotherapy\nTissue from the surgical resection specimen (primary tumour and resected metastases)"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Synchronous mCRC patients",
+                            "ArmGroupDescription": "Patients diagnosed with synchronous metastatic colorectal cancer with planned treatment with curative intent at Sk\u00e5ne University Hospital (Malm\u00f6 and Lund), who have accepted the study invitation (agreeing to participation - informed consent)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Chemotherapy",
+                                    "Procedure: Resection of the primary tumor",
+                                    "Procedure: Resection of tumour metastases",
+                                    "Procedure: Blood sampling during chemotherapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Chemotherapy",
+                            "InterventionDescription": "Neo-adjuvant and adjuvant chemotherapy with curative intent, according to the current clinical practice guidelines",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Synchronous mCRC patients"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Resection of the primary tumor",
+                            "InterventionDescription": "Surgical resection of the primary tumour, according to the current clinical practice guidelines",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Synchronous mCRC patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Surgical resection of the primary tumour"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Resection of tumour metastases",
+                            "InterventionDescription": "Surgical resection of tumour metastases, according to the current clinical practice guidelines",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Synchronous mCRC patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Surgical resection of tumour metastases"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Blood sampling during chemotherapy",
+                            "InterventionDescription": "Drawing of blood samples several times during patient visits for chemotherapy regimen",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Synchronous mCRC patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Drawing of blood samples during chemotherapy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Follow-up examination of tumour remission, progression or recurrence",
+                            "PrimaryOutcomeDescription": "Radiological/clinical examination of tumour remission, progression or recurrence, and correlation of this clinical information with the available oncogenetic data from histological samples from the primary tumour and metastases, and from data from blood samples (ctDNA analysis)\n\nOncogenetic data will come from genomic profiling of tissue samples. This will be carried out by targeted deep sequencing (TDS), using a comprehensive panel covering cancer-related genes, in combination with genome wide SNP array for detection of copy number aberrations.\nData from blood samples will be extracted through quantification of ctDNA and monitoring of the temporal clonal dynamics (circulating cell free DNA will be extracted from plasma samples from all time points).",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Quality of life changes",
+                            "SecondaryOutcomeDescription": "Patients will take quality-of-life surveys (European Organization for Research and Treatment of Cancer Quality of Life Questionnaire - version EORTC-QLQ-C30 and EORTC-QLQ-CR29) will assistance of medical professionals prior to and after neoadjuvant and/or adjuvant treatment.\n\nThese surveys are cancer-specific core questionnaires for use in relation to various cancers.\nThe questionnaire scales the items on a score of 1 (Not at all) to 4 (Very much), and 1 (Very poor) to 7 (Excellent).\nScoring result is 0 to 100; for functional and global quality of life scales, higher scores mean a better level of functioning, and for symptom-oriented scales, a higher score means worse/more severe symptoms.\nStatistical analysis will be performed with the data from the questionnaires, and the evolution/changes of symptoms and subjective experiences of the patients will be quantified and correlated with the clinical findings.",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nClinical diagnosis of synchronous metastatic colorectal cancer, planned cancer treatment with curative intent at the Sk\u00e5ne University Hospital\n\nExclusion Criteria:\n\nNot accepting the study inclusion terms (informed consent not obtained)\nAge below or above the age limit",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "110 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients who are treated at the Sk\u00e5ne University Hospital",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Danyil Kuznyecov, M.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+46 725972072",
+                            "CentralContactEMail": "danyil_szergejevics.kuznyecov@med.lu.se"
+                        },
+                        {
+                            "CentralContactName": "Christina Siesing, M.D. PhD.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+4646177841",
+                            "CentralContactEMail": "christina.siesing@med.lu.se"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Karin Jirstr\u00f6m, M.D. PhD.",
+                            "OverallOfficialAffiliation": "Region Sk\u00e5ne",
+                            "OverallOfficialRole": "Study Director"
+                        },
+                        {
+                            "OverallOfficialName": "Jakob Eberhard, M.D. PhD.",
+                            "OverallOfficialAffiliation": "Region Sk\u00e5ne",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Department of Oncology, Hematology and Radiophysics, Skane University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Lund",
+                            "LocationState": "Sk\u00e5ne",
+                            "LocationZip": "22241",
+                            "LocationCountry": "Sweden",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jakob Eberhard, M.D. PhD.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+4646177520",
+                                        "LocationContactEMail": "jakob.eberhard@med.lu.se"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Department of Oncology, Hematology and Radiophysics, Skane University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Malm\u00f6",
+                            "LocationState": "Sk\u00e5ne",
+                            "LocationZip": "21428",
+                            "LocationCountry": "Sweden",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christina Siesing, M.D. PhD.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+4646177841",
+                                        "LocationContactEMail": "christina.siesing@skane.se"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

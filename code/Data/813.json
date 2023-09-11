@@ -1,0 +1,369 @@
+{
+    "Rank": 813,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03364582",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "OSU-19280"
+                },
+                "Organization": {
+                    "OrgFullName": "Ohio State University Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Dietary Patterns, Metabolomics and Colorectal Cancer Risk",
+                "OfficialTitle": "Dietary Patterns, Metabolomics and Colorectal Cancer Risk and Mortality in the Nurses' Health Study and Health Professionals Follow-Up Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2022",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2016",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 31, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 27, 2017",
+                "StudyFirstSubmitQCDate": "December 5, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 6, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 27, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 28, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Fred Tabung",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Ohio State University Comprehensive Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ohio State University Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Colorectal cancer (CRC) is the third most commonly diagnosed cancer in American men and women with \u2265130,000 new cases each year. Several dietary patterns have been associated with CRC risk but underlying mechanisms are not fully understood. Researchers thus propose to integrate dietary patterns and metabolomics data to comprehensively investigate biological pathways linking dietary patterns and CRC risk.",
+                "DetailedDescription": "Several dietary patterns have been associated with colorectal cancer (CRC) risk but underlying mechanisms are not fully understood. Also, evidence is lacking on the consistency of dietary guidelines for overall health and CRC prevention given that it is not feasible to have an optimal diet for every disease. Furthermore, metabolomic profiling has not been widely assessed with respect to CRC risk. Metabolomics is uniquely suited to assess metabolic responses to dietary stimuli, given that it is situated downstream to all the other \"omics\". Building on prior work in hypothesis-driven dietary patterns and CRC prevention, the researchers seek to fill these knowledge gaps by proposing to: 1) use a standardized methodology to compare the best diet for overall health with the best diet for CRC prevention, and further determine if any associations of dietary patterns with CRC prevention are mediated by mechanisms involving inflammation and insulin; 2) determine metabolites that may mediate the association of dietary intake with CRC risk. The researchers will utilize two large prospective cohort studies, the Nurses' Health Study (NHS) and the Health Professionals Follow-up Study (HPFS), in which dietary and nondietary data have been collected every 2 to 4 years among 173,230 women and men over the last \u226530 years, with \u22653,400 CRC cases and \u226543,800 all-cause deaths. This integrated interrogation of dietary patterns and metabolomics data will inform the design of guidelines for healthful lifestyles that are optimized for CRC prevention."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Mortality"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Dietary patterns",
+                        "Metabolomics",
+                        "Mortaltiy",
+                        "Colorectal cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Plasma samples to analyze for inflammatory, insulin response biomarkers and metabololites"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "173230",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Men-observed dietary pattern",
+                            "ArmGroupDescription": "Health Professionals Follow-up Study: a prospective cohort of male health professionals",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Observed dietary pattern"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Women-observed dietary pattern",
+                            "ArmGroupDescription": "Nurses' Health Study: a prospective cohort of female registered nurses",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Observed dietary pattern"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Observed dietary pattern",
+                            "InterventionDescription": "No intervention will be used. This is an observational study with dietary patterns as main exposure",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Men-observed dietary pattern",
+                                    "Women-observed dietary pattern"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Colorectal cancer risk",
+                            "PrimaryOutcomeDescription": "Incident colorectal cancer",
+                            "PrimaryOutcomeTimeFrame": "1986 to 2012 (men), 1984 to 2012 (women)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "incident total cardiovascular disease, total cancer, chronic respiratory diseases",
+                            "SecondaryOutcomeDescription": "The incidence of these major chronic diseases will be examined as surrogate for overall health",
+                            "SecondaryOutcomeTimeFrame": "1986 to 2012 (men), 1984 to 2012 (women)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Mortality",
+                            "SecondaryOutcomeDescription": "Incident death of any cause (as surrogate for overall health)",
+                            "SecondaryOutcomeTimeFrame": "1986 to 2012 (men), 1984 to 2012 (women)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n-Adult health professionals\n\nExclusion Criteria:\n\nAny cancer except nonmelanoma skin cancer\nDid not complete a food frequency questionnaire during follow-up\nHad implausible values for total energy intake (<600 or >3500 kcal/d for women and <800 or >4,200 kcal/d for men) at study entry",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "30 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "The Nurses' Health Study (NHS) and the Health Professionals Follow-up Study (HPFS). The NHS recruited 121,701 registered female nurses aged 30 to 55 years at baseline in 1976, and the HPFS enrolled 51,529 male health professionals aged 40 to 75 years at baseline in 1986 in the United States. In both cohorts, questionnaires were sent at baseline and every two years thereafter to collect and update demographic, lifestyle, medical, and other health-related information. Since the inception of both cohorts, participants have completed self-administered questionnaires every 2 years, providing updated information on medical and lifestyle factors. Every 2 to 4 years, participants receive validated semi-quantitative food frequency questionnaires (FFQ) for dietary assessments.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Fred Tabung, PhD, MSHP",
+                            "OverallOfficialAffiliation": "Ohio State Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30289433",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Petimar J, Smith-Warner SA, Fung TT, Rosner B, Chan AT, Hu FB, Giovannucci EL, Tabung FK. Recommendation-based dietary indexes and risk of colorectal cancer in the Nurses' Health Study and Health Professionals Follow-up Study. Am J Clin Nutr. 2018 Nov 1;108(5):1092-1103. doi: 10.1093/ajcn/nqy171."
+                        },
+                        {
+                            "ReferencePMID": "29901698",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Tabung FK, Wang W, Fung TT, Smith-Warner SA, Keum N, Wu K, Fuchs CS, Hu FB, Giovannucci EL. Association of dietary insulinemic potential and colorectal cancer risk in men and women. Am J Clin Nutr. 2018 Aug 1;108(2):363-370. doi: 10.1093/ajcn/nqy093."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "The Jamesline",
+                            "SeeAlsoLinkURL": "http://cancer.osu.edu"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "October 1, 2015",
+                            "LargeDocUploadDate": "12/05/2017 14:21",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

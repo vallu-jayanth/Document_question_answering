@@ -1,0 +1,705 @@
+{
+    "Rank": 211,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00003571",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CALGB-9865"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "U10CA031946",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/U10CA031946"
+                        },
+                        {
+                            "SecondaryId": "CLB-9865"
+                        },
+                        {
+                            "SecondaryId": "CDR0000066637",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "NCI Physician Data Query"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Alliance for Clinical Trials in Oncology",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Gene Testing in Patients With Colon Cancer",
+                "OfficialTitle": "Tumor Replication Error (RER) Status and Outcome in a Colon Cancer Adjuvant Chemotherapy Trial"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1998"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2006",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2006",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 1, 1999",
+                "StudyFirstSubmitQCDate": "July 14, 2003",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 15, 2003",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 1, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 6, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Alliance for Clinical Trials in Oncology",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Analyzing the structure of genes found in a person's cancer cells may help doctors improve methods of treating patients with colon cancer.\n\nPURPOSE: Clinical trial to study the genes of patients treated with chemotherapy for colon cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nDetermine the relationship between disease free survival, overall survival, and tumor replication error status for patients who have received adjuvant chemotherapy for colon cancer on CALGB protocol 8896.\nDetermine the prognostic and predictive values for response to this therapy in these patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage III colon cancer",
+                        "adenocarcinoma of the colon"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Samples of tumor and normal tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "300",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Samples of tumor and normal tissue",
+                            "ArmGroupDescription": "Samples of tumor and normal tissue are obtained from CALGB 8896 patients. The samples are tested for somatic mutations and tumor replication error (RER) tumor status. Patients do not receive the results of the genetic testing and the results do not influence the type or duration of treatment.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: mutation analysis",
+                                    "Genetic: tumor replication error analysis"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "mutation analysis",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Samples of tumor and normal tissue"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "tumor replication error analysis",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Samples of tumor and normal tissue"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "disease free survival",
+                            "PrimaryOutcomeTimeFrame": "Up to 10 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "overall survival",
+                            "SecondaryOutcomeTimeFrame": "Up to 10 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "tumor replication error status",
+                            "SecondaryOutcomeTimeFrame": "Up to 10 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "determine the prognostic and predictive values for response to this therapy",
+                            "SecondaryOutcomeTimeFrame": "Up to 10 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nPatients who received chemotherapy for colon cancer as part of CALGB protocol 8896\nUnderwent an initial resection for adenocarcinoma of the colon and were determined to have a high risk of tumor recurrence based upon nodal disease or local extension of tumor with obstruction or perforation due to tumor\nSurgical specimen blocks available, including tumor tissue and normal tissue",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients previously enrolled on CALGB-8896.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Monica M. Bertagnolli, MD",
+                            "OverallOfficialAffiliation": "Dana-Farber/Brigham and Women's Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Birmingham",
+                            "LocationCity": "Birmingham",
+                            "LocationState": "Alabama",
+                            "LocationZip": "35233-1996",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of California San Diego Cancer Center",
+                            "LocationCity": "La Jolla",
+                            "LocationState": "California",
+                            "LocationZip": "92093-0658",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94121",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "UCSF Cancer Center and Cancer Research Institute",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94143-0128",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Christiana Care Health Services",
+                            "LocationCity": "Wilmington",
+                            "LocationState": "Delaware",
+                            "LocationZip": "19899",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lombardi Cancer Center",
+                            "LocationCity": "Washington",
+                            "LocationState": "District of Columbia",
+                            "LocationZip": "20007",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Walter Reed Army Medical Center",
+                            "LocationCity": "Washington",
+                            "LocationState": "District of Columbia",
+                            "LocationZip": "20307-5000",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Mount Sinai Medical Center",
+                            "LocationCity": "Miami Beach",
+                            "LocationState": "Florida",
+                            "LocationZip": "33140",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Chicago (Westside Hospital)",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60612",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Chicago Cancer Research Center",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60637-1470",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Holden Comprehensive Cancer Center at The University of Iowa",
+                            "LocationCity": "Iowa City",
+                            "LocationState": "Iowa",
+                            "LocationZip": "52242-1009",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Togus",
+                            "LocationCity": "Togus",
+                            "LocationState": "Maine",
+                            "LocationZip": "04330",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21201",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber Cancer Institute",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Massachusetts Memorial Medical Center",
+                            "LocationCity": "Worcester",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "01655",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Minneapolis",
+                            "LocationCity": "Minneapolis",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55417",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Columbia (Truman Memorial)",
+                            "LocationCity": "Columbia",
+                            "LocationState": "Missouri",
+                            "LocationZip": "65201",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Ellis Fischel Cancer Center - Columbia",
+                            "LocationCity": "Columbia",
+                            "LocationState": "Missouri",
+                            "LocationZip": "65203",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Barnes-Jewish Hospital",
+                            "LocationCity": "Saint Louis",
+                            "LocationState": "Missouri",
+                            "LocationZip": "63110",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Nebraska Medical Center",
+                            "LocationCity": "Omaha",
+                            "LocationState": "Nebraska",
+                            "LocationZip": "68198-3330",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Southern Nevada Cancer Research Foundation",
+                            "LocationCity": "Las Vegas",
+                            "LocationState": "Nevada",
+                            "LocationZip": "89106",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Norris Cotton Cancer Center",
+                            "LocationCity": "Lebanon",
+                            "LocationState": "New Hampshire",
+                            "LocationZip": "03756-0002",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Buffalo",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14215",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Roswell Park Cancer Institute",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14263-0001",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - North Shore University Hospital",
+                            "LocationCity": "Manhasset",
+                            "LocationState": "New York",
+                            "LocationZip": "11030",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Schneider Children's Hospital at North Shore",
+                            "LocationCity": "Manhasset",
+                            "LocationState": "New York",
+                            "LocationZip": "11030",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan-Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10021",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "New York Presbyterian Hospital - Cornell Campus",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10021",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Mount Sinai Medical Center, NY",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10029",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "State University of New York - Upstate Medical University",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13210",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Syracuse",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13210",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C.",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13217",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Lineberger Comprehensive Cancer Center, UNC",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27599-7295",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Durham",
+                            "LocationCity": "Durham",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27705",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Duke Comprehensive Cancer Center",
+                            "LocationCity": "Durham",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27710",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "CCOP - Southeast Cancer Control Consortium",
+                            "LocationCity": "Winston-Salem",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27104-4241",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Comprehensive Cancer Center at Wake Forest University",
+                            "LocationCity": "Winston-Salem",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27157-1082",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Arthur G. James Cancer Hospital - Ohio State University",
+                            "LocationCity": "Columbus",
+                            "LocationState": "Ohio",
+                            "LocationZip": "43210-1240",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Rhode Island Hospital",
+                            "LocationCity": "Providence",
+                            "LocationState": "Rhode Island",
+                            "LocationZip": "02903",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of Tennessee, Memphis Cancer Center",
+                            "LocationCity": "Memphis",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "38103",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Memphis",
+                            "LocationCity": "Memphis",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "38104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - White River Junction",
+                            "LocationCity": "White River Junction",
+                            "LocationState": "Vermont",
+                            "LocationZip": "05009",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Richmond",
+                            "LocationCity": "Richmond",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23249",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "MBCCOP - Massey Cancer Center",
+                            "LocationCity": "Richmond",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23298-0037",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "15126336",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Goel A, Arnold CN, Niedzwiecki D, Carethers JM, Dowell JM, Wasserman L, Compton C, Mayer RJ, Bertagnolli MM, Boland CR. Frequent inactivation of PTEN by promoter hypermethylation in microsatellite instability-high sporadic colorectal cancers. Cancer Res. 2004 May 1;64(9):3014-21. doi: 10.1158/0008-5472.can-2401-2."
+                        },
+                        {
+                            "ReferencePMID": "12670912",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Goel A, Arnold CN, Niedzwiecki D, Chang DK, Ricciardiello L, Carethers JM, Dowell JM, Wasserman L, Compton C, Mayer RJ, Bertagnolli MM, Boland CR. Characterization of sporadic colon cancer by patterns of genomic instability. Cancer Res. 2003 Apr 1;63(7):1608-14."
+                        },
+                        {
+                            "ReferencePMID": "14726676",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Arnold CN, Goel A, Compton C, Marcus V, Niedzwiecki D, Dowell JM, Wasserman L, Inoue T, Mayer RJ, Bertagnolli MM, Boland CR. Evaluation of microsatellite instability, hMLH1 expression and hMLH1 promoter hypermethylation in defining the MSI phenotype of colorectal cancer. Cancer Biol Ther. 2004 Jan;3(1):73-8. doi: 10.4161/cbt.3.1.590. Epub 2004 Jan 5."
+                        },
+                        {
+                            "ReferencePMID": "15386381",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Goel A, Arnold CN, Tassone P, Chang DK, Niedzwiecki D, Dowell JM, Wasserman L, Compton C, Mayer RJ, Bertagnolli MM, Boland CR. Epigenetic inactivation of RUNX3 in microsatellite unstable sporadic colon cancers. Int J Cancer. 2004 Dec 10;112(5):754-9. doi: 10.1002/ijc.20472."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000003110",
+                            "ConditionMeshTerm": "Colonic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6028",
+                            "ConditionBrowseLeafName": "Colonic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colon Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

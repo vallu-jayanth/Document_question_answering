@@ -1,0 +1,515 @@
+{
+    "Rank": 1092,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04533555",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "843047"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "848530",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "University of Pennsylvania IRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of Pennsylvania",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Genetic Testing in Young Adults With Cancer Study",
+                "OfficialTitle": "Randomized Trial of Universal vs. Guideline-directed Germline Testing Among Young Adults With Cancer",
+                "Acronym": "Gen-Y"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 1, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 20, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 31, 2020",
+                "StudyFirstSubmitQCDate": "August 28, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 31, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 15, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 16, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Katherine Nathanson, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Pearl Basser Professor of BRCA-Related Research; Deputy Director",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Pennsylvania"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Pennsylvania",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The overarching goal of our research is to define an evidence-based, sustainable approach to identifying and managing genetic risk among young adults with cancer and their relatives. Conventional practice leaves referral and testing decisions to mostly non-expert clinicians implementing complex guidelines at the point of care, leading to substantial under-utilization. The investigators hypothesize that panel-based universal screening coupled with electronic medical record- (EMR-) based algorithms can improve ascertainment of genetic risk by functioning as an automated, radically simplified default practice in place of repeated single decisions requiring clinician cognitive effort and action.\n\nA secondary goal is to explore differences in ascertainment of genetic risk among first-degree relatives of probands.",
+                "DetailedDescription": "The investigators will conduct a randomized trial among young adult (YA) cancer patients to rigorously test the hypothesis that universal testing identifies many YA patients with germline cancer risk who would be missed by conventional testing strategies, to improve adherence to risk reduction interventions among YAs with cancer susceptibility, and to increase ascertainment among relatives of these patients at increased genetic risk. The primary outcome of the randomized trial will be ascertainment of probands, but in a companion study, the investigators will also explore the incremental utility of universal testing with respect to ascertainment of risk among relatives.\n\nConsenting patients will be immediately randomized using a computer-generated randomization algorithm using permuted variable block sizes with a concealed sequence. Randomization will be stratified by gender, National Comprehensive Cancer Network/American College of Medical Genetics and Genomics (NCCN/ACMG) referral criteria (meets/doesn't meet), and hospital (i.e., HUP vs. other Penn Medicine hospitals). Note that because of demographic differences between hospitals, the investigators are using hospital type as a proxy for race/ethnicity and so will not stratify for it separately. Randomization will occur in a 2:1 ratio (experimental: control).\n\nPatient enrollment for genetic testing will be completed within the first 12 months. If patients receive a pathogenic or likely pathogenic result then they will be followed for up to five years to evaluate the impact of the clinical decision support. Recruitment will end when approximately 1238 subjects are enrolled. Subjects will be recruited across five Penn Medicine sites, including Hospital of the University of Pennsylvania (HUP), Penn Presbyterian Medical Center (PPMC), Pennsylvania Hospital (PAH), Chester County Hospital (CCH), and Lancaster General Hospital (LGH).\n\nPatients who are notified of their eligibility status and indicate an interest in study participation will be directed to an educational website about hereditary cancer risk and the implications of genetic testing for patients and family members. They will also be provided information about the study. If they wish to consent after viewing the educational module, patients will be automatically sent to REDCap where, following consent, they also will complete a brief survey to obtain demographics and family history information. Patients will also have the option of reviewing information, providing consent, and completing sociodemographic and family history data collection via paper forms.\n\nUpon provision of signed informed consent and determination of high/low risk (based on ACMG/NCCN guidelines and determined by either the study research coordinator or clinical genetic counselor as outlined above), patients will be randomized in a 2:1 ratio (experimental: control) into one of the two study arms stratified by gender, meeting NCCN/ACMG criteria, and hospital type (HUP vs. other). Study enrollees will be encouraged to sign up to use their local patient portal, if they haven't done so already, in order to receive study communications, health information, and heath maintenance alerts.\n\nManagement of patients randomized to the phenotype-based (standard) arm will depend on whether they are identified as being at high or low risk of having a genetic predisposition. Patients who do not meet high-risk criteria will have routine clinical care (i.e., no study-directed referral to a genetic counselor). Patients who do meet high-risk criteria will be referred to a genetic counselor at their treating Penn Medicine institution for a standard cancer genetics evaluation and testing based on genetic counselor recommendation and patient preference. Participants on this arm who receive genetic testing will be tracked and results will be manually entered into the study database, although if they are tested at Ambry Genetics (the lab used in the universal-testing intervention arm), positive results will be directly imported into PennChart (the investigators' local instance of Epic) via a secure interface, which already has been built and is operational.\n\nPatients randomized to the universal-testing arm will provide either a saliva or blood sample to have sequencing of a broad cancer risk gene panel conducted by Ambry Genetics. Genetic test results will go directly into PennChart from Ambry via a secure interface (HL7). Patients identified as being at high risk according to NCCN/ACMG criteria will be referred to a genetic counselor at their treating institution, who will be asked to obtain testing using the Ambry broad cancer risk gene panel rather than by usual clinical tests. If they do not follow-up for clinical testing, as outlined above, they will be tested by the study team, using mailed genetic testing kits (with pre-paid mailers to Ambry Genetics). Patients identified as being at low risk will undergo testing using the Ambry broad cancer risk gene panel via mailed genetic testing kits (as above).\n\nParticipants seen by a genetic counselor will have their results disclosed to them by their care team. Participants who enroll remotely will be notified that their results are available via their preferred method (patient portal, mail, or e-mail). Those patients with a negative result will be provided the result via the preferred method and given the option to speak with a genetic counselor. Those patients with positive results will be provided their results over the phone by either the study or their clinical genetic counselors or physician. Patients tested at Ambry will have their results directly imported into their charts via HL7; release of results via MyPennMedicine (MPM) will only occur only after genetic counselor or physician has spoken with the patient (manual release).\n\nAs part of this study, genetic testing is being done for variants in genes known to be associated with increased cancer risk. However, it is possible that the investigators do not know of all such genes, and the investigators are interested in studies that may help to identify them in the future. As an optional part of the study, the investigators will seek consent from participants to use their DNA sample to help understand the development of cancer and other diseases. Possible future research may include other research on inherited cancer risk or the link between DNA and medical outcomes, including response to treatment or contributions to other disease research. Some research may include whole genome sequencing, a method that determines the exact sequence of a person's DNA. Participants may decline participation in this aspect of the study and only have their samples used for the main study.\n\nEligible participants will be identified through one of two mechanisms. Most will be identified through the electronic health record (EHR) system, which at Penn Medicine is Epic, and will be referred directly to the study team via an Epic registry. Participants will be screened by a study research coordinator to determine study eligibility, making sure they do not meet any of the study's exclusion criteria based on information contained in the EHR.\n\nAlternately, some eligible participants will be identified at the time that they see a genetic counselor at one of the Penn Medicine cancer genetics practices and recruited by their local genetic counselor with immediate randomization. These patients will include, for example, patients who need to be seen more quickly than would be picked up through the Epic registry (e.g., breast cancer participants pre-surgery). Patients who have an appointment already scheduled with cancer genetics at the time they are picked up by the Epic registry will be recruited through their genetic counselors.\n\nParticipants who do not meet NCCN/ACMG guidelines for referral to a genetic counselor will have routine clinical care, which does not include a genetic counselor visit or genetic testing for cancer predisposition. Participants who do meet NCCN/ACMG guidelines will be referred to a genetic counselor at their treating institution. Genetic testing will be ordered based on the genetic counselor's clinical recommendation and patient preference. Participants on this arm who receive genetic testing will be tracked and results will be manually entered into the study database, although if they are tested at Ambry Genetics, positive results can be directly imported into PennChart (our local instance of Epic) via a secure interface.\n\nParticipants randomized to the universal-testing arm will have genetic testing using a broad cancer risk gene panel through Ambry Genetics. Participants will have saliva samples collected. For low-risk patients, as well as for high-risk patients who decline Genetic Counselor (GC) visits, Research Coordinators (RCs) will mail a saliva kit, along with a prepaid mailer addressed to Ambry Genetics and a completed testing requisition form, to the participant.\n\nOrders will be placed in PennChart and will link directly with the Ambry Genetics application programming interface (API). This functionality already has been built and implemented in PennChart. For both arms, clinical reports from Ambry including variant interpretations are directly imported into PennChart. Participants seen by a GC will have their results returned by that care team. Participants consenting remotely will be told in advance that they will be notified by their preferred method (patient portal, mail, email) that their genetic results are available. Negative results will be provided by that method, with the option of a GC visit upon request. Participants with positive results pathogenic/likely pathogenic or variant of uncertain significance (P/LP or VUS) will be told that results are available and be returned by phone by the study genetic counselor or their clinical genetic counselor. VUS results will be returned to tested patients with appropriate caveats.\n\nAscertainment of genetic risk among 1st-degree adult relatives: This portion of the study will explore differences in ascertainment of genetic risk among 1st-degree adult relatives of patients assigned to the universal-testing arm as compared with the phenotype-directed arm after a combination of referral by the proband and direct clinical and/or research team outreach. The investigators hypothesize that, by testing all young adult patients with solid tumors with a comprehensive germline cancer risk panel rather than following the standard guideline-directed approach to germline genetic testing of patients with cancer, the investigators will identify a higher proportion of their 1st-degree relatives as being at increased genetic cancer risk."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Young Adult cancers"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignInterventionModelDescription": "The study is a randomized controlled trial among young adult cancer patients that will compare an investigational strategy for detecting genetic risk (universal testing of all eligible patients using a broad panel of cancer risk genes) vs. the standard strategy (referring the subset of patients who meet certain guideline criteria, based on age, cancer type, and family history, for genetic counseling and testing). We will test the hypothesis that the investigational strategy detects substantially more patients as having genetic risk than the standard strategy.",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1238",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Universal genetic testing",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Detection of genetic risk using a broad panel of cancer risk genes.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Broad gene panel for young adult cancers"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Standard",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "We will refer a subset of patients who meet guideline criteria based on age, cancer type, and family history, for genetic counseling and testing.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Standard"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Broad gene panel for young adult cancers",
+                            "InterventionDescription": "Genetic testing will occur using a broad gene panel for young adult cancers",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Universal genetic testing"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Standard",
+                            "InterventionDescription": "Those in the standard group who are considered high risk will have genetic testing done using the standard of care panel as selected by their care provider.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Phenotype-based vs panel-based sequencing",
+                            "PrimaryOutcomeDescription": "comparison of proportions of patients with P/LP germline variants between the two study arms",
+                            "PrimaryOutcomeTimeFrame": "within 3 mos of study enrollment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Impact of clinical decision support",
+                            "SecondaryOutcomeDescription": "comparison between the percent of probands who follow through with guideline-based genetic testing in the investigational group versus those in the control group for whom genetic testing is recommended..",
+                            "SecondaryOutcomeTimeFrame": "within 2 years of study enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Completion of genetic testing among first-degree relatives of probands",
+                            "SecondaryOutcomeDescription": "Presence of a pathogenic or likely pathogenic germline cancer risk variant among first-degree adult relatives of probands.",
+                            "SecondaryOutcomeTimeFrame": "within 15 months of proband enrollment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients will be eligible if they meet the following criteria:\n\nDiagnosed with a solid tumor between age 18-39 (patients may be 40 years of age at time of enrollment)\nWithin one year of diagnosis with index cancer\nHave had at least two visits at Penn Medicine for the cancer diagnosis (to exclude one-time second opinions)\n\nExclusion Criteria:\n\nPatients will be excluded if they meet any of the following criteria:\n\nDiagnosis of in situ cancer, thyroid cancer (papillary or follicular), or leukemia Breast cancer diagnosis (aim 1 only)\nHave a known genetic predisposition to cancer\nUnderwent genetic testing after this cancer diagnosis\nHave a benign neoplasm",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "40 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Benita Weathers, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "215-573-8860",
+                            "CentralContactEMail": "weathers@upenn.edu"
+                        },
+                        {
+                            "CentralContactName": "Katherine Gleason, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "215-898-6185",
+                            "CentralContactEMail": "kgleas@upenn.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Katherine L Nathanson, MD",
+                            "OverallOfficialAffiliation": "University of Pennsylvania",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Steven Joffe, MD",
+                            "OverallOfficialAffiliation": "University of Pennsylvania",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Pennsylvania",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Benita L Weathers, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "215-573-8860",
+                                        "LocationContactEMail": "weathers@upenn.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Katherine Gleason, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "215-898-6185",
+                                        "LocationContactEMail": "kgleas@upenn.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Katherine L Nathanson, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Steven Joffe, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "29096400",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pesola F, Ferlay J, Sasieni P. Cancer incidence in English children, adolescents and young people: past trends and projections to 2030. Br J Cancer. 2017 Dec 5;117(12):1865-1873. doi: 10.1038/bjc.2017.341. Epub 2017 Nov 2."
+                        },
+                        {
+                            "ReferencePMID": "26849082",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tricoli JV, Blair DG, Anders CK, Bleyer WA, Boardman LA, Khan J, Kummar S, Hayes-Lattin B, Hunger SP, Merchant M, Seibel NL, Thurin M, Willman CL. Biologic and clinical characteristics of adolescent and young adult cancers: Acute lymphoblastic leukemia, colorectal cancer, breast cancer, melanoma, and sarcoma. Cancer. 2016 Apr 1;122(7):1017-28. doi: 10.1002/cncr.29871. Epub 2016 Feb 5."
+                        },
+                        {
+                            "ReferencePMID": "26849003",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Smith AW, Seibel NL, Lewis DR, Albritton KH, Blair DF, Blanke CD, Bleyer WA, Freyer DR, Geiger AM, Hayes-Lattin B, Tricoli JV, Wagner LI, Zebrack BJ. Next steps for adolescent and young adult oncology workshop: An update on progress and recommendations for the future. Cancer. 2016 Apr 1;122(7):988-99. doi: 10.1002/cncr.29870. Epub 2016 Feb 5."
+                        },
+                        {
+                            "ReferencePMID": "30480571",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tricoli JV, Bleyer A. Adolescent and Young Adult Cancer Biology. Cancer J. 2018 Nov/Dec;24(6):267-274. doi: 10.1097/PPO.0000000000000343."
+                        },
+                        {
+                            "ReferencePMID": "28248415",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Siegel RL, Miller KD, Fedewa SA, Ahnen DJ, Meester RGS, Barzi A, Jemal A. Colorectal cancer statistics, 2017. CA Cancer J Clin. 2017 May 6;67(3):177-193. doi: 10.3322/caac.21395. Epub 2017 Mar 1."
+                        },
+                        {
+                            "ReferencePMID": "29194591",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tricoli JV, Boardman LA, Patidar R, Sindiri S, Jang JS, Walsh WD, McGregor PM 3rd, Camalier CE, Mehaffey MG, Furman WL, Bahrami A, Williams PM, Lih CJ, Conley BA, Khan J. A mutational comparison of adult and adolescent and young adult (AYA) colon cancer. Cancer. 2018 Mar 1;124(5):1070-1082. doi: 10.1002/cncr.31136. Epub 2017 Nov 30."
+                        },
+                        {
+                            "ReferencePMID": "30178487",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wilmott JS, Johansson PA, Newell F, Waddell N, Ferguson P, Quek C, Patch AM, Nones K, Shang P, Pritchard AL, Kazakoff S, Holmes O, Leonard C, Wood S, Xu Q, Saw RPM, Spillane AJ, Stretch JR, Shannon KF, Kefford RF, Menzies AM, Long GV, Thompson JF, Pearson JV, Mann GJ, Hayward NK, Scolyer RA. Whole genome sequencing of melanomas in adolescent and young adults reveals distinct mutation landscapes and the potential role of germline variants in disease susceptibility. Int J Cancer. 2019 Mar 1;144(5):1049-1060. doi: 10.1002/ijc.31791. Epub 2018 Nov 21."
+                        },
+                        {
+                            "ReferencePMID": "25436920",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Azim HA Jr, Partridge AH. Biology of breast cancer in young women. Breast Cancer Res. 2014 Aug 27;16(4):427. doi: 10.1186/s13058-014-0427-5."
+                        },
+                        {
+                            "ReferencePMID": "18354417",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bleyer A, Barr R, Hayes-Lattin B, Thomas D, Ellis C, Anderson B; Biology and Clinical Trials Subgroups of the US National Cancer Institute Progress Review Group in Adolescent and Young Adult Oncology. The distinctive biology of cancer in adolescents and young adults. Nat Rev Cancer. 2008 Apr;8(4):288-98. doi: 10.1038/nrc2349."
+                        },
+                        {
+                            "ReferencePMID": "11504767",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Loman N, Johannsson O, Kristoffersson U, Olsson H, Borg A. Family history of breast and ovarian cancers and BRCA1 and BRCA2 mutations in a population-based series of early-onset breast cancer. J Natl Cancer Inst. 2001 Aug 15;93(16):1215-23. doi: 10.1093/jnci/93.16.1215."
+                        },
+                        {
+                            "ReferencePMID": "27393621",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Zhang J, Sun J, Chen J, Yao L, Ouyang T, Li J, Wang T, Fan Z, Fan T, Lin B, Xie Y. Comprehensive analysis of BRCA1 and BRCA2 germline mutations in a large cohort of 5931 Chinese women with breast cancer. Breast Cancer Res Treat. 2016 Aug;158(3):455-62. doi: 10.1007/s10549-016-3902-0. Epub 2016 Jul 8."
+                        },
+                        {
+                            "ReferencePMID": "29337092",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Copson ER, Maishman TC, Tapper WJ, Cutress RI, Greville-Heygate S, Altman DG, Eccles B, Gerty S, Durcan LT, Jones L, Evans DG, Thompson AM, Pharoah P, Easton DF, Dunning AM, Hanby A, Lakhani S, Eeles R, Gilbert FJ, Hamed H, Hodgson S, Simmonds P, Stanton L, Eccles DM. Germline BRCA mutation and outcome in young-onset breast cancer (POSH): a prospective cohort study. Lancet Oncol. 2018 Feb;19(2):169-180. doi: 10.1016/S1470-2045(17)30891-4. Epub 2018 Jan 11."
+                        },
+                        {
+                            "ReferencePMID": "25503501",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Maxwell KN, Wubbenhorst B, D'Andrea K, Garman B, Long JM, Powers J, Rathbun K, Stopfer JE, Zhu J, Bradbury AR, Simon MS, DeMichele A, Domchek SM, Nathanson KL. Prevalence of mutations in a panel of breast cancer susceptibility genes in BRCA1/2-negative patients with early-onset breast cancer. Genet Med. 2015 Aug;17(8):630-8. doi: 10.1038/gim.2014.176. Epub 2014 Dec 11."
+                        },
+                        {
+                            "ReferencePMID": "27978560",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pearlman R, Frankel WL, Swanson B, Zhao W, Yilmaz A, Miller K, Bacher J, Bigley C, Nelsen L, Goodfellow PJ, Goldberg RM, Paskett E, Shields PG, Freudenheim JL, Stanich PP, Lattimer I, Arnold M, Liyanarachchi S, Kalady M, Heald B, Greenwood C, Paquette I, Prues M, Draper DJ, Lindeman C, Kuebler JP, Reynolds K, Brell JM, Shaper AA, Mahesh S, Buie N, Weeman K, Shine K, Haut M, Edwards J, Bastola S, Wickham K, Khanduja KS, Zacks R, Pritchard CC, Shirts BH, Jacobson A, Allen B, de la Chapelle A, Hampel H; Ohio Colorectal Cancer Prevention Initiative Study Group. Prevalence and Spectrum of Germline Cancer Susceptibility Gene Mutations Among Patients With Early-Onset Colorectal Cancer. JAMA Oncol. 2017 Apr 1;3(4):464-471. doi: 10.1001/jamaoncol.2016.5194."
+                        },
+                        {
+                            "ReferencePMID": "29146522",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stoffel EM, Koeppe E, Everett J, Ulintz P, Kiel M, Osborne J, Williams L, Hanson K, Gruber SB, Rozek LS. Germline Genetic Features of Young Individuals With Colorectal Cancer. Gastroenterology. 2018 Mar;154(4):897-905.e1. doi: 10.1053/j.gastro.2017.11.004. Epub 2017 Nov 14."
+                        },
+                        {
+                            "ReferencePMID": "14645426",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Berends MJ, Wu Y, Sijmons RH, van der Sluis T, Ek WB, Ligtenberg MJ, Arts NJ, ten Hoor KA, Kleibeuker JH, de Vries EG, Mourits MJ, Hollema H, Buys CH, Hofstra RM, van der Zee AG. Toward new strategies to select young endometrial cancer patients for mismatch repair gene mutation analysis. J Clin Oncol. 2003 Dec 1;21(23):4364-70. doi: 10.1200/JCO.2003.04.094."
+                        },
+                        {
+                            "ReferencePMID": "25780468",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Harland M, Cust AE, Badenas C, Chang YM, Holland EA, Aguilera P, Aitken JF, Armstrong BK, Barrett JH, Carrera C, Chan M, Gascoyne J, Giles GG, Agha-Hamilton C, Hopper JL, Jenkins MA, Kanetsky PA, Kefford RF, Kolm I, Lowery J, Malvehy J, Ogbah Z, Puig-Butille JA, Orihuela-Segales J, Randerson-Moor JA, Schmid H, Taylor CF, Whitaker L, Bishop DT, Mann GJ, Newton-Bishop JA, Puig S. Prevalence and predictors of germline CDKN2A mutations for melanoma cases from Australia, Spain and the United Kingdom. Hered Cancer Clin Pract. 2014 Nov 20;12(1):20. doi: 10.1186/1897-4287-12-20. eCollection 2014."
+                        },
+                        {
+                            "ReferencePMID": "25896519",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Mirabello L, Yeager M, Mai PL, Gastier-Foster JM, Gorlick R, Khanna C, Patino-Garcia A, Sierrasesumaga L, Lecanda F, Andrulis IL, Wunder JS, Gokgoz N, Barkauskas DA, Zhang X, Vogt A, Jones K, Boland JF, Chanock SJ, Savage SA. Germline TP53 variants and susceptibility to osteosarcoma. J Natl Cancer Inst. 2015 Apr 20;107(7):djv101. doi: 10.1093/jnci/djv101. Print 2015 Jul."
+                        },
+                        {
+                            "ReferencePMID": "26441212",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lee JS, DuBois SG, Coccia PF, Bleyer A, Olin RL, Goldsby RE. Increased risk of second malignant neoplasms in adolescents and young adults with cancer. Cancer. 2016 Jan 1;122(1):116-23. doi: 10.1002/cncr.29685. Epub 2015 Oct 6."
+                        },
+                        {
+                            "ReferencePMID": "29205296",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Goldfarb M, Rosenberg AS, Li Q, Keegan THM. Impact of latency time on survival for adolescents and young adults with a second primary malignancy. Cancer. 2018 Mar 15;124(6):1260-1268. doi: 10.1002/cncr.31170. Epub 2017 Dec 4."
+                        },
+                        {
+                            "ReferencePMID": "28426850",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Keegan THM, Bleyer A, Rosenberg AS, Li Q, Goldfarb M. Second Primary Malignant Neoplasms and Survival in Adolescent and Young Adult Cancer Survivors. JAMA Oncol. 2017 Nov 1;3(11):1554-1557. doi: 10.1001/jamaoncol.2017.0465."
+                        },
+                        {
+                            "ReferencePMID": "23861169",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McCarthy AM, Bristol M, Fredricks T, Wilkins L, Roelfsema I, Liao K, Shea JA, Groeneveld P, Domchek SM, Armstrong K. Are physician recommendations for BRCA1/2 testing in patients with breast cancer appropriate? A population-based study. Cancer. 2013 Oct 15;119(20):3596-603. doi: 10.1002/cncr.28268. Epub 2013 Jul 16."
+                        },
+                        {
+                            "ReferencePMID": "20303416",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Singh H, Schiesser R, Anand G, Richardson PA, El-Serag HB. Underdiagnosis of Lynch syndrome involves more than family history criteria. Clin Gastroenterol Hepatol. 2010 Jun;8(6):523-9. doi: 10.1016/j.cgh.2010.03.010. Epub 2010 Mar 18."
+                        },
+                        {
+                            "ReferencePMID": "28820644",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Childers CP, Childers KK, Maggard-Gibbons M, Macinko J. National Estimates of Genetic Testing in Women With a History of Breast or Ovarian Cancer. J Clin Oncol. 2017 Dec 1;35(34):3800-3806. doi: 10.1200/JCO.2017.73.6314. Epub 2017 Aug 18. Erratum In: J Clin Oncol. 2018 Feb 1;36(4):432."
+                        },
+                        {
+                            "ReferencePMID": "23639899",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cross DS, Rahm AK, Kauffman TL, Webster J, Le AQ, Spencer Feigelson H, Alexander G, Meier P, Onitilo AA, Pawloski PA, Williams AE, Honda S, Daida Y, McCarty CA, Goddard KA; CERGEN study team. Underutilization of Lynch syndrome screening in a multisite study of patients with colorectal cancer. Genet Med. 2013 Dec;15(12):933-40. doi: 10.1038/gim.2013.43. Epub 2013 May 2."
+                        },
+                        {
+                            "ReferencePMID": "26687117",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Douma KF, Dekker E, Smets EM, Aalfs CM. Gatekeeper role of gastroenterologists and surgeons in recognising and discussing familial colorectal cancer. Fam Cancer. 2016 Apr;15(2):231-40. doi: 10.1007/s10689-015-9861-5."
+                        },
+                        {
+                            "ReferencePMID": "28402748",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kurian AW, Li Y, Hamilton AS, Ward KC, Hawley ST, Morrow M, McLeod MC, Jagsi R, Katz SJ. Gaps in Incorporating Germline Genetic Testing Into Treatment Decision-Making for Early-Stage Breast Cancer. J Clin Oncol. 2017 Jul 10;35(20):2232-2239. doi: 10.1200/JCO.2016.71.6480. Epub 2017 Apr 12."
+                        },
+                        {
+                            "ReferencePMID": "27161971",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "McCarthy AM, Bristol M, Domchek SM, Groeneveld PW, Kim Y, Motanya UN, Shea JA, Armstrong K. Health Care Segregation, Physician Recommendation, and Racial Disparities in BRCA1/2 Testing Among Women With Breast Cancer. J Clin Oncol. 2016 Aug 1;34(22):2610-8. doi: 10.1200/JCO.2015.66.0019. Epub 2016 May 9."
+                        },
+                        {
+                            "ReferencePMID": "30526229",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Beitsch PD, Whitworth PW, Hughes K, Patel R, Rosen B, Compagnoni G, Baron P, Simmons R, Smith LA, Grady I, Kinney M, Coomer C, Barbosa K, Holmes DR, Brown E, Gold L, Clark P, Riley L, Lyons S, Ruiz A, Kahn S, MacDonald H, Curcio L, Hardwick MK, Yang S, Esplin ED, Nussbaum RL. Underdiagnosis of Hereditary Breast Cancer: Are Genetic Testing Guidelines a Tool or an Obstacle? J Clin Oncol. 2019 Feb 20;37(6):453-460. doi: 10.1200/JCO.18.01631. Epub 2018 Dec 7."
+                        },
+                        {
+                            "ReferencePMID": "28514183",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Espenschied CR, LaDuca H, Li S, McFarland R, Gau CL, Hampel H. Multigene Panel Testing Provides a New Perspective on Lynch Syndrome. J Clin Oncol. 2017 Aug 1;35(22):2568-2575. doi: 10.1200/JCO.2016.71.9260. Epub 2017 May 17."
+                        },
+                        {
+                            "ReferencePMID": "28873162",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Mandelker D, Zhang L, Kemel Y, Stadler ZK, Joseph V, Zehir A, Pradhan N, Arnold A, Walsh MF, Li Y, Balakrishnan AR, Syed A, Prasad M, Nafa K, Carlo MI, Cadoo KA, Sheehan M, Fleischut MH, Salo-Mullen E, Trottier M, Lipkin SM, Lincoln A, Mukherjee S, Ravichandran V, Cambria R, Galle J, Abida W, Arcila ME, Benayed R, Shah R, Yu K, Bajorin DF, Coleman JA, Leach SD, Lowery MA, Garcia-Aguilar J, Kantoff PW, Sawyers CL, Dickler MN, Saltz L, Motzer RJ, O'Reilly EM, Scher HI, Baselga J, Klimstra DS, Solit DB, Hyman DM, Berger MF, Ladanyi M, Robson ME, Offit K. Mutation Detection in Patients With Advanced Cancer by Universal Sequencing of Cancer-Related Genes in Tumor and Normal DNA vs Guideline-Based Germline Testing. JAMA. 2017 Sep 5;318(9):825-835. doi: 10.1001/jama.2017.11137. Erratum In: JAMA. 2018 Dec 11;320(22):2381."
+                        },
+                        {
+                            "ReferencePMID": "26556299",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Schrader KA, Cheng DT, Joseph V, Prasad M, Walsh M, Zehir A, Ni A, Thomas T, Benayed R, Ashraf A, Lincoln A, Arcila M, Stadler Z, Solit D, Hyman DM, Zhang L, Klimstra D, Ladanyi M, Offit K, Berger M, Robson M. Germline Variants in Targeted Tumor Sequencing Using Matched Normal DNA. JAMA Oncol. 2016 Jan;2(1):104-11. doi: 10.1001/jamaoncol.2015.5208. Erratum In: JAMA Oncol. 2016 Feb;2(2):279. Hyman, David [corrected to Hyman, David M]."
+                        },
+                        {
+                            "ReferencePMID": "26908360",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ricker C, Culver JO, Lowstuter K, Sturgeon D, Sturgeon JD, Chanock CR, Gauderman WJ, McDonnell KJ, Idos GE, Gruber SB. Increased yield of actionable mutations using multi-gene panels to assess hereditary cancer susceptibility in an ethnically diverse clinical cohort. Cancer Genet. 2016 Apr;209(4):130-7. doi: 10.1016/j.cancergen.2015.12.013. Epub 2016 Jan 12."
+                        },
+                        {
+                            "ReferencePMID": "26969309",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hampel H. Genetic counseling and cascade genetic testing in Lynch syndrome. Fam Cancer. 2016 Jul;15(3):423-7. doi: 10.1007/s10689-016-9893-5."
+                        },
+                        {
+                            "ReferencePMID": "29514700",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stenehjem DD, Au T, Sainski AM, Bauer H, Brown K, Lancaster J, Stevens V, Brixner DI. Impact of a genetic counseling requirement prior to genetic testing. BMC Health Serv Res. 2018 Mar 7;18(1):165. doi: 10.1186/s12913-018-2957-5."
+                        },
+                        {
+                            "ReferencePMID": "28084878",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Whitworth P, Beitsch P, Arnell C, Cox HC, Brown K, Kidd J, Lancaster JM. Impact of Payer Constraints on Access to Genetic Testing. J Oncol Pract. 2017 Jan;13(1):e47-e56. doi: 10.1200/JOP.2016.013581. Epub 2016 Oct 23."
+                        },
+                        {
+                            "ReferencePMID": "26751192",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "van Leeuwaarde RS, van Nesselrooij BP, Hermus AR, Dekkers OM, de Herder WW, van der Horst-Schrivers AN, Drent ML, Bisschop PH, Havekes B, Vriens MR, de Laat JM, Pieterman CR, Valk GD. Impact of Delay in Diagnosis in Outcomes in MEN1: Results From the Dutch MEN1 Study Group. J Clin Endocrinol Metab. 2016 Mar;101(3):1159-65. doi: 10.1210/jc.2015-3766. Epub 2016 Jan 11."
+                        },
+                        {
+                            "ReferencePMID": "16446344",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Patenaude AF, Dorval M, DiGianni LS, Schneider KA, Chittenden A, Garber JE. Sharing BRCA1/2 test results with first-degree relatives: factors predicting who women tell. J Clin Oncol. 2006 Feb 1;24(4):700-6. doi: 10.1200/JCO.2005.01.7541."
+                        },
+                        {
+                            "ReferencePMID": "18373407",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Finlay E, Stopfer JE, Burlingame E, Evans KG, Nathanson KL, Weber BL, Armstrong K, Rebbeck TR, Domchek SM. Factors determining dissemination of results and uptake of genetic testing in families with known BRCA1/2 mutations. Genet Test. 2008 Mar;12(1):81-91. doi: 10.1089/gte.2007.0037."
+                        },
+                        {
+                            "ReferencePMID": "20699375",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cheung EL, Olson AD, Yu TM, Han PZ, Beattie MS. Communication of BRCA results and family testing in 1,103 high-risk women. Cancer Epidemiol Biomarkers Prev. 2010 Sep;19(9):2211-9. doi: 10.1158/1055-9965.EPI-10-0325. Epub 2010 Aug 10."
+                        },
+                        {
+                            "ReferencePMID": "15827311",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Armstrong K, Micco E, Carney A, Stopfer J, Putt M. Racial differences in the use of BRCA1/2 testing among women with a family history of breast or ovarian cancer. JAMA. 2005 Apr 13;293(14):1729-36. doi: 10.1001/jama.293.14.1729."
+                        },
+                        {
+                            "ReferencePMID": "23669308",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sharaf RN, Myer P, Stave CD, Diamond LC, Ladabaum U. Uptake of genetic testing by relatives of lynch syndrome probands: a systematic review. Clin Gastroenterol Hepatol. 2013 Sep;11(9):1093-100. doi: 10.1016/j.cgh.2013.04.044. Epub 2013 May 10."
+                        },
+                        {
+                            "ReferencePMID": "24770865",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dilzell K, Kingham K, Ormond K, Ladabaum U. Evaluating the utilization of educational materials in communicating about Lynch syndrome to at-risk relatives. Fam Cancer. 2014 Sep;13(3):381-9. doi: 10.1007/s10689-014-9720-9."
+                        },
+                        {
+                            "ReferencePMID": "30239769",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Caswell-Jin JL, Zimmer AD, Stedden W, Kingham KE, Zhou AY, Kurian AW. Cascade Genetic Testing of Relatives for Hereditary Cancer Risk: Results of an Online Initiative. J Natl Cancer Inst. 2019 Jan 1;111(1):95-98. doi: 10.1093/jnci/djy147."
+                        },
+                        {
+                            "ReferencePMID": "26748927",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sermijn E, Delesie L, Deschepper E, Pauwels I, Bonduelle M, Teugels E, De Greve J. The impact of an interventional counselling procedure in families with a BRCA1/2 gene mutation: efficacy and safety. Fam Cancer. 2016 Apr;15(2):155-62. doi: 10.1007/s10689-015-9854-4."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "National Cancer Institute NIH. A Snapshot of Adolescent and Young Adult Cancers. 2014.",
+                            "SeeAlsoLinkURL": "http://www.cancer.gov/research/progress/snapshots/adolescent-young-adult"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "Rank": 542,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03250078",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "16-17"
+                },
+                "Organization": {
+                    "OrgFullName": "Nuvance Health",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Pancreatic Cancer Screening Study in Hereditary High Risk Individuals",
+                "OfficialTitle": "A Pancreatic Cancer Screening Study in Hereditary High Risk Individuals"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2016"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 16, 2016",
+                "StudyFirstSubmitQCDate": "August 14, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 15, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 10, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 13, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Richard Frank",
+                    "ResponsiblePartyInvestigatorTitle": "Director, Cancer Research",
+                    "ResponsiblePartyInvestigatorAffiliation": "Nuvance Health"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Nuvance Health",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main goal of this study is to screen and detect pancreatic cancer and precursor lesions in individuals with a strong family history or genetic predisposition to pancreatic cancer. Magnetic Resonance Imaging and Magnetic cholangiopancreatography (MRI/MRCP) will be utilized to screen for early stage pancreatic cancer or precursor lesions. Participants will be asked to donate a blood sample at specific intervals for the creation of a bio-bank necessary for the development of a blood based screening test for Pancreatic Cancer.",
+                "DetailedDescription": "Individuals 50 years of age and older who have a family history of pancreatic cancer will be recruited through the offices of primary care physicians and endocrinologists. Those meeting initial criteria will meet with a research APRN and will undergo a secondary screen to determine eligibility. Individuals enrolled in the study will undergo a five-minute psychological survey and donation of a blood sample for bio-bank analysis every 6 months for 3 years. MRI will be performed annually for 3 years (4 in total). Any abnormalities on MRI will be reviewed by a multi-disciplinary tumor board and discussed with the participant. The costs of MRI will be covered by the study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Pancreas",
+                        "Cancer",
+                        "MRI",
+                        "BRCA",
+                        "Early Detection",
+                        "Genetics"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Serum sample"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "FAMILIAL PANCREATIC CANCER and/or GENE MUTATION",
+                            "ArmGroupDescription": "An inherited genetic syndrome associated with Pancreatic Cancer and/or with a strong family history of Pancreatic Cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MRI/MRCP"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "MRI/MRCP",
+                            "InterventionDescription": "An MRI/MRCP plus IV gadolinium contrast with high resolution imaging of the pancreas will be performed annually",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "FAMILIAL PANCREATIC CANCER and/or GENE MUTATION"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Early Stage Pancreatic Cancer or Precursor Lesions",
+                            "PrimaryOutcomeDescription": "Incidence of Pancreatic Cancer or precursor lesions within a population of individuals with a strong family history of pancreatic cancer or known genetic mutation compared to the expected incidence in the general population.",
+                            "PrimaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Serial Pancreatic MRI Screening",
+                            "SecondaryOutcomeDescription": "Utility of MRI as a screening tool for Pancreatic Cancer in the study population.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Serum Bio-bank",
+                            "SecondaryOutcomeDescription": "Banking serum from participants to isolate circulating exosomes and circulating tumor DNA.",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Registration-Inclusion Criteria for FAMILIAL PANCREATIC CANCER (FPC) and those with a BRCA1, BRCA2, LYNCH SYNDROME, ATM, PALB2, CDKN2A, or related gene mutation (one of the following is required for questions 1-3)\n\nFor FPC: The individual has at least 2 first-degree relatives (FDR) with PC.\nFor FPC: The individual has at least 3 first-, second-, or third-degree relatives with PC with at least 1 PC in a FDR.\nThe individual is a known mutation carrier of BRCA1, BRCA2, MLH1, MSH2, MSH6, or PMS2, ATM, PALB2, CDKN2A, or similar high-risk gene mutation and has at least 1 first- or second-degree relative with PC.\nThe individual is at least 50 years old or 10 years younger than the youngest relative with PC.\nFamily and genetic history confirmed by genetics counselor at WCHN.\nECOG Performance Status of 0-1.\nNo known contraindications to MRI examination or gadolinium contrast.\nWilling to undergo MRI and screening for metal implants or metal injury.\nPrior BUN and Cr\nEstimated GFR (eGFR) must be greater than 30 mL/min.\nAbility to provide informed consent.\nWilling to return to study site for all study assessments.\n\nRegistration-Exclusion Criteria:\n\nPrior history of pancreatic cancer.\nPresence of metastatic cancer or cancer requiring adjuvant chemotherapy within the past 5 years.\nReceived chemotherapy within the past 6 months. (Hormonal therapy is allowable if the disease free interval is at least 5 years).\nHereditary pancreatitis.\neGFR < 30 mL/min\nContraindication to MRI examination or gadolinium contrast.\nPregnant or nursing women.\nCo-morbid illnesses or other concurrent disease which, in the judgment of the clinicians obtaining informed consent, would make the participant inappropriate for entry into this study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "50-90 years of age. Strong family history of pancreatic cancer/ known genetic mutation",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Tammy Lo, APRN",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "Tammy.Lo@nuvancehealth.org"
+                        },
+                        {
+                            "CentralContactName": "Pramila Krumholtz, RN",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "Pramila.Krumholtz@nuvancehealth.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Richard Frank, MD",
+                            "OverallOfficialAffiliation": "Nuvance Health",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Western Connecticut Health Network",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Norwalk",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06856",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tammy Lo, APRN",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "203-855-3551",
+                                        "LocationContactEMail": "Tammy.Lo@nuvancehealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Pramila Krumholtz, RN",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "203-739-7997",
+                                        "LocationContactEMail": "Pramila.Krumholtz@nuvancehealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Richard Frank, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35854467",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Kandiah J, Lo T, Jin D, Melchior L, Krebs TL, Anand N, Ingram S, Krumholtz P, Pandya D, Trinidad A, Dong XE, Seshadri R, Bauman J, Lee R, Frank RC. A Community-Based Pancreatic Cancer Screening Study in High-Risk Individuals: Preliminary Efficacy and Safety Results. Clin Transl Gastroenterol. 2022 Aug 1;13(8):e00516. doi: 10.14309/ctg.0000000000000516. Epub 2022 Jul 20."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "An overview pancreatic cancer research at Nuvance Health",
+                            "SeeAlsoLinkURL": "https://www.nuvancehealth.org/about-us/research-and-innovation/cancer-research/pancreatic-cancer-research"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "De-identified individual participant data for all primary and secondary outcome measures will be made available.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Informed Consent Form (ICF)",
+                        "Clinical Study Report (CSR)"
+                    ]
+                },
+                "IPDSharingTimeFrame": "Data will be available within 6 months of study completion.",
+                "IPDSharingAccessCriteria": "Data access requests will be reviewed on an individual basis post submission. Requestors may be required to sign a data access agreement."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M22244",
+                            "InterventionBrowseLeafName": "Pancrelipase",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M12804",
+                            "InterventionBrowseLeafName": "Pancreatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

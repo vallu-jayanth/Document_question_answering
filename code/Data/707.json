@@ -1,0 +1,338 @@
+{
+    "Rank": 707,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05134779",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "21-06023682"
+                },
+                "Organization": {
+                    "OrgFullName": "Weill Medical College of Cornell University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "De-convoluting Interactions Between Genes, the Cancer Environment, and the Immune System to Develop Therapies That Work for You",
+                "OfficialTitle": "De-convoluting Interactions Between Genes, the Cancer Environment, and the Immune System to Develop Therapies That Work for You",
+                "Acronym": "DIGNITY"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 12, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2027",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2028",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 4, 2021",
+                "StudyFirstSubmitQCDate": "November 24, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 26, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 20, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 22, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Weill Medical College of Cornell University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a live biobank study for Triple negative breast cancer (TNBC) patients where samples will be collected at inflection points in the course of the disease.",
+                "DetailedDescription": "To test this hypothesis the investigators will focus on studying TNBC patients using an innovative approach, the DIGNITY Study (De-convoluting interactions between genes, the cancer environment, and the immune system to develop therapies that work for you) designed to building a live tissue biobank of Patient Derived Tumor Organoids (PDOs) derived from tumor at surgery, preceded or not by neoadjuvant therapy (NAT), and at recurrence/metastasis. TNBC patients enrolled in this study are consented to enable investigators to generate a biobank of tumor tissue (obtained from surgically removed excess that would otherwise be disposed off ) and matched blood cells ( obtained from an already existing line or a venipuncture ordered per standard of care testing) at key timepoints in their treatment course."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Triple Negative Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Tissue collection through the DIGNITY trial will allow the investigators to study the individual tumor and its microenvironment from a biopsy specimen at sequential inflection points and to perform functional genomics experiments using the PDOs technology to determine if the cancer cells can be reprogrammed using radiotherapy and other interventions. Paired blood samples from the patients at each time point will be collected to study circulating cytokines/chemokines, tumor-specific T cells, and innate immune cell response to the PDO."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "400",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cohort 1",
+                            "ArmGroupDescription": "Patients with triple negative breast cancer (TNBC), any stage will be considered for this study.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Live Biobank"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Live Biobank",
+                            "InterventionDescription": "Tumor tissue will be collected from consented patients at sequential inflection points in the disease course: at the time of initial diagnosis, at the time of surgery and during recurrence or metastasis. In addition to this, 40ml of research bloods will also be collected at these key inflection points.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cohort 1"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "establish a live biobank for triple negative breast cancer patients",
+                            "PrimaryOutcomeDescription": "Tumor tissue will be obtained at key inflection points from Triple negative breast cancer patients (TNBC): at initial diagnosis, at surgery and at metastasis or recurrence.\n\nPatient Derived Organoids (PDOs) will be prepared from tumors that are obtained from the TNBC patients.",
+                            "PrimaryOutcomeTimeFrame": "60 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "assess immune relevant genes from tumor biopsies",
+                            "SecondaryOutcomeDescription": "comprehensively characterize the tumor from the biospecimen to determine the mutations, expression of immune related genes, and the quality and the spatial distribution of the immune infiltrate",
+                            "SecondaryOutcomeTimeFrame": "60 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll patients will historically proven TNBC are eligible to be on the study\n\nExclusion Criteria:\n\nCarriers of other breast cancers than TNBC.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "GenderBased": "Yes",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Triple negative breast cancer patients (TNBC)",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Sharanya Chandrasekhar, M.S.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-962-3110",
+                            "CentralContactEMail": "shc2043@med.cornell.edu"
+                        },
+                        {
+                            "CentralContactName": "Pragya Yadav, Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-962-2196",
+                            "CentralContactEMail": "pry2003@med.cornell.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Silvia Formenti, M.D.",
+                            "OverallOfficialAffiliation": "Weill Medical College of Cornell University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Brooklyn Methodist Hospital - NewYork Presbyterian",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "11215",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sharanya Chandrasekhar, M.S.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-962-3110",
+                                        "LocationContactEMail": "shc2043@med.cornell.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Pragya Yadav, Ph.D.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "6469622196",
+                                        "LocationContactEMail": "pry2003@med.cornell.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Hani Ashamalla, M.D.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "New York Presbyterian Hospital - Queens",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "11355",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Sarah Stankiewicz, B.S.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-661-7246",
+                                        "LocationContactEMail": "sas9306@nyp.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Sharanya Chandrasekhar, M.S.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-962-2196",
+                                        "LocationContactEMail": "shc2043@med.cornell.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Akkamma Ravi, M.D.",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Silvia Formenti, M.D.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000064726",
+                            "ConditionMeshTerm": "Triple Negative Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000001943",
+                            "ConditionAncestorTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M30063",
+                            "ConditionBrowseLeafName": "Triple Negative Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Triple Negative Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

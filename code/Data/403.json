@@ -1,0 +1,369 @@
+{
+    "Rank": 403,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05764005",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "UMCC 2022.059"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "HUM00209599",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "University of Michigan"
+                        },
+                        {
+                            "SecondaryId": "5K08CA245237",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/5K08CA245237"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of Michigan Rogel Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Optimizing Active Surveillance in Low-Risk Prostate Cancer: a Pilot Study",
+                "OfficialTitle": "Optimizing Active Surveillance in Low-Risk Prostate Cancer: a Pilot Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 9, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 28, 2023",
+                "StudyFirstSubmitQCDate": "February 28, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 10, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 8, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 9, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Michigan Rogel Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a pilot evaluation of a patient-centered intervention that enables providers to support men on active surveillance to maximize adherence. Conducted in urology practices, this pilot will measure key patient-reported, provider-reported, and implementation outcomes. Successful completion of this work will inform a subsequent multi-center effectiveness-implementation hybrid design trial and ultimately will improve low-risk cancer management by effectively engaging Primary Care Physicians (PCPs) in care delivery."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "low-risk",
+                        "active surveillance"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "60",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Intervention website",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: web-based tool (MAP- Management of Active surveillance in Prostate Cancer)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control MUSIC website",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "This is usual care and all urologists are encouraged to refer their patients to the patient educational materials on the MUSIC website (http://www.musicurology.com/patientmaterials/).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: MUSIC website"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "web-based tool (MAP- Management of Active surveillance in Prostate Cancer)",
+                            "InterventionDescription": "A web-based tool with modules on active surveillance education, team based active surveillance care delivery and the role of the PCP, and self-management for cancer anxiety and worry. {may need more detail}",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Intervention website"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "MUSIC website",
+                            "InterventionDescription": "Standard of care educational materials {add more detail}",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Control MUSIC website"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Feasibility - recruitment",
+                            "PrimaryOutcomeDescription": "Defined as the successful recruitment of 40 patients.",
+                            "PrimaryOutcomeTimeFrame": "up to 9 months post last patient recruitment"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Feasibility - Uptake",
+                            "PrimaryOutcomeDescription": "Defined as the proportion of men who complete the baseline and follow-up surveys out of the total number of patients recruited.",
+                            "PrimaryOutcomeTimeFrame": "up to 6 months post last patient recruitment"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Acceptability - Mean Satisfaction Scores",
+                            "PrimaryOutcomeDescription": "Acceptability asks the extent to which participants consider the intervention is agreeable. Patients in the intervention arm will answer questions (on a 5-point Likert scale) regarding the use of the tool including: a) the tool provided me the necessary information about being on active surveillance; b) the tool helped me know what tests I needed and when; c) the tool helped me understand what my PCP can do for my active surveillance; d) the tool was easy to use; e) the amount of time it took to go through the website; and f) I would recommend the tool to other patients. We will ask an open-ended question on if the tool should have any other features in future versions. We will additionally collect paradata such as user actions (clicks) and time spent on each webpage.",
+                            "PrimaryOutcomeTimeFrame": "up to 4 months post last patient completing intervention"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Patient Inclusion Criteria:\n\n55 years old or older\nMen diagnosed with low-risk prostate cancer currently on active surveillance\nMen who identify having a primary care provider\nAccess and ability to use the Internet\n\nPatient Exclusion Criteria:\n\nMen who are unable to read and/or speak English\nMen with impaired decision-making capacity (such as with a diagnosis of dementia or memory loss)\n\nPCP Inclusion Criteria:\n\nIdentified by patient on baseline survey as their PCP\n\nUrologist and Clinic Staff Inclusion Criteria:\n\nClinicians or staff at a participating urology clinic, including but not limited to MDs, APPs, and nurses",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "55 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Cancer AnswerLine",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "1-800-865-1125",
+                            "CentralContactEMail": "CancerAnswerLine@med.umich.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Archana Radhakrishnan",
+                            "OverallOfficialAffiliation": "University of Michigan Rogel Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Michigan Rogel Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Ann Arbor",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48109",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Cancer AnswerLine",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "800-865-1125",
+                                        "LocationContactEMail": "CancerAnswerLine@med.umich.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Archana Radhakrishnan",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

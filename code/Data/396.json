@@ -1,0 +1,364 @@
+{
+    "Rank": 396,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03073473",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "20170327"
+                },
+                "Organization": {
+                    "OrgFullName": "Cota Inc.",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Evaluation of the NantHealth GPS Cancer Test in Patients With Advanced Cancers",
+                "OfficialTitle": "Quantitative Targeted Proteomics Detected by Mass Spectrometry With Whole Genome (DNA) and Whole Transcriptome (RNA) Sequencing in Advanced Cancers"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2018",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Poor accrual",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 28, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 13, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 13, 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 3, 2017",
+                "StudyFirstSubmitQCDate": "March 3, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 8, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 19, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 20, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cota Inc.",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Blue Cross Blue Shield",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "NantHealth Inc.",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Among patients with advanced (metastatic) cancers, detailed characterizations of the tumor utilizing genomic and proteonomic techniques may help guide treatment. It, however, remains unclear if these new diagnostic technologies truly influence clinical and economic outcomes. This study will evaluate if patients treated according to the results of the NantHealth GPS Cancer test achieve optimal outcomes compared to patients whose treatment are discordant with GPS Cancer recommendations.",
+                "DetailedDescription": "Personalized Medicine approaches to cancer management require detailed diagnostic evaluations. Broad genomic profiling,using whole genome (DNA) and whole transcriptome(RNA) sequencing platforms,holds the promise of identifying tumor related mutations that are amenable to targeted therapies, with the potential for improved clinical outcomes and lower toxicities compared to traditional cytotoxic chemotherapy. Proteomic approaches may add additional insights into treatment selection by identifying protein biomarkers known to induce drug resistance or indicate drug sensitivity for chemotherapy, monoclonal antibody therapy, hormonal therapy, targeted therapy and immunotherapy. The full value of these approaches has not been realized in routine clinical cancer care.\n\nGPS Cancer\u2122 is a comprehensive test available through NantHealth. GPS Cancer which integrates whole genome (DNA) sequencing, whole transcriptome (RNA) sequencing, and quantitative proteomics through mass spectrometry, provides oncologists with a comprehensive molecular profile of a patient's cancer to inform personalized treatment strategies. GPS Cancer testing is conducted in CLIA-certified and CAP-accredited laboratories.\n\nHypothesis:\n\n1. The addition of proteomics to next generation sequencing (NGS) via the NantHealthGPS Cancer test and the incorporation of whole genome sequencing will identify treatment algorithms with increased likelihood of successful clinical outcomes in patients with advanced cancers.\n\nStudy Design(summary):\n\nThe patient population will consist of 160 total individuals with tumor tissue available for NantHealth GPS Cancer testing: (1) pancreatic cancer patients ineligible for curative surgery, (2) metastatic breast cancer, (3) advanced stage (non-resectable/metastatic/incurable) lung cancer, (4) metastatic non-resectable malignant melanoma, (4) metastatic colon cancer not amenable to curative therapy, and (5) metastatic hormone refractory prostate cancer.\nThe treating oncologists will declare any planned treatment strategies before the testing results are obtained.These plans will be compared retrospectively with the actual treatment plans delivered to the patient to determine the \"change rate\".\nThe executive steering committee will review the NantHealthGPS Cancer reports and compare the results against the actual delivered therapy. Patients will be segregated into cohorts of \"GPS treatment concordant\" and \"GPS treatment discordant\".\nA cohort of patients with similar diseases(matched via the COTA Nodal Address system) will be drawn at a ratio of 3 to 1 from the COTA database.\nThe time on chosen therapy (time to treatment failure) will be calculated for the cohort of patients with \"GPS treatment concordant\", \"GPS treatment discordant\", and \"matched controls\". The times will be compared using standard statistical analyses.\nThe total cost of care for the three treatment cohorts will also be compared.\nSubjects must possess medical insurance coverage from Horizon Blue Cross Blue Shield of New Jersey in order to participate. A maximum of 160 patient samples will be tested."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer",
+                        "Metastatic Breast Cancer",
+                        "Metastatic Lung Cancer",
+                        "Metastatic Colon Cancer",
+                        "Metastatic Melanoma",
+                        "Metastatic Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Concordant with GPS Cancer Test",
+                            "ArmGroupDescription": "Patients with advanced cancer who undergo GPS Cancer testing whose therapy matches the recommendations from the NantHealth GPS Cancer Test.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: NantHealth GPS Cancer Test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Discordant with GPS Cancer Test",
+                            "ArmGroupDescription": "Patients with advanced cancer who undergo GPS Cancer testing whose therapy does not match the recommendations from the NantHealth GPS Cancer Test.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: NantHealth GPS Cancer Test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "CNA controls without testing",
+                            "ArmGroupDescription": "Retrospective patients in the COTA database matched by similar characteristics (CNA matched)."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "NantHealth GPS Cancer Test",
+                            "InterventionDescription": "Quantitative targeted proteonomics detected by mass spectrometry with whole genome (DNA) and whole transcriptome (RNA) sequencing.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Concordant with GPS Cancer Test",
+                                    "Discordant with GPS Cancer Test"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Time on original treatment strategy for advanced cancer",
+                            "PrimaryOutcomeDescription": "To determine whether patients who are treated with therapies that are concordant with the NantHealth GPS Cancer test are able to stay on their original treatment strategy longer than patients treated with either discordant regimens or a matched Nanthealth GPS untested population.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Total cost of care",
+                            "SecondaryOutcomeDescription": "To determine the total 1 year cost of care for patients treated according to the results of the GPS Cancer test compared to discordant regimen treated patients or untested patients.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Physician behavior",
+                            "OtherOutcomeDescription": "To determine the frequency of change in treatment strategies pre and post GPS Cancer testing.",
+                            "OtherOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPancreatic cancer patients ineligible for curative surgery at time of entry will be eligible for enrollment.\nMetastatic breast cancer at any time in their treatment history will be eligible for enrollment.\nAdvanced stage (non-resectable/metastatic/incurable) lung cancer patients will be eligible for enrollment.\nMetastatic colon cancer patients not amenable to curative therapy will be eligible for enrollment.\nMetastatic non-resectable malignant melanoma patients will be eligible for enrollment.\n\nNantHealth GPS Cancer in Advanced Cancers\n\nMetastatic hormone refractory prostate cancer patients will be eligible for enrollment. Patients must have tumor tissue available prior to the initiation of the current line of treatment available for GPS Cancer testing.\nMetastatic bladder cancer\nNon-resectable metastatic Renal carcinoma\nNon-resectable metastatic Head and Neck cancer\nMetastatic Ovarian cancer\nMetastatic Cervical cancer\nMetastatic Sarcoma\nPatients must sign informed consent for this study.\nPatients must have private medical insurance coverage through Horizon Blue Cross Blue Shield. This is limited to insured commercial members, including HMO, and excluding, for the avoidance of doubt, members of self-insured customers or Medicare or Medicaid programs.\n\nExclusion Criteria:\n\nPregnancy.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Study population is oncology patients consenting to receive active therapy.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Deena Atieh Graham, MD",
+                            "OverallOfficialAffiliation": "Hackensack Meridian Health System",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "RCCA - Central Jersey Division",
+                            "LocationCity": "East Brunswick",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08816",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Freehold Division",
+                            "LocationCity": "Freehold",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07728",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Hackensack Meridian Health System",
+                            "LocationCity": "Hackensack",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Hackettstown Division",
+                            "LocationCity": "Hackettstown",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07840",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Howell Division",
+                            "LocationCity": "Howell",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07731",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Little Silver Division",
+                            "LocationCity": "Little Silver",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07739",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Marmora Division",
+                            "LocationCity": "Marmora",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08223",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Mount Holly Division",
+                            "LocationCity": "Mount Holly",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08060",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Pompton Plains Division",
+                            "LocationCity": "Pompton Plains",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07444",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "RCCA - Sparta Division",
+                            "LocationCity": "Sparta",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07871",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11218",
+                            "ConditionBrowseLeafName": "Melanoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

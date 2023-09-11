@@ -1,0 +1,691 @@
+{
+    "Rank": 250,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01362933",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Version N\u00b02.0 du 21/03/2011"
+                },
+                "Organization": {
+                    "OrgFullName": "Floralis",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "National Evaluation of the Adherence to Recommendations of Venous Thrombo Embolism Treatment in Cancer Patients",
+                "OfficialTitle": "National Evaluation of the Adherence to Recommendations of VTE Treatment in Cancer Patients",
+                "Acronym": "CARMEN"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 2011"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2012",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2012",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 25, 2011",
+                "StudyFirstSubmitQCDate": "May 27, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 1, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 5, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 6, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Floralis",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Centre Hospitalier Universitaire, Amiens",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Groupe Francophone Thrombose et Cancer (GFTC)",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "University Hospital, Grenoble",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Treatment of venous thromboembolism in cancer patients is specific and has been validated in trials that favor the use of LMWH (Low Molecular Weight Heparin) instead of VKA (Vitamin K Antagonist) treatment during 6 months. International recommendations have diffused this option.It is necessary to evaluate the compliance of physicians to this treatment by measuring the number of patients with cancer treated with long term use of LMWH."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasms",
+                        "Venous Thromboembolism"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "PE",
+                        "DVT",
+                        "SVT",
+                        "LMWH",
+                        "VKA",
+                        "international Venous Thromboembolism Recommendations"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "502",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "VTE treatment in cancer patient",
+                            "ArmGroupDescription": "All patients with cancer present in the clinic, hospital, out patient diagnosed with a VTE during the 6 previous months.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: VTE treatment in cancer patient description"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "VTE treatment in cancer patient description",
+                            "InterventionDescription": "proportion of patients treated for evolutive VTE according to international recommendations",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "VTE treatment in cancer patient"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluation of the adherence to recommendations of VTE treatment in cancer patients",
+                            "PrimaryOutcomeDescription": "Proportion of patients treated for evolutive VTE according to international recommandations Patients could be hospitalised or could be out patient",
+                            "PrimaryOutcomeTimeFrame": "At baseline (J0)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of VTE disease according to cancer diagnosis (proportion of SVT (Superficial Venous Thrombosis), DVT (Deep Venous Thrombosis), PE (Pulmonary Embolism)",
+                            "SecondaryOutcomeDescription": "Percentage of VTE (PE,DVT,SVT)and cancer type",
+                            "SecondaryOutcomeTimeFrame": "At baseline (J0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of asymptomatic VTE disease for this population",
+                            "SecondaryOutcomeDescription": "percentage of VTE and cancer status (local, metastatic)",
+                            "SecondaryOutcomeTimeFrame": "At baseline (J0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Feasibility of self injections for VTE treatment in cancer patients.",
+                            "SecondaryOutcomeDescription": "percentage of patients practising self injections",
+                            "SecondaryOutcomeTimeFrame": "At baseline (J0)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of patients with catheter thrombosis",
+                            "SecondaryOutcomeDescription": "Percentage of patients receiving novel cancer therapies",
+                            "SecondaryOutcomeTimeFrame": "At baseline (J0)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll patients with cancer present in the clinic, hospital, out patients diagnosed with a VTE during the 6 previous months. VTE can be symptomatic or asymptomatic, can be located close to a central line, and of any type (DVT, PE, SVT)\n\nExclusion Criteria:\n\nPatient already included in a trial studying antithrombotic therapy\nPatient refusing the study\nPatient under 18 and/or not competent to give informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients with cancer present in the clinic, hospital, out patients diagnosed with a VTE during the 6 previous months",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Marie-Antoinette SEVESTRE, MD",
+                            "OverallOfficialAffiliation": "Centre Hospitalier Universitaire, Amiens",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Dominique FARGE BANCEL, MD",
+                            "OverallOfficialAffiliation": "GFTC",
+                            "OverallOfficialRole": "Study Director"
+                        },
+                        {
+                            "OverallOfficialName": "Jean Luc BOSSON, MD",
+                            "OverallOfficialAffiliation": "University Hospital, Grenoble",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "CHR Annecy",
+                            "LocationCity": "Annecy",
+                            "LocationZip": "74374",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Victor Dupouy",
+                            "LocationCity": "Argenteuil",
+                            "LocationZip": "95100",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH AUCH",
+                            "LocationCity": "Auch",
+                            "LocationZip": "32000",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Beauvais",
+                            "LocationCity": "Beauvais",
+                            "LocationZip": "60021",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Institut Bergonie",
+                            "LocationCity": "Bordeaux",
+                            "LocationZip": "33076",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU de Brest",
+                            "LocationCity": "Brest",
+                            "LocationZip": "29609",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU de Caen",
+                            "LocationCity": "Caen",
+                            "LocationZip": "14033",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Fran\u00e7ois Baclesse",
+                            "LocationCity": "Caen",
+                            "LocationZip": "14076",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Antoine Gayraud Cedex 9",
+                            "LocationCity": "Carcassonne",
+                            "LocationZip": "11890",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Clinique du Parc CASTELNAU LE LEZ",
+                            "LocationCity": "Castelnau Le Lez",
+                            "LocationZip": "34170",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Chalons En Champagne",
+                            "LocationCity": "Chalons En Champagne",
+                            "LocationZip": "51005",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "P\u00f4le Sant\u00e9 L\u00e9onard de Vinci",
+                            "LocationCity": "Chambray-l\u00e8s-Tours",
+                            "LocationZip": "37175",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Jean Perrin Clcc",
+                            "LocationCity": "Clermont Ferrand",
+                            "LocationZip": "63000",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU",
+                            "LocationCity": "Clermont-Ferrand",
+                            "LocationZip": "63057",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Louis Mourier Colombes",
+                            "LocationCity": "Colombes",
+                            "LocationZip": "92701",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Polyclinique Saint come",
+                            "LocationCity": "Compiegne",
+                            "LocationZip": "60200",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU Bocage Dijon",
+                            "LocationCity": "Dijon",
+                            "LocationZip": "21079",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU",
+                            "LocationCity": "Grenoble",
+                            "LocationZip": "38043",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Ch Versailles Andre Maginot",
+                            "LocationCity": "Le Chesnay",
+                            "LocationZip": "78157",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHRU Calmette",
+                            "LocationCity": "Lille",
+                            "LocationZip": "59037",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHRU LILLE, H\u00f4pital Huriez",
+                            "LocationCity": "Lille",
+                            "LocationZip": "59037",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHRU Albert Calmette",
+                            "LocationCity": "Lille",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Edouard Herriot",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69003",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Desgenettes LYON",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69003",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Leon Berard LYON",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69008",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Saint Joseph Saint Luc",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69365",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Institut Paoli Calmette Marseille",
+                            "LocationCity": "Marseille",
+                            "LocationZip": "13273",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Saint Joseph",
+                            "LocationCity": "Marseille",
+                            "LocationZip": "13285",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU La Timone Marseille",
+                            "LocationCity": "Marseille",
+                            "LocationZip": "13385",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "H\u00f4pital Nord Marseille",
+                            "LocationCity": "Marseille",
+                            "LocationZip": "13915",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre R\u00e9gional de Lutte Contre le Cancer Val d'Aurelle",
+                            "LocationCity": "Montpellier",
+                            "LocationZip": "34298",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU H\u00f4tel-Dieu NANTES",
+                            "LocationCity": "Nantes",
+                            "LocationZip": "44093",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre de Lutte contre le Cancer (Centre Ren\u00e9 Gauducheau)",
+                            "LocationCity": "Nantes",
+                            "LocationZip": "44805",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHR Orleans",
+                            "LocationCity": "Orleans",
+                            "LocationZip": "45067",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Saint Louis Paris",
+                            "LocationCity": "Paris",
+                            "LocationZip": "75010",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Saint Antoine Paris",
+                            "LocationCity": "Paris",
+                            "LocationZip": "75012",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital de la Salpetriere Paris",
+                            "LocationCity": "Paris",
+                            "LocationZip": "75013",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Hopital Val de GRACE",
+                            "LocationCity": "Paris",
+                            "LocationZip": "75230",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "H\u00f4pital Kremlin Bic\u00eatre",
+                            "LocationCity": "Paris",
+                            "LocationZip": "94275",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Lyon Sud",
+                            "LocationCity": "Pierre Benite",
+                            "LocationZip": "69495",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU Rouen",
+                            "LocationCity": "Rouen",
+                            "LocationZip": "76031",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Rene Hugunin institut curie",
+                            "LocationCity": "Saint cloud",
+                            "LocationZip": "92210",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Mutualiste Site Etienne Dolet",
+                            "LocationCity": "Saint Nazaire",
+                            "LocationZip": "44 600",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Clinique Charcot,",
+                            "LocationCity": "Sainte Foy-les-lyon",
+                            "LocationZip": "69110",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHRU Strasbourg",
+                            "LocationCity": "Strasbourg",
+                            "LocationZip": "67091",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CH Valence",
+                            "LocationCity": "Valence",
+                            "LocationZip": "26953",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Ch Bretagne Atlantique",
+                            "LocationCity": "Vannes",
+                            "LocationZip": "56017",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier de Villefranche sur Sa\u00f4ne",
+                            "LocationCity": "Villefranche sur Sa\u00f4ne",
+                            "LocationZip": "69400",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "Institut Gustave Roussy",
+                            "LocationCity": "Villejuif",
+                            "LocationZip": "94805",
+                            "LocationCountry": "France"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "17918266",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Khorana AA, Francis CW, Culakova E, Kuderer NM, Lyman GH. Frequency, risk factors, and trends for venous thromboembolism among hospitalized cancer patients. Cancer. 2007 Nov 15;110(10):2339-46. doi: 10.1002/cncr.23062."
+                        },
+                        {
+                            "ReferencePMID": "10499070",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Levitan N, Dowlati A, Remick SC, Tahsildar HI, Sivinski LD, Beyth R, Rimm AA. Rates of initial and recurrent thromboembolic disease among patients with malignancy versus those without malignancy. Risk analysis using Medicare claims data. Medicine (Baltimore). 1999 Sep;78(5):285-91. doi: 10.1097/00005792-199909000-00001."
+                        },
+                        {
+                            "ReferencePMID": "16284987",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Khorana AA, Francis CW, Culakova E, Lyman GH. Risk factors for chemotherapy-associated venous thromboembolism in a prospective observational study. Cancer. 2005 Dec 15;104(12):2822-9. doi: 10.1002/cncr.21496."
+                        },
+                        {
+                            "ReferencePMID": "16460435",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Blom JW, Vanderschoot JP, Oostindier MJ, Osanto S, van der Meer FJ, Rosendaal FR. Incidence of venous thrombosis in a large cohort of 66,329 cancer patients: results of a record linkage study. J Thromb Haemost. 2006 Mar;4(3):529-35. doi: 10.1111/j.1538-7836.2006.01804.x."
+                        },
+                        {
+                            "ReferencePMID": "16505267",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chew HK, Wun T, Harvey D, Zhou H, White RH. Incidence of venous thromboembolism and its effect on survival among patients with common cancers. Arch Intern Med. 2006 Feb 27;166(4):458-64. doi: 10.1001/archinte.166.4.458."
+                        },
+                        {
+                            "ReferencePMID": "10737280",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Heit JA, Silverstein MD, Mohr DN, Petterson TM, O'Fallon WM, Melton LJ 3rd. Risk factors for deep vein thrombosis and pulmonary embolism: a population-based case-control study. Arch Intern Med. 2000 Mar 27;160(6):809-15. doi: 10.1001/archinte.160.6.809."
+                        },
+                        {
+                            "ReferencePMID": "16549834",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lee AY, Levine MN, Butler G, Webb C, Costantini L, Gu C, Julian JA. Incidence, risk factors, and outcomes of catheter-related thrombosis in adult patients with cancer. J Clin Oncol. 2006 Mar 20;24(9):1404-8. doi: 10.1200/JCO.2005.03.5600."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "American Society of Clinical Oncology guideline: recommendations for venous thromboembolism prophylaxis and treatment in patients with cancer.",
+                            "SeeAlsoLinkURL": "http://www.ncbi.nlm.nih.gov/pubmed/17968019"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013923",
+                            "ConditionMeshTerm": "Thromboembolism"
+                        },
+                        {
+                            "ConditionMeshId": "D000054556",
+                            "ConditionMeshTerm": "Venous Thromboembolism"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000016769",
+                            "ConditionAncestorTerm": "Embolism and Thrombosis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014652",
+                            "ConditionAncestorTerm": "Vascular Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002318",
+                            "ConditionAncestorTerm": "Cardiovascular Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M16372",
+                            "ConditionBrowseLeafName": "Thromboembolism",
+                            "ConditionBrowseLeafAsFound": "Thromboembolism",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M27470",
+                            "ConditionBrowseLeafName": "Venous Thromboembolism",
+                            "ConditionBrowseLeafAsFound": "Venous Thromboembolism",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7474",
+                            "ConditionBrowseLeafName": "Embolism",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16081",
+                            "ConditionBrowseLeafName": "Tachycardia, Supraventricular",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16376",
+                            "ConditionBrowseLeafName": "Thrombosis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18818",
+                            "ConditionBrowseLeafName": "Embolism and Thrombosis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17090",
+                            "ConditionBrowseLeafName": "Vascular Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC14",
+                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M19843",
+                            "InterventionBrowseLeafName": "Dalteparin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1943",
+                            "InterventionBrowseLeafName": "Tinzaparin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9271",
+                            "InterventionBrowseLeafName": "Heparin, Low-Molecular-Weight",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "FiAg",
+                            "InterventionBrowseBranchName": "Fibrinolytic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "AnCoag",
+                            "InterventionBrowseBranchName": "Anticoagulants"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

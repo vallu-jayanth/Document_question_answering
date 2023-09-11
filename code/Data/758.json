@@ -1,0 +1,312 @@
+{
+    "Rank": 758,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT06020443",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GHR 1303"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "2023-A00803-42",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "French Health Authority"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Groupe Hospitalier de la Region de Mulhouse et Sud Alsace",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Adherence to Lung Cancer Screening by Low-dose Thoracic CT in Haut-Rhin Department, France.",
+                "OfficialTitle": "Adherence to Lung Cancer Screening by Low-dose Thoracic CT in Haut-Rhin Department, France.",
+                "Acronym": "DECANPHAR"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 28, 2023",
+                "StudyFirstSubmitQCDate": "August 28, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 31, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 28, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 31, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Groupe Hospitalier de la Region de Mulhouse et Sud Alsace",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main objective of the study is to measure adherence to a lung cancer screening program using low-dose thoracic CT.",
+                "DetailedDescription": "Secondary objectives\n\nTo evaluate patient compliance over the entire duration of the screening program\nTo assess patient smoking cessation\nTo describe radiation doses received during CT scans\nTo identify organizational constraints for general practitioners\nTo compare stages at diagnosis before and after implementation of screening program\n\nConduct of research Eligible patients will be identified by general practitioners. Patients included will require a low-dose thoracic CT scan to be performed by a radiologist of their choice. Smoking cessation will be systematically proposed, and will be carried out by the general practitioner or a tobaccologist.\n\nThe radiation dose from thoracic CT scans should not exceed 100 mGy.cm Product Dose Length (i.e. < 1.5 mSv). Imaging reports will be forwarded to the general practitioner.\n\nIf the first CT scan is negative (T0): a second scan will be scheduled 1 year later (T1). If this second scan is also negative, in the absence of lung cancer risk factors other than smoking, scans will then be performed every two years. In the presence of a risk factor for lung cancer (other than tobacco), screening will remain annual.\n\nIn the event of a result classified as uncertain: a follow-up scan is scheduled at 3 months ; if the follow-up scan is negative, the next screening will be scheduled 1 year after this follow-up scan. If the screening performed 1 year later is also negative, subsequent screenings will be performed annually.\n\nIn the event of a positive result: the general practitioner will refer the patient to a pneumologist of his/her choice for further examinations; data from these additional examinations will be collected.\n\nThe screening protocol may evolve in line with recommendations issued by the French National Authority for Health (HAS).\n\nFor participants undergoing CT scan at the imaging department of Emile Muller hospital in Mulhouse (GHRMSA), a blood sample will be collected (optional) for subsequent biomarker assays."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "High-Risk Cancer",
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "screening",
+                        "low dose chest computed tomography",
+                        "lung cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "Low Dose chest CT Scan for Lung Cancer Screening",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "126",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with a high risk of lung cancer",
+                            "ArmGroupType": "Other",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Low Dose chest CT Scan for Lung Cancer Screening"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Low Dose chest CT Scan for Lung Cancer Screening",
+                            "InterventionDescription": "Low dose CT scans will be performed for three years",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with a high risk of lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of included patients having undergone the first screening scan",
+                            "PrimaryOutcomeTimeFrame": "T0"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of patients who refused to participate in the screening program",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of included patients having completed CT scans at each stage of follow-up",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients newly committed to smoking cessation during the screening period",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Tobacco consumption",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Radiation doses received at each CT scan",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Organizational constraints of the screening program",
+                            "SecondaryOutcomeDescription": "Organizational constraints of the screening program will be assessed on a subgroup of general practitioners by semi-structured interviews",
+                            "SecondaryOutcomeTimeFrame": "before starting the study"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Stage at diagnosis (TNM classification) of patients with lung cancer",
+                            "SecondaryOutcomeDescription": "The stages at diagnosis of patients with lung cancer included in the study will be compared with those of undetected patients (data from the Haut-Rhin Cancer Registry).",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients aged 50 to 74 years\nSmoking OR having smoked (withdrawal of <15 years): \u226515 cigarettes/day for \u226525 years OR \u226510 cigarettes/day for \u226530 years\nAffiliated or beneficiary of a social security scheme\nWritten informed consent\n\nExclusion Criteria:\n\nInability to walk up two flights of stairs without stopping\nBMI > 35 kg/m\u00b2\nRecent chest CT scan < 1 year\nPersonal history of lung cancer < 5 years or under treatment\nPersonal history of cancer being monitored by chest CT scan\nContraindication to lung cancer treatment or diagnostic investigations\nCurrent or recent respiratory symptoms immediately suggestive of lung cancer\nPregnant or breast-feeding woman\nPerson under court protection, guardianship or curatorship\nPerson deprived of liberty by judicial or administrative decision.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "74 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Didier Debieuvre, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+33389647032",
+                            "CentralContactEMail": "debieuvred@ghrmsa.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Patrick Strentz, MD",
+                            "OverallOfficialAffiliation": "General Practioner, Colmar, France",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

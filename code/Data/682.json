@@ -1,0 +1,212 @@
+{
+    "Rank": 682,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05416710",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CR-001-017"
+                },
+                "Organization": {
+                    "OrgFullName": "Invitae Corporation",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Universal Germline Testing in the Community",
+                "OfficialTitle": "Prospective Community Cancer Clinics-based Approach to Optimize Germline Testing in Cancer Patients in Rural Setting to Address Racial Disparities: UNIversal Germline Testing in the communitY (UNITY) Study",
+                "Acronym": "UNITY"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 1, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 9, 2022",
+                "StudyFirstSubmitQCDate": "June 9, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 13, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 5, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 7, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Invitae Corporation",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study seeks to enroll participants who have a diagnosis of a solid tumor cancer and are willing to undergo germline genetic testing for cancer risk. At baseline, patients will be asked to provide 2 types of blood samples: 1 tube for clinical genetic testing and 2 tubes for future research use. A tumor sample from a previous resection or biopsy will also be obtained and sent to the sponsor. The clinician will be asked to provide relevant medical history and demographic information to the sponsor in the form of electronic case report forms.",
+                "DetailedDescription": "This study seeks to enroll adult participants who have a diagnosis of a solid tumor cancer and are willing to undergo germline genetic testing for cancer risk using Invitae's Multi-Cancer gene panel. At baseline, patients will be asked to provide 2 types of blood samples: 1 tube for clinical genetic testing and 2 tubes for future research use. A tumor sample from a previous resection or biopsy will also be obtained and sent to the sponsor. The participant's clinician will be asked to provide relevant medical history and demographic information to the sponsor in the form of electronic case report forms at 3 timepoints: 1 month following the results of the participants genetic testing, one year post genetic testing, and 2 years post genetic testing."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer",
+                        "Solid Tumor",
+                        "Solid Tumor, Adult"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood samples will be obtained as baseline for germline genetic testing (1 EDTA Tube with 4-7mL of blood) and future research use (2 Streck tubes for 20mL of blood total)."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Solid tumor cancers",
+                            "ArmGroupDescription": "Adult participants with a diagnosis of a solid tumor cancer who are able to consent to the study and who are interested in undergoing germline genetic testing will receive testing using Invitae's 84 gene Multi-Cancer panel.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Invitae's 84 gene multi-cancer panel."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Invitae's 84 gene multi-cancer panel.",
+                            "InterventionDescription": "Invitae's Multi-Cancer panel analyzes 84 genes associated with hereditary cancers across major organ systems.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Solid tumor cancers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of Pathogenic Germline Variants (PGV)",
+                            "PrimaryOutcomeDescription": "Assess rate of PGVs in the trial participants using Invitae's 84 gene multi-cancer gene panel.",
+                            "PrimaryOutcomeTimeFrame": "Will be assessed at baseline only."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient has consented to germline genetic testing\nPatient has a histologically confirmed diagnosis of a solid tumor cancer\nPatient is willing to release previously collected tissue sample\nPatient is willing to provide research blood samples\nPatient must be at least 18 years of age\n\nExclusion Criteria:\n\nPatient is unable to consent.\nPatient with hematologic malignancy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Adults with solid tumor cancer who are willing to undergo germline genetic testing and who can consent to the study.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Lee Ifhar",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "5512150508",
+                            "CentralContactEMail": "lee.ifhar@invitae.com"
+                        },
+                        {
+                            "CentralContactName": "Brandie Leach",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "brandie.leach@invitae.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Carolina Blood and Cancer Care Associates, PA'",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rock Hill",
+                            "LocationState": "South Carolina",
+                            "LocationZip": "29732",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dhwani Mehta",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "dmehta@ccorn.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Niyati Nathwani, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "Rank": 1009,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05802771",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "5420- 0002485/23"
+                },
+                "Organization": {
+                    "OrgFullName": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Lung Cancer Multi-omics Digital Human Avatars for Integrating Precision Medicine Into Clinical Practice",
+                "OfficialTitle": "Lung Cancer Multi-omics Digital Human Avatars for Integrating Precision Medicine Into Clinical Practice: the LANTERN Study",
+                "Acronym": "LANTERN"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 1, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 16, 2023",
+                "StudyFirstSubmitQCDate": "April 4, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 7, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 4, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 7, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Technische Universit\u00e4t Dresden",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "University of Debrecen",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Hospital de la Santa creu i Sant Pau - Barcelona",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Koc University Hospital",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Accademia del Paziente Esperto EUPATI, Rome, Italy",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The goal of this multi-centric observational clinical trial is to to develop accurate predictive models for lung cancer patients, through the creation of Digital Human Avatars using various omics-based variables and integrating well-established clinical factors with \"big data\" and advanced imaging features\n\nThe main goals of LANTERN project are:\n\nTo develop prevention models for early lung cancer diagnosis;\nTo set up personalized predictive models for individual-specific treatments;\n\nLung cancer patients will be prospectively enrolled and main omics data (including radiomics and genomics) will be collected, reflecting the main omics domains associated with the lung cancer diagnosis and decision making pathway.\n\nAn exploratory analysis across all collected datasets will select a pool of potential biomarkers to create a multiple distinct multivariate models, trained though advanced machine learning (ML) and AI techniques sub-divided into specific areas of interest. Finally, the developed predictive models will be validated in order to test their robustness, transferability and generalizability, leading to the development of the Digital Human Avatar.",
+                "DetailedDescription": "Patient enrolment and omics data collection The objective of this WP is to gather information from all the clinical and omics based data sources considered as clinically significant for decision support in the lung cancer comprehensive diagnosis and therapy workflow. A structured terminological system will be developed for prospective data collection through specific Case Report Forms (CRFs).\n\nPatients will be enrolled by the dedicated research enrolment centres and data obtained from the five omics-based variables, will be collected and recorded in a secure database.\n\nOmics data archiving and inter-actionability The main aim of this WP is to allow complete data integration into both existing and new archiving systems and to ensure an easy and effective use and sharing of collected omics data.\n\nAll collected data representing the different considered omics-domains will be recorded according to a shared common ontology. The shared general ontology will represent a structured terminological system for data archiving and analysis where all the different omics domains will be recorded in a specific eCRF, ensuring coherence for all the collected data variables. Finally, the collected omics-related data will then undergo radiomic analysis and radiomic features will then be extracted.\n\nOmics data modelling, Digital Human avatar (DHA) creation and validation\n\nThis WP is focused on developing accurate predictive models (by creating Digital Human Avatars (DHA)) and on their validation. The purpose of this WP is to identify effective primary biomarkers, harmonize them through compact statistical models and subsequently creating patient-specific DHAs which will be unique to each patient. We plan to integrate all the aforementioned omics data into predictive models that will represent the basis for a fully personalized and innovative lung cancer integrated decision support system. This WP is divided into three phases:\n\nPhase 1: Omics features identification and selection Phase 2: Predictive model development and DHA creation Phase 3: Predictive model and DHA validation\n\nOmics features identification and selection:\n\nIn the first step, an exploratory analysis across all collected datasets from an estimate of \u2248 240 NSCLC patients will enable the start of the biomarker identification process and restrict the cast amount of information towards a more selected pool of potential biomarkers. This first phase will employ robust data analysis techniques in order to identify relevant variables in a univariate setting, taking individual statistical distributions, feature-relevant correlations and general descriptive statistics into account.\n\nPredictive model development and DHA creation:\n\nThe objective of the second phase is to create multiple distinct but modular multivariate models which will be trained through advanced ML and AI techniques, segmented into specific modular areas of interest and the subsequent creation of the DHA. Different supervised models will be developed including logistic regression, decision tree, support vector machine, random forest, XGBoost classifier, and artificial neural networks. The k-fold cross-validation will be used for hyperparameters tuning and statistical significance comparison of the performance of the ML models will be performed. This will be done to evaluate predictive performances based on accuracy (number of subjects correctly classified on the total number of patients) and precision (true positive on total test positive, recall (sensitivity), F1 score (2*precision*recall/(precision+recall)) and AUC-ROC.\n\nThe DHA creation will involve the integration of specific algorithms into the data extraction pipeline to clean and restructure the flow of data, while applying text mining and natural language processing technologies to the unstructured texts. The results of this pre-processing will then be recoded through a specifically assigned ontology to reveal duplicates. This leads to the creation of data Marts which will be updated continuously and automatically with new data. Based on the available data already processed, the developed algorithm and its underlying infrastructure will be used to classify newly updated patient data inputs by the clinicians using the interface. The resulting data presented through the dynamic interface allows the thorough exploration of previously added patient data already present in the database, to infer the best course of action based on historical data and the experience of the clinician. This will lead to a more generalized exploration workflow that will act as a hypothesis generator for the user, through clustering information based on custom criteria, thereby generating an exploratory analysis of the available data.\n\nThe investigators estimate that approximately 300 NSCLC cases with complete data will be adequate to start this process. Both user friendliness and model explainability will serve as the primary standard of the model development strategies. Easily interpretable values such as SHAP (SHapley Additive exPlanations) values will be attached to each model in order to avoid any black-box approaches that might render model outputs difficult to explain to the patients during their interactions with the clinicians.\n\nPredictive model and DHA validation: Both the developed model and the comprehensive DHA will be validated in order to test their robustness, transferability and generalizability. Two consecutive validation strategies will be employed respectively: the internal and external validation techniques. We estimate a total number of approximately 420 NSCLC cases to start the validation process. This process will include both internal and external validation."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Non Small Cell Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "radiomics",
+                        "Non small cell lung cancer",
+                        "biomarkers"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Non small cell lung cancer specimen surgically resected"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "600",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "enrolled patients",
+                            "ArmGroupDescription": "Non small cell lung cancer patients underwent surgical resection. We will use part of this cohort to built the predictive models and a second part to validate the creted models.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: surgical resection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "surgical resection",
+                            "InterventionDescription": "surgical resection of the lung cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "enrolled patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To develop prevention models for early lung cancer diagnosis",
+                            "PrimaryOutcomeDescription": "Development of prognostic model in NSCLC patients using omics data. In particular, will be determinate the association between radiomics characteristics and biomarkers to lung cancer stage and survival outcome.\n\nOmics data and prognostic model will be tested in terms of disease free and overall survival comapring the different models.",
+                            "PrimaryOutcomeTimeFrame": "36 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with (suspected) NSCLC\nAge >18 yrs\nECOG 0-3\nWritten Informed Consent\n\nExclusion Criteria:\n\nECOG 4\nPsychosocial, or emotional conditions controindicating participation to the study",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients affected by early stage Non small cell lung cancer underwent surgical resection.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "sara flamini",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "3457235931",
+                            "CentralContactEMail": "sarafla@hotmail.it"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "December 16, 2022",
+                            "LargeDocUploadDate": "02/16/2023 08:44",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        },
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "December 3, 2022",
+                            "LargeDocUploadDate": "03/13/2023 03:15",
+                            "LargeDocFilename": "ICF_001.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000002289",
+                            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002283",
+                            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001984",
+                            "ConditionAncestorTerm": "Bronchial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafAsFound": "Non-Small Cell Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5230",
+                            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4950",
+                            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

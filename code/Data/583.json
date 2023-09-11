@@ -1,0 +1,398 @@
+{
+    "Rank": 583,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04143516",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "19-332"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Tissue Analysis After Thermal Ablation for Colon Cancer Liver Metastases Leading to Immediate Retreatment",
+                "OfficialTitle": "Clinical Trial Optimizing Thermal Ablation for Colon Cancer Liver Metastases: Rapid Tissue Analysis Allowing for Immediate Retreatment; Metabolic Imaging Biomarker Validation; and Predictive Genetic Signatures"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 25, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 25, 2019",
+                "StudyFirstSubmitQCDate": "October 28, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 29, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 16, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 18, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will see whether collecting and analyzing needle biopsy samples from colon cancer liver metastases (CLM) after a thermal ablation procedure will be able to identify cancer cells that are still alive. The results of these biopsies could help determine the next treatment for your cancer, but the biopsies could cause side effects."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer Liver Metastases"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Optimizing Thermal Ablation",
+                        "Rapid Tissue Analysis",
+                        "Metabolic Imaging Biomarker Validation",
+                        "Predictive Genetic Signatures",
+                        "19-332"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2",
+                        "Phase 3"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "This is a single institution prospective study.",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with Colon Cancer Liver Metastases",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The standard of care thermal ablation procedure, post-ablation biopsies and pre- and post-ablation PET scans. If the PET scan is positive (shows areas of cancer in the treated metastases), study participants will undergo additional needle biopsies of the positive areas on the scan. If the biopsies show areas of cancer cells that are still alive, the participants will be immediately retreated with a second ablation procedure.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: [18-F]- FDG - PET",
+                                    "Procedure: Thermal ablation (TA)",
+                                    "Diagnostic Test: PET/CT Scan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "[18-F]- FDG - PET",
+                            "InterventionDescription": "Patients will undergo a limited non-contrast CT and first injection PET to localize the lesion",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with Colon Cancer Liver Metastases"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Thermal ablation (TA)",
+                            "InterventionDescription": "Standard ablation with the intent to create a radius of ablation at least 10 mm larger than the largest lesion diameter in order to achieve a minimum of 5 mm ablation margin around the tumor. Any radiographically-identified and biopsy-confirmed residual tumor will be treated on site with immediate ablation. This repeat ablation is not standard of care but will be performed as described for the initial ablation (in the same procedure session) and follow up will be resumed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with Colon Cancer Liver Metastases"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "PET/CT Scan",
+                            "InterventionDescription": "Eligible patients will undergo PET/CT -guided thermal ablation as per standard IR guidelines. All patients will undergo PET/CT again, within approximately 6 weeks (+/- 2 weeks) of thermal ablation to evaluate for CN in the target tumor(s) or any sign of residual tissue enhancement, representing viable residual tumor and incomplete treatment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with Colon Cancer Liver Metastases"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Tumor response",
+                            "PrimaryOutcomeDescription": "will be measured according to RECIST and PERCIST 1.0. The first CT and PET scan taken after ablation will be considered the new baseline for subsequent comparisons and measurements.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of colorectal cancer liver metastases (CLM)\nConfined liver disease or limited extrahepatic disease stable/controlled for at least 4 months (extrahepatic disease amenable to treatment is allowed)\nLesions of \u22643 cm in maximum diameter\nAt least one FDG-avid lesion to be treated***\nAny patient with CLM treated with Microwave ablation (as per clinical IR Guidelines)*\nINR < 1.5*\nPlatelet count \u2265 50,000\n\nExclusion Criteria:\n\nAge < 18\nLess than 5 mm distance to a structure (GI or biliary tract), that cannot be protected from ablation injury with technical modifications such as hydro or air dissection\nINR > 1.5 that cannot be corrected with fresh frozen plasma **\nPlatelet count of <50,000 that cannot be corrected with transfusion\nMore than 3 tumors in the liver\nMore than 5 tumors of extrahepatic disease (including mediastinal nodes and pulmonary nodules, abdominal or other lymph nodes, and bone metastasis)\n\nPresence of any peritoneal Carcinomatosis\n\nInstitutional IR guidelines:\n\nhttps://one.mskcc.org/sites/pub/radiology/lptestapp/Split%20Dose%20PET%20Ablation%20Liver%20tumors.pdf\n\nFor patients on Coumadin, general clinical guidelines for IR ablation will be followed.\n\nFor patients with no FDG-PET avid tumors aim 2 of the protocol will not be assessed",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Constantinos Sofocleous, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "212-639-3379",
+                            "CentralContactEMail": "sofoclec@mskcc.org"
+                        },
+                        {
+                            "CentralContactName": "Efsevia Vakiani, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-3060"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Constantinos Sofocleous, MD, PhD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Constantinos Sofocleous, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "212-639-3379"
+                                    },
+                                    {
+                                        "LocationContactName": "Efsevia Vakiani, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-3060"
+                                    },
+                                    {
+                                        "LocationContactName": "Constantinos Sofocleous, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org/mskcc/html/44.cfm"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionMeshId": "D000008113",
+                            "ConditionMeshTerm": "Liver Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008107",
+                            "ConditionAncestorTerm": "Liver Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10803",
+                            "ConditionBrowseLeafName": "Liver Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Liver Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10797",
+                            "ConditionBrowseLeafName": "Liver Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

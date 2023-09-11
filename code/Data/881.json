@@ -1,0 +1,416 @@
+{
+    "Rank": 881,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01978249",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "4-2013-0277"
+                },
+                "Organization": {
+                    "OrgFullName": "Yonsei University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Randomized, Prospective, Multicenter Study for the Role of Primary Tumor Resection in Colorectal Cancer Patients With Asymptomatic, Synchronous Unresectable Metastasis"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2018",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Because of the difficulties of participant enrollment.",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2015",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 2015",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "October 31, 2013",
+                "StudyFirstSubmitQCDate": "November 6, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 7, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 12, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 14, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Yonsei University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Short description for lay public, include brief statement of the study hypothesis"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colorectal cancer",
+                        "Primary tumor resection",
+                        "Chemotherapy",
+                        "Overall survival",
+                        "Quality of life"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "52",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Chemotherapy first without primary tumor resection",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients will receive chemotherapy first without primary tumor resection.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Systemic chemotherapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Primary tumor resection followed by chemotherapy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Patients will receive primary tumor resection followed by chemotherapy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: primary tumor resection (PTR)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Systemic chemotherapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Chemotherapy first without primary tumor resection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "primary tumor resection (PTR)",
+                            "InterventionDescription": "primary tumor resection (PTR) using open or laparoscopy or robotic surgery",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Primary tumor resection followed by chemotherapy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Comparison of the overall survival between patients who underwent primary tumor resection and patients who received chemotherapy without primary tumor resection",
+                            "PrimaryOutcomeDescription": "Comparison of the overall survival between patients who underwent primary tumor resection followed by chemotherapy and patients who received chemotherapy without primary tumor resection in stage IV colorectal cancer patients with unresectable metastasis.",
+                            "PrimaryOutcomeTimeFrame": "2 years after allocation"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Analysis of primary tumor related complications in the chemotherapy group and postoperative complications in the primary tumor resection followed by the chemotherapy group.",
+                            "SecondaryOutcomeTimeFrame": "2 years after allocation"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "To compare the quality of life between the two groups using the Korean version of EORTC QLQ (European Organization for Research and Treatment of Cancer Quality of Life Questionnaire)-C30.",
+                            "OtherOutcomeTimeFrame": "2 years after allocation"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge : between 20 and 90 years old\nHistologically confirmed adenocarcinoma of the colon or the upper rectum\nPatients with resectable primary colon or upper rectal cancer and unresectable metastatic lesions.\nPatients with no primary cancer related symptoms.\nECOG performance status of 0 - 2\nAppropriate organ functions (hepatic transaminases - less than 5 times the normal range; bilirubin - less than 2 times the normal range; creatinine serum - less than 1.5 times the normal range; thrombocyte - more than 100,000/\u00b5l; neutrophil - more than 1,500/\u00b5l)\nASA score of < 3\nAn informed consent form has been signed by the patient.\n\nExclusion Criteria:\n\nThe patient received adjuvant chemotherapy within the past 6 months.\nThe patient received chemotherapy for metastatic colon cancer.\nThe patient was planning to have curative surgery for the metastatic lesions.\nThe primary cancer is unresectable.\nPatients with peritoneal carcinomatosis.\nPatients with mid and low rectal cancer (< 10cm)\nPatients with primary tumor related complications such as intestinal obstruction, intractable bleeding, and perforation, that needs to be treated.\nASA score of > 4\nThe patient has chronic hepatitis or cirrhosis. An asymptomatic HBV or HCV carrier can participate.\nPatients with an active infection, which need antibiotic therapy, during the randomization period.\nPregnant or breastfeeding women\nPatients who were enrolled in another clinical trial during the time of enrollment (within the 28 day randomization period).\nPatients with another different malignant tumor during the past 5 years. Patients with treated non-melanoma skin cancer or cervical cancer can be enrolled in this study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "20 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Sacred Heart Hospital",
+                            "LocationCity": "Anyang",
+                            "LocationState": "Gyeonggi-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "National Cancer Center",
+                            "LocationCity": "Ilsan",
+                            "LocationState": "Gyeonggi-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Gachon University, Gil Hospital",
+                            "LocationCity": "Incheon",
+                            "LocationState": "Gyeonggi-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Seoul National University, Bundang Hospital",
+                            "LocationCity": "Seongnam-si",
+                            "LocationState": "Gyeonggi-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Yeongnam University Hospital",
+                            "LocationCity": "Daegu",
+                            "LocationState": "Gyeongsang-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Wonkwang University Hospital",
+                            "LocationCity": "Iksan",
+                            "LocationState": "Jeollabukdo",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Chonnam National University Hospital",
+                            "LocationCity": "Gwangju",
+                            "LocationState": "Jeonlla Nam-do",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Kyungpook National University Hospital",
+                            "LocationCity": "Daegu",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Department of Surgery, Yonsei University College of Medicine",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "120-752",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Asan Medical Center",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Seoul National University Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Yonsei University, Gangnam Severance Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "26782254",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Kim CW, Baek JH, Choi GS, Yu CS, Kang SB, Park WC, Lee BH, Kim HR, Oh JH, Kim JH, Jeong SY, Ahn JB, Baik SH. The role of primary tumor resection in colorectal cancer patients with asymptomatic, synchronous unresectable metastasis: Study protocol for a randomized controlled trial. Trials. 2016 Jan 19;17:34. doi: 10.1186/s13063-016-1164-0."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T6034",
+                            "ConditionBrowseLeafName": "Quality of Life",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "Rank": 524,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05261542",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "27190/26-10-2017"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Ioannina",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Intraoperative Flow Cytometry In Colorectal Cancer",
+                "OfficialTitle": "Detection of Cancer Cells and Tumor Margins During Colorectal Cancer Surgery by Intraoperative Flow Cytometry"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 26, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 30, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 25, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 6, 2022",
+                "StudyFirstSubmitQCDate": "February 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 2, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 18, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 2, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "CHRISTINA BALI",
+                    "ResponsiblePartyInvestigatorTitle": "ACCOSIATE PROFESOR OF SURGERY",
+                    "ResponsiblePartyInvestigatorAffiliation": "University Hospital, Ioannina"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Ioannina",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study was designed to investigate the efficacy of flow cytometry to accurately identify between normal and cancer cells in colon epithelium in humans diagnosed with colorectal cancer.",
+                "DetailedDescription": "Tissue samples from normal and cancerous colon epithelium are collected intraoperatively following standard colectomy and analyzed blindly by flow cytometry, which reports, in less than 10 min, on the origin of the sample based in the estimation of DNA and tumor index."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "tissue samples from normal and cancer epithelium collected following colectomy"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "106",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "normal colorectal epithelium",
+                            "ArmGroupDescription": "Tissue samples from normal colorectal epithelium are collected during colectomy in every colorectal cancer patient",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: flow cytometry"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "cancer colorectal epithelium",
+                            "ArmGroupDescription": "Tissue samples from colorectal cancer are collected during colectomy in every colorectal cancer patient",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: flow cytometry"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "flow cytometry",
+                            "InterventionDescription": "evaluation of intraoperative flow cytometry in detecting cancer cells in colorectal epithelium",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "cancer colorectal epithelium",
+                                    "normal colorectal epithelium"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Accuracy of intraoperative Flow Cytometry for cancer cell identification in colorectal cancer.",
+                            "PrimaryOutcomeDescription": "Samples from cancer and normal colon epithelium are prospectively collected intraoperatively and assessed with intraoperative Flow Cytometry. Following comparative DNA content and phenotypic analysis, the receiver operating characteristic (ROC) curve analysis is used to evaluate the performance of intraoperative Flow Cytometry to distinguish between normal and cancer tissue. The optimal cut-off value is determined to delineate the status of tumor tissue, resulting in the highest sensitivity and specificity and hence the optimal accuracy.",
+                            "PrimaryOutcomeTimeFrame": "2017-2021"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nbiopsy proven colorectal cancer signed informed consent for participation\n\nExclusion Criteria:",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "25 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients diagnosed with colorectal cancer and being treated by standard colectomy or/and neoadjuvant theraphy according to current guidelines.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Hospital of Ioannina",
+                            "LocationCity": "Ioannina",
+                            "LocationState": "Epirus",
+                            "LocationZip": "45500",
+                            "LocationCountry": "Greece"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

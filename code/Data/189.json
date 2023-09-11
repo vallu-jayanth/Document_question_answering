@@ -1,0 +1,336 @@
+{
+    "Rank": 189,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01244022",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "DS-P03112010"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital Dubrava",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Cytokine Changes After Colorectal Cancer Resection",
+                "OfficialTitle": "Postoperative Serum Cytokine Changes After Radical Resection of Colorectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2013",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2012",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2012",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 12, 2010",
+                "StudyFirstSubmitQCDate": "November 18, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 19, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 15, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 16, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Drazen Servis",
+                    "ResponsiblePartyInvestigatorTitle": "M.D., Ph. D.",
+                    "ResponsiblePartyInvestigatorAffiliation": "University Hospital Dubrava"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital Dubrava",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Based on our previous research, this study aims to determine reliable surgical stress response markers in patients undergoing radical resection of colorectal cancer.",
+                "DetailedDescription": "Every surgical intervention represents a stress for patient's organism. During the operation, numerous changes in the patient's metabolism take place, that are termed surgical stress response. Leading cause of surgical stress response is tissue destruction that always accompanies operations. Surgical stress response is effected through activation of hypothalamus-pituitary-adrenal axis and through sympathetic activation.\n\nThe consequences of surgical stress response are numerous. Surgical stress response is essential to uneventful postoperative recovery. On the other hand, excessive surgical stress response may lead to serious postoperative complications, such as heart and kidney failure, venous thrombosis, disruption of operative wound and wound infection.\n\nIn prior studies the investigators have shown the kinetics of postoperative serum interleukin changes after radical resection of gastric cancer.\n\nThis study aims at determining reliable markers of surgical stress response severity in patients undergoing radical resection of colorectal cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Colorectal cancer",
+                        "Surgical stress response",
+                        "interleukins"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "For each patient, serum samples will be stored at -80\u00b0C for later determining of serum cytokine levels"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "28",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colorectal cancer patients",
+                            "ArmGroupDescription": "Patients with pathohistologically verified colorectal cancer or adenoma with epithelial dysplasia",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: colorectal cancer resection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "colorectal cancer resection",
+                            "InterventionDescription": "Open radical resection of colorectal cancer, according to oncological principals, depending on the tumor site",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colorectal cancer patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Hemicolectomy",
+                                    "Rectosigmoid resection"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Postoperative changes of serum cytokine levels",
+                            "PrimaryOutcomeDescription": "Serum cytokine levels will be determined at 1st, 2nd and 7th postoperative day and compared to preoperative values.",
+                            "PrimaryOutcomeTimeFrame": "1 day, 2 days and 7 days postoperatively"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Early postoperative complications",
+                            "SecondaryOutcomeTimeFrame": "Within one month after surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPathohistologically verified colorectal cancer\n\nExclusion Criteria:\n\nDistant metastases noticed before or during surgery\nHistory of autoimmune diseases or immunodeficiencies\nUse of immunomodulatory drugs within 1 year prior to surgery",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "20 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with colorectal cancer treated in the University Hospital Dubrava",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Drazen Servis, M.D., Ph.D.",
+                            "OverallOfficialAffiliation": "University Hospital Dubrava",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Hospital Dubrava",
+                            "LocationCity": "Zagreb",
+                            "LocationZip": "10000",
+                            "LocationCountry": "Croatia"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "19102411",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Servis D, Busic Z, Stipancic I, Patrlj L, Gagro A. Serum cytokine changes after gastric resection or gastrectomy for gastric cancer. Hepatogastroenterology. 2008 Sep-Oct;55(86-87):1868-72."
+                        },
+                        {
+                            "ReferencePMID": "29133757",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Etherek L, Servis D, Unic A. Soluble Triggering Receptor Expressed on Myeloid Cells-1 and Inflammatory Markers in Colorectal Cancer Surgery: A Prospective Cohort Study. Chin Med J (Engl). 2017 Nov 20;130(22):2691-2696. doi: 10.4103/0366-6999.218022."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

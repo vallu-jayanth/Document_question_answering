@@ -1,0 +1,399 @@
+{
+    "Rank": 1089,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01027221",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IMPACT2010"
+                },
+                "Organization": {
+                    "OrgFullName": "German Cancer Research Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Low Dose Radiation to Improve T-Cell Infiltration in Pancreatic Cancer",
+                "OfficialTitle": "Randomised Phase I/II Trial in Order to Evaluate the Effect of Neoadjuvant Radiation on Tumor Infiltrating T-cells by Neoadjuvant Low-Dose-Radiation Therapy in Primarily Resectable Pancreatic Cancer",
+                "Acronym": "IMPACT2010"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2017",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2009",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2019",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 4, 2009",
+                "StudyFirstSubmitQCDate": "December 4, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 7, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "June 7, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 10, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "German Cancer Research Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Heidelberg University",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Principal purpose of the study is the determination of an active local external beam radiotherapy dose leading to a maximum number of tumor infiltrating T-cells."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Primarily Resectable Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Low Dose Radiation",
+                        "pancreatic cancer",
+                        "Immunostimulation"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "32",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "0",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "primarily resectable pancreatic cancer patients"
+                        },
+                        {
+                            "ArmGroupLabel": "0,5 Gy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "neoadjuvant Radiation of 0,5 Gy two days before resection",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: neoadjuvant photon radiation"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "2 Gy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "neoadjuvant Radiation of 2 Gy 2 days before resection",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: neoadjuvant photon radiation"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "5 Gy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "neoadjuvant Radiation of 5 Gy 2 days before resection",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: neoadjuvant photon radiation"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "neoadjuvant photon radiation",
+                            "InterventionDescription": "single fraction, four dimensions (4D) planned, image guided, Radiation at a dose of 0,5 Gy in Intensity modulated radiotherapy (IMRT)-technique 2 days before resection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "0,5 Gy"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "neoadjuvant photon radiation",
+                            "InterventionDescription": "single fraction, 4D-planned, image guided, 2 Gy Radiation to the tumor with a safety margin, in IMRT-technique 2 days before resection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "2 Gy"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "neoadjuvant photon radiation",
+                            "InterventionDescription": "single fraction, 4D-planned, image guided, 5 Gy Radiation to the tumor with a safety margin, in IMRT-technique 2 days before resection",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "5 Gy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Principal purpose of the study is the determination of an active local external beam radiotherapy dose leading to a maximal number of tumor infiltrating T-cells. The total T-cell activity serves as primary surrogate parameters for anti- tumoral activity",
+                            "PrimaryOutcomeDescription": "Principal purpose of the study is the determination of an active local external beam radiotherapy dose leading to a maximal number of tumor infiltrating T-cells. The total T-cell activity serves as primary surrogate parameters for anti- tumoral activity",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "local control and recurrence patterns of pancreatic cancer relative to a standard as seen in historical controls",
+                            "SecondaryOutcomeDescription": "local control and recurrence patterns of pancreatic cancer relative to a standard as seen in historical controls",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "surgical morbidity in patients undergoing pancreatic resection who received this protocol treatment",
+                            "SecondaryOutcomeDescription": "surgical morbidity in patients undergoing pancreatic resection who received this protocol treatment",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "frequencies of tumor-reactive T-cells in blood and bone marrow",
+                            "SecondaryOutcomeDescription": "frequencies of tumor-reactive T-cells in blood and bone marrow",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "expression of migration-relevant adhesion molecules on tumor endothelial cells",
+                            "SecondaryOutcomeDescription": "expression of migration-relevant adhesion molecules on tumor endothelial cells",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "expression of proinflammatory cytokines and activation-dependent, immune-associated transcriptionally factors in tumors and blood",
+                            "SecondaryOutcomeDescription": "expression of proinflammatory cytokines and activation-dependent, immune-associated transcriptionally factors in tumors and blood",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "quality of life according to the EORTC QoL questionnaire after 6, 12, 18 and 24 months",
+                            "SecondaryOutcomeDescription": "quality of life according to the EORTC QoL questionnaire after 6, 12, 18 and 24 months",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nRadiological diagnosis of resectable pancreatic carcinoma is required prior to treatment. Potentially resectable is defined as no extrapancreatic disease, no evidence (on CT) of involvement of the celiac axis or superior mesenteric artery, no evidence (on CT or MRI) of occlusion of the superior mesenteric vein or superior mesenteric-portal venous confluence.\nNo evidence of metastatic disease as determined by chest CT scan, abdominal CT scan (or MRI)\n18 years of age or older\nAmerican Society of Anesthesiologists (ASA)- Performance status of 1 to 3\nWomen of child bearing potential must practice adequate contraception and refrain from breast feeding. Female patients must have a negative pregnancy test within 7 days of treatment\nInformed consent\n\nExclusion Criteria:\n\nLocally irresectable pancreatic cancer\ndistant metastases\nmedically unfit for surgery\nPregnant or lactating women\nprior chemotherapy or radiation treatment\nOther serious uncontrolled medical conditions that the investigator feels might compromise study participation\nUnwillingness to participate or inability to comply with the protocol for the duration of the study\nMajor surgery, excluding laparoscopy, within 4 weeks of the start of study treatment, without complete recovery\nParticipation in other interventional trials",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Peter E. Huber, Prof. PhD MD",
+                            "OverallOfficialAffiliation": "German Cancer Research Centre and Clinic for Radiation Oncology of the University of Heidelberg",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Clinic for General, Visceral and Transplantation Surgery",
+                            "LocationCity": "Heidelberg",
+                            "LocationZip": "69120",
+                            "LocationCountry": "Germany"
+                        },
+                        {
+                            "LocationFacility": "German Cancer Research Center",
+                            "LocationCity": "Heidelberg",
+                            "LocationZip": "69120",
+                            "LocationCountry": "Germany"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "21489291",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Timke C, Winnenthal HS, Klug F, Roeder FF, Bonertz A, Reissfelder C, Rochet N, Koch M, Tjaden C, Buechler MW, Debus J, Werner J, Beckhove P, Weitz J, Huber PE. Randomized controlled phase I/II study to investigate immune stimulatory effects by low dose radiotherapy in primarily operable pancreatic cancer. BMC Cancer. 2011 Apr 13;11:134. doi: 10.1186/1471-2407-11-134."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

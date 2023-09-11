@@ -1,0 +1,336 @@
+{
+    "Rank": 772,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04529915",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2020GR0176"
+                },
+                "Organization": {
+                    "OrgFullName": "Korea University Guro Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Multicenter Clinical Research for Early Diagnosis of Lung Cancer Using Blood Plasma Derived Exosome",
+                "OfficialTitle": "Multicenter Clinical Research for Early Diagnosis of Lung Cancer Using Blood Plasma"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2021",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 9, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 29, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 29, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 2, 2020",
+                "StudyFirstSubmitQCDate": "August 24, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 28, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 10, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 30, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Hyun Koo Kim",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Korea University Guro Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Korea University Guro Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Lung cancer is a leading cause of cancer death worldwide. Early diagnosis is linked to a better prognosis. Further, surgical resection at the early stages of non-small cell lung cancer (NSCLC) results in markedly improved survival rates. Computed tomography (CT)- or bronchoscopy-guided needle biopsies are standard definitive diagnostic procedures for lung cancer and are used to obtain tissue for pathological examination. However, these procedures are invasive, difficult to repeat, expensive, and risk exposure to radiation. Conversely, liquid biopsies, such as circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), and extracellular vesicles (EVs), are simple and less invasive procedures that can be repeated more frequently than tissue biopsies.\n\nTo analyze the exosomes abundantly present in the blood and to conduct clinical studies to determine whether it is possible to diagnose lung cancer. To this end, blood samples from normal people (n = 150) and lung cancer patients (n = 320) are obtained from the Human biobank of five hospitals participating in the study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Blood plasma",
+                        "Exosome",
+                        "Liquid biopsy",
+                        "Lung cancer",
+                        "Biomarker",
+                        "Deep-learning analysis"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Blood plasma"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "470",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Exosome sampling"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Exosome sampling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Exosome sampling",
+                            "InterventionDescription": "Centrifugation of blood plasma\nSize exclusion chromatography\nELISA assay, Western blotting\nDeep-learning analysis",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Healthy",
+                                    "Lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluation of the distinction between healthy controls and lung cancer patients through deep-learning analysis of exosomes",
+                            "PrimaryOutcomeDescription": "Comparative evaluation of whether it is possible to distinguish between healthy controls and lung cancer patients through deep-learning analysis of exosomes",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluating the possibility of distinguishing between normal and lung cancer patients through the analysis of lung cancer-specific exosomal protein",
+                            "PrimaryOutcomeDescription": "Quantitative analysis using lung cancer-specific exosomal protein evaluated the possibility of distinguishing between healthy controls and lung cancer patients.",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of the possibility of distinguishing the early pathological stages in lung cancer patients through deep-learning analysis of exosomes",
+                            "SecondaryOutcomeDescription": "Evaluating whether the early stages of lung cancer patients can be distinguished using deep-learning analysis of exosomes",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of the possibility of distinguishing the early pathological stages in lung cancer patients through quantitative analysis of lung cancer specific exosomal proteins",
+                            "SecondaryOutcomeDescription": "Evaluating whether the early stages of lung cancer patients can be distinguished using quantitative analysis of lung cancer specific exosomal proteins",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with primary adenocarcinoma of lung with permanent pathology of N0 or N1\nPatients with T1mi, Tsi, T1a, T1b, T1c, T2a, and T2b stage\nAn adult of Korean nationality\nPatients without prior chemo/radiation treatment prior to lung cancer surgery\nPatients who have not been diagnosed with other cancers prior to lung cancer surgery\n\nExclusion Criteria:\n\nPatients who do not meet the inclusion criteria",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "For this study, Koreans, regardless of gender, were studied for adults over 40 years of age.\n\nParticipating institutions for this clinical research are Korea University Guro Hospital, Gangnam Severance Hospital, Bundang Seoul National University Hospital, Seoul Asan Hospital, and Samsung Seoul Hospital.\n\nBlood plasma samples is taken from stored in the biobank of each hospital.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Hyun Koo MD, PhD, MD, PhD",
+                            "OverallOfficialAffiliation": "Professor",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Korea University Guro Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationState": "Guro-gu",
+                            "LocationZip": "08308",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "17145848",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kaplan RN, Rafii S, Lyden D. Preparing the \"soil\": the premetastatic niche. Cancer Res. 2006 Dec 1;66(23):11089-93. doi: 10.1158/0008-5472.CAN-06-2407."
+                        },
+                        {
+                            "ReferencePMID": "19308068",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Psaila B, Lyden D. The metastatic niche: adapting the foreign soil. Nat Rev Cancer. 2009 Apr;9(4):285-93. doi: 10.1038/nrc2621."
+                        },
+                        {
+                            "ReferencePMID": "20610625",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Talmadge JE, Fidler IJ. AACR centennial series: the biology of cancer metastasis: historical perspective. Cancer Res. 2010 Jul 15;70(14):5649-69. doi: 10.1158/0008-5472.CAN-10-1040. Epub 2010 Jul 7."
+                        },
+                        {
+                            "ReferencePMID": "18066649",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bidard FC, Pierga JY, Vincent-Salomon A, Poupon MF. A \"class action\" against the microenvironment: do cancer cells cooperate in metastasis? Cancer Metastasis Rev. 2008 Mar;27(1):5-10. doi: 10.1007/s10555-007-9103-x."
+                        },
+                        {
+                            "ReferencePMID": "20567244",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "van Akkooi AC, Verhoef C, Eggermont AM. Importance of tumor load in the sentinel node in melanoma: clinical dilemmas. Nat Rev Clin Oncol. 2010 Aug;7(8):446-54. doi: 10.1038/nrclinonc.2010.100. Epub 2010 Jun 22."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

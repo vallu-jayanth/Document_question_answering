@@ -1,0 +1,665 @@
+{
+    "Rank": 181,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01775072",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "12-245"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Genomic Profiling in Cancer Patients",
+                "OfficialTitle": "Genomic Profiling in Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 21, 2013",
+                "StudyFirstSubmitQCDate": "January 21, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 24, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 3, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 5, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to determine whether certain genes in cancer may be abnormal. When a gene is abnormal this is called a mutation. Most mutations in cancer cells are not inherited (passed down from parents) but happen after birth in the cancer itself. Most cancers have many mutations. Some of these mutations are important for the cancer cells to survive while others are not. The goal of this study is test cancer for certain mutations using leftover tumor tissue from a previous surgery or biopsy. Participants will also be asked to provide a tube of blood cheek (also known as a buccal) swab, or a saliva sample that contains normal genes for comparison.\n\nThe purpose of Part B of this study is to:\n\nUnderstand how genetic changes in tumor effect the chance of responding to experimental cancer treatment. Understand how the genes in the tumor change overtime in response to targeted cancer treatment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Solid Tumors",
+                        "Hematologic Cancers"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "tissue",
+                        "blood",
+                        "salvia",
+                        "buccal swab",
+                        "Genomic Profiling",
+                        "Solid Tumors",
+                        "hematologic cancer",
+                        "Clinical Assay",
+                        "Research Assay",
+                        "12-245"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "tissue, blood, saliva or nail clippings"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pts with solid tumors",
+                            "ArmGroupDescription": "Patients must have solid or hematologic cancer. for treatment on a . Patients must have undergone pathologic confirmation of their tumor at MSKCC and have either: 1) archival tissue available for analysis, 2) have fresh tissue collection planned as routine standard of care biopsy or part of a research biopsy under another clinical trial(or peripheral blood / bone marrow collection in the case of hematologic cancers) outside of the context of this protocol, or 3)archival tissue .available at an outside facility. For prospective genotyping tissue specimens from the primary site, a metastasis or recurrence will be used based upon the availability and quality of tissue.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: molecular profiling of tumors",
+                                    "Genetic: Clinical Germline Analysis"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "molecular profiling of tumors",
+                            "InterventionDescription": "Part A is the molecular profiling of tumors. No new tumor biopsies will be performed in the context of Part A. If a pt does have a surgery or tumor biopsy , leftover tissue (or an additional core) from this procedure may be used for molecular profiling. Clinical Assay(s): This testing will be performed in the CLIA-certified Molecular Diagnostics Service laboratory. Research Assay(s): This protocol will also be used as a platform to pilot the use of investigational \"next-generation\" profiling technologies .including whole exome sequencing, whole genome sequencing RNA sequencing cell-free tumor DNA/RNA sequencing, proteomics, & others. To confirm the findings obtained on these assays using an orthogonal assay, additional sequencing such as Sanger,Sequenom, MiSeq or IMPACT testing may be utilized in either the CLIA or non-CLIA setting Part B: DTC Cohort Pts successfully registered to Part B of this study will be eligible for minimal risk collection & research biopsies.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pts with solid tumors"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Clinical Germline Analysis",
+                            "InterventionDescription": "Part C: Clinical Germline Analysis Participants who have donated a matched normal peripheral blood sample for comparison to somatic sequence will be offered the opportunity to have that germline DNA sample analyzed for the presence of deleterious or likely deleterious mutations in genes on the MSK-IMPACT panel that are known to be linked to inherited susceptibility or that are included on consensus lists of genes that should undergo secondary analysis (e.g. the \"ACMG list\").\n\nPart D: Germline Profiling for Individuals at Elevated Cancer Risk",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pts with solid tumors"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "frequency of \"actionable\" oncogenic mutations",
+                            "PrimaryOutcomeDescription": "\"Actionable\" mutations will be defined as either 1) a mutation shown to predict for sensitivity or resistance to a drug FDA approved for use in another cancer indication or 2) a mutation which predicts for sensitivity or resistance in preclinical models to an investigational class of drugs.",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To determine the impact of molecular profiling results performed in the CLIA-setting on the treatment of patients.",
+                            "SecondaryOutcomeDescription": "The Bioinformatics Core will assist in interpreting data generated by next-generation sequencing techniques such as WES and WGS.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "interrogate the mechanisms",
+                            "SecondaryOutcomeDescription": "underlying response and resistance (de-novo and acquired) to targeted therapy. The research assay(s) used to accomplish this will vary based on the clinical setting and tissue available and may include Sanger, Sequenom, MiSeq, exon-capture (ie: IMPACT), whole exome, and whole genome sequencing.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To explore the genetic mechanisms of tumorigenesis",
+                            "SecondaryOutcomeDescription": "in a subset of specimens with no identifiable culpritic genomic alterations on highly-multiplexed next-generation sequencing (i.e.: IMPACT testing) by using even more comprehensive investigational profiling techniques such as whole exome sequencing, whole genome sequencing or RNA sequencing",
+                            "SecondaryOutcomeTimeFrame": "2"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPart A:\n\nPatients with a history of cancer or patients without a documented cancer history undergoing a surgical procedure, endoscopy, biopsy, or liquid biopsy (for example cell free DNA testing) to confirm or exclude a cancer diagnosis, or\nAny participant having a test or procedure that has the potential to provide a specimen that can be banked for future research purposes, or\nAny participant who has already had a diagnostic or therapeutic procedure that has yielded tissue, blood or other bodily fluids presently in the archive but who has not yet been approached to participate is also eligible.\n\nPart B:\n\nPatients must be successfully registered to Part A of MSKCC IRB# 12-245\nPrior written approval for patient consent obtained from the Principal/Co-Principal Investigator of MSKCC IRB # 12-245.\n\nPart C:\n\nPatient must be receiving ongoing care at MSK or a CHERPn/ Alliance/Affiliate site or have previously consulted with an MSK physician.\nPatient must have successfully consented to Part A of this study.\n\nPart D:\n\nPatients with no personal cancer history at increased risk for cancer development due to family history, molecular cancer marker, know carrier status of a gene associated with increased cancer risk or prior/ongoing environmental exposures or lifestyle factors.\n\nExclusion Criteria:\n\nAll Parts:\n\nUnwilling or unable to provide informed consent.\n\nPart C:\n\nAll patients consenting to Part A are eligible to consent to 12-245, Part C. Most patients will be eligible to receive clinical germline testing with return of results to the patient/health care providers. However, several exclusion criteria apply and are outlined below\n\nSolid tumor patients: Secondary germline analysis using BAM files generated for MSK-IMPACT testing is not an option for patients with solid tumors and an acute or chronic hematologic neoplasm that would preclude the use of blood or saliva as a source of germline DNA. Such patient may be eligible for primary germline testing using a non-blood source of germline DNA as per standard clinical guidelines. Solid tumor patients who have had an allogenic bone marrow/stem cell transplant will only be considered eligible for germline testing under Part C if a sample adequate for germline testing had previously been collected prior to allogenic bone marrow/stem cell transplant.\nHematologic cancer patients: For patients with a hematopoietic neoplasm, germline testing may be an option under Part C using nail clippings or another non-blood source of DNA as per standard clinical practice. For patients who have had an allogenic bone marrow/stem cell transplant, clinical germline testing will only be considered under Part C if a sample adequate for germline testing had previously been collected prior to Allogenic bone marrow/stem cell transplant.\n\nPart D\n\nExclusion criteria are same as those for Part C outlined above.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with solid or hematologic cancers who may be and considered potential candidates for a therapeutic protocol will be recruited to Part A of this study. Enrollment to therapeutic clinical trials will not be contingent on enrollment in this protocol.\n\nPart B: Research Collection Cohort Patients potentially appropriate will be identified by their treating physician in each participating Disease Management Team.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "David Solit, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-2641"
+                        },
+                        {
+                            "CentralContactName": "Zsofia Stadler, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "646-888-4039"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "David Solit, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "St. Vincent (Data Collection Only)",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Bridgeport",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06606",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christopher Iannuzzi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "203-576-6000"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Hartford Healthcare Cancer Institute @ Hartford Hospital",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Hartford",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06102",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrew Salner, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "860-972-2803"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Norwalk Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Norwalk",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06850",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Linda Vahdat, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "203-845-4811"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Baptist Alliance MCI",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Miami",
+                            "LocationState": "Florida",
+                            "LocationZip": "33143",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "John Diaz, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "786-596-2000"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Basking Ridge",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Basking Ridge",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07920",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Monmouth",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Middletown",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07748",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Bergen",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Montvale",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07645",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "NYC Health & Hospitals /Lincoln Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bronx",
+                            "LocationState": "New York",
+                            "LocationZip": "10451",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Monica Reddy Muppidi, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-579-4977"
+                                    },
+                                    {
+                                        "LocationContactName": "Monica Reddy Muppidi, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "New York Cancer & Blood Specialists (Data collection only)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bronx",
+                            "LocationState": "New York",
+                            "LocationZip": "10469",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Richard Zuniga, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "631-751-3000"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Kings County Hopsital Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Brooklyn",
+                            "LocationState": "New York",
+                            "LocationZip": "11203",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jason Gonsky, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-245-2847"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Commack",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Commack",
+                            "LocationState": "New York",
+                            "LocationZip": "11725",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Westchester",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Harrison",
+                            "LocationState": "New York",
+                            "LocationZip": "10604",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Queens Cancer Center of Queens Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Jamaica",
+                            "LocationState": "New York",
+                            "LocationZip": "11432",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Margaret Kemeny, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-883-4031"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Metropolitan Hospital Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10029",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Anitha Srinivasan, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "212-423-6262"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ralph Lauren Center for Cancer Care and Prevention",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10035",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Lewis P. Kampel, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-422-4474"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    },
+                                    {
+                                        "LocationContactName": "Zsofia Stadler, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-4039"
+                                    },
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Nassau",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Uniondale",
+                            "LocationState": "New York",
+                            "LocationZip": "11553",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Solit, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "646-888-2641"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Lehigh Valley Health Network",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Allentown",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "18103",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Suresh Nair, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "610-402-7880"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "36187555",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Seldon CS, Meiyappan K, Hoffman H, Guo JA, Goel N, Hwang WL, Nguyen PL, Mahal BA, Alshalalfa M. Genomic alterations predictive of poor clinical outcomes in pan-cancer. Oncotarget. 2022 Sep 28;13:1069-1077. doi: 10.18632/oncotarget.28276. eCollection 2022."
+                        },
+                        {
+                            "ReferencePMID": "35483876",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Rosenzweig J, Pillai PM, Prockop S, Benayed R, Eidenschink Brodersen L, Najfeld V, Loken MR, Zhang Y, Shukla N. Acute myeloid leukemia with an MN1-ETV6 fusion in a young child with Down syndrome. Cold Spring Harb Mol Case Stud. 2022 Apr 28;8(3):a006167. doi: 10.1101/mcs.a006167. Print 2022 Apr."
+                        },
+                        {
+                            "ReferencePMID": "34466766",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Lin AL, Tabar V, Young RJ, Cohen M, Cuaron J, Yang TJ, Rosenblum M, Rudneva VA, Geer EB, Bodei L. Synergism of Checkpoint Inhibitors and Peptide Receptor Radionuclide Therapy in the Treatment of Pituitary Carcinoma. J Endocr Soc. 2021 Aug 7;5(10):bvab133. doi: 10.1210/jendso/bvab133. eCollection 2021 Oct 1."
+                        },
+                        {
+                            "ReferencePMID": "34308366",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Fiala EM, Jayakumaran G, Mauguen A, Kennedy JA, Bouvier N, Kemel Y, Fleischut MH, Maio A, Salo-Mullen EE, Sheehan M, Arnold AG, Latham A, Carlo MI, Cadoo K, Murkherjee S, Slotkin EK, Trippett T, Glade Bender J, Meyers PA, Wexler L, Dela Cruz FS, Cheung NK, Basu E, Kentsis A, Ortiz M, Francis JH, Dunkel IJ, Khakoo Y, Gilheeney S, Farouk Sait S, Forlenza CJ, Sulis M, Karajannis M, Modak S, Gerstle JT, Heaton TE, Roberts S, Yang C, Jairam S, Vijai J, Topka S, Friedman DN, Stadler ZK, Robson M, Berger MF, Schultz N, Ladanyi M, O'Reilly RJ, Abramson DH, Ceyhan-Birsoy O, Zhang L, Mandelker D, Shukla NN, Kung AL, Offit K, Zehir A, Walsh MF. Prospective pan-cancer germline testing using MSK-IMPACT informs clinical translation in 751 patients with pediatric solid tumors. Nat Cancer. 2021 Mar;2:357-365. doi: 10.1038/s43018-021-00172-1. Epub 2021 Feb 15."
+                        },
+                        {
+                            "ReferencePMID": "34133209",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Stadler ZK, Maio A, Chakravarty D, Kemel Y, Sheehan M, Salo-Mullen E, Tkachuk K, Fong CJ, Nguyen B, Erakky A, Cadoo K, Liu Y, Carlo MI, Latham A, Zhang H, Kundra R, Smith S, Galle J, Aghajanian C, Abu-Rustum N, Varghese A, O'Reilly EM, Morris M, Abida W, Walsh M, Drilon A, Jayakumaran G, Zehir A, Ladanyi M, Ceyhan-Birsoy O, Solit DB, Schultz N, Berger MF, Mandelker D, Diaz LA Jr, Offit K, Robson ME. Therapeutic Implications of Germline Testing in Patients With Advanced Cancers. J Clin Oncol. 2021 Aug 20;39(24):2698-2709. doi: 10.1200/JCO.20.03661. Epub 2021 Jun 16."
+                        },
+                        {
+                            "ReferencePMID": "30552129",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Diolaiti D, Dela Cruz FS, Gundem G, Bouvier N, Boulad M, Zhang Y, Chou AJ, Dunkel IJ, Sanghvi R, Shah M, Geiger H, Rahman S, Felice V, Wrzeszczynski KO, Darnell RB, Antonescu CR, French CA, Papaemmanuil E, Kung AL, Shukla N. A recurrent novel MGA-NUTM1 fusion identifies a new subtype of high-grade spindle cell sarcoma. Cold Spring Harb Mol Case Stud. 2018 Dec 17;4(6):a003194. doi: 10.1101/mcs.a003194. Print 2018 Dec."
+                        },
+                        {
+                            "ReferencePMID": "30455225",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Forlenza CJ, Zhang Y, Yao J, Benayed R, Steinherz P, Ramaswamy K, Kessel R, Roshal M, Shukla N. A case of KMT2A-SEPT9 fusion-associated acute megakaryoblastic leukemia. Cold Spring Harb Mol Case Stud. 2018 Dec 17;4(6):a003426. doi: 10.1101/mcs.a003426. Print 2018 Dec."
+                        },
+                        {
+                            "ReferencePMID": "30137527",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Boucai L, Falcone J, Ukena J, Coombs CC, Zehir A, Ptashkin R, Berger MF, Levine RL, Fagin JA. Radioactive Iodine-Related Clonal Hematopoiesis in Thyroid Cancer Is Common and Associated With Decreased Survival. J Clin Endocrinol Metab. 2018 Nov 1;103(11):4216-4223. doi: 10.1210/jc.2018-00803."
+                        },
+                        {
+                            "ReferencePMID": "28911072",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Schram AM, Reales D, Galle J, Cambria R, Durany R, Feldman D, Sherman E, Rosenberg J, D'Andrea G, Baxi S, Janjigian Y, Tap W, Dickler M, Baselga J, Taylor BS, Chakravarty D, Gao J, Schultz N, Solit DB, Berger MF, Hyman DM. Oncologist use and perception of large panel next-generation tumor sequencing. Ann Oncol. 2017 Sep 1;28(9):2298-2304. doi: 10.1093/annonc/mdx294."
+                        },
+                        {
+                            "ReferencePMID": "28873162",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Mandelker D, Zhang L, Kemel Y, Stadler ZK, Joseph V, Zehir A, Pradhan N, Arnold A, Walsh MF, Li Y, Balakrishnan AR, Syed A, Prasad M, Nafa K, Carlo MI, Cadoo KA, Sheehan M, Fleischut MH, Salo-Mullen E, Trottier M, Lipkin SM, Lincoln A, Mukherjee S, Ravichandran V, Cambria R, Galle J, Abida W, Arcila ME, Benayed R, Shah R, Yu K, Bajorin DF, Coleman JA, Leach SD, Lowery MA, Garcia-Aguilar J, Kantoff PW, Sawyers CL, Dickler MN, Saltz L, Motzer RJ, O'Reilly EM, Scher HI, Baselga J, Klimstra DS, Solit DB, Hyman DM, Berger MF, Ladanyi M, Robson ME, Offit K. Mutation Detection in Patients With Advanced Cancer by Universal Sequencing of Cancer-Related Genes in Tumor and Normal DNA vs Guideline-Based Germline Testing. JAMA. 2017 Sep 5;318(9):825-835. doi: 10.1001/jama.2017.11137. Erratum In: JAMA. 2018 Dec 11;320(22):2381."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org/"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000019337",
+                            "ConditionMeshTerm": "Hematologic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006402",
+                            "ConditionAncestorTerm": "Hematologic Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M21004",
+                            "ConditionBrowseLeafName": "Hematologic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Hematologic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9180",
+                            "ConditionBrowseLeafName": "Hematologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC15",
+                            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

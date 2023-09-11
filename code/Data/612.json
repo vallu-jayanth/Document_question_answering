@@ -1,0 +1,444 @@
+{
+    "Rank": 612,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00898313",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC THO 0398"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "P30CA068485",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA068485"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Molecular Predictors of Cancer in Patients at High Risk of Lung Cancer",
+                "OfficialTitle": "Molecular Predictors of Lung Cancer Behavior"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 2003"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 9, 2009",
+                "StudyFirstSubmitQCDate": "May 9, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 12, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 18, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 22, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Fabien Maldonado",
+                    "ResponsiblePartyInvestigatorTitle": "Professor of Medicine and Thoracic Surgery",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Using samples of blood, urine, sputum, and lung tissue from patients at high risk of cancer for laboratory studies may help doctors learn more about changes that may occur in DNA and identify biomarkers related to cancer.\n\nPURPOSE: This research study is looking at molecular predictors of cancer in patients at high risk of lung cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nTo use fixed lung tissue for histological evaluation and fresh tissue samples for molecular studies to study DNA, RNA, and protein abnormalities in lung preneoplastic and neoplastic lesions.\nTo use proteomic techniques, including matrix-assisted laser desorption ionization-mass spectrometry (MALDI-MS), to develop a method of diagnosing and staging both pre-invasive and invasive lesions, using less invasive methods.\n\nOUTLINE: Blood, urine, nasal cell, and sputum samples are collected. Lung tissue samples are also collected using fluorescence bronchoscopy and epithelial cell collection.\n\nSamples are studied by genetic and proteomic analyses, including comparative genomic hybridization, expression microarray, and protein profiling."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "lung cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood, urine, nasal cells, sputum, bronchal epithelial cells, airway tissue, and lung tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "3000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Sample Collection",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: comparative genomic hybridization",
+                                    "Genetic: gene expression microarray analysis",
+                                    "Genetic: proteomic profiling analysis",
+                                    "Other: biologic sample preservation procedure",
+                                    "Procedure: nasal brushing",
+                                    "Procedure: Blood draw",
+                                    "Procedure: Urine collection",
+                                    "Procedure: sputum sample",
+                                    "Procedure: fluorescence bronchoscopy with airway biopsy",
+                                    "Procedure: fine needle aspiration of the lung",
+                                    "Procedure: thoracentesis"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "comparative genomic hybridization",
+                            "InterventionDescription": "Collection of sputum, blood, urine, and a small amount of lung tissue.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "gene expression microarray analysis",
+                            "InterventionDescription": "Collection of sputum, blood, urine, and a small amount of lung tissue.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "proteomic profiling analysis",
+                            "InterventionDescription": "Collection of sputum, blood, urine, and a small amount of lung tissue.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "biologic sample preservation procedure",
+                            "InterventionDescription": "Collection of sputum, blood, urine, and a small amount of lung tissue.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "nasal brushing",
+                            "InterventionDescription": "Using a brush, superficial cells are removed from the nose.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Blood draw",
+                            "InterventionDescription": "Venous blood will be collected",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Urine collection",
+                            "InterventionDescription": "Subjects will be asked to provide a urine specimen.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "sputum sample",
+                            "InterventionDescription": "Prior to their bronchoscopy, subjects will be asked for a sputum specimen. This is a collection of mucous that you cough up.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "fluorescence bronchoscopy with airway biopsy",
+                            "InterventionDescription": "A flexible tube attached to a fluorescent light source will be inserted into the subject's mouth or nose to reach the airway. Samples of the lining of the airway will be taken, as well as bronchial secretions and epithelial cell from brushings of the lining of the airway.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "fine needle aspiration of the lung",
+                            "InterventionDescription": "A small needle is inserted into the lung to collect tissue. This procedure will only be performed if the patient's physician orders it.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "thoracentesis",
+                            "InterventionDescription": "A small needle is inserted into the patient's lung cavity and a small amount of fluid is collected. This procedure will only be performed if the patient's physician orders it.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sample Collection"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To quantitate the molecular changes during lung cancer development",
+                            "PrimaryOutcomeDescription": "As a part of the study nasal brushing specimens, sputum, blood, urine, and a small amount of other tissue will be collected during standard of care procedures (bronchial epithelial, trans-thoracic fine needle aspiration (FNA) and thoracentesis as part of patient work up.\n\nClinical diagnosis is the primary goal of the procedure. All the research specimens are collected after the primary goal of the procedure is met.",
+                            "PrimaryOutcomeTimeFrame": "After collection of designated samples"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Develop a method to diagnose and stage pre-invasive and invasive lesions",
+                            "SecondaryOutcomeDescription": "Use of proteomic techniques in the laboratory to find a method of diagnosing lung tissue as benign or malignant rather than relying on invasive open-chest surgery for a diagnosis",
+                            "SecondaryOutcomeTimeFrame": "After collection of designated samples"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n-All adults referred to Vanderbilt Medical Center, Veterans Administration Medical Center, St. Thomas Hospital and Meharry Medical Center for evaluation of signs or symptoms of lung cancer.\n\nExclusion Criteria:\n\nInability to provide informed consent\nMinors\nPregnant women",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "People who may have lung cancer.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Vanderbilt Ingram Clinical Trials Information Program",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "1-800-811-8480"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Fabien Maldonado, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt-Ingram Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vanderbilt-Ingram Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37212",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "VICC Clinical Trials Information Program",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "800-811-8480",
+                                        "LocationContactEMail": "cip@vanderbilt.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Pierre Massion, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Veterans Affairs Medical Center - Nashville",
+                            "LocationStatus": "Suspended",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37212",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Vanderbilt-Ingram Cancer Center, Find a Clinical Trial",
+                            "SeeAlsoLinkURL": "http://www.vicc.org/ct/"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

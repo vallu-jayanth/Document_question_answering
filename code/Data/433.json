@@ -1,0 +1,263 @@
+{
+    "Rank": 433,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05789498",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "20230212"
+                },
+                "Organization": {
+                    "OrgFullName": "The First Affiliated Hospital of Soochow University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Investigating the Biomarkers in Tumor and Peripheral Blood to Evaluate the Efficacy of Cancer Immunotherapy in Chest Cancer Patients",
+                "OfficialTitle": "Investigating the Biomarkers in Tumor Microenvironment and Peripheral Blood Microenvironment to Evaluate the Efficacy of Cancer Immunotherapy in Chest Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 12, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 30, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 21, 2023",
+                "StudyFirstSubmitQCDate": "March 16, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 29, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 16, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 29, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Zhao Jun",
+                    "ResponsiblePartyInvestigatorTitle": "Clinical Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "The First Affiliated Hospital of Soochow University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Zhao Jun",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to investigate the impact of immunotherapy on the immune status of tumor microenvironment and peripheral blood of chest cancer patients. To do so, the investigators plan to collect tumor tissue and peripheral blood samples before and after immunotherapy, and use single-cell RNA sequencing, Multiplex immunohistochemistry, and flow cytometry. The investigators will analyze changes in the proportion of cancer cell-specific T-cell subpopulations related to treatment response before and after therapy, and seek biological markers that can predict the efficacy of immunotherapy.",
+                "DetailedDescription": "The potential biomarkers, that can be utilized to predict the efficacy of cancer immunotherapy, in tumor tissue and peripheral blood are planning to be verified in lung cancer patients and esophageal cancer patients. Tumor tissues, acquired from surgery to remove tumor, are investigated by single-cell RNA sequencing, Multiplex immunohistochemistry etc. to explore the biomarkers. In addition, immune microenvironment of the peripheral blood mononuclear cells were analyzed by flow cytometry and ELISPOT to quantify specific T cells groups that are correlated with efficacy of cancer immunotherapy. The changes in the proportion of specific T-cell subpopulations that can kill cancer cells will be analyzed before treatment and after treatment. The immunotherapy responses before and after therapy are planning to analyzed with the content of specific T cells. Thus the investigators will seek biological markers that can predict the efficacy of immunotherapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Esophageal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer immunotherapy",
+                        "Peripheral Blood",
+                        "PBMC",
+                        "T cells",
+                        "Tumor antigen specific T cells"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "60",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "In vitro stimulation of Pbmc with tumor antigen nanoparticles",
+                            "InterventionDescription": "PBMCs were isolated from peripheral blood of cancer patients, and PBMC are co-incubated with nanoparticles loading tumor antigens for specific time in vitro to detect T cells that are related with efficacy of cancer immunotherapy. The content of such T cells are studies the correlation with the efficacy of cancer immunotherapy and patient prognosis."
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The changes of immune cell subsets in tumor microenvironment and peripheral blood in patients",
+                            "PrimaryOutcomeDescription": "tumor antigen specific T cells measured by flow cytometry or single cell sequencing are increased after immunotherapy Single-cell sequencing and Flow cytometry are applied to detect immune cell subtypes and tumor-specific T cells in the tumor microenvironment and peripheral blood of patients with tumors who had received immunotherapy. Flow cytometric antibody used in the study to label activated T cells include CD19, CD3, CD4, CD8, CD25, CD39, CD137, CD69, Foxp3, IFN gamma et al.",
+                            "PrimaryOutcomeTimeFrame": "Within one month of completing immunotherapy"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Exploring the feasibility of tumor-specific T cells as a biomarker for predicting the efficacy of immunotherapy: the absolute amount and proportion of tumor antigen specific T cells are increased in patients that response to cancer immunotherapy",
+                            "SecondaryOutcomeDescription": "Antigen-activated tumor-specific T cells (CD39, CD137, CD69, IFN gamma et al. as markers) in the peripheral blood of patients with lung cancer and esophageal cancer are assessed by using flow cytometry, and immunotherapy response are assessed according to RECIST v1.1 criteria, and then the predictive power of tumor-specific T-cell numbers for immunotherapy response are about to be measured by using ROC curves and compared with PD-L1 expression; TMB and other predictive markers are about to be compared.",
+                            "SecondaryOutcomeTimeFrame": "Within one month of completing immunotherapy"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with a pathological diagnosis of lung cancer or esophageal cancer who have agreed to receive PD-1/PD-L1 antibody immunotherapy;\nAge between 18 and 80 years old;\nECOG PS score of 0 or 1;\nAdequate organ and bone marrow function;\nAnticipated survival time of at least 12 weeks;\nWilling and able to provide written informed consent.\n\nExclusion Criteria:\n\nPatients with hematogenic infectious diseases, such as HIV, hepatitis B or hepatitis C.\nPatients with tumor emergencies that require immediate treatment.\nPoor vascular conditions.\nAbnormal coagulation function or receiving anticoagulant or thrombolytic therapy.\nPatients with hematogenic infectious diseases, such as HBV.\nPatients with psychiatric disorders or severe mental illnesses.\nPatients who have difficulty communicating or are unable to be followed up for a long time.\nOther situations that are not suitable for inclusion in the study.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with a pathological diagnosis of lung cancer or esophageal cancer who have agreed to receive PD-1/PD-L1 antibody immunotherapy",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Mi Liu",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-0512-67972216",
+                            "CentralContactEMail": "mi.liu831116@icoud.com"
+                        },
+                        {
+                            "CentralContactName": "Jun Zhao",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-0512-67972216",
+                            "CentralContactEMail": "zhaojia0327@126.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The first affiliated hospital of soochow university",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Suzhou",
+                            "LocationState": "Jiangsu",
+                            "LocationZip": "215000",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jun Zhao",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-0512-67972216",
+                                        "LocationContactEMail": "zhaojia0327@126.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7778",
+                            "ConditionBrowseLeafName": "Esophageal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2141",
+                            "ConditionBrowseLeafName": "Esophageal Cancer",
+                            "ConditionBrowseLeafAsFound": "Esophageal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

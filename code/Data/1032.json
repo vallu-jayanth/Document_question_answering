@@ -1,0 +1,375 @@
+{
+    "Rank": 1032,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04700332",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "184-20-CA"
+                },
+                "Organization": {
+                    "OrgFullName": "Hoag Memorial Hospital Presbyterian",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PyL in Patients With High Risk and Biochemically Recurrent Prostate Cancer",
+                "OfficialTitle": "2-(3-{1-carboxy-5-[(6-18F-fluoro-pyridine-3-carbonyl)-Amino]-Pentyl}-Ureido)-Pentanedioic Acid (PyL) in Patients With High Risk and Biochemically Recurrent Prostate Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2021",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 15, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 15, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 4, 2021",
+                "StudyFirstSubmitQCDate": "January 6, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 7, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 26, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 27, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Gary Ulaner",
+                    "ResponsiblePartyInvestigatorTitle": "Director Molecular Imaging and Therapy",
+                    "ResponsiblePartyInvestigatorAffiliation": "Hoag Memorial Hospital Presbyterian"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hoag Memorial Hospital Presbyterian",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The standard of care imaging of prostate cancer metastases recommended by the National Comprehensive Cancer Network (NCCN), CT of the chest/abdomen/pelvis and bone scan, may be suboptimal. PyL is a novel PET tracer designed to detect prostate specific membrane antigen (PSMA) expressed on prostate cancer cells. PyL PET/CT may provide improved evaluation of clinically significant metastases in patients with prostate cancer.",
+                "DetailedDescription": "This will be a phase II clinical trial to assess the clinical value of PyL for detection of disease in pateints with:\n\nHigh risk prostate cancer and planned prostatectomy or radiation therapy (arm 1) and\nBiochemically recurrent prostate cancer (arm 2) but without evidence of disease of standard of care imaging (CT of the chest/abdomen/pelvis and bone scan).\n\nIn both cohorts, PyL PET/CT will be obtained and evaluated by a nuclear radiologist trained in novel PET radiotracers, including PyL. Lesions suspicious for disease of PyL that were unsuspected on standard of care imaging will be selected for biopsy for pathologic confirmation if feasible . Pathology will be used as the reference standard for confirming malignancy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate Cancer",
+                        "DCFPyL PET/CT",
+                        "Staging",
+                        "Biochemical relapse"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "184",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "High risk prostate cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "DCFPyL PET/CT will be compared to CT/bone scan for detection of unsuspected metastases in patients with high risk prostate cancer and planned prostatectomy or or radiation therapy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: DCFPyL PET/CT"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Biochemically recurrent prostate cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "DCFPyL PET/CT will be utilized for detection of unsuspected metastases in patients with biochemically recurrent prostate cancer, but with no evidence of disease on CT/bone scan.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: DCFPyL PET/CT"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "DCFPyL PET/CT",
+                            "InterventionDescription": "Prostate Membrane Specific Antigen-specific imaging",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Biochemically recurrent prostate cancer",
+                                    "High risk prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Detection of unsuspected metastases in high risk prostate cancer",
+                            "PrimaryOutcomeDescription": "Determine the rate of detection of unsuspected metastases in patients with high risk prostate cancer and planned prostatectomy or radiation therapy.",
+                            "PrimaryOutcomeTimeFrame": "up to 4 weeks"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Detection of unsuspected metastases in biochemically recurrent prostate cancer",
+                            "PrimaryOutcomeDescription": "Determine the rate of detection of unsuspected metastases in patients with biochemically recurrent prostate cancer, yet no evidence of disease on CT/bone scan.",
+                            "PrimaryOutcomeTimeFrame": "up to 4 weeks"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale \u2265 18 years of age.\nHistologically confirmed adenocarcinoma of the prostate\nPatients meet one of the follow criteria:\n\nCohort 1: High risk prostate cancer (PSA >10, Gleason 8-10, or clinical stage >T2c) and planned prostatectomy or radiation therapy or Cohort 2: Biochemical prostate cancer relapse (Prostate Specific Antigen (PSA) > 0.2 ng/ml in patients following prostatectomy or \u2265 2 ng/ml more than the PSA nadir in patient following radiotherapy, as defined by the ASTRO-Phoenix criteria [18] and no evidence of malignancy on standard of care imaging for metastases (CT of the chest/abdomen/pelvis and bone scan) within 3 months.\n\nExclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPatients who cannot undergo PET/CT scanning because of weight limits. PET/CT scanners may not be able to function with patients over 450 pounds.\nChange in therapy since standard of care imaging",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Beth Thomsen",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "949-764-4577",
+                            "CentralContactEMail": "clinicalresearch@hoag.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Deborah Fridman, PsyD, RN",
+                            "OverallOfficialAffiliation": "Hoag Memorial Hospital Presbyterian",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hoag Memorial Hospital Presbyterian",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Irvine",
+                            "LocationState": "California",
+                            "LocationZip": "92618",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Beth Thomsen",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "beth.thomsen@hoag.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Gary Ulaner, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35852431",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Ulaner GA, Thomsen B, Bassett J, Torrey R, Cox C, Lin K, Patel T, Techasith T, Mauguen A, Rowe SP, Lindenberg L, Mena E, Choyke P, Yoshida J. 18F-DCFPyL PET/CT for Initially Diagnosed and Biochemically Recurrent Prostate Cancer: Prospective Trial with Pathologic Confirmation. Radiology. 2022 Nov;305(2):419-428. doi: 10.1148/radiol.220218. Epub 2022 Jul 19."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023",
+                "SubmissionTracking": {
+                    "SubmissionInfoList": {
+                        "SubmissionInfo": [
+                            {
+                                "SubmissionReleaseDate": "March 1, 2023",
+                                "SubmissionResetDate": "March 27, 2023",
+                                "SubmissionMCPReleaseN": "4"
+                            },
+                            {
+                                "SubmissionReleaseDate": "June 2, 2023",
+                                "SubmissionResetDate": "June 26, 2023",
+                                "SubmissionMCPReleaseN": "5"
+                            }
+                        ]
+                    }
+                }
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,2553 @@
+{
+    "Rank": 768,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01027416",
+                "NCTIdAliasList": {
+                    "NCTIdAlias": [
+                        "NCT01658566"
+                    ]
+                },
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RPCI I 110907"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "R21CA137635-01A1",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/R21CA137635-01A1"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Roswell Park Cancer Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Analyzing a New Mechanism in Response to Tamoxifen Therapy in Breast Cancer Patients",
+                "OfficialTitle": "Pilot Study to Analyze a Novel Mechanism Underlying Response to Tamoxifen Therapy in Breast Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2017",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 14, 2009",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2015",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2015",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 4, 2009",
+                "StudyFirstSubmitQCDate": "December 4, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 8, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "October 10, 2017",
+                "ResultsFirstSubmitQCDate": "November 15, 2017",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "December 13, 2017",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "November 15, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 13, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Roswell Park Cancer Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Institutes of Health (NIH)",
+                            "CollaboratorClass": "NIH"
+                        },
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will help to understand the interaction between estrogen receptor-alpha (ER alpha) and tumor suppressor protein p53 as well as impact on patient tumor gene expression in response to the hormonal therapy Tamoxifen. This information may eventually help select the appropriate therapy for future patients with similar cancer.",
+                "DetailedDescription": "Women with abnormal mammogram or suspicious masses will undergo diagnostic core biopsies which will be analyzed for ER/PR and HER2Neu expression. For patients that are ER positive, p53 staining will be done.\n\nWomen presenting tumors with an Allred score of 3 or greater status will be approached to participate.\n\nWomen will be randomized to either standard of care surgical therapy or a 4 week intervention of Tamoxifen 20mg daily for 4 weeks prior to surgery. During the intervention, blood draws will be done to measure levels of tamoxifen metabolites in the blood and test for polymorphisms that may decrease levels of active metabolites.\n\nWomen will undergo two blood draws for PK/PD and one for pharmacogenomics. Tissue microarray (TMA) will be generated from resected tumors for immunohistochemistry (IHC) and proximity ligation assay (PLA) for measuring ER alpha-p53 interaction.\n\nTumor tissue will be used for analyzing tamoxifen metabolites and estradiol levels. RNA and proteins from the tumors will be used for analyzing gene expression."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "ER positive",
+                        "Tamoxifen"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "59",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "No Intervention",
+                            "ArmGroupType": "No Intervention"
+                        },
+                        {
+                            "ArmGroupLabel": "Tamoxifen",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Tamoxifen"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Tamoxifen",
+                            "InterventionDescription": "Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Tamoxifen"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Mean Percent Positive Proximity Ligation Assays of All Tumor Protein p53-wild Type Breast Tumors in Participants by Treatment Arm",
+                            "PrimaryOutcomeDescription": "Status of estrogen receptor alpha (ER\u03ac) and tumor protein (p53) interaction in p53-wild type breast tumors in untreated patients verses patients treated with tamoxifen. Mean percent positive polylactide (PLA) of all p53-wild type breast tumors in participants by treatment arm",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Total Number of Over-expressed Genes, Across All Participants With Tumor Protein p53-wild Type Breast Tumors That Had RNA Samples Available.",
+                            "SecondaryOutcomeDescription": "Total number of over-expressed genes, across all participants with tumor protein p53-wild type breast tumors that had ribonucleic acid (RNA) samples available.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nThe patient must consent to be in the study and must have signed an approved consent form conforming to institutional guidelines\nThe patient must be 18 years or older.\nCore biopsy should definitively demonstrate invasive carcinoma.\nInvasive carcinoma should be ER-apha receptor positive\nThe tumor should be approximately at least 1 cm, to account for variability in imaging and imaging occult disease (physical exam, mammography, ultrasound). We recognize that from time to time because of this variation, there might not be enough tissue available for analysis after surgical excision but this will allow the greatest opportunity to capture as many eligible patients as possible.\nPatients in whom surgical excision of the tumor is part of standard of care management\nECOG score of 0 or 1\nNegative serum or urine beta-hCG pregnancy test at screening for patients of child-bearing potential (this is routinely done if the patient is premenopausal and having surgery)\nConsent to participate in DBBR (RPCI only)\n\nExclusion Criteria:\n\nMale patients are not eligible for this study\nFemale patients with inoperable tumors or women with stage 4 disease diagnosed on CT, PET, PET/CT or bone scan.\nPatients with diagnosis by FNA cytology only\nPregnant or lactating women\nPrior therapy for breast cancer, including irradiation, chemo- immuno- and/or hormonal therapy\nPatients receiving any hormonal therapy, e.g. ovarian hormonal replacement therapy, infertility medications etc., are not eligible\nNonmalignant systemic disease (cardiovascular, renal, hepatic, etc.) that would preclude the patient from being subjected to surgical excision\nPsychiatric or addictive disorders that would preclude obtaining informed consent\nPatients known or suspected to have hypercoagulable syndrome or with history of venous or arterial thrombosis, stroke, TIA, or pulmonary embolism\nWomen with non-invasive disease or microinvasion are not eligible.\nWomen undergoing neoadjuvant chemotherapy are not eligible\nwomen currently on tamoxifen and raloxifene for prevention are not eligible\nPatients shall not receive any herbal/alternative therapies such as flaxseed or soy products or black cohosh.\nPatients with a known mutation in p53 (Li Fraumeni Syndrome)",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Gokul Das, PhD",
+                            "OverallOfficialAffiliation": "Roswell Park Cancer Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Chicago",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60601",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Roswell Park Cancer Institute",
+                            "LocationCity": "Buffalo",
+                            "LocationState": "New York",
+                            "LocationZip": "14263",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "No Intervention",
+                            "FlowGroupDescription": "No Intervention: Standard of care"
+                        },
+                        {
+                            "FlowGroupId": "FG001",
+                            "FlowGroupTitle": "Tamoxifen",
+                            "FlowGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks\n\nTamoxifen: Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks"
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "31"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "28"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "30"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "23"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "1"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "5"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Withdrawal by Subject",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "0"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowDropWithdrawType": "Physician Decision",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                },
+                                                {
+                                                    "FlowReasonGroupId": "FG001",
+                                                    "FlowReasonNumSubjects": "4"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselinePopulationDescription": "All treated and eligible patients.",
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "No Intervention",
+                            "BaselineGroupDescription": "No Intervention: Standard of care"
+                        },
+                        {
+                            "BaselineGroupId": "BG001",
+                            "BaselineGroupTitle": "Tamoxifen",
+                            "BaselineGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks\n\nTamoxifen: Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks"
+                        },
+                        {
+                            "BaselineGroupId": "BG002",
+                            "BaselineGroupTitle": "Total",
+                            "BaselineGroupDescription": "Total of all reporting groups"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "31"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG001",
+                                        "BaselineDenomCountValue": "28"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG002",
+                                        "BaselineDenomCountValue": "59"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "25"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "19"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "44"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "15"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "55.7",
+                                                                "BaselineMeasurementSpread": "11.1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "58.5",
+                                                                "BaselineMeasurementSpread": "12.4"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "57.0",
+                                                                "BaselineMeasurementSpread": "11.7"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "31"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "28"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "59"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "American Indian or Alaska Native",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Asian",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Native Hawaiian or Other Pacific Islander",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Black or African American",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "4"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "7"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "White",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "27"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "23"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "50"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "More than one race",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "1"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Mean Percent Positive Proximity Ligation Assays of All Tumor Protein p53-wild Type Breast Tumors in Participants by Treatment Arm",
+                            "OutcomeMeasureDescription": "Status of estrogen receptor alpha (ER\u03ac) and tumor protein (p53) interaction in p53-wild type breast tumors in untreated patients verses patients treated with tamoxifen. Mean percent positive polylactide (PLA) of all p53-wild type breast tumors in participants by treatment arm",
+                            "OutcomeMeasurePopulationDescription": "All patients with p53-wild type breast tumors",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Mean",
+                            "OutcomeMeasureDispersionType": "Standard Deviation",
+                            "OutcomeMeasureUnitOfMeasure": "percentage of positive PLA",
+                            "OutcomeMeasureTimeFrame": "2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "No Intervention",
+                                        "OutcomeGroupDescription": "No Intervention: Standard of care"
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Tamoxifen",
+                                        "OutcomeGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks\n\nTamoxifen: Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "23"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "27.0",
+                                                                "OutcomeMeasurementSpread": "34.4"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "4.4",
+                                                                "OutcomeMeasurementSpread": "4.4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Total Number of Over-expressed Genes, Across All Participants With Tumor Protein p53-wild Type Breast Tumors That Had RNA Samples Available.",
+                            "OutcomeMeasureDescription": "Total number of over-expressed genes, across all participants with tumor protein p53-wild type breast tumors that had ribonucleic acid (RNA) samples available.",
+                            "OutcomeMeasurePopulationDescription": "All patients with p53-wild type breast tumors that had RNA samples available",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "genes",
+                            "OutcomeMeasureTimeFrame": "2 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "No Intervention",
+                                        "OutcomeGroupDescription": "No Intervention: Standard of care"
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Tamoxifen",
+                                        "OutcomeGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks\n\nTamoxifen: Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "20"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "15"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "196"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "256"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "No Intervention",
+                            "EventGroupDescription": "No Intervention: Standard of care",
+                            "EventGroupSeriousNumAffected": "1",
+                            "EventGroupSeriousNumAtRisk": "31",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "31"
+                        },
+                        {
+                            "EventGroupId": "EG001",
+                            "EventGroupTitle": "Tamoxifen",
+                            "EventGroupDescription": "Tamoxifen 20 mg orally 1x/day for 4 weeks\n\nTamoxifen: Drug: Tamoxifen 20 mg orally 1x/day for 4 weeks",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "28",
+                            "EventGroupOtherNumAffected": "19",
+                            "EventGroupOtherNumAtRisk": "28"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Abdominal pain",
+                            "SeriousEventOrganSystem": "Gastrointestinal disorders",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "SeriousEventStatsGroupId": "EG001",
+                                        "SeriousEventStatsNumEvents": "0",
+                                        "SeriousEventStatsNumAffected": "0",
+                                        "SeriousEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Lymphadenopathy",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Palpitations",
+                            "OtherEventOrganSystem": "Cardiac disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Tinnitus",
+                            "OtherEventOrganSystem": "Ear and labyrinth disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Lacrimation increased",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Ocular hyperaemia",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Visual acuity reduced",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Visual impairment",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal distension",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "7",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal pain",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal pain upper",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Constipation",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Diarrhoea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry mouth",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "10",
+                                        "OtherEventStatsNumAffected": "7",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dyspepsia",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Flatulence",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "9",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vomiting",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Chest pain",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Chills",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fatigue",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Irritability",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "10",
+                                        "OtherEventStatsNumAffected": "8",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Oedema peripheral",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pain",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sensation of pressure",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Surgical failure",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Swelling",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sinusitis",
+                            "OtherEventOrganSystem": "Infections and infestations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Contusion",
+                            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Weight decreased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Weight increased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Decreased appetite",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "7",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypernatraemia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Arthralgia",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Back pain",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Muscle spasms",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Muscle tightness",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Muscular weakness",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Musculoskeletal discomfort",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Myalgia",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pain in extremity",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Disturbance in attention",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dizziness",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Headache",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "14",
+                                        "OtherEventStatsNumAffected": "9",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypoaesthesia",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Memory impairment",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "7",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Migraine",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Neurological symptom",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Paraesthesia",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anxiety",
+                            "OtherEventOrganSystem": "Psychiatric disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Insomnia",
+                            "OtherEventOrganSystem": "Psychiatric disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Bladder discomfort",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Micturition urgency",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pollakiuria",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary incontinence",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Breast pain",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Breast tenderness",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Menstruation irregular",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vaginal discharge",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vaginal haemorrhage",
+                            "OtherEventOrganSystem": "Reproductive system and breast disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Cough",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dyspnoea",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nasal congestion",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Oropharyngeal pain",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Acne",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Alopecia",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Night sweats",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "10",
+                                        "OtherEventStatsNumAffected": "9",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritus",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rash",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hot flush",
+                            "OtherEventOrganSystem": "Vascular disorders",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "31"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "7",
+                                        "OtherEventStatsNumAtRisk": "28"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Senior Administrator, Compliance - Clinical Research Services",
+                    "PointOfContactOrganization": "Roswell Park Cancer Institute",
+                    "PointOfContactPhone": "716-845-2300"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "December 23, 2016",
+                            "LargeDocUploadDate": "09/07/2017 10:28",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000013629",
+                            "InterventionMeshTerm": "Tamoxifen"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000004965",
+                            "InterventionAncestorTerm": "Estrogen Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000006727",
+                            "InterventionAncestorTerm": "Hormone Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000006730",
+                            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018931",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Hormonal"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000020845",
+                            "InterventionAncestorTerm": "Selective Estrogen Receptor Modulators"
+                        },
+                        {
+                            "InterventionAncestorId": "D000020847",
+                            "InterventionAncestorTerm": "Estrogen Receptor Modulators"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050071",
+                            "InterventionAncestorTerm": "Bone Density Conservation Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M16093",
+                            "InterventionBrowseLeafName": "Tamoxifen",
+                            "InterventionBrowseLeafAsFound": "Minimum",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7806",
+                            "InterventionBrowseLeafName": "Estrogens",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7804",
+                            "InterventionBrowseLeafName": "Estrogen Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M30173",
+                            "InterventionBrowseLeafName": "Estrogen Receptor Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9479",
+                            "InterventionBrowseLeafName": "Hormones",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9478",
+                            "InterventionBrowseLeafName": "Hormone Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20656",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Hormonal",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M22287",
+                            "InterventionBrowseLeafName": "Selective Estrogen Receptor Modulators",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M22289",
+                            "InterventionBrowseLeafName": "Estrogen Receptor Modulators",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "BDCA",
+                            "InterventionBrowseBranchName": "Bone Density Conservation Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

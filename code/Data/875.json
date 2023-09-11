@@ -1,0 +1,297 @@
+{
+    "Rank": 875,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05338073",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "KM-20-001"
+                },
+                "Organization": {
+                    "OrgFullName": "Known Medicine, Inc.",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "KM3D Multicenter Cancer Consortium: Predicting Patient Response Using 3D Cell Culture Models",
+                "OfficialTitle": "KM3D Multicenter Cancer Consortium Study: Validation of In Vitro 3D Cell Culture Models for Tumor Drug Sensitivity After Tissue Removal"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 12, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 31, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 29, 2022",
+                "StudyFirstSubmitQCDate": "April 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 20, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 21, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 24, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Known Medicine, Inc.",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "M.D. Anderson Cancer Center",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Duke Cancer Institute",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Mayo Clinic",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUnapprovedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study will assess the ability of the Known Medicine platform to predict the efficacy of certain cancer drug treatments and to validate that tumor organoid drug sensitivity is representative of patient treatment outcomes.",
+                "DetailedDescription": "This is a non-interventional clinical study in which (1) cancer tissue that has been resected, biopsied, or drained due to malignant pleural effusion and that is left remaining after (or is not being used during) a pathology investigation and, where possible, (2) a vial of the same patient's blood is sent to Known Medicine Inc. for placement into organoids and subsequent tumor drug sensitivity measurement.\n\nPatients will be consented prior to performance of a medically indicated and pre-planned surgical procedure during which at least a 1cm3 piece of tumor tissue or >100 mL pleural effusion fluid and blood in a separate vial are obtained. These samples will be sent after removal to Known Medicine Inc. from the hospital using a kit provided by Known Medicine. Within the Known Medicine provided kit a data form, freezer pack and containers for the specimens will be provided.\n\nIf a solid tissue sample, the tissue will be washed and subsequently digested into a single cell solution using enzymatic digestion methods. Cells will be sorted into cancer and stromal cell populations, stained fluorescently with intramembrane stain, and placed into a 3D cell culture matrix within a multi-well plate. Cells may also be genetically sequenced.\n\nIf an aspirated fluid sample, cells will be separated from the fluid and further sorted into cancer cell populations.\n\nCultures will be allowed to sustain themselves for 48 hours, at which point standard of care chemotherapeutic or other FDA approved drug treatments will be administered. After 72 hours, control and treated wells will be imaged using fluorescence and cell phenotype will be evaluated. Media from cultures may also be evaluated. After imaging, media will be removed and a metabolic assay will be performed to determine culture viability. Using the described quantitative outcomes, tumor sensitivity to each of the administered treatments will be determined.\n\nPatients will be followed and their response to treatment and outcome information from the hospital will be obtained which will allow retrospective validation of tumor organoid sensitivity."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer",
+                        "Predictive Cancer Model",
+                        "Effects of Chemotherapy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "cells from solid tissue cancer resections"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "2000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer patients",
+                            "ArmGroupDescription": "Patients who have primary solid cancer that is being surgically resected, biopsied, or drained (via malignant pleural effusion) and are 18 years of age or older.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Known 3Dx Test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Known 3Dx Test",
+                            "InterventionDescription": "Cancer tissue is cultured and treated with a panel of FDA approved chemotherapy and targeted therapies at a range of doses. Cell growth and phenotypes are measured to determine which treatment or treatment combinations would yield the best results for a patient. Test results are compared to actual patient outcomes collected at 3, 6, 9, and 12 months post tissue collection to determine the predictive power of the Known 3Dx Test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Drug treatment response",
+                            "PrimaryOutcomeDescription": "Measurements of changes in cell population size and phenotype will be taken from cellular imaging done before and during compound or drug administration. Platform drug response is defined as a statistically significant difference between drug-treated micro-tumors grown from the patient's sample and untreated control wells.",
+                            "PrimaryOutcomeTimeFrame": "7 days after sample receipt"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Predictive of tumor response",
+                            "PrimaryOutcomeDescription": "To understand if cellular phenotypic and population changes seen in Outcome 1 are clinically relevant we will compare the statistically significant changes we see to actual patient response on that treatment. The goal is to grow a large enough data set to gain an understanding about which of the changes seen by the KM3D test are clinically relevant.",
+                            "PrimaryOutcomeTimeFrame": "3 to 12 months post tissue collection (depending on when the physician prescribed treatment course is complete). Treatment updates will be given at 3, 6, 9, and 12 months but only the final reported result will be used for comparison."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nA demonstrated primary solid cancer for which it is medically indicated and planned to be surgically resected, biopsied, or drained (via malignant pleural effusion).\nThe ability to ship the tissue sample within 24 hours of removal from the patient.\nSigned and dated consent to giving tissue as well as allowing for de-identified medical history information regarding administered treatments and treatment outcomes to be shared.\nover 18 years of age\n\nExclusion Criteria:\n\nPresence of a condition(s) or diagnosis, either physical or psychological, or physical exam finding that precludes participation in the opinion of the Investigator.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients who have primary solid cancer that is being surgically resected or biopsied and are 18 years of age or older.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Charlotte Waits, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "801-953-0895",
+                            "CentralContactEMail": "clinical@knownmed.com"
+                        },
+                        {
+                            "CentralContactName": "Andrea Mazzocchi, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "andrea@knownmed.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Andrea Mazzocchi, PhD",
+                            "OverallOfficialAffiliation": "Known Medicine, Inc.",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Mayo Clinic",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rochester",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55905",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Janai S Reisenauer, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "reisenauer.janani@mayo.edu"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Duke Cancer Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Durham",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27710",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Kamran Mahmood, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "k.mahmood@duke.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Kamran Mahmood, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "MD Anderson Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77030",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Horiana Grosu, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "HBGrosu@mdanderson.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Horiana Grosu, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9708",
+                            "ConditionBrowseLeafName": "Hypersensitivity",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC20",
+                            "ConditionBrowseBranchName": "Immune System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

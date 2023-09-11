@@ -1,0 +1,469 @@
+{
+    "Rank": 984,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04304131",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Earlytect"
+                },
+                "Organization": {
+                    "OrgFullName": "Kyung Hee University Hospital at Gangdong",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Colorectal Cancer Screening Using Stool DNA-based SDC2 Methylation Test",
+                "OfficialTitle": "Colorectal Cancer Screening Using Stool DNA-based SDC2 Methylation Test"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 7, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 10, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 10, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 9, 2020",
+                "StudyFirstSubmitQCDate": "March 10, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 11, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 12, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 14, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Suk-Hwan Lee",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Kyung Hee University Hospital at Gangdong"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Kyung Hee University Hospital at Gangdong",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Genomictree, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "A study of colorectal cancer screening using stool DNA-based SDC2 methylation test"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Colon Polyp",
+                        "Healthy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1210",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colorectal cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Confirmed colorectal cancer under colonoscopy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Earlytect Colon Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Colon polyp",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Confirmed colorectal polyp under colonoscopy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Earlytect Colon Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Confirmed no cancer nor polyp under colonoscopy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Earlytect Colon Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Earlytect Colon Cancer",
+                            "InterventionDescription": "A diagnostic device measuring syndecan 2 methylation status in stool DNA to detect colorectal cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colon polyp",
+                                    "Colorectal cancer",
+                                    "Healthy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "SDC2 methylation in stool DNA",
+                            "PrimaryOutcomeDescription": "positive ratio of SDC2 methylation",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "sensitivity and specificity of EarlyTect",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient who agreed the clinical trial and signed informed consent\nHigh risk patient for colorectal cancer (family history of colorectal cancer, history of adenomatous polyp excision, inflammatory bowel disease > 15 years, or history of hereditary colorectal cancer)\nPatient who scheduled to receive colonoscopy\nStool > 20g before bowel preparation for colonoscopy\n\nExclusion Criteria:\n\nNo high risk patient under 60 years\nHistory of colorectal cancer\nStool < 20g or sample after bowel preparation\nDiarrhea or liquid stool which cannot be evaluated\nPatient who is judged as not suitable for clinical trial including a psychiatric disorder by a physician",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "12 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Suk-Hwan Lee, MD, PhD",
+                            "OverallOfficialAffiliation": "Kyung Hee University Hospital at Gangdong",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Chang Woo Kim, MD, PhD",
+                            "OverallOfficialAffiliation": "Ajou University School of Medicine",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Busan Hangun Hospital",
+                            "LocationCity": "Busan",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Koo Hospital",
+                            "LocationCity": "Daegu",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Severance Hospital, Yonsei University College of Medicine",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "03722",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Kyung Hee University Hospital at Gangdong, Kyung Hee University School of Medicine",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "05278",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Dea Hang Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Eunpyeong St. Mary's Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "Seoul Songdo Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationCountry": "Korea, Republic of"
+                        },
+                        {
+                            "LocationFacility": "St. Vincent's Hospital, The Catholic University of Korea",
+                            "LocationCity": "Suwon",
+                            "LocationZip": "16247",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "21296855",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D. Global cancer statistics. CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90. doi: 10.3322/caac.20107. Epub 2011 Feb 4. Erratum In: CA Cancer J Clin. 2011 Mar-Apr;61(2):134."
+                        },
+                        {
+                            "ReferencePMID": "16491070",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Baylin SB, Ohm JE. Epigenetic gene silencing in cancer - a mechanism for early oncogenic pathway addiction? Nat Rev Cancer. 2006 Feb;6(2):107-16. doi: 10.1038/nrc1799."
+                        },
+                        {
+                            "ReferencePMID": "15719030",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Ushijima T. Detection and interpretation of altered methylation patterns in cancer cells. Nat Rev Cancer. 2005 Mar;5(3):223-31. doi: 10.1038/nrc1571."
+                        },
+                        {
+                            "ReferencePMID": "12671664",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Laird PW. The power and the promise of DNA methylation markers. Nat Rev Cancer. 2003 Apr;3(4):253-66. doi: 10.1038/nrc1045."
+                        },
+                        {
+                            "ReferencePMID": "23747112",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Oh T, Kim N, Moon Y, Kim MS, Hoehn BD, Park CH, Kim TS, Kim NK, Chung HC, An S. Genome-wide identification and validation of a novel methylation biomarker, SDC2, for blood-based detection of colorectal cancer. J Mol Diagn. 2013 Jul;15(4):498-507. doi: 10.1016/j.jmoldx.2013.03.004. Epub 2013 Jun 7."
+                        },
+                        {
+                            "ReferencePMID": "26565661",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Xue M, Lai SC, Xu ZP, Wang LJ. Noninvasive DNA methylation biomarkers in colorectal cancer: A systematic review. J Dig Dis. 2015 Dec;16(12):699-712. doi: 10.1111/1751-2980.12299."
+                        },
+                        {
+                            "ReferencePMID": "25221563",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Mansour H. Cell-free nucleic acids as noninvasive biomarkers for colorectal cancer detection. Front Genet. 2014 Aug 27;5:182. doi: 10.3389/fgene.2014.00182. eCollection 2014."
+                        },
+                        {
+                            "ReferencePMID": "29225717",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Oh TJ, Oh HI, Seo YY, Jeong D, Kim C, Kang HW, Han YD, Chung HC, Kim NK, An S. Feasibility of quantifying SDC2 methylation in stool DNA for early detection of colorectal cancer. Clin Epigenetics. 2017 Dec 4;9:126. doi: 10.1186/s13148-017-0426-3. eCollection 2017."
+                        },
+                        {
+                            "ReferencePMID": "30876480",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Han YD, Oh TJ, Chung TH, Jang HW, Kim YN, An S, Kim NK. Early detection of colorectal cancer based on presence of methylated syndecan-2 (SDC2) in stool DNA. Clin Epigenetics. 2019 Mar 15;11(1):51. doi: 10.1186/s13148-019-0642-0."
+                        },
+                        {
+                            "ReferencePMID": "33858326",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Kim CW, Kim H, Kim HR, Kye BH, Kim HJ, Min BS, Oh TJ, An S, Lee SH. Colorectal cancer screening using a stool DNA-based SDC2 methylation test: a multicenter, prospective trial. BMC Gastroenterol. 2021 Apr 15;21(1):173. doi: 10.1186/s12876-021-01759-9."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M13701",
+                            "ConditionBrowseLeafName": "Polyps",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6029",
+                            "ConditionBrowseLeafName": "Colonic Polyps",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "Rank": 255,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05445050",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "351-19"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "DRKS00023954",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "DRKS (German Clinical Trials Register)"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "RWTH Aachen University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "mULM to Support Breast Cancer Diagnosis and Therapy",
+                "OfficialTitle": "Development of Motion-Model Ultrasound Localization Microscopy to Support Breast Cancer Diagnosis and Therapy Monitoring in Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 26, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 27, 2022",
+                "StudyFirstSubmitQCDate": "June 29, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 6, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 29, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 6, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Elmar Stickeler",
+                    "ResponsiblePartyInvestigatorTitle": "Univ.-Prof. Dr. med. Elmar Stickeler, RWTH Aachen University",
+                    "ResponsiblePartyInvestigatorAffiliation": "RWTH Aachen University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "RWTH Aachen University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The goal of this project is to adapt the super-resolution ultrasound imaging technology motion-model Ultrasound Localization Microscopy (mULM) to clinical application. In this exploratory patient study a scan protocol will be established to subsequently investigate whether mULM allows the assessment of the tumor response to neoadjuvant chemotherapy in participants with a primary breast cancer diagnosis as well as for the differentiation of benign and malignant breast tumors in participants with lesions of unknown dignity.",
+                "DetailedDescription": "This study on the clinical translation of the super-resolution ultrasound imaging technique motion-model ultrasound localization microscopy (mULM) is composed of three parts. First, an ultrasound scan protocol will be developed by providing patients with primary breast carcinoma with an ultrasound scan to assess the size, location, and structure of the tumor. Images in the form of B-mode ultrasound, elastography, and contrast ultrasound will be obtained, and mini-movies of the CEUS examinations will be evaluated in a post-processing step. There, individual microbubbles of the ultrasound contrast agent will be identified and tracked to reconstruct the microvasculature of the tumor lesions. Participants will each receive 2 different doses of the clinically approved ultrasound contrast agent SonoVue\u00ae. The morphological and functional parameters obtained through the post-processing with the mULM algorithm are then analyzed and subsequently validated with histological examinations. Finally, the ultrasound examination protocol will be optimized and the corresponding dosage of the ultrasound contrast agent determined.\n\nThe examination protocol established in the first section will subsequently be applied to patients with primary breast carcinoma receiving neoadjuvant chemotherapy. Contrast-enhanced ultrasonography will be performed at three time points during the chemotherapy cycles and will be performed to assess tumor perfusion through application of the mULM-algorithm. The dosage of contrast agent is based on the dosage found in the previous part of the study. The CEUS examination is followed by the infusion of the chemotherapeutic agent. After completion of neoadjuvant chemotherapy, surgical resection of the tumor and microscopic examination of the tissue are performed according to guidelines.\n\nIn the final part of the study, patients with suspected breast tumor lesions are examined. They will first receive non-contrast-enhanced diagnostic ultrasound (B-mode and elastography). A contrast-enhanced ultrasound examination is performed on the largest lesion. To further develop the mULM methodology, this is performed as both 2D and 3D acquisition. The dosage of the contrast agent examination is again based on the optimal dosage found in the first study part. This ultrasound procedure is followed by guideline-guided biopsy for histologic clarification of the tumors, assessing dignity, hormone receptor as well as and HER2/neu status, proliferation rate, and vessel density."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Primary Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "neoadjuvant chemotherapy",
+                        "ultrasound",
+                        "microbubbles"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "74",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "clinical application of mULM to support breast cancer diagnosis and therapy",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "The study arm includes three parts A, B and C. In part A, the scan protocol, including the injection of the clinically approved contrast agent SonoVue\u00ae and the data acquisition time range, is optimized based on the mULM measurements of participants with primary breast cancer.\n\nThe following part B consists of 2D-mULM measurements applied to triple-negative breast cancer patients throughout their neoadjuvant chemotherapy cycles with the aim to evaluate to which degree 2D-mULM allows for an assessment of the tumor response during therapy.\n\nIn the last part C, participants with neoplasms of uncertain dignity will be investigated by 2D- and 3D-mULM measurements and the accuracy of differentiation between the lesions assessed.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Application and measurement of tumor vascularization using diagnostic contrast enhanced ultrasound (CEUS)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Application and measurement of tumor vascularization using diagnostic contrast enhanced ultrasound (CEUS)",
+                            "InterventionDescription": "Part A: performing CEUS with the contrast agent SonoVue\u00ae at two different doses and two different injection speeds in participants with primary breast cancer\n\nPart B: performing CEUS with the contrast agent SonoVue\u00ae using the established protocol from part A in participants undergoing neodajuvant chemotherapy\n\nPart C: performing CEUS with the contrast agent SonoVue\u00ae using the established protocol from part A in participants with lesions of unknown dignity",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "clinical application of mULM to support breast cancer diagnosis and therapy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Relative blood volume",
+                            "PrimaryOutcomeDescription": "Relative blood volume in % - describes the degree of vascularization - measured with mULM",
+                            "PrimaryOutcomeTimeFrame": "Study Part A & C: approximately 1 day before surgical removal of tumor"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Blood flow",
+                            "PrimaryOutcomeDescription": "Blood flow in mm/s - measured with mULM",
+                            "PrimaryOutcomeTimeFrame": "Study Part A & C: approximately 1 day before surgical removal of tumor"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change of relative blood volume",
+                            "PrimaryOutcomeDescription": "Change of relative blood volume in %",
+                            "PrimaryOutcomeTimeFrame": "Study Part B: at the beginning of (approximately 1 hour before) first, second and fourth cycle of neoadjuvant chemotherapeutic treatment (each cycle is 14 days)"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change of blood flow",
+                            "PrimaryOutcomeDescription": "Change of blood flow in mm/s",
+                            "PrimaryOutcomeTimeFrame": "Study Part B: at the beginning of (approximately 1 hour before) first, second and fourth cycle of neoadjuvant chemotherapeutic treatment (each cycle is 14 days)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Change of tumor size",
+                            "SecondaryOutcomeDescription": "Change of tumor size determined based on ultrasound B-mode imaging",
+                            "SecondaryOutcomeTimeFrame": "Study Part B: at the beginning of (approximately 1 hour before) first, second and fourth cycle of neoadjuvant chemotherapeutic treatment (each cycle is 14 days)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nwritten informed consent\nage \u2265 18 yrs\nhistologically confirmed primary breast cancer including all intrinsic subtypes (study parts A and B)\nhighly suspected primary breast cancer (study part C)\ntreatment with neoadjuvant chemotherapy (study part B)\npersons who are legally competent and mentally able to follow the instructions of the study team\n\nExclusion Criteria:\n\nyounger than 18 years\nhypersensitivity / allergy to sulfur hexafluoride, Macrogol 4000, distearoylphosphatidylcholine, dipalmitoylphosphatidylglycerol-sodium, palmitic acid\nright-left shunt,\nsigns of cardiovascular instability\nacute endocarditis\nartificial heart valves\nacute systemic inflammation and/or sepsis\noveractive coagulation status and/or recent thromboembolic events\nend stage of liver and kidney diseases\nsevere pulmonary hypertension (pulmonary arterial pressure > 90 mmHg)\nuncontrolled systemic hypertension\nacute respiratory distress syndrome\npregnancy\ncommitment of the patient to any resident institution by order of any court or authority\nexpectation of missing compliance\nalcohol or drug abuse\npatients who are in a relationship of dependence or in a working relationship to the sponsor, the investigator or his representative",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Elmar Stickeler, Prof Dr. med",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+492418088400",
+                            "CentralContactEMail": "estickeler@ukaachen.de"
+                        },
+                        {
+                            "CentralContactName": "Fabian Kiessling, Prof Dr. med",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+49 241 80 80117",
+                            "CentralContactEMail": "fkiessling@ukaachen.de"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Elmar Stickeler, Prof Dr. med",
+                            "OverallOfficialAffiliation": "RWTH Aachen University Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Department of Gynecology and Obstetrics Universit\u00e4tsklinikum Aachen, A\u00f6R",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Aachen",
+                            "LocationState": "NRW",
+                            "LocationZip": "52074",
+                            "LocationCountry": "Germany",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Elmar Stickeler",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+492418088400",
+                                        "LocationContactEMail": "estickeler@ukaachen.de"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "The study results will be published in at least one scientific article."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

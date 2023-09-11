@@ -1,0 +1,439 @@
+{
+    "Rank": 114,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03357289",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "kidney cancer MV"
+                },
+                "Organization": {
+                    "OrgFullName": "Fuda Cancer Hospital, Guangzhou",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Mix Vaccine for Metastatic Kidney Cancer",
+                "OfficialTitle": "Safety and Efficacy Study of Mix Vaccine in Kidney Cancer Patient"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 30, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 30, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 30, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 23, 2017",
+                "StudyFirstSubmitQCDate": "November 28, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 29, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 10, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 12, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fuda Cancer Hospital, Guangzhou",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Jinan University Guangzhou",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The aim of this study is the safety and efficacy of mix vaccine to small metastases of kidney cancer.",
+                "DetailedDescription": "By enrolling patients with small metastases of kidney cancer adapted to enrolled criteria, this study will document for the first time the safety and the short and long term efficacy of mix vaccine.\n\nThe safety will be evaluated by statistics of adverse reactions. The efficacy will be evaluated according to local relief degree, progress free survival (PFS) and overall survival (OS)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastasis From Malignant Tumor of Kidney (Disorder)",
+                        "Reaction - Mixed Vaccine"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Mix vaccine",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In this group, the patients will receive mix vaccine. The check indexes are image examination (CT, MRI or PET scan) and blood tests (including tumor markers, lymphocyte subsets and circulating tumor cell).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Mix vaccine"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "In this group, the patients will receive no special treatment and as a control group. The check indexes are image examination (CT, MRI or PET scan) and blood tests (including tumor markers, lymphocyte subsets and circulating tumor cell)."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Mix vaccine",
+                            "InterventionDescription": "Each treatment: 0.5 ml /week, Subcutaneous injection of the deltoid muscle",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Mix vaccine"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Active immunotherapy for cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Relief degree of tumors",
+                            "PrimaryOutcomeDescription": "It will be evaluated by the Response Evaluation Criteria in Solid Tumors\uff08RECIST\uff09",
+                            "PrimaryOutcomeTimeFrame": "3 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Progress free survival\uff08PFS\uff09",
+                            "SecondaryOutcomeDescription": "The duration from the beginning of treatment to cancer recurrence or progression",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival\uff08OS\uff09",
+                            "SecondaryOutcomeDescription": "The duration from the beginning of treatment to patient death",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll standard therapies have failed according to NCCN guidelines or the patient refuses standard therapies after cancer recurrence\nBody tumor 1-6, the maximum tumor length < 2 cm\nKPS \u2265 70, lifespan > 6 months\nPlatelet count \u2265 80\u00d7109/L\uff0cwhite blood cell count \u2265 3\u00d7109/L, neutrophil count \u2265 2\u00d7109/L, hemoglobin \u2265 80 g/L\n\nExclusion Criteria:\n\nPatients with cardiac pacemaker\nPatients with brain metastasis\nPatients with grade 3 hypertension or diabetic complication, severe cardiac and pulmonary dysfunction",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cancer institute of Fuda cancer hospital",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510665",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000007680",
+                            "ConditionMeshTerm": "Kidney Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000002292",
+                            "ConditionMeshTerm": "Carcinoma, Renal Cell"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007674",
+                            "ConditionAncestorTerm": "Kidney Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000230",
+                            "ConditionAncestorTerm": "Adenocarcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002277",
+                            "ConditionAncestorTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5238",
+                            "ConditionBrowseLeafName": "Carcinoma, Renal Cell",
+                            "ConditionBrowseLeafAsFound": "Malignant Tumor of Kidney (Disorder)",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10393",
+                            "ConditionBrowseLeafName": "Kidney Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Kidney Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10388",
+                            "ConditionBrowseLeafName": "Kidney Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4906",
+                            "ConditionBrowseLeafName": "Renal Cell Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Malignant Tumor of Kidney (Disorder)",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000091369",
+                            "InterventionMeshTerm": "Immunomodulating Agents"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafAsFound": "Potential",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

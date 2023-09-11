@@ -1,0 +1,332 @@
+{
+    "Rank": 375,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05732974",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "RC31/21/0519"
+                },
+                "Organization": {
+                    "OrgFullName": "University Hospital, Toulouse",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Machine Learning Approach to Identify Patients With Resected Non-small-cell Lung Cancer With High Risk of Relapse",
+                "OfficialTitle": "A Machine Learning Approach to Identify Patients With Resected Non-small-cell Lung Cancer With High Risk of Relapse",
+                "Acronym": "MIRACLE"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 30, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 30, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 14, 2022",
+                "StudyFirstSubmitQCDate": "February 8, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 17, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 8, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 17, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Hospital, Toulouse",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Early-stage non small cell lung cancer represents 20-30% of all non small cell lung cancer and is characterized by a high survival probability after surgical resection. However, considering stage IA-IIIA non small cell lung cancer, a relapse rate of about 50% is observed, with a different survival probability on the basis of tumor node metastasis status, although patients within the same tumor node metastasis stage exhibit wide variations in recurrence rate. There are currently no validated prognostic biomarkers able to identify patients with a high risk of relapse.",
+                "DetailedDescription": "This study will use data from an already available cohort of patients enrolled in the Resting study (a project funded by TRANSCAN in 2018) as a training set and data from a new concurrent cohort as validation set."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Non-small Cell Lung Cancer Stage IIIA"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Machine-learning",
+                        "Resected early stage Non-small Cell Lung Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "biomarkers detected on plasma and tissue samples for analysis of circulating and extracellular vesicles-derived microRNAs as well as of free circulating DNA performed"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "60",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Resected early stage non small cell lung cancer",
+                            "ArmGroupDescription": "Early stage (IA-IIIA) resectable non small cell lung cancer patients receiving surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Resected non small cell lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Resected non small cell lung cancer",
+                            "InterventionDescription": "plasma sample, tissue sample and computed tomography scan images",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Resected early stage non small cell lung cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Algorithm for disease free survival",
+                            "PrimaryOutcomeDescription": "Analysis on a training cohort of resected early-stage non small cell lung cancer",
+                            "PrimaryOutcomeTimeFrame": "18 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient with an early stage of non small cell lung cancer\nIndication of surgical resection\nPatient able to understand and give his consent\nPatient affiliated to the health insurance\n\nExclusion Criteria:\n\nPatient with another cancer in the last 5 years\nPatient with an allergy to the contrast medium\nPatient under legal protection",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patient with an early stage of non small cell lung cancer with an indication of surgical resection",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Julien MAZIERES, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "0567771837",
+                            "CentralContactPhoneExt": "33",
+                            "CentralContactEMail": "mazieres.j@chu-toulouse.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Julien MAZIERES, MD, PhD",
+                            "OverallOfficialAffiliation": "University Hospital, Toulouse",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Julien MAZIERES",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Toulouse",
+                            "LocationZip": "31059",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Julien MAZIERES",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "0567771837",
+                                        "LocationContactEMail": "mazieres.j@chu-toulouse.fr"
+                                    },
+                                    {
+                                        "LocationContactName": "Julie MILIA",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "milia.j@chu-toulouse.fr"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000002289",
+                            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002283",
+                            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001984",
+                            "ConditionAncestorTerm": "Bronchial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafAsFound": "Non-Small Cell Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5230",
+                            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4950",
+                            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

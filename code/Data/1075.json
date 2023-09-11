@@ -1,0 +1,347 @@
+{
+    "Rank": 1075,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02965755",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J16146"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "IRB00117742",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHMIRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Personalized Molecular Profiling in Cancer Treatment at Johns Hopkins",
+                "OfficialTitle": "Individualized Molecular Analyses Guide Efforts in Breast Cancer - Personalized Molecular Profiling in Cancer Treatment at Johns Hopkins",
+                "Acronym": "IMAGE-II"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 26, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 18, 2016",
+                "StudyFirstSubmitQCDate": "November 14, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 17, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 7, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 9, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Foundation Medicine",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The goal of this research study is to determine if we can obtain personalized genetic information from a subject's blood sample that is similar to that obtained from a tumor tissue sample, and if we can use that information to make treatment suggestions.",
+                "DetailedDescription": "The goal of this research study is to determine if we can obtain personalized genetic information from a subject's blood sample that is similar to that obtained from a tumor tissue sample, and if we can use that information to make treatment suggestions. As tumor samples can be difficult to collect, we hope to be able to collect similar genetic information from blood or urine samples that we find in tumor tissue. Ultimately, we hope to identify genes important to cancer cells that could potentially identify standard-of-care or research-based recommendations for therapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Metastatic Breast Cancer",
+                        "Breast Cancer",
+                        "Molecular profiling",
+                        "Personalized medicine"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Genetic profiling",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "All participants will undergo genetic profiling. Archival tissue will be requested to undergo routine review for possible treatment recommendations. Blood samples will be obtained to study research correlates (plasma tumor DNA, ptDNA) and tissue comparison.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Treatment recommendation"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Treatment recommendation",
+                            "InterventionDescription": "Depending on the results from the participant's archival tissue, a panel of Johns Hopkins investigators will meet to interpret the molecular and genetic profiling results in order to identify any actionable mutations to provide a personalized treatment recommendation for the patient.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Genetic profiling"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Ability of genetically profiling of ptDNA as assessed by identifying the proportion of genetic alterations in tumor tissue",
+                            "PrimaryOutcomeDescription": "The proportion of genetic alterations in tumor tissue is detected via genetic profiling of ptDNA when those genetic alterations are present in the tumor at an allelic frequency >10%.",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of patients who cannot have NGS of metastatic site biopsy but have clinically actionable mutations detected via genetic profiling of ptDNA",
+                            "PrimaryOutcomeDescription": "Percentage of patients for which genetic profiling of ptDNA would be more feasible when a metastatic biopsy cannot be acquired.",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Response as assessed by change in ptDNA level up to 2 weeks post-intervention. To determine whether a 10-fold decrease in allelic frequency of a given mutation in ptDNA after initiating new systemic therapy can predict for response to treatment.",
+                            "SecondaryOutcomeDescription": "Change in number-of-folds decrease in allelic frequency of a given mutation in ptDNA 1 or 2 weeks after beginning new systemic therapy.",
+                            "SecondaryOutcomeTimeFrame": "2 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Response as assessed by Change in Circulating tumor cell (CTC) counts",
+                            "SecondaryOutcomeDescription": "Measure CTC counts at baseline, after 1-2 weeks of therapy, and at each restaging, up to 1 year.",
+                            "SecondaryOutcomeTimeFrame": "Change from baseline up to 1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or Female\n18 years of age or older\nMetastatic breast cancer and treatment with prior chemotherapy\nAny clinical phenotype (Triple negative, Hormone receptor positive, human epidermal growth factor receptor 2 (HER2)-positive)\nPatient must have received a metastatic tumor biopsy within 3 years prior to the date of the first planned blood sample for the study and have tissue available from this biopsy\nAble to voluntarily provide informed consent\n\nExclusion Criteria:\n\nWomen who are pregnant or nursing",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "100 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Hopkins Breast Trials",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "410-614-1361",
+                            "CentralContactEMail": "hopkinsbreasttrials@jhmi.edu"
+                        },
+                        {
+                            "CentralContactName": "Kimmel Cancer Center Clinical Research Office",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "410-955-8866",
+                            "CentralContactEMail": "jhcccro@jhmi.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Vered Stearns, M.D.",
+                            "OverallOfficialAffiliation": "Johns Hopkins University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21287-0013",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Hopkins Breast Trials",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "410-614-1361",
+                                        "LocationContactEMail": "HopkinsBreastTrials@jhmi.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Kimmel Cancer Center Clinical Research Office",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "410-955-8866",
+                                        "LocationContactEMail": "jhcccro@jhmi.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Vered Stearns, M.D.",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Allegheny Health Network Cancer Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Pittsburgh",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15212",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Larisa Greenberg",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactName": "Larisa Greenberg",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "Individual participant data will not be shared."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

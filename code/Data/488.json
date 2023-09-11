@@ -1,0 +1,485 @@
+{
+    "Rank": 488,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01678027",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NCCCTS04-103"
+                },
+                "Organization": {
+                    "OrgFullName": "National Cancer Center, Korea",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Gastric Cancer Prevention in the Family Members by Helicobacter Pylori Eradication",
+                "OfficialTitle": "Helicobacter Pylori Eradication to Prevent Gastric Cancer in Subjects With Family History of Gastric Cancer: A Randomized Controlled Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2022",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2004"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 17, 2012",
+                "StudyFirstSubmitQCDate": "August 29, 2012",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 3, 2012",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 8, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 12, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Il Ju Choi",
+                    "ResponsiblePartyInvestigatorTitle": "M.D., Ph.D",
+                    "ResponsiblePartyInvestigatorAffiliation": "National Cancer Center, Korea"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "National Cancer Center, Korea",
+                    "LeadSponsorClass": "OTHER_GOV"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study evaluate whether treatment of Helicobacter pylori infection reduces the incidence of gastric cancer in subjects with family history of gastric cancer.",
+                "DetailedDescription": "Helicobacter pylori infection is associated with gastric cancer in epidemiological studies. However, it is still unknown whether H. pylori eradication is useful and required to prevent gastric cancer.\n\nGastric cancer risk is increased in family members of gastric cancer patient. Though there is no direct evidence that H. pylori infection is a risk factor for gastric cancer in family members of gastric cancer, current European guideline recommends H. pylori eradication in first-degree relatives of gastric cancer patients.\n\nIn this study, the investigators will evaluate whether H. pylori eradication can reduce gastric cancer risk in the first-degree family members of gastric cancer patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer",
+                        "Helicobacter Pylori Infection",
+                        "Family Members"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Stomach neoplasm",
+                        "Helicobacter pylori"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 3"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Prevention",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Quadruple",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Care Provider",
+                                "Investigator",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1838",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Placebo",
+                            "ArmGroupType": "Placebo Comparator",
+                            "ArmGroupDescription": "Placebo for LAC triple therapy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Placebo"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "LAC triple therapy",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "PPI (Lansoprazole), Clarithromycin, Amoxicilline",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: LAC triple therapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Placebo",
+                            "InterventionDescription": "Lansoprazole placebo, amoxicillin placebo, and clarithromycin placebo, all twice a day for 1 week.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Placebo"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "LAC triple therapy",
+                            "InterventionDescription": "Lansoprazole 30 mg, amoxicillin 1,000 mg, and clarithromycin 500 mg, all twice a day for 1 week.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "LAC triple therapy"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "PPI-Clarithromycin containing triple therapy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Gastric cancer incidence",
+                            "PrimaryOutcomeDescription": "The incidence of gastric cancer will be compared between the two arms as the participant assigned into either LAC treatment group or placebo group regardless the final H. pylori infection status.\n\nCurrently, efficacy of LAC triple therapy shows about 75-85% eradication rate of the H. pylori.",
+                            "PrimaryOutcomeTimeFrame": "6 years after last participant enrollment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Gastric dysplasia incidence",
+                            "SecondaryOutcomeDescription": "Incidence of gastric dysplasia according to the H. pylori treatment",
+                            "SecondaryOutcomeTimeFrame": "6 year after last participant enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Gastric cancer incidence between H. pylori treatment and H. pylori uninfected groups",
+                            "SecondaryOutcomeDescription": "Gastric cancer incidence between H. pylori treatment group and H. pylori uninfected group",
+                            "SecondaryOutcomeTimeFrame": "6 year after last participant enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Gastric cancer incidence according to H. pylori status",
+                            "SecondaryOutcomeDescription": "Gastric cancer incidence between H. pylori eradicated group and H. pylori persistent group",
+                            "SecondaryOutcomeTimeFrame": "6 year after last participant enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "All-cause mortality",
+                            "SecondaryOutcomeDescription": "All-cause mortality between H. pylori treatment group and placebo group",
+                            "SecondaryOutcomeTimeFrame": "6 year after last participant enrollment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSibling or offspring of patients with gastric adenocarcinoma confirmed by EGD and biopsy\nInformed consent should be signed\n\nExclusion Criteria:\n\nGastric cancer history\nOther malignancy within the past 5 years\nHereditary cancer family member (HNPCC, FAP)\nPeptic ulcer history\nPeptic ulcer, esophageal cancer, gastric cancer case found at EGD\nH. pylori eradication treatment history\nPrevious serious side effect to antibiotics\nSerious concurrent infection or nonmalignant disease such as liver cirrhosis, renal failure, cardiovascular diseases\nPregnant or nursing women\nPsychiatric disorder that would preclude compliance, alcoholics\nRefuse informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "65 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Il Ju Choi, M.D., Ph.D.",
+                            "OverallOfficialAffiliation": "National Cancer Center, Korea",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "National Cancer Center, Korea",
+                            "LocationCity": "Goyang",
+                            "LocationState": "Gyeonggi",
+                            "LocationZip": "10408",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "31995688",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Choi IJ, Kim CG, Lee JY, Kim YI, Kook MC, Park B, Joo J. Family History of Gastric Cancer and Helicobacter pylori Treatment. N Engl J Med. 2020 Jan 30;382(5):427-436. doi: 10.1056/NEJMoa1909666."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000017291",
+                            "InterventionMeshTerm": "Clarithromycin"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000900",
+                            "InterventionAncestorTerm": "Anti-Bacterial Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000890",
+                            "InterventionAncestorTerm": "Anti-Infective Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000011500",
+                            "InterventionAncestorTerm": "Protein Synthesis Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000065692",
+                            "InterventionAncestorTerm": "Cytochrome P-450 CYP3A Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000065607",
+                            "InterventionAncestorTerm": "Cytochrome P-450 Enzyme Inhibitors"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M30069",
+                            "InterventionBrowseLeafName": "Lansoprazole",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M30070",
+                            "InterventionBrowseLeafName": "Dexlansoprazole",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3685",
+                            "InterventionBrowseLeafName": "Amoxicillin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M19275",
+                            "InterventionBrowseLeafName": "Clarithromycin",
+                            "InterventionBrowseLeafAsFound": "Psychological",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3912",
+                            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3904",
+                            "InterventionBrowseLeafName": "Anti-Infective Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M30254",
+                            "InterventionBrowseLeafName": "Cytochrome P-450 CYP3A Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M30227",
+                            "InterventionBrowseLeafName": "Cytochrome P-450 Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infe",
+                            "InterventionBrowseBranchName": "Anti-Infective Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "Rank": 833,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02261389",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "KRONOS"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "PONS-S Italy",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "S.Orsola-Malpighi Hospital"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Follow-up of Early Breast Cancer by Dynamic Evaluation of CEA and CA 15.3 Followed by 18FDG-PET",
+                "OfficialTitle": "Three-monthly Dynamic Evaluation of CEA and CA 15.3 vs Usual Practice in the Follow-up of Early Breast Cancer Patients: a Randomized Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2022",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2014",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2030",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 30, 2014",
+                "StudyFirstSubmitQCDate": "October 7, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 10, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 28, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 29, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Claudio Zamagni MD",
+                    "ResponsiblePartyInvestigatorTitle": "MD Medical Oncologist",
+                    "ResponsiblePartyInvestigatorAffiliation": "IRCCS Azienda Ospedaliero-Universitaria di Bologna"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "PONS-S (Patientenorientierte Nachsorge-Stiftung), Augsburg, Germany",
+                            "CollaboratorClass": "UNKNOWN"
+                        },
+                        {
+                            "CollaboratorName": "Azienda ULSS 12 Veneziana",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Fondazione IRCCS Istituto Nazionale dei Tumori, Milano",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main purpose of follow-up in asymptomatic breast cancer patients during and after adjuvant treatment is to detect breast cancer recurrence and metastatic disease.The aim of this trial is to verify if, in asymptomatic patients, the serial measurement of serum CEA and CA 15.3, with diagnostic imaging procedures (18FDG-PET) performed only in case of a critical increase of serum CEA and CA 15.3 level, can anticipate the diagnosis of breast cancer local and distant recurrence compared to the usual follow-up practice."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "follow-up",
+                        "tumor markers"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1507",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Arm A, usual follow-up practice",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Imaging studies and serum markers (CEA, CA 15.3, others) performed according to local practice"
+                        },
+                        {
+                            "ArmGroupLabel": "Arm B, tumor markers assessment",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Serum CEA and CA 15.3 performed every 3 months. No imaging studies allowed in asymptomatic patients: imaging studies (18 FDG-PET) performed only in case of critical increase of CEA and /or CA 15.3 serum levels (+100% for CEA and +75% for CA15.3), even if in the normal range.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Arm B, tumor markers assessment"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Arm B, tumor markers assessment",
+                            "InterventionDescription": "Tumor markers assessment every three months through the study or until disease recurrence",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Arm B, tumor markers assessment"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "CEA",
+                                    "CA15-3",
+                                    "18FDG-PET"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Time interval between date of randomization and date of diagnosis of disease distant recurrence",
+                            "PrimaryOutcomeDescription": "Primary objective of the study is to verify if the experimental arm (serial measurement of serum CEA and CA 15.3 with diagnostic imaging procedures - i.e. 18FDG-PET- performed only in case of critical increase of serum markers level) can anticipate the diagnosis of breast cancer loco-regional (except for in-breast recurrence) or distant metastases compared to the control arm (usual follow-up practice).",
+                            "PrimaryOutcomeTimeFrame": "Participants will be followed from date of randomization until the date of first documented disease distant recurrence or date of death from any cause, whichever came first, assessed up to 60 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Predefined critical difference of CEA and CA15-3",
+                            "SecondaryOutcomeDescription": "Secondary objective is to evaluate the Positive Predictive Value (PPV) and the Negative Predictive Value (NPV) of CEA and CA15.3 dynamic changes in the diagnosis of breast cancer loco-regional (except for in-breast recurrence) or distant metastases.",
+                            "SecondaryOutcomeTimeFrame": "Participants will be followed from date of randomization until the date of first documented disease distant recurrence or date of death from any cause, whichever came first, assessed up to 60 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Exploratory analysis in the different subtypes",
+                            "SecondaryOutcomeDescription": "Secondary objective is to perform an exploratory analysis on diagnostic anticipation in the different subtypes (ER and HER2 status)",
+                            "SecondaryOutcomeTimeFrame": "Participants will be followed from date of randomization until the date of first documented disease distant recurrence or date of death from any cause, whichever came first, assessed up to 60 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Imaging diagnostic tests evaluation",
+                            "SecondaryOutcomeDescription": "Secondary objective is to measure how many imaging diagnostic tests will be avoided in the experimental arm compared to the control arm",
+                            "SecondaryOutcomeTimeFrame": "Participants will be followed from date of randomization until the date of first documented disease distant recurrence or date of death from any cause, whichever came first, assessed up to 60 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Patient quality of life evaluation",
+                            "SecondaryOutcomeDescription": "Secondary objective is to compare the quality of life in the two arms",
+                            "SecondaryOutcomeTimeFrame": "Participants will be followed from date of randomization until the date of first documented disease distant recurrence or date of death from any cause, whichever came first, assessed up to 60 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female \u226518 years.\nHistologically confirmed stage I-III epithelial breast cancer.\n\nAdequate surgery of breast and axilla:\n\npatients must have undergone either a total mastectomy or breast conserving surgery\nsurgical margins of the resected specimen must be histologically free of invasive tumor.\nCohort 1: if chemotherapy and/or radiotherapy are indicated the patients must be randomized between 1 month and 2 months from the end of chemotherapy and/or radiotherapy; if only hormonal adjuvant therapy is indicated the patients must be randomized within 3 months from the completion of surgery\nCohort 2: patients must be randomized in the trial after 5 years of follow-up without relapse (but within year 6)\nSigned informed consent obtained prior to any study-specific procedures.\n\nExclusion Criteria:\n\nHistologically confirmed stage 0 epithelial breast cancer (carcinoma in situ).\nSpecial histologies with a high or low risk of relapse (i.e. sarcoma and tubular carcinoma)\nT1a and T1b tumors with all the following characteristics: G1-2 and N0 and RE > 10%, RPg > 10% and HER2 negative and Ki67\u226414%\nEvidence of distant metastases\nPatients participating to other clinical trials requiring follow-up not equal to standard\nPrevious history of cancer within 5 years from randomization (except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, stage I uterine cancer, or other non-breast malignancies with an outcome similar to those mentioned above)",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Claudio Zamagni, MD",
+                            "OverallOfficialAffiliation": "Azienda Ospedaliero-Universitaria di Bologna",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Azienda Sanitaria dell'Alto Adige - Ospedale di Bressanone",
+                            "LocationCity": "Bressanone",
+                            "LocationState": "Bolzano",
+                            "LocationZip": "39042",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "Azienda Sanitaria dell'Alto Adige - Ospedale di Merano",
+                            "LocationCity": "Merano",
+                            "LocationState": "Bolzano",
+                            "LocationZip": "39012",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "ASL13 - Presidio Ospedaliero Mirano, U.O.C. Oncologia ed Ematologia Oncologica",
+                            "LocationCity": "Mirano",
+                            "LocationState": "Venezia",
+                            "LocationZip": "30035",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "Azienda Ospedaliero-Universitaria di Bologna, Policlinico S. Orsola-Malpighi, SSD Oncologia Medica Addarii",
+                            "LocationCity": "Bologna",
+                            "LocationZip": "40138",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "Azienda Sanitaria dell'Alto Adige - Ospedale Centrale di Bolzano",
+                            "LocationCity": "Bolzano",
+                            "LocationZip": "39100",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "Azienda Ospedaliero-Universitaria di Ferrara",
+                            "LocationCity": "Ferrara",
+                            "LocationZip": "44124",
+                            "LocationCountry": "Italy"
+                        },
+                        {
+                            "LocationFacility": "IRCCS Azienda Ospedaliera S. Maria Nuova di Reggio Emilia",
+                            "LocationCity": "Reggio Emilia",
+                            "LocationZip": "42123",
+                            "LocationCountry": "Italy"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M21376",
+                            "InterventionBrowseLeafName": "Fluorodeoxyglucose F18",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "Rank": 808,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05731453",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "494936"
+                },
+                "Organization": {
+                    "OrgFullName": "Vestre Viken Hospital Trust",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Clinical Pilot Study for Personalized Risk-based Breast Cancer Screening",
+                "OfficialTitle": "Clinical Pilot Study for Personalized Risk-based Breast Cancer Screening"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 11, 2035",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 10, 2023",
+                "StudyFirstSubmitQCDate": "February 7, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 16, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 16, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 17, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vestre Viken Hospital Trust",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Oslo University Hospital",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The study aims to evaluate the impact of implementing population-based genetics testing strategy for breast cancer precision prevention using the polygenic risk score and monogenic pathogenic variant (MPV) testing in the Norwegian healthcare setting.",
+                "DetailedDescription": "The study will recruit women age 40-50 referred for clinical mammography at the Vestre Viken Breast Center, with mammographic density BI-RADS a or d. After informed consent, saliva from the participants will be sampled and tested for polygenetic risk score (PRS) for breast cancer. The participants will be recommended future mammographic screening based on the PRS (standard screening, or more frequent/start at earlier age). The participants family history of cancer will be assessed, and if indicated, the participants will be referred for full genetic counselling/testing. The study will follow the women for 10 years for development of breast cancer as well as compliance to the recommended follow-up."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "risk based screening"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "80",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Polygenetic risk score",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Assessment of polygenetic risk score for breast cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Polygenetic risk score"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Polygenetic risk score",
+                            "InterventionDescription": "Polygenetic risk score assessment for breast cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Polygenetic risk score"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Assessment of breast cancer risk by polygenetic risk score in the study population",
+                            "PrimaryOutcomeDescription": "Polygenetic breast cancer risk score (PRS) as a numeric value with 10 percentile, as absolute 10-year breast cancer risk, and as relative risk compared with average women at the same age",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Compliance to individual recommedations for breast cancer screening",
+                            "SecondaryOutcomeDescription": "Percentage and frequencies of participants following their individual screening recommendations",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation of polygenetic risk score and breast cancer risk assessed by family history",
+                            "SecondaryOutcomeDescription": "Distribution of PRS among participants with increased breast cancer risk based on family history",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Participants\u00b4 experience with study participation",
+                            "SecondaryOutcomeDescription": "Questionnaries on experience with the sampling process and feedback on a categorical scale (totally disagree, disagree, neutral, agree, totally agree)",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen referred for clinical mammography in the Vestre Viken Breast Centre\nBreast density BI-RADS a or d\n40-50 y.o.\n\nExclusion Criteria:\n\nPrior history of breast cancer or premalignant breast disease\nPrior genetic counselling/testing",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "50 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Tone Hovda, Phd",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+4732862350",
+                            "CentralContactEMail": "tone.hovda@vestreviken.no"
+                        },
+                        {
+                            "CentralContactName": "Kristine K Sahlberg, Phd",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+4798641229",
+                            "CentralContactEMail": "kristine.sahlberg@vestreviken.no"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Tone Hovda, Phd",
+                            "OverallOfficialAffiliation": "Vestre Viken HT",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vestre Viken Hospital Trust",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Drammen",
+                            "LocationCountry": "Norway",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tone Hovda, Phd",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "tone.hovda@vestreviken.no"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

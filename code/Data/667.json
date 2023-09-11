@@ -1,0 +1,335 @@
+{
+    "Rank": 667,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02003482",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "20060212"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Miami",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Prospective Trial of Serial CT Imaging for Evaluation of Dosimetric/Volumetric Changes During IMRT for Head/Neck Cancer",
+                "OfficialTitle": "Prospective Observational Trial of Serial CT Imaging for Evaluation of Dosimetric/Volumetric Changes During IMRT for Head/Neck Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 9, 2006",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 26, 2018",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 26, 2018",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 2, 2013",
+                "StudyFirstSubmitQCDate": "December 5, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 6, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 26, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 29, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Cristiane Takita, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Professor of Clinical",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Miami"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Miami",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Anatomical changes that take place during Intensity modulated radiation therapy (IMRT) treatments for cancers of the head and neck cause significant dosimetric changes.",
+                "DetailedDescription": "The investigator's hypothesis is that those patients with bulky head and neck cancers who undergo definitive radiation therapy with or without chemotherapy have changes in their dose distribution that lead to significant changes in dose to tumor and/or normal tissue. It is possible for these dosimetric changes could occur in either those patients who undergo resection or not. In this study those patients who have undergone a resection will be stratified separately for analysis, however, this study is not powered to detect a difference between the two groups. The rational for stratification into an operated group of patients is that these patients will also lose weight in treatment and will provide us a detection of the magnitude of change in dose caused by weight loss independent of tumor shrinkage."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Head and Neck Cancer",
+                        "Head and Neck Squamous Cell Carcinoma"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Head and Neck Cancer",
+                        "Head and Neck Squamous Cell Carcinoma",
+                        "Intensity modulated radiation therapy",
+                        "IMRT",
+                        "Anatomic Changes",
+                        "Postoperative",
+                        "Unresectable"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "39",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Postop IMRT for Head/Neck cancer",
+                            "ArmGroupDescription": "CT for Radiation Treatment Planning",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: Postop IMRT for head/neck cancer",
+                                    "Device: CT for Radiation Treatment Planning"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Chemo/IMRT for bulky Head/Neck cancer",
+                            "ArmGroupDescription": "CT for Radiation Treatment Planning",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Radiation: Postop IMRT for head/neck cancer",
+                                    "Device: CT for Radiation Treatment Planning"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "Postop IMRT for head/neck cancer",
+                            "InterventionDescription": "Patients will be enrolled in study through the duration of their radiation therapy, approximately 6-8 weeks. After which time no further evaluations will be made.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Chemo/IMRT for bulky Head/Neck cancer",
+                                    "Postop IMRT for Head/Neck cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "IMRT"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "CT for Radiation Treatment Planning",
+                            "InterventionDescription": "Treatment planning CT scans will be required to define tumor, clinical, and planning target volumes. This study requires CT scans prior to initiation of treatment then again on the third and sixth week of radiation treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Chemo/IMRT for bulky Head/Neck cancer",
+                                    "Postop IMRT for Head/Neck cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "CT Simulation"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Volumetric/Dosimetric Changes During IMRT for bulky and postoperative head/neck patients",
+                            "PrimaryOutcomeDescription": "To evaluate whether those patients undergoing standard intensity modulated radiation therapy (IMRT) for bulky and postoperative head and neck cancers demonstrate significant anatomic changes, causing dosimetric/volumetric changes during treatment which lead to under-dosing of tumor and/or over dosing of critical structures.",
+                            "PrimaryOutcomeTimeFrame": "7 weeks"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of Participants Requiring Re-Planning During the Course of IMRT for bulky and postoperative Head and Neck Cancer",
+                            "SecondaryOutcomeDescription": "To determine whether patients undergoing standard IMRT for head and neck cancers require re-planning during the course of therapy, due to volumetric or dosimetric changes.",
+                            "SecondaryOutcomeTimeFrame": "7 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Length of Time Required for Replanning of Radiation Therapy",
+                            "SecondaryOutcomeDescription": "To estimate what the appropriate time course should be for re-planning of radiation therapy if it is deemed necessary.",
+                            "SecondaryOutcomeTimeFrame": "7 weeks"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAJCC pathological stage I-IV cancers of the head and neck meeting the following criteria:\n\nIf gross total resection is performed it must be completed within 7 weeks of registration\nSite of tumor origin in the nasopharynx, oral cavity, oropharynx, parotid, larynx, or hypopharynx (excluding lip, or sinuses)\n\nPretreatment evaluations required for eligibility include:\n\nHistory and physical examination within four weeks prior to study entry\nDental evaluation with management according to the guidelines in Appendix IV prior to start of radiation\nSerum pregnancy test, if applicable, within one week prior to study entry; urine dipstick test on the first day of treatment\nRadiographic Studies: Pre-operative CT or MRI of the primary tumor and neck for clinical staging is required\nPatients must be \u2265 18 years of age.\nWomen of childbearing potential (WOCBP) must be willing to consent to using effective contraception while on treatment.\nPregnant women are ineligible as radiation therapy involves unforeseeable risks to the embryo or fetus. WOCBP must have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of human chorionic gonadotropin [hCG], or in accordance with local regulations, whichever is more sensitive).\nPatients must sign a study-specific informed consent form prior to registration.\n\nExclusion Criteria:\n\nHistology positive for melanoma.\nGross (visible or palpable) disease left after surgery.\nLess than gross total resection or patients requiring staged surgery.\nPrior head and neck radiotherapy.\nWomen of childbearing potential (WOCBP) who are unwilling or unable to use an acceptable method to avoid pregnancy for the entire study period",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with pathologic stage I-IV cancers of the head and neck (site of tumor origin nasopharynx, parotid, oral cavity, oropharynx, larynx, or hypopharynx,) either following gross total resection and requiring postoperative XRT for high-risk features or undergoing definitive concurrent chemo-radiation.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Cristiane Takita, MD",
+                            "OverallOfficialAffiliation": "University of Miami",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Miami",
+                            "LocationCity": "Miami",
+                            "LocationState": "Florida",
+                            "LocationZip": "33136",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002294",
+                            "ConditionMeshTerm": "Carcinoma, Squamous Cell"
+                        },
+                        {
+                            "ConditionMeshId": "D000006258",
+                            "ConditionMeshTerm": "Head and Neck Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000077195",
+                            "ConditionMeshTerm": "Squamous Cell Carcinoma of Head and Neck"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000002277",
+                            "ConditionAncestorTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018307",
+                            "ConditionAncestorTerm": "Neoplasms, Squamous Cell"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9038",
+                            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Neck Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5240",
+                            "ConditionBrowseLeafName": "Carcinoma, Squamous Cell",
+                            "ConditionBrowseLeafAsFound": "Squamous Cell Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1689",
+                            "ConditionBrowseLeafName": "Squamous Cell Carcinoma of Head and Neck",
+                            "ConditionBrowseLeafAsFound": "Head and Neck Squamous Cell Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20141",
+                            "ConditionBrowseLeafName": "Neoplasms, Squamous Cell",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "Rank": 821,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03495544",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "ESR-17-12934"
+                },
+                "Organization": {
+                    "OrgFullName": "Tatarstan Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study Estimating Association Between Germline Mutations and PD-L1 Expression in Breast Cancer",
+                "OfficialTitle": "Comparative, Multicenter Study Estimating Association Between Germline DNA-repair Genes Mutations and PD-L1 Expression Level in Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2018",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 17, 2019",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 1, 2019",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 15, 2018",
+                "StudyFirstSubmitQCDate": "April 4, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 12, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 4, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 12, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Tatarstan Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a multicentre, non-interventional, prospective study to be carried out in representative oncology departments / institutions in order to determine the association between the presence of germline DNA-repair genes mutations and PD-L1 expression level in tumour and immune cells in breast cancer. No additional procedures besides those already used in the routine clinical practice will be applied to the patients.",
+                "DetailedDescription": "Breast cancer (BC) occupies the first place among malignancy in females (29.9% of all tumors in female patients in Russian Federation in 2015) [1].\n\nOne of the most perspective direction of the oncotherapy is anticancer immunotherapy - employment of inhibitors of immune checkpoints. Immune checkpoints inhibitors (such as anti-PD-1 and anti-PD-L1 antibodies) have shown good clinical efficiency in clinical research to cure such malignant tumor with high mutation load, as melanoma, lung cancer, and others.\n\nOne of the hypothesis of such effect states that, usually, more cancer neoantigens are synthetized in the tumors with high mutation load (driven by genome instability), causing severe lymphoid infiltration [2-3]. This situation is balanced by overexpression of such inhibitors of the immune response as PD-1 and PD-L1 [4 - 6].\n\nBreast cancer - is relatively heterogenic tumor, with different genetic, morphological and phenotypic forms.\n\nDespite relatively low expression of PD-L1 in BC in general, there are reasons to believe that genetic instability, driven by mutations in genes involved in DNA repair, can increase the immunogenicity and, thus, the expression of PD-L1 in BC.\n\nTo date, it is widely accepted that 5-10% of BC cases are represented by hereditary types, i.e. mediated by germline pathogenic mutations in genes of DNA reparation pathways. Hereditary breast cancer (HBC), as well as ovarian cancer (OC), \u0441aused by mutations in genes BRCA1, BRCA2, CHEK2, TP53 \u0438 PTEN, and others. Thus, one of the promising directions here is to understand the inter-relation among germline pathogenic mutations associated with HBC, and activity of PD-L1. It would allow to optimize selection of anti-PD-L1 therapy, by forming group of patients (matching criteria of HBC) with high level of PD-L1 expression in cancer cells and tumor-infiltrating lymphocytes."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Hereditary Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "390",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Hereditary BC",
+                            "ArmGroupDescription": "Pathogenic germline mutations in DNA-repair genes (TP53 MLH1 MSH2 MSH6 PMS2 EPCAM APC MUTYH CDKN2A CDK4 ATM KIT PDGFRA CDH1 CTNNA1 PRSS1 SPINK1 BRCA1 BRCA2 FANCI FANCL PALB2 RAD51B RAD51C RAD54L RAD51D CHEK1 CHEK2 CDK12 BRIP1 PPP2R2A BARD1 PARP1 STK11 XRCC3)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: PD-L1 expression"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Sporadic BC",
+                            "ArmGroupDescription": "Without germline mutations in DNA-repair genes (TP53 MLH1 MSH2 MSH6 PMS2 EPCAM APC MUTYH CDKN2A CDK4 ATM KIT PDGFRA CDH1 CTNNA1 PRSS1 SPINK1 BRCA1 BRCA2 FANCI FANCL PALB2 RAD51B RAD51C RAD54L RAD51D CHEK1 CHEK2 CDK12 BRIP1 PPP2R2A BARD1 PARP1 STK11 XRCC3)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: PD-L1 expression"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "PD-L1 expression",
+                            "InterventionDescription": "IHC testing of PD-L1 expression level in tumor tissue samples",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Hereditary BC",
+                                    "Sporadic BC"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Diagnostic performance of PD-L1 expression in breast cancer",
+                            "PrimaryOutcomeDescription": "Number of samples of PD-L1 high expression in tumor and immune cells in FFPE breast tumor tissue and number of samples of PD-L1 low expression in tumor and immune cells in FFPE breast tumor tissue .\n\nThe report will be represented as \"PD-L1 high\" or \"PD-L1 low\".",
+                            "PrimaryOutcomeTimeFrame": "January 2018-January 2019"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Diagnostic performance of inherited gene mutations in breast cancer",
+                            "SecondaryOutcomeDescription": "Mutations will be determined by \"pathogenic\" and \"non pathogenic\". Number of samples with \"pathogenic\" and \"non pathogenic\" mutations .",
+                            "SecondaryOutcomeTimeFrame": "January 2018-January 2019"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association between germline DNA-repair genes mutations and PD-L1 expression level in in breast cancer",
+                            "SecondaryOutcomeDescription": "To reveal the differences (percentages) of PD-L1 high tumor rate between patients with hereditary BC ( pathogenic mutations) who have clinically significant germline mutations in DNA-repair genes (HR- deficiency) and patients with sporadic BC without such mutations (non pathogenic mutations).",
+                            "SecondaryOutcomeTimeFrame": "January 2018-January 2019"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n1. The voluntary obtained informed consent signed by both the subject and the investigator.\n\n2. Females 18 years age or more. 3. Histologically confirmed BC with known hormone receptors and HER2neu receptors status, Grade of tumor, diagnosed before enrolment into the study.\n\n4. Availability of FFPE tissue samples received prior to any type of antitumor treatment start. Tumour tissue samples must be satisfied IHC requirements for PD-L1 testing.\n\n5. Ability of blood samples receiving for NGS germline mutations testing. 6. Completed medical records (stage, receptors status, demographic data)\n\nExclusion Criteria:\n\nAny evidence of uncontrolled system pathology, active infections, active bleeding diathesis, renal graft, including virus hepatitis B, C or HIV.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients, female aged between 18-80yrs with breast cancer",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Marat Gordiev",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+79172399490",
+                            "CentralContactEMail": "marat7925@gmail.com"
+                        },
+                        {
+                            "CentralContactName": "Rafail Enikeev",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+79274027390",
+                            "CentralContactEMail": "alba352007@yandex.ru"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Tatarstan Cancer Cente",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Kazan",
+                            "LocationState": "Tatarstan",
+                            "LocationZip": "420029",
+                            "LocationCountry": "Russian Federation",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marat Gordiev",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+79172399490",
+                                        "LocationContactEMail": "marat7925@gmail.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Dina Sakaeva",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+79033115085",
+                                        "LocationContactEMail": "d_sakaeva@mail.ru"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol"
+                    ]
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "January 1, 2018",
+                            "LargeDocUploadDate": "03/15/2018 08:22",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        },
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "January 1, 2018",
+                            "LargeDocUploadDate": "03/15/2018 08:24",
+                            "LargeDocFilename": "ICF_001.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

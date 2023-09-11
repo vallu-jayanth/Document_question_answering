@@ -1,0 +1,338 @@
+{
+    "Rank": 726,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04523389",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "COTTET 2020"
+                },
+                "Organization": {
+                    "OrgFullName": "Centre Hospitalier Universitaire Dijon",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Contents of Circulating Extracellular Vesicles: Biomarkers in Colorectal Cancer Patients",
+                "OfficialTitle": "Contents of Circulating Extracellular Vesicles: Biomarkers in Colorectal Cancer Patients",
+                "Acronym": "ExoColon"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2021",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2021",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 19, 2020",
+                "StudyFirstSubmitQCDate": "August 20, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 21, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 20, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 21, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Centre Hospitalier Universitaire Dijon",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Most cancer-related deaths are caused by distant metastases, which are tumour cells that have escaped from a primary tumour and passed into the bloodstream to colonize a new organ. In this context, communication between tumour and stromal cells is essential. Indeed, tumor cells interact with cells in the tumor microenvironment and are able to modify them to their advantage. Both extracellular vesicles (EVs) and exosomes are heterogeneous populations of small vesicles present in the tumor microenvironment and in body fluids that have recently emerged as powerful mediators involved in this communication and their transport in fluids. Tumor cells release large quantities of exosomes containing tumor markers, which can then spread to distant locations.\n\nThe exosomes are of endosomal origin. They are composed of proteins, lipids, RNA and DNA, and they circulate in the bloodstream. They can be internalized by specific distant cells and thus deliver a functional message. It has recently been shown that tumor exosomes containing pro-metastatic factors form pre-metastatic niches, before the tumor cells actually arrive, while determining the metastatic organotropism of tumors. These properties are now opening up new avenues of research in tumor biomarkers. In recent years, several studies have highlighted different markers contained specifically in exosomes derived from cancer cells. Consequently, exosomes are considered as potential reservoirs of tumor biomarkers that could be clinically useful for the non-invasive diagnosis of cancer, with the advantage of being performed by liquid biopsy. The study of microRNA (miRNA) is of particular interest. Indeed, miRNAs are small non-coding RNAs (between 21 and 25 nucleotides) involved in the regulation of gene expression and which are frequently deregulated in cancer. Several studies underline that the variation of free miRNAs in the blood is correlated with the progression of the disease, particularly in colon cancer. However, the stability of free miRNAs is controversial. Therefore, exosomes represent a very advantageous means of transporting miRNAs in the blood, as they are able to protect miRNAs from degradation by RNAase.\n\nThe hypothesis of the project is that circulating exosomes derived from tumours contain markers including specific miRNAs that could be used as biomarkers of early prognosis (survival and progression), easily measured in blood samples from patients with colon cancer. But other molecules contained in exosomes could also be of interest."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Non-codant"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "172",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "colorectal cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: analysis (protein, lipid, RNA ...) of circulating exosomes, size and number",
+                                    "Other: Gathering additional information about the patient's cancer",
+                                    "Diagnostic Test: Diagnostic test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "analysis (protein, lipid, RNA ...) of circulating exosomes, size and number",
+                            "InterventionDescription": "use of blood samples stored at the Ferdinand Cabanne Biological Resource Centre",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "colorectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Gathering additional information about the patient's cancer",
+                            "InterventionDescription": "Gathering additional information about the patient's cancer, its treatment and its sequelae from the patient's medical record.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "colorectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Diagnostic test",
+                            "InterventionDescription": "Diagnostic test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "colorectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prognostic role of exosomes and their contents on the survival of colorectal cancer patients",
+                            "PrimaryOutcomeDescription": "main criterion of judgment: occurrence of death until 30/06/2020",
+                            "PrimaryOutcomeTimeFrame": "throughout the study a average of 1 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Association between the number and size of exosomes and their content on cancer stage and progression",
+                            "PrimaryOutcomeDescription": "cancer stage to diagnosis\nprogression of the disease assessed according to the RECIST criteria and defined as (i) local-regional relapse, (ii) distant relapse, (iii) metastasis, (iv) development of another cancer until 30/06/2020.",
+                            "PrimaryOutcomeTimeFrame": "throughout the study a average of 1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPerson included in the AGARIC study\nPerson who provided consent or non-opposition to inclusion in the study\nAvailable blood sample in the AGARIC biobank at the Biological Resource Centre (Dijon)\n\nExclusion Criteria:\n\nNA",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients diagnosed with colorectal cancer and included in the AGARIC study between 2008 and 2012",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Vanessa COTTET",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "03.80.39.34.87",
+                            "CentralContactPhoneExt": "+33",
+                            "CentralContactEMail": "vanessa.cottet@u-bourgogne.fr"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Chu Dijon Bourgogne",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Dijon",
+                            "LocationZip": "21000",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Vanessa COTTET",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "03.80.39.34.87",
+                                        "LocationContactPhoneExt": "+33",
+                                        "LocationContactEMail": "vanessa.cottet@u-bourgogne.fr"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

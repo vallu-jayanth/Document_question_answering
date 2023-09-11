@@ -1,0 +1,309 @@
+{
+    "Rank": 392,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00373152",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2005LS006"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "UMN-0412M66271",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "IRB, University of Minnesota"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "MRI in Predicting Tumor Reponse After Radiofrequency Ablation in Women With Invasive Breast Cancer",
+                "OfficialTitle": "Breast MRI Assessment of Tumor Viability After Radiofrequency Ablation (RFA)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2017",
+                "OverallStatus": "Withdrawn",
+                "WhyStopped": "No patient accrual",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 2005"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 2010",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 2010",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "September 6, 2006",
+                "StudyFirstSubmitQCDate": "September 6, 2006",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 7, 2006",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 3, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 5, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Radiofrequency ablation uses a high-frequency, electric current to kill tumor cells. Diagnostic procedures, such as magnetic resonance imaging (MRI), may help in learning how well radiofrequency ablation works to kill breast cancer cells and help doctors predict whether breast cancer cells remain after treatment.\n\nPURPOSE: This phase II trial is studying how well MRI works in predicting tumor response after radiofrequency ablation in women with invasive breast cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nPrimary\n\nDetermine if radiofrequency ablation (RFA) can induce complete tumor necrosis in women with invasive breast cancer.\n\nSecondary\n\nDetermine whether breast MRI can accurately predict residual cancer and tumor necrosis in patients treated with RFA.\nDetermine the toxicity of RFA in these patients.\nDetermine the cosmetic outcome after RFA in these patients.\n\nOUTLINE: This is a prospective, nonrandomized study.\n\nPatients undergo dynamic contrast-enhanced MRI (DCE-MRI) using gadopentetate dimeglumine. Within the next few days, patients undergo radiofrequency ablation (RFA) over approximately 20-30 minutes. Patients then undergo a second DCE-MRI 3 to 21 days after RFA, followed by definitive surgery (standard mastectomy or lumpectomy).\n\nPathologic confirmation of the post-ablation DCE-MRI findings is performed within 1 to 21 days after the second MRI. Tumor cell viability and proliferative activity are assessed by immunohistochemical and biomarker analysis."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage I breast cancer",
+                        "stage II breast cancer",
+                        "stage IIIA breast cancer",
+                        "stage IIIC breast cancer",
+                        "stage IV breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "0",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "RadioFrequency Ablation for Breast Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Lumpectomy",
+                                    "Procedure: dynamic contrast-enhanced magnetic resonance imaging",
+                                    "Procedure: radiofrequency ablation",
+                                    "Radiation: gadopentetate dimeglumine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Lumpectomy",
+                            "InterventionDescription": "Standard lumpectomy or mastectomy will be performed 1 to 21 days after the post-RFA MRI.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "RadioFrequency Ablation for Breast Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "dynamic contrast-enhanced magnetic resonance imaging",
+                            "InterventionDescription": "Dynamic-contrast enhanced breast images will be visualized with parametric image maps to assist in identifying regions with residual cancer.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "RadioFrequency Ablation for Breast Cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "radiofrequency ablation",
+                            "InterventionDescription": "RFA is accomplished by placing a multi-array needle within a tumor. The tines of the needle are advanced and opened like an inverted umbrella. High frequency, alternating current moves from the tip of an electrode into the surrounding tissue. Oscillating ions generate frictional heat within the tumor. Cell death occurs at sustained temperatures above 45-50 degrees C. The multi-array configuration creates an egg-shaped ablation zone up to 5 cm in diameter.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "RadioFrequency Ablation for Breast Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Radiation",
+                            "InterventionName": "gadopentetate dimeglumine",
+                            "InterventionDescription": "Injected at baseline MRI and post radiofrequency ablation MRI.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "RadioFrequency Ablation for Breast Cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "contrast dye",
+                                    "Gd-DTPA"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Complete Tumor Necrosis",
+                            "PrimaryOutcomeDescription": "Efficacy of radiofrequency ablation (RFA) in inducing complete tumor necrosis as measured by immunohistochemical and biomarker studies."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity and specificity of delayed dynamic contrast-enhanced MRI (DCE-MRI) in detecting residual cancer after RFA as measured by the Hylton method"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Cosmetic Outcome",
+                            "SecondaryOutcomeDescription": "as rated by EORTC QLQ-C30. The EORTC QLQ-C30 is a questionnaire developed to assess the quality of life of cancer patients. The rating system includes evaluation of breast size and shape, skin tone, nipple shape and location, appearance of the surgical scar, and overall cosmetic results. With the exception of evaluation of the surgical scar, all ratings are based on a comparison of the treated breast with the untreated breast. Patients will also rate the cosmetic outcome as excellent-good-fair-poor.",
+                            "SecondaryOutcomeTimeFrame": "after RFA but before definitive surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Toxicity or complications of RFA",
+                            "SecondaryOutcomeDescription": "as assessed by CTCAE v3.0 (Common Toxicity Criteria for Adverse Events, version 3.0).\n\nAny complications of RFA will be determined and documented before definitive surgery. Anticipated complications may include bleeding, pain, infection, and skin and chest muscle burns.",
+                            "SecondaryOutcomeTimeFrame": "before definitive surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of invasive breast cancer - the following information must be known based on the needle core biopsy: tumor grade, hormone receptor status, and HER2/neu status. Patients with a previous history of either ipsilateral or contralateral excisional biopsy are not excluded. However, patients are excluded if an excisional biopsy was used to diagnose the current breast cancer.\n\nNote: Subjects undergoing sentinel lymph node (SLN) biopsy will not be excluded from this research study. It is not expected that radiofrequency ablation (RFA) will interfere with the SLN procedure because other studies have demonstrated the accuracy of sentinel node staging after excisional biopsy. The axillary staging in these subjects will be noted.\n\nTumor size < 2 centimeters by mammogram or ultrasound, with ultrasound being the preferred method of evaluation. Measurements by physical exam should also be recorded. If mammogram and ultrasound are discordant, then the imaging modality that determines the largest tumor size will be used to determine eligibility.\nUltrasound measurements: Distance from tumor to skin must be > 1 cm; distance from tumor to chest wall must be > 1 cm. The RFA procedure, which burns the tumor, may also burn the skin or muscle if it is too close (< 1cm).\nLaboratory values within 2 weeks of registration: platelet count \u2265 50,000; INR \u2264 1.6; serum creatinine \u2264 1.5 mg/dL; glomerular filtration rate (GFR) \u2265 60 ml/min/m^2\nAge 18 years or older\nWomen must not be pregnant due to MR scanning of pregnant women is not FDA approved. All females of childbearing potential must have a urine study within 2 weeks prior to registration to rule out. Breast feeding must be discontinued prior to study entry.\n\nExclusion Criteria:\n\nSubjects for whom neo-adjuvant therapy is planned will be excluded from this study\nPatients with history of severe asthma and/or allergies will be excluded to avoid potential adverse reactions to the MRI contrast agent (Gd-DTPA)\nPatients with pacemakers, any ferromagnetic implants or other ferromagnetic objects will be excluded\nPatients with obesity (>250 pounds) will be excluded due to the limited diameter of the magnet bore tube\nPatients with history of severe claustrophobia will be excluded\n\nPatient must give written informed consent indicating the investigational nature of the study and its potential risks",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Todd M. Tuttle, MD",
+                            "OverallOfficialAffiliation": "Masonic Cancer Center, University of Minnesota",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023",
+                "RemovedCountryList": {
+                    "RemovedCountry": [
+                        "United States"
+                    ]
+                }
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

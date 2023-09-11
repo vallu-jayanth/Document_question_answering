@@ -1,0 +1,631 @@
+{
+    "Rank": 414,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03651271",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "PICI0025"
+                },
+                "Organization": {
+                    "OrgFullName": "Parker Institute for Cancer Immunotherapy",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Treatment With Nivolumab and Ipilimumab or Nivolumab Alone According to the Percentage of Tumoral CD8 Cells in Advanced Metastatic Cancer",
+                "OfficialTitle": "An Exploratory Study of Nivolumab With or Without Ipilimumab According to the Percentage of Tumoral CD8 Cells in Participants With Advanced Metastatic Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 17, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 30, 2023",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2023",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "August 27, 2018",
+                "StudyFirstSubmitQCDate": "August 27, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 29, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 11, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 13, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Parker Institute for Cancer Immunotherapy",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Bristol-Myers Squibb",
+                            "CollaboratorClass": "INDUSTRY"
+                        },
+                        {
+                            "CollaboratorName": "Cancer Research Institute, New York City",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is an open-label, exploratory study to evaluate nivolumab with or without ipilimumab based on percentage of tumoral CD8 cells at the time of treatment in participants with varying advanced solid tumors. Participants who have a tumor with \u2265 15% CD8 cells (classified as CD8 high) will receive nivolumab monotherapy, and participants who have a tumor with < 15% CD8 cells (classified as CD8 low) will receive ipilimumab in combination with nivolumab.",
+                "DetailedDescription": "The aim of this study is to provide a prospective classification of CD8 high (immunologically \"hot\") versus CD8 low (immunologically \"cold\") tumors at the time of treatment, based on the percentage of CD8 cells in a tumor biopsy, and to address the predictive value of the CD8 biomarker for selecting patients for treatment with nivolumab with or without ipilimumab.\n\nA total of up to approximately 200 participants with advanced metastatic cancer will be enrolled. Ongoing monitoring for safety and futility will be implemented based on the method of Thall and colleagues (Thall et al, 1995) separately in the CD8 high and CD8 low tumor groups. Single-agent nivolumab will be administered at 360 mg intravenously (IV) every 3 weeks (Q3W). Participants who continue to show clinical benefit after the first disease assessment will receive nivolumab 480 mg IV every 4 weeks (Q4W) until progressive disease (PD) or intolerable toxicity. At PD, participants will be allowed to add ipilimumab. For nivolumab and ipilimumab combination therapy, nivolumab will be administered at 360 mg IV Q3W, and ipilimumab will be administered at 1 mg/kg IV Q3W for the first 2 doses and then every 6 weeks for the 3rd and 4th doses, followed by nivolumab 480 mg IV Q4W until PD or intolerable toxicity. After receipt of the first dose of ipilimumab, the Investigator may determine (based on clinical symptoms) the number of future doses of ipilimumab the participant will receive, for a maximum of 4 doses. Participants who stop ipilimumab dosing early due to toxicities, may start nivolumab maintenance (ie, 4 doses [12 weeks] of nivolumab following the first dose).\n\nAdvanced prostate cancer participants with tumoral CD8 \u2265 15% will be enrolled in the nivolumab monotherapy arm. A total of approximately 20 participants with Advanced Prostate Cancer and tumoral CD8 < 15% will be allocated to 1 of 2 cohorts using combinations of ipilimumab and nivolumab."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Advanced Metastatic Cancer",
+                        "Advanced Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Non-Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "101",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "\"Hot\" tumors for Advanced Metastatic Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with \u2265 15% CD8 cells in their tumor biopsies (ie, CD8 high tumors) will be treated with single-agent nivolumab. At PD, participants will be allowed to add ipilimumab.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Nivolumab Monotherapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "\"Cold\" tumors for Advanced Metastatic Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with < 15% CD8 cells in their tumor biopsies (ie, CD8 low tumors) will be treated with nivolumab in combination with ipilimumab.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Nivolumab and Ipilimumab and Combination for Metastatic Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "\"Hot\" tumors for Advanced Prostate Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with \u2265 15% CD8 cells in their tumor biopsies (ie, CD8 high tumors) will be treated with single-agent nivolumab. At PD, participants will be allowed to add ipilimumab.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Nivolumab Monotherapy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "\"Cold\" tumors for Advanced Prostate Cancer Cohort A",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with < 15% CD8 cells in their tumor biopsies (ie, CD8 low tumors) will be treated with nivolumab in combination with ipilimumab.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Nivolumab and Ipilimumab (3 mg/kg) Combination for Prostate Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "\"Cold\" tumors for Advanced Prostate Cancer Cohort B",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants with < 15% CD8 cells in their tumor biopsies (ie, CD8 low tumors) will be treated with nivolumab in combination with ipilimumab.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Nivolumab and Ipilimumab (5 mg/kg) Combination for Prostate Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Nivolumab Monotherapy",
+                            "InterventionDescription": "Single-agent nivolumab will be administered at 360 mg IV Q3W. Participants who continue to show clinical benefit after the first disease assessment will receive nivolumab 480 mg IV Q4W until PD or intolerable toxicity.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "\"Hot\" tumors for Advanced Metastatic Cancer",
+                                    "\"Hot\" tumors for Advanced Prostate Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Nivolumab and Ipilimumab and Combination for Metastatic Cancer",
+                            "InterventionDescription": "For nivolumab and ipilimumab combination therapy, nivolumab will be administered at 360 mg IV Q3W, and ipilimumab will be administered at 1 mg/kg IV Q3W for the first 2 doses and then Q6W for the 3rd and 4th doses, followed by single-agent nivolumab 480 mg IV Q4W until PD or intolerable toxicity.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "\"Cold\" tumors for Advanced Metastatic Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Nivolumab and Ipilimumab (3 mg/kg) Combination for Prostate Cancer",
+                            "InterventionDescription": "For nivolumab and ipilimumab combination therapy, CD8 low arm, approximately 10 participants will be randomly allocated into 1 of 2 cohorts, using different doses of ipilimumab administered in 6-week cycles. Participants assigned to Prostate Cohort A will receive nivolumab 1 mg/kg Q3W and ipilimumab 3 mg/kg every 6 weeks (Q6W) for 2 cycles, then nivolumab maintenance 480 mg Q4W until PD or intolerable toxicity. If the safety profile of Prostate Cohort B is deemed unacceptable, an additional 10 participants will be enrolled in Prostate Cohort A.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "\"Cold\" tumors for Advanced Prostate Cancer Cohort A"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Nivolumab and Ipilimumab (5 mg/kg) Combination for Prostate Cancer",
+                            "InterventionDescription": "For nivolumab and ipilimumab combination therapy, CD8 low arm, approximately 10 participants will be randomly allocated into 1 of 2 cohorts, using different doses of ipilimumab administered in 6-week cycles. Participants assigned to Prostate Cohort B will receive nivolumab 1 mg/kg Q3W and ipilimumab 5 mg/kg Q6W for 2 cycles, then nivolumab maintenance 480 mg Q4W until PD or intolerable toxicity. If Prostate Cohort B is determined to have a tolerable safety profile, an additional 10 participants will be enrolled to receive nivolumab 1 mg/kg Q3W and ipilimumab 5 mg/kg Q6W for 2 cycles, then nivolumab maintenance 480 mg Q4W until PD or intolerable toxicity.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "\"Cold\" tumors for Advanced Prostate Cancer Cohort B"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Clinical benefit rate (CBR) of nivolumab with or without ipilimumab",
+                            "PrimaryOutcomeDescription": "The proportion of participants who show clinical benefit, defined as complete response (CR), partial response (PR), or stable disease (SD) for \u2265 6 months as best response by RECIST v1.1",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of CD8 cells in on-treatment biopsies",
+                            "PrimaryOutcomeDescription": "Proportion of participants in the nivolumab plus ipilimumab arm whose tumors will change from CD8 low to CD8 high as measured by a change in the percentage of tumoral CD8 cells",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Safety of nivolumab with or without ipilimumab measured by AEs based on CTCAE v5.0",
+                            "SecondaryOutcomeDescription": "Number and percentage of subjects with adverse events (AEs), serious adverse events (SAEs), and trial-limiting toxicity (TOX)",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Objective response rate (ORR) of nivolumab with or without ipilimumab in participants",
+                            "SecondaryOutcomeDescription": "ORR defined as CR or PR as best response by RECIST v1.1 assessment",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The association of the percentage of CD8 cells in tumor samples with clinical outcomes",
+                            "SecondaryOutcomeDescription": "Percentage of CD8 cells in tumor tissue will be measured at baseline for treatment assignment and again after 2 doses",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipant must be \u2265 18 years of age inclusive, at the time of signing the informed consent.\nMale or female participants of child-producing potential must agree to use contraception or avoidance of pregnancy measures during the study and for 7 and 5 months, respectively, after the last dose.\nFemales of childbearing potential must have a negative serum or urine pregnancy test.\nHistologically or cytologically confirmed cancer that is metastatic, unresectable, or recurrent and are responsive to immunomodulation (ie, with US Prescribing Information [USPI]). Participants who have failed or refused available approved treatment options are eligible to participate.\n\nParticipants who have received prior immunotherapy, including prior anti-PD-1 or anti-PD-L1 therapies, will be allowed to participate in this study.\n\nParticipants who received prior anti-PD-1 or anti-PD-L1 may participate only if their prior anti-PD-1 or anti-PD-L1 monotherapy or combination therapy were NOT the last treatment prior to participation on this study.\nParticipants who had prior immunotherapies and experienced Grade 1-2 immune-related adverse event (irAE) must have documentation that their irAEs are \u2264 Grade 1 or baseline using current Common Terminology Criteria for Adverse Events v5.0 (CTCAE v5.0) and participants must be off steroid therapy and/or other immunosuppressive therapy, as treatment for irAEs, for \u2265 14 days from Cycle 1, Day 1.\nParticipants who experienced Grade 3 irAEs consisting of laboratory abnormalities that were asymptomatic and have now resolved to \u2264 Grade 1 or baseline and participants who have been off steroid and/or other immunosuppressive therapy, as treatment for irAEs, for \u2265 30 days from Cycle 1, Day 1.\n\nConcurrent malignancies are permitted if any one of the following applies:\n\nPreviously treated malignancy for which all treatment of that malignancy was completed at least 2 years before enrollment and no evidence of disease exists, or\nWith agreement from the Sponsor and Principal Investigator (PI), participants who have a concurrent malignancy that is clinically stable and does not require tumor-directed treatment are eligible to participate if the risk of the prior malignancy interfering with either safety or efficacy endpoints is very low, or\nWith agreement from the Sponsor and PI, other malignancies may be permitted if the risk of the prior malignancy interfering with either safety or efficacy end points is very low.\n\nProvide newly obtained core needle or incisional biopsy of a tumor lesion not previously irradiated. Fine needle aspiration is not acceptable.\n\na. Biopsies should be obtained from sites that do not pose significant risk to the participant based on the tumor site and the procedure used. Biopsy sites/procedures including, but not limited to, the brain, open lung/mediastinum, pancreas, or endoscopic procedures extending beyond the esophagus, stomach, or bowel would be considered to pose a significant risk to the participant. Procedures to areas that are deemed by the Investigator to be of non-significant risk based on individual clinical scenarios will be permitted.\n\nMeasurable disease as defined by RECIST v1.1.\n\na. Participants who do not have measurable disease by RECIST criteria but whose disease can be objectively measured through tumor markers or another disease specific standard are considered eligible.\n\nEastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nAspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u2264 2.5 x upper limit of normal (ULN).\n\nParticipants who have liver lesions may be eligible if they have AST and ALT\n\n\u2264 3.0 x ULN.\n\nParticipants with hepatocellular carcinoma (HCC) may be eligible provided they have AST and ALT that are \u2264 5.0 x ULN.\nHemoglobin \u2265 9 g/dL.\n\nTotal bilirubin \u2264 1.5 \u00d7 ULN. Participants with liver lesions who do not have HCC and who have a total bilirubin < 2.0 x ULN may be eligible.\n\nParticipants with HCC are eligible provided they have total bilirubin < 3.0 x ULN and are considered Child-Pugh Class A or Child-Pugh Class B7 (Child-Pugh Class B with a total Child-Pugh score not to exceed 7).\nParticipants with Gilbert syndrome must have \u2264 3 x ULN and no liver lesions.\nCreatinine clearance should be \u2265 30 mL/min as estimated by the Cockcroft-Gault equation.\nAbsolute neutrophil count \u2265 1.0 x 109/L.\nPlatelets count \u2265 75 x 109/L.\nParticipants must be capable of giving signed informed consent.\nEvidence of stage IV prostate cancer (as defined by American Joint Committee of Cancer criteria) on previous bone, CT and/or MRI scan.\nOngoing androgen deprivation therapy (ADT) with a gonadotropin-releasing hormone (GnRH) analogue or a surgical/medical castration with testosterone level of \u2264 1.73 nmol/L (< 50 ng/dL).\nParticipants with skeletal system symptoms who are already on medications (eg, bisphosphonates and/or RANK ligand inhibitors) to strengthen bones are allowed if they were started \u02c3 28 days before the first dose of study treatment.\nParticipants must have measurable disease per RECIST v 1.1.\nHave received and progressed on prior secondary androgen receptor signaling inhibitor therapy (eg, abiraterone, enzalutamide, apalutamide).\n\nExclusion Criteria:\n\nParticipants who had a medical condition that required a surgical procedure and were subject to general anesthesia within 4 weeks prior to beginning protocol therapy are excluded except the use of general anesthesia during biopsy procedures, indicated for patient comfort and or safety will be permitted.\nPregnant or breastfeeding.\nSignificant gastrointestinal disorder(s) (eg, active Crohn disease or ulcerative colitis or a history of extensive gastric resection and/or small intestinal resection).\nHas interstitial lung disease or active, noninfectious pneumonitis.\nHas a transplanted organ or has undergone allogeneic bone marrow transplant.\nHas received a live vaccine within 30 days prior to first dose.\n\nKnown hypersensitivity to a component of protocol therapy.\n\na. Participants with known hypersensitivity to ipilimumab and/or nivolumab are excluded.\n\nUncontrolled concurrent illness including, but not limited to, ongoing or active infection, clinically significant non-healing or healing wounds, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, significant pulmonary disease (shortness of breath at rest or on mild exertion), uncontrolled infection, or psychiatric illness/social situations that would limit compliance with study requirements.\n\nAbnormal electrocardiograms (ECGs) that are clinically significant, clinically significant cardiac enlargement or hypertrophy, new bundle branch block or existing left bundle branch block, or signs of new, active ischemia.\n\na. Participants with evidence of prior infarction who are New York Heart Association (NYHA) functional class II, III, or IV are excluded, as are participants with marked arrhythmia such as Wolff Parkinson White pattern or complete atrioventricular dissociation.*\n\n*Participants with complete or incomplete atrioventricular dissociation who have a pacemaker may be eligible for enrollment provided they are NYHA functional class I: \"No limitation of physical activity. Ordinary physical activity does not cause undue fatigue, palpitation, or dyspnea (shortness of breath).\"\n\nParticipants who experienced any \u2265 Grade 3 symptomatic irAE on a prior immunotherapy study will be excluded from this study regardless of resolution of the irAE.\nAny known, untreated, brain metastases. Treated participants must be stable 4 weeks after completion of treatment for brain metastases, and image-documented stability is required. Participants must have no clinical symptoms from brain metastases and have not required systemic corticosteroids > 10 mg/day prednisone or equivalent for \u2265 2 weeks prior to first dose of study intervention.\n\nHas an active autoimmune disease requiring immunosuppression except for participants with isolated vitiligo, resolved childhood asthma or atopic dermatitis, controlled hypoadrenalism or hypopituitarism, and euthyroid participants with a history of Graves' disease.\n\na. Participants with controlled hyperthyroidism must be negative for thyroglobulin and thyroid peroxidase antibodies and thyroid-stimulating immunoglobulin prior to study intervention administration.\n\nAnticancer chemotherapy, radiotherapy, immunotherapy, or investigational agents within 14 days of first dose of study intervention, provided that all treatment-related AEs have resolved.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Parker Institute for Cancer Immunotherapy",
+                            "OverallOfficialAffiliation": "Parker Institute for Cancer Immunotherapy",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of California, Los Angeles",
+                            "LocationCity": "Los Angeles",
+                            "LocationState": "California",
+                            "LocationZip": "90095",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Stanford University",
+                            "LocationCity": "Palo Alto",
+                            "LocationState": "California",
+                            "LocationZip": "94304",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "University of California, San Francisco",
+                            "LocationCity": "San Francisco",
+                            "LocationState": "California",
+                            "LocationZip": "94143",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber Cancer Institute",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02215",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "M.D. Anderson Cancer Center",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77030",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28650338",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ayers M, Lunceford J, Nebozhyn M, Murphy E, Loboda A, Kaufman DR, Albright A, Cheng JD, Kang SP, Shankaran V, Piha-Paul SA, Yearley J, Seiwert TY, Ribas A, McClanahan TK. IFN-gamma-related mRNA profile predicts clinical response to PD-1 blockade. J Clin Invest. 2017 Aug 1;127(8):2930-2940. doi: 10.1172/JCI91190. Epub 2017 Jun 26."
+                        },
+                        {
+                            "ReferencePMID": "26028407",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Brahmer J, Reckamp KL, Baas P, Crino L, Eberhardt WE, Poddubskaya E, Antonia S, Pluzanski A, Vokes EE, Holgado E, Waterhouse D, Ready N, Gainor J, Aren Frontera O, Havel L, Steins M, Garassino MC, Aerts JG, Domine M, Paz-Ares L, Reck M, Baudelet C, Harbison CT, Lestini B, Spigel DR. Nivolumab versus Docetaxel in Advanced Squamous-Cell Non-Small-Cell Lung Cancer. N Engl J Med. 2015 Jul 9;373(2):123-35. doi: 10.1056/NEJMoa1504627. Epub 2015 May 31."
+                        },
+                        {
+                            "ReferencePMID": "27301722",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chen PL, Roh W, Reuben A, Cooper ZA, Spencer CN, Prieto PA, Miller JP, Bassett RL, Gopalakrishnan V, Wani K, De Macedo MP, Austin-Breneman JL, Jiang H, Chang Q, Reddy SM, Chen WS, Tetzlaff MT, Broaddus RJ, Davies MA, Gershenwald JE, Haydu L, Lazar AJ, Patel SP, Hwu P, Hwu WJ, Diab A, Glitza IC, Woodman SE, Vence LM, Wistuba II, Amaria RN, Kwong LN, Prieto V, Davis RE, Ma W, Overwijk WW, Sharpe AH, Hu J, Futreal PA, Blando J, Sharma P, Allison JP, Chin L, Wargo JA. Analysis of Immune Signatures in Longitudinal Tumor Samples Yields Insight into Biomarkers of Response and Mechanisms of Resistance to Immune Checkpoint Blockade. Cancer Discov. 2016 Aug;6(8):827-37. doi: 10.1158/2159-8290.CD-15-1545. Epub 2016 Jun 14."
+                        },
+                        {
+                            "ReferencePMID": "19097774",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, Dancey J, Arbuck S, Gwyther S, Mooney M, Rubinstein L, Shankar L, Dodd L, Kaplan R, Lacombe D, Verweij J. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009 Jan;45(2):228-47. doi: 10.1016/j.ejca.2008.10.026."
+                        },
+                        {
+                            "ReferencePMID": "27166398",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Feldmeyer L, Hudgens CW, Ray-Lyons G, Nagarajan P, Aung PP, Curry JL, Torres-Cabala CA, Mino B, Rodriguez-Canales J, Reuben A, Chen PL, Ko JS, Billings SD, Bassett RL, Wistuba II, Cooper ZA, Prieto VG, Wargo JA, Tetzlaff MT. Density, Distribution, and Composition of Immune Infiltrates Correlate with Survival in Merkel Cell Carcinoma. Clin Cancer Res. 2016 Nov 15;22(22):5553-5563. doi: 10.1158/1078-0432.CCR-16-0392. Epub 2016 May 10."
+                        },
+                        {
+                            "ReferencePMID": "28346412",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Gao J, Ward JF, Pettaway CA, Shi LZ, Subudhi SK, Vence LM, Zhao H, Chen J, Chen H, Efstathiou E, Troncoso P, Allison JP, Logothetis CJ, Wistuba II, Sepulveda MA, Sun J, Wargo J, Blando J, Sharma P. VISTA is an inhibitory immune checkpoint that is increased after ipilimumab therapy in patients with prostate cancer. Nat Med. 2017 May;23(5):551-555. doi: 10.1038/nm.4308. Epub 2017 Mar 27."
+                        },
+                        {
+                            "ReferencePMID": "29097493",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Gopalakrishnan V, Spencer CN, Nezi L, Reuben A, Andrews MC, Karpinets TV, Prieto PA, Vicente D, Hoffman K, Wei SC, Cogdill AP, Zhao L, Hudgens CW, Hutchinson DS, Manzo T, Petaccia de Macedo M, Cotechini T, Kumar T, Chen WS, Reddy SM, Szczepaniak Sloane R, Galloway-Pena J, Jiang H, Chen PL, Shpall EJ, Rezvani K, Alousi AM, Chemaly RF, Shelburne S, Vence LM, Okhuysen PC, Jensen VB, Swennes AG, McAllister F, Marcelo Riquelme Sanchez E, Zhang Y, Le Chatelier E, Zitvogel L, Pons N, Austin-Breneman JL, Haydu LE, Burton EM, Gardner JM, Sirmans E, Hu J, Lazar AJ, Tsujikawa T, Diab A, Tawbi H, Glitza IC, Hwu WJ, Patel SP, Woodman SE, Amaria RN, Davies MA, Gershenwald JE, Hwu P, Lee JE, Zhang J, Coussens LM, Cooper ZA, Futreal PA, Daniel CR, Ajami NJ, Petrosino JF, Tetzlaff MT, Sharma P, Allison JP, Jenq RR, Wargo JA. Gut microbiome modulates response to anti-PD-1 immunotherapy in melanoma patients. Science. 2018 Jan 5;359(6371):97-103. doi: 10.1126/science.aan4236. Epub 2017 Nov 2."
+                        },
+                        {
+                            "ReferencePMID": "28886376",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Haanen JBAG. Converting Cold into Hot Tumors by Combining Immunotherapies. Cell. 2017 Sep 7;170(6):1055-1056. doi: 10.1016/j.cell.2017.08.031."
+                        },
+                        {
+                            "ReferencePMID": "27084740",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hegde PS, Karanikas V, Evers S. The Where, the When, and the How of Immune Monitoring for Cancer Immunotherapies in the Era of Checkpoint Inhibition. Clin Cancer Res. 2016 Apr 15;22(8):1865-74. doi: 10.1158/1078-0432.CCR-15-1507."
+                        },
+                        {
+                            "ReferencePMID": "26712084",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Herbst RS, Baas P, Kim DW, Felip E, Perez-Gracia JL, Han JY, Molina J, Kim JH, Arvis CD, Ahn MJ, Majem M, Fidler MJ, de Castro G Jr, Garrido M, Lubiniecki GM, Shentu Y, Im E, Dolled-Filhart M, Garon EB. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet. 2016 Apr 9;387(10027):1540-1550. doi: 10.1016/S0140-6736(15)01281-7. Epub 2015 Dec 19."
+                        },
+                        {
+                            "ReferencePMID": "20525992",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hodi FS, O'Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, Gonzalez R, Robert C, Schadendorf D, Hassel JC, Akerley W, van den Eertwegh AJ, Lutzky J, Lorigan P, Vaubel JM, Linette GP, Hogg D, Ottensmeier CH, Lebbe C, Peschel C, Quirt I, Clark JI, Wolchok JD, Weber JS, Tian J, Yellin MJ, Nichol GM, Hoos A, Urba WJ. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med. 2010 Aug 19;363(8):711-23. doi: 10.1056/NEJMoa1003466. Epub 2010 Jun 5. Erratum In: N Engl J Med. 2010 Sep 23;363(13):1290."
+                        },
+                        {
+                            "ReferencePMID": "26822383",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Johnson DB, Estrada MV, Salgado R, Sanchez V, Doxie DB, Opalenik SR, Vilgelm AE, Feld E, Johnson AS, Greenplate AR, Sanders ME, Lovly CM, Frederick DT, Kelley MC, Richmond A, Irish JM, Shyr Y, Sullivan RJ, Puzanov I, Sosman JA, Balko JM. Melanoma-specific MHC-II expression represents a tumour-autonomous phenotype and predicts response to anti-PD-1/PD-L1 therapy. Nat Commun. 2016 Jan 29;7:10582. doi: 10.1038/ncomms10582."
+                        },
+                        {
+                            "ReferencePMID": "25232180",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kvistborg P, Philips D, Kelderman S, Hageman L, Ottensmeier C, Joseph-Pietras D, Welters MJ, van der Burg S, Kapiteijn E, Michielin O, Romano E, Linnemann C, Speiser D, Blank C, Haanen JB, Schumacher TN. Anti-CTLA-4 therapy broadens the melanoma-reactive CD8+ T cell response. Sci Transl Med. 2014 Sep 17;6(254):254ra128. doi: 10.1126/scitranslmed.3008918."
+                        },
+                        {
+                            "ReferencePMID": "26027431",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Larkin J, Chiarion-Sileni V, Gonzalez R, Grob JJ, Cowey CL, Lao CD, Schadendorf D, Dummer R, Smylie M, Rutkowski P, Ferrucci PF, Hill A, Wagstaff J, Carlino MS, Haanen JB, Maio M, Marquez-Rodas I, McArthur GA, Ascierto PA, Long GV, Callahan MK, Postow MA, Grossmann K, Sznol M, Dreno B, Bastholt L, Yang A, Rollin LM, Horak C, Hodi FS, Wolchok JD. Combined Nivolumab and Ipilimumab or Monotherapy in Untreated Melanoma. N Engl J Med. 2015 Jul 2;373(1):23-34. doi: 10.1056/NEJMoa1504030. Epub 2015 May 31. Erratum In: N Engl J Med. 2018 Nov 29;379(22):2185."
+                        },
+                        {
+                            "ReferencePMID": "27467916",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Maby P, Galon J, Latouche JB. Frameshift mutations, neoantigens and tumor-specific CD8(+) T cells in microsatellite unstable colorectal cancers. Oncoimmunology. 2015 Nov 24;5(5):e1115943. doi: 10.1080/2162402X.2015.1115943. eCollection 2016 May."
+                        },
+                        {
+                            "ReferencePMID": "25713437",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Maio M, Grob JJ, Aamdal S, Bondarenko I, Robert C, Thomas L, Garbe C, Chiarion-Sileni V, Testori A, Chen TT, Tschaika M, Wolchok JD. Five-year survival rates for treatment-naive patients with advanced melanoma who received ipilimumab plus dacarbazine in a phase III trial. J Clin Oncol. 2015 Apr 1;33(10):1191-6. doi: 10.1200/JCO.2014.56.6018. Epub 2015 Feb 23."
+                        },
+                        {
+                            "ReferencePMID": "26124475",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Momtaz P, Park V, Panageas KS, Postow MA, Callahan M, Wolchok JD, Chapman PB. Safety of Infusing Ipilimumab Over 30 Minutes. J Clin Oncol. 2015 Oct 20;33(30):3454-8. doi: 10.1200/JCO.2015.61.0030. Epub 2015 Jun 29."
+                        },
+                        {
+                            "ReferencePMID": "26406148",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Motzer RJ, Escudier B, McDermott DF, George S, Hammers HJ, Srinivas S, Tykodi SS, Sosman JA, Procopio G, Plimack ER, Castellano D, Choueiri TK, Gurney H, Donskov F, Bono P, Wagstaff J, Gauler TC, Ueda T, Tomita Y, Schutz FA, Kollmannsberger C, Larkin J, Ravaud A, Simon JS, Xu LA, Waxman IM, Sharma P; CheckMate 025 Investigators. Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma. N Engl J Med. 2015 Nov 5;373(19):1803-13. doi: 10.1056/NEJMoa1510665. Epub 2015 Sep 25."
+                        },
+                        {
+                            "ReferencePMID": "29562145",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Motzer RJ, Tannir NM, McDermott DF, Aren Frontera O, Melichar B, Choueiri TK, Plimack ER, Barthelemy P, Porta C, George S, Powles T, Donskov F, Neiman V, Kollmannsberger CK, Salman P, Gurney H, Hawkins R, Ravaud A, Grimm MO, Bracarda S, Barrios CH, Tomita Y, Castellano D, Rini BI, Chen AC, Mekan S, McHenry MB, Wind-Rotolo M, Doan J, Sharma P, Hammers HJ, Escudier B; CheckMate 214 Investigators. Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma. N Engl J Med. 2018 Apr 5;378(14):1277-1290. doi: 10.1056/NEJMoa1712126. Epub 2018 Mar 21."
+                        },
+                        {
+                            "ReferencePMID": "25765070",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Rizvi NA, Hellmann MD, Snyder A, Kvistborg P, Makarov V, Havel JJ, Lee W, Yuan J, Wong P, Ho TS, Miller ML, Rekhtman N, Moreira AL, Ibrahim F, Bruggeman C, Gasmi B, Zappasodi R, Maeda Y, Sander C, Garon EB, Merghoub T, Wolchok JD, Schumacher TN, Chan TA. Cancer immunology. Mutational landscape determines sensitivity to PD-1 blockade in non-small cell lung cancer. Science. 2015 Apr 3;348(6230):124-8. doi: 10.1126/science.aaa1348. Epub 2015 Mar 12."
+                        },
+                        {
+                            "ReferencePMID": "25891173",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Robert C, Schachter J, Long GV, Arance A, Grob JJ, Mortier L, Daud A, Carlino MS, McNeil C, Lotem M, Larkin J, Lorigan P, Neyns B, Blank CU, Hamid O, Mateus C, Shapira-Frommer R, Kosh M, Zhou H, Ibrahim N, Ebbinghaus S, Ribas A; KEYNOTE-006 investigators. Pembrolizumab versus Ipilimumab in Advanced Melanoma. N Engl J Med. 2015 Jun 25;372(26):2521-32. doi: 10.1056/NEJMoa1503093. Epub 2015 Apr 19."
+                        },
+                        {
+                            "ReferencePMID": "28303904",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Roy S, Trinchieri G. Microbiota: a key orchestrator of cancer therapy. Nat Rev Cancer. 2017 May;17(5):271-285. doi: 10.1038/nrc.2017.13. Epub 2017 Mar 17."
+                        },
+                        {
+                            "ReferencePMID": "25667295",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Schadendorf D, Hodi FS, Robert C, Weber JS, Margolin K, Hamid O, Patt D, Chen TT, Berman DM, Wolchok JD. Pooled Analysis of Long-Term Survival Data From Phase II and Phase III Trials of Ipilimumab in Unresectable or Metastatic Melanoma. J Clin Oncol. 2015 Jun 10;33(17):1889-94. doi: 10.1200/JCO.2014.56.2736. Epub 2015 Feb 9."
+                        },
+                        {
+                            "ReferencePMID": "7746977",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Thall PF, Simon RM, Estey EH. Bayesian sequential monitoring designs for single-arm clinical trials with multiple outcomes. Stat Med. 1995 Feb 28;14(4):357-79. doi: 10.1002/sim.4780140404."
+                        },
+                        {
+                            "ReferencePMID": "26801886",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Thompson ED, Zahurak M, Murphy A, Cornish T, Cuka N, Abdelfatah E, Yang S, Duncan M, Ahuja N, Taube JM, Anders RA, Kelly RJ. Patterns of PD-L1 expression and CD8 T cell infiltration in gastric adenocarcinomas and associated immune stroma. Gut. 2017 May;66(5):794-801. doi: 10.1136/gutjnl-2015-310839. Epub 2016 Jan 22."
+                        },
+                        {
+                            "ReferencePMID": "25428505",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Tumeh PC, Harview CL, Yearley JH, Shintaku IP, Taylor EJ, Robert L, Chmielowski B, Spasic M, Henry G, Ciobanu V, West AN, Carmona M, Kivork C, Seja E, Cherry G, Gutierrez AJ, Grogan TR, Mateus C, Tomasic G, Glaspy JA, Emerson RO, Robins H, Pierce RH, Elashoff DA, Robert C, Ribas A. PD-1 blockade induces responses by inhibiting adaptive immune resistance. Nature. 2014 Nov 27;515(7528):568-71. doi: 10.1038/nature13954."
+                        },
+                        {
+                            "ReferencePMID": "25795410",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Weber JS, D'Angelo SP, Minor D, Hodi FS, Gutzmer R, Neyns B, Hoeller C, Khushalani NI, Miller WH Jr, Lao CD, Linette GP, Thomas L, Lorigan P, Grossmann KF, Hassel JC, Maio M, Sznol M, Ascierto PA, Mohr P, Chmielowski B, Bryce A, Svane IM, Grob JJ, Krackhardt AM, Horak C, Lambert A, Yang AS, Larkin J. Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti-CTLA-4 treatment (CheckMate 037): a randomised, controlled, open-label, phase 3 trial. Lancet Oncol. 2015 Apr;16(4):375-84. doi: 10.1016/S1470-2045(15)70076-8. Epub 2015 Mar 18."
+                        },
+                        {
+                            "ReferencePMID": "19934295",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wolchok JD, Hoos A, O'Day S, Weber JS, Hamid O, Lebbe C, Maio M, Binder M, Bohnsack O, Nichol G, Humphrey R, Hodi FS. Guidelines for the evaluation of immune therapy activity in solid tumors: immune-related response criteria. Clin Cancer Res. 2009 Dec 1;15(23):7412-20. doi: 10.1158/1078-0432.CCR-09-1624. Epub 2009 Nov 24."
+                        },
+                        {
+                            "ReferencePMID": "28889792",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wolchok JD, Chiarion-Sileni V, Gonzalez R, Rutkowski P, Grob JJ, Cowey CL, Lao CD, Wagstaff J, Schadendorf D, Ferrucci PF, Smylie M, Dummer R, Hill A, Hogg D, Haanen J, Carlino MS, Bechter O, Maio M, Marquez-Rodas I, Guidoboni M, McArthur G, Lebbe C, Ascierto PA, Long GV, Cebon J, Sosman J, Postow MA, Callahan MK, Walker D, Rollin L, Bhore R, Hodi FS, Larkin J. Overall Survival with Combined Nivolumab and Ipilimumab in Advanced Melanoma. N Engl J Med. 2017 Oct 5;377(14):1345-1356. doi: 10.1056/NEJMoa1709684. Epub 2017 Sep 11. Erratum In: N Engl J Med. 2018 Nov 29;379(22):2185."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Yervoy (ipilimumab) US Prescribing Information (USPI), April 2018",
+                            "SeeAlsoLinkURL": "https://packageinserts.bms.com/pi/pi_yervoy.pdf"
+                        },
+                        {
+                            "SeeAlsoLinkLabel": "Opdivo (nivolumab) US Prescribing Information (USPI), April 2018",
+                            "SeeAlsoLinkURL": "https://packageinserts.bms.com/pi/pi_opdivo.pdf"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000016609",
+                            "ConditionMeshTerm": "Neoplasms, Second Primary"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18679",
+                            "ConditionBrowseLeafName": "Neoplasms, Second Primary",
+                            "ConditionBrowseLeafAsFound": "Metastatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000077594",
+                            "InterventionMeshTerm": "Nivolumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000074324",
+                            "InterventionMeshTerm": "Ipilimumab"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000082082",
+                            "InterventionAncestorTerm": "Immune Checkpoint Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M1854",
+                            "InterventionBrowseLeafName": "Nivolumab",
+                            "InterventionBrowseLeafAsFound": "Technique",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1348",
+                            "InterventionBrowseLeafName": "Ipilimumab",
+                            "InterventionBrowseLeafAsFound": "Topical",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2343",
+                            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

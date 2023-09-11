@@ -1,0 +1,408 @@
+{
+    "Rank": 896,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01141842",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "KSH-TCH-IIT-2010-1"
+                },
+                "Organization": {
+                    "OrgFullName": "Schillerhoehe Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Early Detection of Lung Tumors by Sniffer Dogs - Evaluation of Sensitivity and Specificity",
+                "OfficialTitle": "Prospective Clinical Study to Determine the Predictive Value of Sniffer Dogs to Identify Lung Cancer in the Exhalation of Patients With and Without Pulmonary Disease"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2013",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2009"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2010",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 2010",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 11, 2010",
+                "StudyFirstSubmitQCDate": "June 10, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 11, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 6, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 7, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Thorsten Walles",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Schillerhoehe Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Schillerhoehe Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Some groups reported that sniffer dogs can be applied to detect lung cancer in the exhaled breath of patients. Therefore, breath samples (BS) of patients are collected. Five sniffer dogs are trained to distinguish between the BS of patients with lung cancer and healthy individuals (controls). In a prospective, randomized blinded study the dog's ability to differentiate between BS of i) patients with lung cancer, ii) patients with inflammatory airway disease, but no evidence of cancer and iii) healthy individuals is tested.",
+                "DetailedDescription": "All breath samples (BS) are collected in patients on the basis of radiologic findings before any intervention (bronchoscopy, biopsy or surgery) has been performed. The allocation to study groups is made following diagnostic work up and surgery.\n\nThree study groups are defined using the following inclusion and exclusion criteria:\n\nlung cancer: male & female, age 18-80, competent, confirmed lung cancer in diagnostic work up and surgery, no history or present other tumor disease\nhealthy individual: male & female, age 18-80, competent, no history or present other tumor disease including lung cancer, no pathological lung function tests\nchronic obstructive lung disease: male & female, age 18-80, competent, no history or present other tumor disease including lung cancer, pathological lung function tests\n\nFor each patient, i) history, ii) present medication, iii) lung function tests are documented. For the lung cancer patients, the tumor stage following surgery is documented.\n\nFive sniffer dogs are trained using BS of lung cancer patients and healthy individuals. After completion of the training the ability of the dogs to differentiate between the groups is tested:\n\n5 BS are presented in 1 experiment:\n\nTest I: lung cancer vs healthy individual\nTest II: lung cancer vs chronic obstructive pulmonary disease\nTest III: lung cancer vs healthy individuals & bronchitis\n\nfor every experiment 1 BS of a lung cancer patient is used\n\nthe lung cancer sample is placed randomly in one of the five test tubes\nthe other test tubes are used for BS of healthy individuals or chronic obstructive pulmonary disease patients or both\nneither the dog handler nor the dog know the loading of the test tubes\nexperiments are repeated 5 to 10 times\n\nFor analysis, the sensitivity and specificity of the dog's reaction is determined.\n\nThe patient's medication, smoking habits, age and gender are analysed to rule out confounders or bias."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Chronic Obstructive Airway Disease"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "lung cancer",
+                        "exhalation analysis",
+                        "chronic obstructive pulmonary disease",
+                        "cancer screening test"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Double",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Care Provider",
+                                "Investigator"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "230",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "lung cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "breath samples of patients with confirmed lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: exhalation analysis of breath sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "underlying lung disease",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "patients with underlying lung disease and impairment in lung function",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: exhalation analysis of breath sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "healthy individual",
+                            "ArmGroupType": "Sham Comparator",
+                            "ArmGroupDescription": "healthy individual with no lung disease and no history of cancer including lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: exhalation analysis of breath sample"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "exhalation analysis of breath sample",
+                            "InterventionDescription": "breath sample is presented to sniffer dog in test tube",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "exhalation analysis of breath sample",
+                            "InterventionDescription": "breath sample is presented to sniffer dog in test tube",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "underlying lung disease"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "exhalation analysis of breath sample",
+                            "InterventionDescription": "breath sample is presented to sniffer dog in test tube",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "healthy individual"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "presence of an heretofore unknown substrate in the exhalation sample of a patient with confirmed lung cancer",
+                            "PrimaryOutcomeDescription": "number of individuals in the study cohort with confirmed lung cancer whose exhalation sample is correctly identified by sniffer dogs to contain an heretofore unknown substrate that is associated with lung cancer",
+                            "PrimaryOutcomeTimeFrame": "baseline"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "absence of an heretofore unknown substrate that is associated with lung cancer in patients with lung disease but excluded lung cancer",
+                            "SecondaryOutcomeDescription": "number of individuals with confirmed impairment of lung function but exclusion of lung cancer whose exhalation sample is wrongly identified by sniffer dogs to contain a heretofore unknown substrate that is associated with lung cancer",
+                            "SecondaryOutcomeTimeFrame": "baseline"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nage 18-80\ncompetent\nconfirmed lung cancer\n\nExclusion Criteria:\n\nhistory of other cancers",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Thorsten Walles, MD",
+                            "OverallOfficialAffiliation": "Schillerhoehe Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Schillerhoehe Hospital",
+                            "LocationCity": "Gerlingen",
+                            "LocationZip": "70839",
+                            "LocationCountry": "Germany"
+                        },
+                        {
+                            "LocationFacility": "Praxis Heimann & Ehmann",
+                            "LocationCity": "Stuttgart",
+                            "LocationZip": "70178",
+                            "LocationCountry": "Germany"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "22345057",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Boedeker E, Friedel G, Walles T. Sniffer dogs as part of a bimodal bionic research approach to develop a lung cancer screening. Interact Cardiovasc Thorac Surg. 2012 May;14(5):511-5. doi: 10.1093/icvts/ivr070. Epub 2012 Feb 17."
+                        },
+                        {
+                            "ReferencePMID": "21852337",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Ehmann R, Boedeker E, Friedrich U, Sagert J, Dippon J, Friedel G, Walles T. Canine scent detection in the diagnosis of lung cancer: revisiting a puzzling phenomenon. Eur Respir J. 2012 Mar;39(3):669-76. doi: 10.1183/09031936.00051711. Epub 2011 Aug 18."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000008173",
+                            "ConditionMeshTerm": "Lung Diseases, Obstructive"
+                        },
+                        {
+                            "ConditionMeshId": "D000029424",
+                            "ConditionMeshTerm": "Pulmonary Disease, Chronic Obstructive"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002908",
+                            "ConditionAncestorTerm": "Chronic Disease"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10860",
+                            "ConditionBrowseLeafName": "Lung Diseases, Obstructive",
+                            "ConditionBrowseLeafAsFound": "Obstructive Airway Disease",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23139",
+                            "ConditionBrowseLeafName": "Pulmonary Disease, Chronic Obstructive",
+                            "ConditionBrowseLeafAsFound": "Chronic Obstructive Airway Disease",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9708",
+                            "ConditionBrowseLeafName": "Hypersensitivity",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5837",
+                            "ConditionBrowseLeafName": "Chronic Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T1303",
+                            "ConditionBrowseLeafName": "Chronic Graft Versus Host Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC20",
+                            "ConditionBrowseBranchName": "Immune System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1316 @@
+{
+    "Rank": 548,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05155605",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "GRAIL-012"
+                },
+                "Organization": {
+                    "OrgFullName": "GRAIL, LLC",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "PATHFINDER 2: A Multi-Cancer Early Detection Study",
+                "OfficialTitle": "The PATHFINDER 2 Study: Evaluating the Safety and Performance of the GRAIL Multi-Cancer Early Detection Test in an Eligible Screening Population"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 8, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 28, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 30, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 16, 2021",
+                "StudyFirstSubmitQCDate": "November 30, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 13, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 31, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 5, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "GRAIL, LLC",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUnapprovedDevice": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective, multi-center interventional study of the GRAIL multi-cancer early detection (MCED) test with return of test results for participants enrolled through healthcare systems in North America. The purpose of this study is to evaluate the safety and performance of the GRAIL MCED test in a population of individuals who are eligible for guideline-recommended cancer screening. In cases with a \"cancer signal detected\" test result, participants will undergo diagnostic procedures based on the test returned cancer signal origin(s) to determine if they have cancer. The number and types of diagnostic procedures required to achieve diagnostic resolution will be assessed. Participant-reported outcomes will be collected at several time points to assess participants' perceptions about the multi-cancer early detection test.\n\nThe study will enroll approximately 20,000 participants as defined by eligibility criteria over an anticipated enrollment period of approximately 18 months at up to 40 clinical institutions within North America. Participants will be actively followed for approximately 3 years from the date of their enrollment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Early Detection of Cancer",
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "multi-cancer early detection",
+                        "cancer screening",
+                        "circulating cell-free tumor DNA",
+                        "MCED"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants 50 years of age or older",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The study will aim to enroll a diverse participant population generally representative of the US population with respect to race, ethnicity, and sex. The target age categories of 60-69 years and 70-79 years will be enriched to increase the number of cancer events that are observed during the study.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Multi-Cancer Early Detection Test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Multi-Cancer Early Detection Test",
+                            "InterventionDescription": "Blood collection and multi-cancer early detection testing with return of results.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants 50 years of age or older"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Safety: Number and type of invasive procedures performed in participants with a cancer signal detected by the multi-cancer early detection (MCED) test and no cancer diagnosis at the time of diagnostic resolution (i.e., false positive test result).",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by positive predictive value (PPV).",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by negative predictive value (NPV).",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by sensitivity.",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by specificity.",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by cancer signal origin (CSO) accuracy.",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by observed cancer detection rate (CDR).",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Test performance: diagnosis of invasive cancer, assessed by number needed to screen to detect an invasive cancer (NNS).",
+                            "PrimaryOutcomeTimeFrame": "Up to 3 Years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Participant-reported anxiety resulting from use of the multi-cancer early detection (MCED) test assessed via questionnaire at various time points during the study.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Participant-reported intention to follow and use guideline recommended cancer screening procedures after use of the multi-cancer early detection (MCED) test assessed via questionnaire at various time points during the study.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Cancer detection rate of confirmatory PET-CT in participants for whom cancer signal origin directed workups do not result in diagnosis of cancer.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number and type of diagnostic evaluations (imaging procedures, invasive procedures, laboratory test) by predicted cancer signal origin and outcome of diagnostic resolution.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Per-participant radiation exposure during diagnostic evaluation for test positive participants.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Accuracy of initial multi-cancer early detection (MCED) test result and cancer signal origin prediction, among the subset of participants with a research blood draw.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Participants-reported perceptions about the multi-cancer early detection (MCED) test including satisfaction with the MCED tests and attitudes towards subsequent MCED testing assessed via questionnaire at various time points during the study.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 Years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nParticipants must be at least 50 years of age, inclusive, at the time of signing the Informed Consent Form (ICF).\nParticipants must be capable of giving signed and legally effective informed consent\n\nExclusion Criteria:\n\nUndergoing or referred for diagnostic evaluation due to clinical suspicion for cancer (e.g., referred to a medical or surgical oncologist, or scheduled for biopsy on the basis of a suspicious imaging abnormality).\n\nPersonal history of invasive solid tumor or hematologic malignancy, diagnosed within the 3 years prior to expected enrollment date, or diagnosed greater than 3 years prior to expected enrollment date and never treated.\n\nIndividuals with a diagnosis of non-metastatic basal cell carcinoma and squamous cell carcinoma of the skin are not excluded.\n\nPrior/Concurrent Concomitant Therapy (Medications/Treatments):\n\nDefinitive treatment for invasive solid tumor or hematologic malignancy within the 3 years prior to expected enrollment date. Adjuvant hormone therapy for cancer (e.g. for breast or prostate cancer) is not an exclusion criterion.\nIndividuals who will not be able to comply with the protocol procedures.\nIndividuals who are not currently registered patients at a participating center.\nPrevious or current participation in another GRAIL-sponsored study. \"Participation\" is defined as having signed consent and provided a blood sample.\nPrevious or current employees or contractors of GRAIL.\nCurrent pregnancy (by self-report of pregnancy status)",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "GRAIL Customer Service",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "833-694-2553",
+                            "CentralContactEMail": "customerservice@grail.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Eric Fung, MD, PhD",
+                            "OverallOfficialAffiliation": "GRAIL, LLC",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Auburn",
+                            "LocationState": "California",
+                            "LocationZip": "95602",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "916-746-2161",
+                                        "LocationContactEMail": "pathfinderstudy@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Davis",
+                            "LocationState": "California",
+                            "LocationZip": "95616",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "916-746-2161",
+                                        "LocationContactEMail": "pathfinderstudy@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Elk Grove",
+                            "LocationState": "California",
+                            "LocationZip": "95758",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "916-746-2161",
+                                        "LocationContactEMail": "pathfinderstudy@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Fairfield",
+                            "LocationState": "California",
+                            "LocationZip": "94534",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "916-746-2161",
+                                        "LocationContactEMail": "pathfinderstudy@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "HOAG Irvine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Irvine",
+                            "LocationState": "California",
+                            "LocationZip": "92663",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alexandria Adams",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "949-764-5543"
+                                    },
+                                    {
+                                        "LocationContactName": "Michael Demeure, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "HOAG Vivante Newport Mesa",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Irvine",
+                            "LocationState": "California",
+                            "LocationZip": "92663",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Alexandria Adams",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "949-764-5543"
+                                    },
+                                    {
+                                        "LocationContactName": "Michael Demeure, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Long Beach Memorial Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Long Beach",
+                            "LocationState": "California",
+                            "LocationZip": "90806",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marylee Melendrez",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "MMelendrez@memorialcare.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Stipec Gretchen, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Modesto",
+                            "LocationState": "California",
+                            "LocationZip": "95355",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "916-746-2161",
+                                        "LocationContactEMail": "pathfinderstudy@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "HOAG Newport Beach",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Newport Beach",
+                            "LocationState": "California",
+                            "LocationZip": "92663",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Irma Hernandez",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "949-764-5543",
+                                        "LocationContactEMail": "grailresearchstudy@hoag.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Michael Demeure, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Palo Alto Medical Foundation",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Palo Alto",
+                            "LocationState": "California",
+                            "LocationZip": "94301",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tatyana Pozniansky",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "650-330-5865",
+                                        "LocationContactEMail": "GRAILSTUDYPAMFRI@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Colocci Nataliya, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sutter Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sacramento",
+                            "LocationState": "California",
+                            "LocationZip": "95816",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "650-330-5865",
+                                        "LocationContactEMail": "GRAILSTUDYPAMFRI@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Charles McDonnell, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "PAMF - Santa Cruz",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Santa Cruz",
+                            "LocationState": "California",
+                            "LocationZip": "95062",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "650-330-5865",
+                                        "LocationContactEMail": "GRAILSTUDYPAMFRI@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Natalia Colocci, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "PAMF - Sunnyvale",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sunnyvale",
+                            "LocationState": "California",
+                            "LocationZip": "94086",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "650-330-5865",
+                                        "LocationContactEMail": "GRAILSTUDYPAMFRI@sutterhealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Natalia Colocci, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sarah Cannon Research Institute - Englewood Primary Care",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Englewood",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80113",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "719-244-5855",
+                                        "LocationContactEMail": "Dax.Kurbegov@sarahcannon.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Joseph Short",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Joseph.Short@sarahcannon.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Medstar Washington Hospital Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Washington",
+                            "LocationState": "District of Columbia",
+                            "LocationZip": "20010",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Bhardwaj Rajkumari",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "202-877-3913",
+                                        "LocationContactEMail": "rajkumari.bhardwaj@medstar.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Tran Jennifer, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Woodlands Medical Specialists",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Pensacola",
+                            "LocationState": "Florida",
+                            "LocationZip": "32503",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rami Owera, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Morehouse School of medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Atlanta",
+                            "LocationState": "Georgia",
+                            "LocationZip": "30310",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Roland Matthews, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ochsner Grove",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Baton Rouge",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70836",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christian Torres Guzman",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "504-703-7476"
+                                    },
+                                    {
+                                        "LocationContactName": "Matrana Marc, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ochsner Lafayette General",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Lafayette",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70503",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christian Torres Guzman",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "504-703-7476"
+                                    },
+                                    {
+                                        "LocationContactName": "Matrana Marc, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Ochsner Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New Orleans",
+                            "LocationState": "Louisiana",
+                            "LocationZip": "70127",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Marc Matrana, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Maryland Oncology Hematology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Annapolis",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21401",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jason Taksey, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Macomb",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Clinton Township",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48038",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Medical Center Ford Road",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Dearborn",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48126",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Health System",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Detroit",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48202",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Medical Center Harbortown",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Detroit",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48207",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Medical Center Detroit North West",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Detroit",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48235",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Henry Ford Medical Center Sterling Heights",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Sterling Heights",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48310",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "888-831-4888",
+                                        "LocationContactEMail": "Pathfinder2@hfhs.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Shirish Gadgeel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Mayo Clinic - Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rochester",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55905",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Darla Norton",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "507-293-4653",
+                                        "LocationContactEMail": "RSTPATHFINDER@mayo.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Karthik Giridhar, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Weill Cornell Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Cora Sternberg, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Flushing Hospital Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Queens",
+                            "LocationState": "New York",
+                            "LocationZip": "11355",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Akiva Sugerman",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-206-5828",
+                                        "LocationContactEMail": "asugerma@jhmc.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Toronjadze, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Jamaica Hospital Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Queens",
+                            "LocationState": "New York",
+                            "LocationZip": "11418",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Aishah Aponte",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "718-206-7832",
+                                        "LocationContactEMail": "aaponte1@jhmc.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Roth Alan, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sarah Cannon Asheville Family Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Asheville",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "28801",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Duke University Health System",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Durham",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27705",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Renee Avecilla",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "919-668-8226",
+                                        "LocationContactEMail": "DukeOnco-PrimaryCare@duke.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Kevin Oeffinger, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Cleveland Clinic",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cleveland",
+                            "LocationState": "Ohio",
+                            "LocationZip": "44195",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "216-636-9628",
+                                        "LocationContactEMail": "pathfinderstudy@ccf.org"
+                                    },
+                                    {
+                                        "LocationContactName": "John Sedor, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "St. Charles Health System",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Bend",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97701",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tom Nabavizadeh",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Oregon Health & Science University Bay Area Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Coos Bay",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97420",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "503-418-8150",
+                                        "LocationContactEMail": "pathfinder@ohsu.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Nima Nabavizadeh, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Oregon Health & Science University Knight Cancer Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Portland",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97201",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "503-418-8150",
+                                        "LocationContactEMail": "pathfinder@ohsu.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Nima Nabavizadeh, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "SALEM Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Salem",
+                            "LocationState": "Oregon",
+                            "LocationZip": "97301",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tom Nabavizadeh, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sarah Cannon Research Institute - The Frist Clinic",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37203",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "719-244-5855",
+                                        "LocationContactEMail": "Dax.Kurbegov@sarahcannon.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Joseph Short",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "Joseph.Short@sarahcannon.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sarah Cannon, Centennial Internal Medicine Continuity Clinic",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37203",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology - West Texas",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Amarillo",
+                            "LocationState": "Texas",
+                            "LocationZip": "79106",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Leonardo Forero, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Sarah Cannon, Austin Diagnostic Clinic",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Austin",
+                            "LocationState": "Texas",
+                            "LocationZip": "78758",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Dax Kurbegov, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology - Dallas Presbyterian",
+                            "LocationStatus": "Withdrawn",
+                            "LocationCity": "Dallas",
+                            "LocationState": "Texas",
+                            "LocationZip": "75231",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology, P.A",
+                            "LocationStatus": "Withdrawn",
+                            "LocationCity": "Flower Mound",
+                            "LocationState": "Texas",
+                            "LocationZip": "75028",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology, P.A.",
+                            "LocationStatus": "Withdrawn",
+                            "LocationCity": "Fort Worth",
+                            "LocationState": "Texas",
+                            "LocationZip": "76104",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Kelsey-Seybold Clinic Cypress Woods",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77014",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tejash Patel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Kelsey-Seybold Clinic Holcombe",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77025",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tejash Patel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology - Plano East",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Plano",
+                            "LocationState": "Texas",
+                            "LocationZip": "75075",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Carlos Taboada",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology - Plano West",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Plano",
+                            "LocationState": "Texas",
+                            "LocationZip": "75093",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Philip Kovoor, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Texas Oncology - Tyler",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Tyler",
+                            "LocationState": "Texas",
+                            "LocationZip": "75702",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Shelly Maxfield",
+                                        "LocationContactRole": "Contact"
+                                    },
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "903-579-9840",
+                                        "LocationContactEMail": "shelly.maxfield@usoncology.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Donald Richards, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Inova",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Fairfax",
+                            "LocationState": "Virginia",
+                            "LocationZip": "22031",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Stephanie Van Bebber",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "571-472-0213",
+                                        "LocationContactEMail": "stephanie.VanBebber@inova.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Rebecca Kaltman, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Eastern Virginia Medical School",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Norfolk",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23510",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "757-446-7445",
+                                        "LocationContactEMail": "pettawjl@evms.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Sami Tahhan",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Virginia Commonwealth University",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Richmond",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23219",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tyler Paniagua",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "804-828-9085",
+                                        "LocationContactEMail": "masseycpc@vcu.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Andrew Poklepovic, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Northwest Cancer Specialists",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Vancouver",
+                            "LocationState": "Washington",
+                            "LocationZip": "98684",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "David Cosgrove, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "University Health Network",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Toronto",
+                            "LocationState": "Ontario",
+                            "LocationZip": "M5G 2C1",
+                            "LocationCountry": "Canada",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "UHN Study Team",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "647-302-5707",
+                                        "LocationContactEMail": "pathfinder2@uhn.ca"
+                                    },
+                                    {
+                                        "LocationContactName": "Raymond Kim, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

@@ -1,0 +1,521 @@
+{
+    "Rank": 595,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01383408",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "KSH-TCH-IIT-2011-1"
+                },
+                "Organization": {
+                    "OrgFullName": "Schillerhoehe Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Distinction Between Lung Cancer and Gynecological Cancers by Canine Scent Detection",
+                "OfficialTitle": "Distinction Between Lung Cancer and Gynecological Cancers by Exhalation Analysis and Canine Scent Detection"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2013",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Inconsistent training status of sniffer dogs",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 2011"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 2013",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2013",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "June 24, 2011",
+                "StudyFirstSubmitQCDate": "June 27, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 28, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "May 5, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 7, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Thorsten Walles",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Schillerhoehe Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Schillerhoehe Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Robert Bosch Gesellschaft f\u00fcr Medizinische Forschung mbH",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Previous studies have shown that specially trained sniffer dogs are capable to discriminate breath samples of patients with lung cancer and healthy individuals. So far it is not known whether this differentiation is specific for lung cancer or just identifies any form of (solid) tumor. Therefore, the dog's ability to differentiate between lung cancer, breast cancer and ovarian cancer is tested."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Breast Cancer",
+                        "Ovarian Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breath sample analysis",
+                        "exhalation analysis",
+                        "volatile organic compounds",
+                        "screening",
+                        "lung cancer",
+                        "breast cancer",
+                        "ovarian cancer",
+                        "canine scent detection"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Single",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "752",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "healthy individual",
+                            "ArmGroupType": "Sham Comparator",
+                            "ArmGroupDescription": "healthy individual with no lung disease and no history of cancer including lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: exhalation analysis of breath sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "lung cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "patients with histologically confirmed lung cancer, but no history of other cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: exhalation analysis of breath sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "breast cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "patients with histologically confirmed breast cancer, but no history of other cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: exhalation analysis of breath sample"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "ovarian cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "patients with histologically confirmed ovarian cancer, but no history of other cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: exhalation analysis of breath sample"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "exhalation analysis of breath sample",
+                            "InterventionDescription": "study participants exhale 5 times into a test tube; test tube is presented to sniffer dogs for analysis",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "breast cancer",
+                                    "healthy individual",
+                                    "lung cancer",
+                                    "ovarian cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Specificity for Lung Cancer",
+                            "PrimaryOutcomeDescription": "exhalation analysis by sniffer dogs is able to differentiate breath samples of patients with lung cancer from those of patients with other (tested) cancers",
+                            "PrimaryOutcomeTimeFrame": "breath samples will be tested within 40 days after gathering"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Discriminability of breast and ovarian cancer",
+                            "SecondaryOutcomeDescription": "exhalation analysis by sniffer dogs is able to differentiate breath samples of patients with breast cancer from those of patients with other ovarian cancer",
+                            "SecondaryOutcomeTimeFrame": "breath samples will be tested within 40 days after gathering"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nhistologically confirmed lung or breast or ovarian cancer\n\nExclusion Criteria:\n\nother cancers\nprevious medical intervention within the last 14 days before gathering of the breath sample",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Thorsten Walles, MD",
+                            "OverallOfficialAffiliation": "Schillerhoehe Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Godehard Friedel, MD",
+                            "OverallOfficialAffiliation": "Schillerhoehe Hospital",
+                            "OverallOfficialRole": "Study Chair"
+                        },
+                        {
+                            "OverallOfficialName": "Wolfgang Simon, MD",
+                            "OverallOfficialAffiliation": "Robert Bosch Gesellschaft f\u00fcr Medizinische Forschung mbH",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Schillerhoehe Hospital",
+                            "LocationCity": "Gerlingen",
+                            "LocationState": "Baden-W\u00fcrttemberg",
+                            "LocationZip": "70839",
+                            "LocationCountry": "Germany"
+                        },
+                        {
+                            "LocationFacility": "Robert Bosch Hospital",
+                            "LocationCity": "Stuttgart",
+                            "LocationState": "Baden-W\u00fcrttemberg",
+                            "LocationZip": "70376",
+                            "LocationCountry": "Germany"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "22345057",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Boedeker E, Friedel G, Walles T. Sniffer dogs as part of a bimodal bionic research approach to develop a lung cancer screening. Interact Cardiovasc Thorac Surg. 2012 May;14(5):511-5. doi: 10.1093/icvts/ivr070. Epub 2012 Feb 17."
+                        },
+                        {
+                            "ReferencePMID": "21852337",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ehmann R, Boedeker E, Friedrich U, Sagert J, Dippon J, Friedel G, Walles T. Canine scent detection in the diagnosis of lung cancer: revisiting a puzzling phenomenon. Eur Respir J. 2012 Mar;39(3):669-76. doi: 10.1183/09031936.00051711. Epub 2011 Aug 18."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000010051",
+                            "ConditionMeshTerm": "Ovarian Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010049",
+                            "ConditionAncestorTerm": "Ovarian Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000291",
+                            "ConditionAncestorTerm": "Adnexal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006058",
+                            "ConditionAncestorTerm": "Gonadal Disorders"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12664",
+                            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1704",
+                            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12662",
+                            "ConditionBrowseLeafName": "Ovarian Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3333",
+                            "ConditionBrowseLeafName": "Adnexal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8853",
+                            "ConditionBrowseLeafName": "Gonadal Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4352",
+                            "ConditionBrowseLeafName": "Ovarian Cancer",
+                            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4354",
+                            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

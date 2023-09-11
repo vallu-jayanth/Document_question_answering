@@ -1,0 +1,493 @@
+{
+    "Rank": 184,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02701231",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "S2015-093-01"
+                },
+                "Organization": {
+                    "OrgFullName": "Chinese PLA General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Low-frequency Rotating Magnetic System Combined With Systemic Anti-tumor Therapy for Advanced Lung Cancer",
+                "OfficialTitle": "Low-frequency Rotating Magnetic System Combined With Systemic Anti-tumor Therapy for Advanced Lung Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2016",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 2015"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 20, 2016",
+                "StudyFirstSubmitQCDate": "March 2, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 8, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "March 8, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 9, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Chen Liang_An",
+                    "ResponsiblePartyInvestigatorTitle": "Director of respiratory medicine",
+                    "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Chinese PLA General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Xijing Hospital",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Shandong University of Traditional Chinese Medicine",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Shandong Provincial Hospital",
+                            "CollaboratorClass": "OTHER_GOV"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to determine whether Low-frequency Rotating Magnetic Therapy System is effective and safe in the treatment of advanced lung cancer.",
+                "DetailedDescription": "The purpose of this study is to assess the efficacy and safety of the Low-frequency Rotating Magnetic Therapy System(with systemic anti-tumor therapy) compared to systemic anti-tumor therapy in patients suffering from advanced lung cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "lung cancer",
+                        "Low-frequency rotating magnetic therapy system",
+                        "systemic anti-tumor therapy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Quadruple",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Care Provider",
+                                "Investigator",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Sham control",
+                            "ArmGroupType": "Sham Comparator",
+                            "ArmGroupDescription": "Subjects will receive one cycle of treatment of sham low-frequency rotating magnetic therapy system plus systemic anti-tumor therapy after randomization",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Systemic anti-tumor therapy",
+                                    "Device: Sham Low-frequency Rotating Magnetic Therapy System"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Low-frequency Rotating Magnetic Therapy",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Subjects will receive one cycle of treatment of low-frequency rotating magnetic therapy system plus systemic anti-tumor therapy after randomization",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Low-frequency Rotating Magnetic Therapy System",
+                                    "Drug: Systemic anti-tumor therapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Low-frequency Rotating Magnetic Therapy System",
+                            "InterventionDescription": "Two pairs of fan-shaped NdFeB permanent magnets were attached to a circular iron plate and arranged to establish magnetic field. The bottom two magnets rotated at certain frequency driven by a step motor, which was controlled using a functional signal generator. The top two magnets rotated synchronously due to the strong magnetic interaction. Magnetic flux density was measured at the target site using a gauss meter. The entire magnetic apparatus was located in a hood with humidity and temperature controller.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Low-frequency Rotating Magnetic Therapy"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Systemic anti-tumor therapy",
+                            "InterventionDescription": "Systemic anti-tumor therapy includes targeted therapies, chemotherapy and best supportive care, according to NCCN non-small cell lung cancer(NSCLC) and small cell lung cancer(SCLC) guidelines. SCLC patients will receive six cycles of cisplatin and etoposide. NSCLC patients will receive EGFR and ALK test. With sensitive result the first-line therapy will be Erlotinib/Gefitinib/Crizotinib. If insensitive, the patient will receive six cycles of cisplatin and pemetrexed. Then the patient will receive tumor response evaluation. The patient with response or stable disease will receive maintenance therapy with one or some of the drugs including bevacizumab, pemetrexed, gemcitabine and docetaxel until disease progression. During experience all patients will receive clinical observation. Once proven for disease progression the patient will finish the experiment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Low-frequency Rotating Magnetic Therapy",
+                                    "Sham control"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Systemic therapies for advanced lung cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Sham Low-frequency Rotating Magnetic Therapy System",
+                            "InterventionDescription": "Sham Low-frequency Rotating Magnetic Therapy System is a similar apparatus except that there were two rotating iron plates instead of magnets, thus lacking a magnetic field.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Sham control"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Functional Assessment of Cancer Therapy-Lung Questionaire\uff08FACT-L\uff09",
+                            "PrimaryOutcomeDescription": "Use the FACT-L to assess the effiency of low-frequency rotating magnetic system on the improvement of patients' quality of life",
+                            "PrimaryOutcomeTimeFrame": "within six weeks after randomization"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Number of Participants With Adverse Events That Are Related to Treatment",
+                            "PrimaryOutcomeDescription": "AEs: Type, incidence, severity, seriousness and relationship to study medications of adverse events (AE) (graded by the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE 4.0]",
+                            "PrimaryOutcomeTimeFrame": "From first time of study treatment until 90 days after the last, assessed up to 4 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Duration of response according to standard RECIST v1.1",
+                            "SecondaryOutcomeDescription": "At each visit subjects will be programmatically assigned a RECIST visit response of CR, PR, SD or PD depending on the status of their disease compared to baseline and previous assessments. Duration of response: the time from the first documentation of CR or PR or SD to objective disease progression (PD) or death from any cause.",
+                            "SecondaryOutcomeTimeFrame": "up to 5 years after the first patient randomized"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Objective Response Rate (ORR)",
+                            "SecondaryOutcomeDescription": "At each visit subjects will be programmatically assigned a RECIST visit response of CR, PR, SD or PD depending on the status of their disease compared to baseline and previous assessments. Objective response rate: the percentage of subjects who have at least one visit response of CR or PR prior to any evidence of progression .",
+                            "SecondaryOutcomeTimeFrame": "up to 5 years after the first patient randomized"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression Free Survival\uff08PFS\uff09",
+                            "SecondaryOutcomeDescription": "At each visit subjects will be programmatically assigned a RECIST visit response of CR, PR, SD or PD depending on the status of their disease compared to baseline and previous assessments. Progression Free Survival (PFS) : the time from start of study treatment to the first documentation of objective disease progression (PD) or death from any cause.",
+                            "SecondaryOutcomeTimeFrame": "up to 5 years after the first patient randomized"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWilling and able to give written informed consent\nMale or female aged 18 years and older\nHistologic diagnosis of non-small cell lung cancer (unable to receive surgery) or small cell lung cancer (limited stage or extensive stage)\nEastern Cooperative Oncology Group (ECOG) performance status (PS) \u2264 3- going to receive systemic anti-tumor therapy\nMeasurable disease based on RECIST 1.1\nAdequate hematologic and organ function\n\nExclusion Criteria:\n\nCurrently participating and receiving study therapy in, or has participated in a study of an investigational agent and received study therapy or used an investigational device\nUnable to lie in bed\nWith any metal implants in body\nHuman immunodeficiency virus (HIV)\nMalignancies other than lung cancer within 5 years prior to randomization\nHistory or current evidence of any condition, therapy or laboratory abnormality that might confound the results of the trial or interfere with the subject's participation for the full duration of the trial\nPregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Liang_an Chen, MD, phD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "8610-55499027",
+                            "CentralContactEMail": "chenla301@263.net"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Liang_an Chen, MD, phD",
+                            "OverallOfficialAffiliation": "Chinese PLA General Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Chinese PLA General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100853",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Liang-An Chen, MD, phD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8610-55499027",
+                                        "LocationContactEMail": "chenla301@263.net"
+                                    },
+                                    {
+                                        "LocationContactName": "Liang-An Chen, MD, phD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Affiliated hospital of Shandong University of traditional Chinese medicine",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Jinan",
+                            "LocationState": "Shandong",
+                            "LocationZip": "250011",
+                            "LocationCountry": "China"
+                        },
+                        {
+                            "LocationFacility": "Shandong Provincial Hospital",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Jinan",
+                            "LocationState": "Shandong",
+                            "LocationZip": "250021",
+                            "LocationCountry": "China"
+                        },
+                        {
+                            "LocationFacility": "Xijing Hospital affiliated to the Fourth Military Medical University",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Xi'an",
+                            "LocationState": "Shanxi",
+                            "LocationZip": "710032",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "32238091",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Zhu M, Yang Z, Yu H, Zhu Q, Xu Y, Li Y, Li C, Zhao W, Liang Z, Chen L. The efficacy and safety of low-frequency rotating static magnetic field therapy combined with chemotherapy on advanced lung cancer patients: a randomized, double-blinded, controlled clinical trial. Int J Radiat Biol. 2020 Jul;96(7):943-950. doi: 10.1080/09553002.2020.1748737. Epub 2020 Apr 13."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "Because of personal privacy, the research-related individual participant data do not intend for public sharing."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M7881",
+                            "InterventionBrowseLeafName": "Etoposide",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M5872",
+                            "InterventionBrowseLeafName": "Cisplatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2986",
+                            "InterventionBrowseLeafName": "Gemcitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1668",
+                            "InterventionBrowseLeafName": "Docetaxel",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M246",
+                            "InterventionBrowseLeafName": "Bevacizumab",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M264",
+                            "InterventionBrowseLeafName": "Pemetrexed",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M341584",
+                            "InterventionBrowseLeafName": "Etoposide phosphate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M10223",
+                            "InterventionBrowseLeafName": "Iron",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1825",
+                            "InterventionBrowseLeafName": "Crizotinib",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M398",
+                            "InterventionBrowseLeafName": "Erlotinib Hydrochloride",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1679",
+                            "InterventionBrowseLeafName": "Gefitinib",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Micro",
+                            "InterventionBrowseBranchName": "Micronutrients"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

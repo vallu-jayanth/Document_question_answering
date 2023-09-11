@@ -1,0 +1,527 @@
+{
+    "Rank": 928,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05224596",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "B2020-390R"
+                },
+                "Organization": {
+                    "OrgFullName": "Shanghai Zhongshan Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "AssesSment of Early-deteCtion basEd oN liquiD Biopsy in GASTRIC Cancer, ASCEND-Gastric",
+                "OfficialTitle": "Gastric Cancer Detection by Liquid Biopsy in Peripheral Blood: A Prospective Study",
+                "Acronym": "ASCEND-Gastric"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 18, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 30, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 22, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 5, 2022",
+                "StudyFirstSubmitQCDate": "January 25, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 4, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 10, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 28, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Shanghai Zhongshan Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Guangzhou Burning Rock Bioengineering Ltd.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "ASCEND-Gastric is a prospective, multi-omics, observational study aimed at detecting gastric cancer by combined assays for serum protein markers, deep sequencing of cell-free DNA (cfDNA), circulating tumor DNA (ctDNA) mutation and circulating RNA. The study will enroll 498 participants, including 128 patients with benign gastric diseases and 370 patients with gastric cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer",
+                        "liquid biopsy",
+                        "cell-free DNA (cfDNA) methylation",
+                        "circulating tumor DNA (ctDNA) mutation",
+                        "whole blood miRNA"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "498",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer arm",
+                            "ArmGroupDescription": "Baseline blood samples will be collected from new diagnosis cancer participants.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Blood draw and blood-based biomarkers analyses"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Benign disease arm",
+                            "ArmGroupDescription": "Baseline blood samples will be collected from new diagnosis benign gastric disease participants.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Blood draw and blood-based biomarkers analyses"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Blood draw and blood-based biomarkers analyses",
+                            "InterventionDescription": "blood-based biomarkers analyses",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Benign disease arm",
+                                    "Cancer arm"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Sensitivity and specificity of the cfDNA methylation-based model in detecting gastric cancer.",
+                            "PrimaryOutcomeTimeFrame": "30 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The differences of sensitivity and specificity in gastric cancer participants at different clinical stages.",
+                            "SecondaryOutcomeTimeFrame": "30 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity and specificity for detecting gastric cancer of a cfDNA methylation-based model, in combination with other biomarkers.",
+                            "SecondaryOutcomeTimeFrame": "30 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Sensitivity and specificity of a ctDNA mutation-based model and a serum protein-based model in detecting gastric cancer, respectively.",
+                            "SecondaryOutcomeTimeFrame": "30 months"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Sensitivity and specificity of a blood miRNA-based model in detecting gastric cancer.",
+                            "OtherOutcomeTimeFrame": "30 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria for Cancer Arm Participants:\n\nAge 40-75 years at the day of consenting to the study.\nAble to provide a written informed consent.\nNo prior cancer treatment (local or systematic) with either of the following:\n\nA. Pathologically confirmed cancer diagnosis within 42 days prior to blood draw.\n\nB. High suspicious for cancer diagnosis by imaging tests or other routine clinical examinations, with confirmed pathological cancer diagnosis within 42 days after the blood draw.\n\nExclusion Criteria for Cancer Arm Participants:\n\nInsufficient qualified blood samples.\nDuring pregnancy or lactation.\nRecipient of organ transplant or prior non-autologous (allogeneic) bone marrow or stem cell transplant.\nRecipient of blood transfusion within 7 days prior to blood draw.\nRecipient of anti-tumor drugs to treat non-cancer diseases within 30 days prior to blood draw.\nWith other known malignant tumors or multiple primary tumors.\n\nInclusion Criteria for Benign Disease Arm Participants:\n\nAge 40-75 years at the day of consenting to the study.\nAble to provide a written informed consent.\nAble to provide sufficient and qualified blood samples for study tests.\nHave either of the following:\n\nA. Pathological confirmed diagnosis of benign diseases within 90 days prior to the study blood draw, with no prior treatment such as surgical resection.\n\nB. High suspicious for benign diseases diagnosis by radiological or other routine clinical assessments, with confirmed benign diseases diagnosis within 42 days after study blood draw.\n\nExclusion Criteria for Benign Disease Arm Participants:\n\nInsufficient qualified blood sample for study test.\nDuring pregnancy or lactation.\nRecipient of organ transplant or prior non-autologous (allogeneic) bone marrow or stem cell transplant.\nRecipient of blood transfusion within 7 days prior to study blood draw.\nRecipient of anti-tumor drugs to treat non-cancer diseases within 30 days prior to blood draw.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Eligible participants in cancer arm will be recruited with new diagnosis of gastric cancer and without any types of tumor treatment.\n\nEligible participants in benign disease arm will be recruited with new diagnosis of benign gastric disease and without any types of treatment.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Yihong Sun, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-021-65642662",
+                            "CentralContactEMail": "sun.yihong@zs-hospital.sh.cn"
+                        },
+                        {
+                            "CentralContactName": "Xuefei Wang, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-021-65642662",
+                            "CentralContactEMail": "wang.xuefei@zs-hospital.sh.cn"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yihong Sun Sun, MD",
+                            "OverallOfficialAffiliation": "Zhongshan Hospital, Fudan University,China",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Xuefei Wang, MD",
+                            "OverallOfficialAffiliation": "Zhongshan Hospital, Fudan University,China",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "ZhongShan hospital FuDan university",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shanghai",
+                            "LocationState": "Shanghai",
+                            "LocationZip": "200032",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yihong Sun, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-13701735406",
+                                        "LocationContactEMail": "sun.yihong@zs-hospital.sh.cn"
+                                    },
+                                    {
+                                        "LocationContactName": "Yihong Sun, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30207593",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018 Nov;68(6):394-424. doi: 10.3322/caac.21492. Epub 2018 Sep 12. Erratum In: CA Cancer J Clin. 2020 Jul;70(4):313."
+                        },
+                        {
+                            "ReferencePMID": "26897166",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sano T, Coit DG, Kim HH, Roviello F, Kassab P, Wittekind C, Yamamoto Y, Ohashi Y. Proposal of a new stage grouping of gastric cancer for TNM classification: International Gastric Cancer Association staging project. Gastric Cancer. 2017 Mar;20(2):217-225. doi: 10.1007/s10120-016-0601-9. Epub 2016 Feb 20."
+                        },
+                        {
+                            "ReferencePMID": "33028667",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "So JBY, Kapoor R, Zhu F, Koh C, Zhou L, Zou R, Tang YC, Goo PCK, Rha SY, Chung HC, Yoong J, Yap CT, Rao J, Chia CK, Tsao S, Shabbir A, Lee J, Lam KP, Hartman M, Yong WP, Too HP, Yeoh KG. Development and validation of a serum microRNA biomarker panel for detecting gastric cancer in a high-risk population. Gut. 2021 May;70(5):829-837. doi: 10.1136/gutjnl-2020-322065. Epub 2020 Oct 7."
+                        },
+                        {
+                            "ReferencePMID": "17235625",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Miki K. Gastric cancer screening using the serum pepsinogen test method. Gastric Cancer. 2006;9(4):245-53. doi: 10.1007/s10120-006-0397-0. Epub 2006 Nov 24."
+                        },
+                        {
+                            "ReferencePMID": "30486559",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Li MY, Zhang DQ, Lu X, Chen WC. [Comparison of two serological methods in screening gastric cancer and its precancerous condition]. Zhonghua Nei Ke Za Zhi. 2018 Dec 1;57(12):907-911. doi: 10.3760/cma.j.issn.0578-1426.2018.12.006. Chinese."
+                        },
+                        {
+                            "ReferencePMID": "29889263",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hamashima C; Systematic Review Group and Guideline Development Group for Gastric Cancer Screening Guidelines. Update version of the Japanese Guidelines for Gastric Cancer Screening. Jpn J Clin Oncol. 2018 Jul 1;48(7):673-683. doi: 10.1093/jjco/hyy077."
+                        },
+                        {
+                            "ReferencePMID": "23209638",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Choi KS, Jun JK, Park EC, Park S, Jung KW, Han MA, Choi IJ, Lee HY. Performance of different gastric cancer screening methods in Korea: a population-based study. PLoS One. 2012;7(11):e50041. doi: 10.1371/journal.pone.0050041. Epub 2012 Nov 29."
+                        },
+                        {
+                            "ReferencePMID": "29723507",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Zhang X, Li M, Chen S, Hu J, Guo Q, Liu R, Zheng H, Jin Z, Yuan Y, Xi Y, Hua B. Endoscopic Screening in Asian Countries Is Associated With Reduced Gastric Cancer Mortality: A Meta-analysis and Systematic Review. Gastroenterology. 2018 Aug;155(2):347-354.e9. doi: 10.1053/j.gastro.2018.04.026. Epub 2018 Apr 30."
+                        },
+                        {
+                            "ReferencePMID": "31370908",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chen M, Zhao H. Next-generation sequencing in liquid biopsy: cancer screening and early detection. Hum Genomics. 2019 Aug 1;13(1):34. doi: 10.1186/s40246-019-0220-8."
+                        },
+                        {
+                            "ReferencePMID": "28662130",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kang HM, Kim GH, Jeon HK, Kim DH, Jeon TY, Park DY, Jeong H, Chun WJ, Kim MH, Park J, Lim M, Kim TH, Cho YK. Circulating tumor cells detected by lab-on-a-disc: Role in early diagnosis of gastric cancer. PLoS One. 2017 Jun 29;12(6):e0180251. doi: 10.1371/journal.pone.0180251. eCollection 2017."
+                        },
+                        {
+                            "ReferencePMID": "24801577",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Haber DA, Velculescu VE. Blood-based analyses of cancer: circulating tumor cells and circulating tumor DNA. Cancer Discov. 2014 Jun;4(6):650-61. doi: 10.1158/2159-8290.CD-13-1014. Epub 2014 May 6."
+                        },
+                        {
+                            "ReferencePMID": "31142840",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cristiano S, Leal A, Phallen J, Fiksel J, Adleff V, Bruhm DC, Jensen SO, Medina JE, Hruban C, White JR, Palsgrove DN, Niknafs N, Anagnostou V, Forde P, Naidoo J, Marrone K, Brahmer J, Woodward BD, Husain H, van Rooijen KL, Orntoft MW, Madsen AH, van de Velde CJH, Verheij M, Cats A, Punt CJA, Vink GR, van Grieken NCT, Koopman M, Fijneman RJA, Johansen JS, Nielsen HJ, Meijer GA, Andersen CL, Scharpf RB, Velculescu VE. Genome-wide cell-free DNA fragmentation in patients with cancer. Nature. 2019 Jun;570(7761):385-389. doi: 10.1038/s41586-019-1272-6. Epub 2019 May 29."
+                        },
+                        {
+                            "ReferencePMID": "30901876",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cabel L, Decraene C, Bieche I, Pierga JY, Bennamoun M, Fuks D, Ferraz JM, Lefevre M, Baulande S, Bernard V, Vacher S, Mariani P, Proudhon C, Bidard FC, Louvet C. Limited Sensitivity of Circulating Tumor DNA Detection by Droplet Digital PCR in Non-Metastatic Operable Gastric Cancer Patients. Cancers (Basel). 2019 Mar 21;11(3):396. doi: 10.3390/cancers11030396."
+                        },
+                        {
+                            "ReferencePMID": "23484797",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dawson SJ, Tsui DW, Murtaza M, Biggs H, Rueda OM, Chin SF, Dunning MJ, Gale D, Forshew T, Mahler-Araujo B, Rajan S, Humphray S, Becq J, Halsall D, Wallis M, Bentley D, Caldas C, Rosenfeld N. Analysis of circulating tumor DNA to monitor metastatic breast cancer. N Engl J Med. 2013 Mar 28;368(13):1199-209. doi: 10.1056/NEJMoa1213261. Epub 2013 Mar 13."
+                        },
+                        {
+                            "ReferencePMID": "28445469",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Abbosh C, Birkbak NJ, Wilson GA, Jamal-Hanjani M, Constantin T, Salari R, Le Quesne J, Moore DA, Veeriah S, Rosenthal R, Marafioti T, Kirkizlar E, Watkins TBK, McGranahan N, Ward S, Martinson L, Riley J, Fraioli F, Al Bakir M, Gronroos E, Zambrana F, Endozo R, Bi WL, Fennessy FM, Sponer N, Johnson D, Laycock J, Shafi S, Czyzewska-Khan J, Rowan A, Chambers T, Matthews N, Turajlic S, Hiley C, Lee SM, Forster MD, Ahmad T, Falzon M, Borg E, Lawrence D, Hayward M, Kolvekar S, Panagiotopoulos N, Janes SM, Thakrar R, Ahmed A, Blackhall F, Summers Y, Hafez D, Naik A, Ganguly A, Kareht S, Shah R, Joseph L, Marie Quinn A, Crosbie PA, Naidu B, Middleton G, Langman G, Trotter S, Nicolson M, Remmen H, Kerr K, Chetty M, Gomersall L, Fennell DA, Nakas A, Rathinam S, Anand G, Khan S, Russell P, Ezhil V, Ismail B, Irvin-Sellers M, Prakash V, Lester JF, Kornaszewska M, Attanoos R, Adams H, Davies H, Oukrif D, Akarca AU, Hartley JA, Lowe HL, Lock S, Iles N, Bell H, Ngai Y, Elgar G, Szallasi Z, Schwarz RF, Herrero J, Stewart A, Quezada SA, Peggs KS, Van Loo P, Dive C, Lin CJ, Rabinowitz M, Aerts HJWL, Hackshaw A, Shaw JA, Zimmermann BG; TRACERx consortium; PEACE consortium; Swanton C. Phylogenetic ctDNA analysis depicts early-stage lung cancer evolution. Nature. 2017 Apr 26;545(7655):446-451. doi: 10.1038/nature22364. Erratum In: Nature. 2017 Dec 20;:"
+                        },
+                        {
+                            "ReferencePMID": "29061138",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cree IA, Uttley L, Buckley Woods H, Kikuchi H, Reiman A, Harnan S, Whiteman BL, Philips ST, Messenger M, Cox A, Teare D, Sheils O, Shaw J; UK Early Cancer Detection Consortium. The evidence base for circulating tumour DNA blood-based biomarkers for the early detection of cancer: a systematic mapping review. BMC Cancer. 2017 Oct 23;17(1):697. doi: 10.1186/s12885-017-3693-7."
+                        },
+                        {
+                            "ReferencePMID": "28874546",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cohen JD, Javed AA, Thoburn C, Wong F, Tie J, Gibbs P, Schmidt CM, Yip-Schneider MT, Allen PJ, Schattner M, Brand RE, Singhi AD, Petersen GM, Hong SM, Kim SC, Falconi M, Doglioni C, Weiss MJ, Ahuja N, He J, Makary MA, Maitra A, Hanash SM, Dal Molin M, Wang Y, Li L, Ptak J, Dobbyn L, Schaefer J, Silliman N, Popoli M, Goggins MG, Hruban RH, Wolfgang CL, Klein AP, Tomasetti C, Papadopoulos N, Kinzler KW, Vogelstein B, Lennon AM. Combined circulating tumor DNA and protein biomarker-based liquid biopsy for the earlier detection of pancreatic cancers. Proc Natl Acad Sci U S A. 2017 Sep 19;114(38):10202-10207. doi: 10.1073/pnas.1704961114. Epub 2017 Sep 5."
+                        },
+                        {
+                            "ReferencePMID": "29348365",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cohen JD, Li L, Wang Y, Thoburn C, Afsari B, Danilova L, Douville C, Javed AA, Wong F, Mattox A, Hruban RH, Wolfgang CL, Goggins MG, Dal Molin M, Wang TL, Roden R, Klein AP, Ptak J, Dobbyn L, Schaefer J, Silliman N, Popoli M, Vogelstein JT, Browne JD, Schoen RE, Brand RE, Tie J, Gibbs P, Wong HL, Mansfield AS, Jen J, Hanash SM, Falconi M, Allen PJ, Zhou S, Bettegowda C, Diaz LA Jr, Tomasetti C, Kinzler KW, Vogelstein B, Lennon AM, Papadopoulos N. Detection and localization of surgically resectable cancers with a multi-analyte blood test. Science. 2018 Feb 23;359(6378):926-930. doi: 10.1126/science.aar3247. Epub 2018 Jan 18."
+                        },
+                        {
+                            "ReferencePMID": "27256564",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Klutstein M, Nejman D, Greenfield R, Cedar H. DNA Methylation in Cancer and Aging. Cancer Res. 2016 Jun 15;76(12):3446-50. doi: 10.1158/0008-5472.CAN-15-3278. Epub 2016 Jun 2."
+                        },
+                        {
+                            "ReferencePMID": "25892967",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Meng H, Cao Y, Qin J, Song X, Zhang Q, Shi Y, Cao L. DNA methylation, its mediators and genome integrity. Int J Biol Sci. 2015 Apr 8;11(5):604-17. doi: 10.7150/ijbs.11218. eCollection 2015."
+                        },
+                        {
+                            "ReferencePMID": "29708096",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Morgan AE, Davies TJ, Mc Auley MT. The role of DNA methylation in ageing and cancer. Proc Nutr Soc. 2018 Nov;77(4):412-422. doi: 10.1017/S0029665118000150. Epub 2018 Apr 30."
+                        },
+                        {
+                            "ReferencePMID": "29485132",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Widschwendter M, Jones A, Evans I, Reisel D, Dillner J, Sundstrom K, Steyerberg EW, Vergouwe Y, Wegwarth O, Rebitschek FG, Siebert U, Sroczynski G, de Beaufort ID, Bolt I, Cibula D, Zikan M, Bjorge L, Colombo N, Harbeck N, Dudbridge F, Tasse AM, Knoppers BM, Joly Y, Teschendorff AE, Pashayan N; FORECEE (4C) Consortium. Epigenome-based cancer risk prediction: rationale, opportunities and challenges. Nat Rev Clin Oncol. 2018 May;15(5):292-309. doi: 10.1038/nrclinonc.2018.30. Epub 2018 Feb 27."
+                        },
+                        {
+                            "ReferencePMID": "28263317",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Guo S, Diep D, Plongthongkum N, Fung HL, Zhang K, Zhang K. Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA. Nat Genet. 2017 Apr;49(4):635-642. doi: 10.1038/ng.3805. Epub 2017 Mar 6."
+                        },
+                        {
+                            "ReferencePMID": "24901436",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Johnson DA, Barclay RL, Mergener K, Weiss G, Konig T, Beck J, Potter NT. Plasma Septin9 versus fecal immunochemical testing for colorectal cancer screening: a prospective multicenter study. PLoS One. 2014 Jun 5;9(6):e98238. doi: 10.1371/journal.pone.0098238. eCollection 2014."
+                        },
+                        {
+                            "ReferencePMID": "23408352",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Church TR, Wandell M, Lofton-Day C, Mongin SJ, Burger M, Payne SR, Castanos-Velez E, Blumenstein BA, Rosch T, Osborn N, Snover D, Day RW, Ransohoff DF; PRESEPT Clinical Study Steering Committee, Investigators and Study Team. Prospective evaluation of methylated SEPT9 in plasma for detection of asymptomatic colorectal cancer. Gut. 2014 Feb;63(2):317-25. doi: 10.1136/gutjnl-2012-304149. Epub 2013 Feb 13."
+                        },
+                        {
+                            "ReferencePMID": "29348893",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hu W, Zheng W, Liu Q, Chu H, Chen S, Kim JJ, Wu J, Si J. Diagnostic accuracy of DNA methylation in detection of gastric cancer: a meta-analysis. Oncotarget. 2017 Nov 3;8(68):113142-113152. doi: 10.18632/oncotarget.22613. eCollection 2017 Dec 22."
+                        },
+                        {
+                            "ReferencePMID": "29844130",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Anderson BW, Suh YS, Choi B, Lee HJ, Yab TC, Taylor WR, Dukek BA, Berger CK, Cao X, Foote PH, Devens ME, Boardman LA, Kisiel JB, Mahoney DW, Slettedahl SW, Allawi HT, Lidgard GP, Smyrk TC, Yang HK, Ahlquist DA. Detection of Gastric Cancer with Novel Methylated DNA Markers: Discovery, Tissue Validation, and Pilot Testing in Plasma. Clin Cancer Res. 2018 Nov 15;24(22):5724-5734. doi: 10.1158/1078-0432.CCR-17-3364. Epub 2018 May 29."
+                        },
+                        {
+                            "ReferencePMID": "28009985",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Gao Y, Zhang K, Xi H, Cai A, Wu X, Cui J, Li J, Qiao Z, Wei B, Chen L. Diagnostic and prognostic value of circulating tumor DNA in gastric cancer: a meta-analysis. Oncotarget. 2017 Jan 24;8(4):6330-6340. doi: 10.18632/oncotarget.14064."
+                        },
+                        {
+                            "ReferencePMID": "33506766",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Liu MC, Oxnard GR, Klein EA, Swanton C, Seiden MV; CCGA Consortium. Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA. Ann Oncol. 2020 Jun;31(6):745-759. doi: 10.1016/j.annonc.2020.02.011. Epub 2020 Mar 30."
+                        },
+                        {
+                            "ReferencePMID": "32694610",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chen X, Gole J, Gore A, He Q, Lu M, Min J, Yuan Z, Yang X, Jiang Y, Zhang T, Suo C, Li X, Cheng L, Zhang Z, Niu H, Li Z, Xie Z, Shi H, Zhang X, Fan M, Wang X, Yang Y, Dang J, McConnell C, Zhang J, Wang J, Yu S, Ye W, Gao Y, Zhang K, Liu R, Jin L. Non-invasive early detection of cancer four years before conventional diagnosis using a blood test. Nat Commun. 2020 Jul 21;11(1):3475. doi: 10.1038/s41467-020-17316-z."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "Rank": 701,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04592393",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "SNUH-2020-2950"
+                },
+                "Organization": {
+                    "OrgFullName": "Seoul National University Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Pancreas Cancer Surveillance Using an Abbreviated MRI",
+                "OfficialTitle": "Clinical Feasibility of Abbreviated MRI for Surveillance in High Risk Group for Developing Pancreas Cancer: A Prospective Cohort Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 28, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 7, 2020",
+                "StudyFirstSubmitQCDate": "October 16, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 19, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 16, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 18, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Jeong Min Lee",
+                    "ResponsiblePartyInvestigatorTitle": "Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Seoul National University Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Seoul National University Hospital",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Research Foundation of Korea",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to establish a prospective cohort of developing pancreas cancer and surveillance MRI protocol. With the focused surveillance protocol, we perform surveillance for pancreas cancer for five years to estimate the risk of pancreas cancer and the clinical feasibility of the surveillance MRI."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreas Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "pancreas cancer",
+                        "intraductal papillary mucinous neoplasm",
+                        "magnetic resonance imaging"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Abbreviated PB MRI",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Short and Focused non-contrast MRI for surveillance",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Abbreviated PB MRI",
+                                    "Genetic: Gene mutation test",
+                                    "Diagnostic Test: Conventional follow-up"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Abbreviated PB MRI",
+                            "InterventionDescription": "Annual non-contrast PB MRI.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Abbreviated PB MRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Gene mutation test",
+                            "InterventionDescription": "K-ras and GNAS mutation test. Being performed once as a baseline test at the enrollment.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Abbreviated PB MRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Conventional follow-up",
+                            "InterventionDescription": "Any of followings: scheduled CECT, MRI, USG, EUS, tumor marker (CA 19-9) during the study period.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Abbreviated PB MRI"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Detection of pancreas cancer",
+                            "PrimaryOutcomeDescription": "number of detected pancreas cancer (resectable & BRPC only) in surveillance MRI.",
+                            "PrimaryOutcomeTimeFrame": "1 year after the last surveillance MRI."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Scan time of abbreviated PB MRI for surveillance",
+                            "SecondaryOutcomeDescription": "table time, in-room time measurement for feasibility",
+                            "SecondaryOutcomeTimeFrame": "1 month after the first surveillance MRI."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Estimation of pancreas cancer risk",
+                            "SecondaryOutcomeDescription": "rate of developing pancreas cancer during the study period",
+                            "SecondaryOutcomeTimeFrame": "1 year after the last surveillance MRI."
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Detection of pancreas cancer",
+                            "SecondaryOutcomeDescription": "number of detected pancreas cancer of all stages (resectable, BRPC, LAPC, metastatic) in surveillance MRI.",
+                            "SecondaryOutcomeTimeFrame": "1 year after the last surveillance MRI."
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Comparison of performance of abbreviated PB MRI",
+                            "OtherOutcomeDescription": "comparison of the rates of pancreas cancer detection between abbreviated MRI and conventional follow-up methods (in available cases)",
+                            "OtherOutcomeTimeFrame": "1 year after the last surveillance MRI."
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Identification of super-high risk group of developing pancreas cancer",
+                            "OtherOutcomeDescription": "Identification of any common radiologic features and gene mutation in participants in whom pancreas cancer develop during the study period.",
+                            "OtherOutcomeTimeFrame": "1 year after the last surveillance MRI."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nOn follow-up due to first degree-family history of PAC\nOr on follow-up for BD-IPMN (>= 2 cm) or main-duct type IPMN (> 5 mm)\nAnd signed informed consent\n\nExclusion Criteria:\n\nContra-indication of performing MRI\nNot satisfying the selection criteria.\nPreviously diagnosed with pancreatic malignancy\nPregnancy or planning pregnancy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jeong Min Lee, MD",
+                            "OverallOfficialAffiliation": "Professor",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Seoul National University Hospital",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "03080",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreas Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreas Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M22244",
+                            "InterventionBrowseLeafName": "Pancrelipase",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M12804",
+                            "InterventionBrowseLeafName": "Pancreatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

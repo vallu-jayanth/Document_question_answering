@@ -1,0 +1,389 @@
+{
+    "Rank": 383,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04288284",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "0302761"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Alexandria",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Emergency Curative Resection of Colorectal Cancer",
+                "OfficialTitle": "Emergency Curative Resection of Colorectal Cancer, Do it With Caution. A Comparative Case Series"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 2015",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2019",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 25, 2020",
+                "StudyFirstSubmitQCDate": "February 25, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 28, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 25, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 28, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Mohamed El Messiry",
+                    "ResponsiblePartyInvestigatorTitle": "Ass. Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Alexandria"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Alexandria",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The feasibility and efficacy of emergency curative resection of complicated colorectal cancer is still controversial. This prospective study aim is to assess surgical and oncologic outcomes after emergency compared to elective curative resection of colorectal cancer",
+                "DetailedDescription": "60 consecutive patients presented with complicated colorectal cancer managed by emergency surgery were included and compared to another 155 consecutive patients admitted during the same period with uncomplicated colorectal cancer managed by elective surgery. Both groups were compared regarding curative resection rate, early postoperative mortality and morbidity, 3-years tumor recurrence and survival rates."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Oncologic Complications and Emergencies"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Complicated colorectal cancer",
+                        "Curative resection",
+                        "Surgical and oncologic outcomes"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Surgical specimens after curative resection of colorectal cancer"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "215",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Emergency group",
+                            "ArmGroupDescription": "Patients presented to emergency by complicated colorectal cancer ( Obstruction, bleeding or perforation)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Curative resection of colorectal cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Elective group",
+                            "ArmGroupDescription": "Patients presented with uncomplicated colorectal cancer for resection treatment",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Curative resection of colorectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Curative resection of colorectal cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Elective group",
+                                    "Emergency group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Adequate oncologic resection",
+                            "PrimaryOutcomeDescription": "Negative resection margins + adequate lymphadenectomy ( Lymph Nodes retrieved > 12)",
+                            "PrimaryOutcomeTimeFrame": "histopathological assessment of surgical specimens within 2 weeks postoperative"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "early postoperative mortality after curative resection of colorectal cancer",
+                            "PrimaryOutcomeDescription": "early death due to cause related to surgery",
+                            "PrimaryOutcomeTimeFrame": "within 90 days after surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "early postoperative morbidity after curative resection of colorectal cancer",
+                            "PrimaryOutcomeDescription": "surgery-related complications",
+                            "PrimaryOutcomeTimeFrame": "within 90 days after surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Tumor recurrence",
+                            "SecondaryOutcomeDescription": "either local or distant",
+                            "SecondaryOutcomeTimeFrame": "By the end of the 3 years follow up period"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Disease free survival",
+                            "SecondaryOutcomeDescription": "% of patients survived without recurrence",
+                            "SecondaryOutcomeTimeFrame": "By the end of the 3 years follow up period"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival",
+                            "SecondaryOutcomeDescription": "% of all patients survived either with or without recurrence",
+                            "SecondaryOutcomeTimeFrame": "By the end of the 3 years follow up period"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll patients presented with Potentially operable colorectal cancer\nNo clinical or radiological evidence of metastatic disease\n\nExclusion Criteria:\n\nPatients received preoperative chemoradiation\nPatients with clinical or radiological evidence of metastatic disease\nPatients with intraoperative evidence of metastatic disease\nPatients with intraoperative evidence of irresectable disease\nPatients with incomplete follow up",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This study included 60 consecutive patients presented by complicated colorectal cancer treated by emergency surgery at Alexandria University hospital between January 2015 and January 2017 (Group I). Another 155 patients with uncomplicated colorectal cancer treated by elective surgery during the same period were included (Group II).",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Mohamed Elmessiry, MD, PhD",
+                            "OverallOfficialAffiliation": "Ass. Professor of Surgery",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "23758762",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ghazi S, Berg E, Lindblom A, Lindforss U; Low-Risk Colorectal Cancer Study Group. Clinicopathological analysis of colorectal cancer: a comparison between emergency and elective surgical cases. World J Surg Oncol. 2013 Jun 11;11:133. doi: 10.1186/1477-7819-11-133."
+                        },
+                        {
+                            "ReferencePMID": "15820446",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Biondo S, Marti-Rague J, Kreisler E, Pares D, Martin A, Navarro M, Pareja L, Jaurrieta E. A prospective study of outcomes of emergency and elective surgeries for complicated colonic cancer. Am J Surg. 2005 Apr;189(4):377-83. doi: 10.1016/j.amjsurg.2005.01.009."
+                        },
+                        {
+                            "ReferencePMID": "17983065",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kim J, Mittal R, Konyalian V, King J, Stamos MJ, Kumar RR. Outcome analysis of patients undergoing colorectal resection for emergent and elective indications. Am Surg. 2007 Oct;73(10):991-3."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000004630",
+                            "ConditionMeshTerm": "Emergencies"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M7486",
+                            "ConditionBrowseLeafName": "Emergencies",
+                            "ConditionBrowseLeafAsFound": "Emergency",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

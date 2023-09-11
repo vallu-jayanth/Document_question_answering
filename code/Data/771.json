@@ -1,0 +1,523 @@
+{
+    "Rank": 771,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04763915",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "VICC SUPP 2112"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "U01CA254832",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/U01CA254832"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Vanderbilt-Ingram Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Improving Care After Inherited Cancer Testing",
+                "OfficialTitle": "Improving Care After Inherited Cancer Testing (IMPACT) Study",
+                "Acronym": "IMPACT"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 5, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2027",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2028",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 15, 2021",
+                "StudyFirstSubmitQCDate": "February 18, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 21, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 30, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 6, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Tuya Pal",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Director for Cancer Health Disparities",
+                    "ResponsiblePartyInvestigatorAffiliation": "Vanderbilt-Ingram Cancer Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Vanderbilt-Ingram Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        },
+                        {
+                            "CollaboratorName": "University of South Florida",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The IMPACT Study seeks to refine and evaluate the effectiveness of interventions on improving guideline-adherent cancer risk management (CRM) and family communication (FC) of genetic test results. These interventions will be delivered to individuals with a documented pathogenic/likely pathogenic (P/LP) variant or variant of uncertain significance (VUS) in an inherited cancer gene.",
+                "DetailedDescription": "Through recruitment of a racially, geographically, and socioeconomically diverse sample of patients, we will achieve the following aims:\n\nEvaluate factors associated with access to genetic risk assessment, counseling, and testing services\nConduct a randomized controlled trial to assess the effectiveness of interventions on improving guideline-adherent CRM and FC of genetic test results\nCreate and pilot an adaptive intervention to tailor resources to promote CRM and FC\nDocument and compare multiple implementation outcomes across the different interventions to maximize their effectiveness and improve reach to underserved populations"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Inherited Cancer Syndrome",
+                        "Prostate Cancer",
+                        "Colorectal Cancer",
+                        "Endometrial Cancer",
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Inherited Cancer Gene",
+                        "Pathogenic/Likely Pathogenic Variant",
+                        "Variant of Uncertain Significance",
+                        "Cancer Risk Management",
+                        "Family Sharing"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Prevention",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "720",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "GeneSHARE",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Access to GeneSHARE, a web-based toolkit including interactive and narrative components to enhance FC of genetic test results.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Correlative Studies (Survey)",
+                                    "Other: Correlative Studies (Interview)",
+                                    "Behavioral: GeneSHARE"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "LivingLabReport",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Access to LivingLabReport, a website containing multiple resources including a summary of the patient's genetic test results, condition-specific information, recommended CRM, and information on accessing CRM services.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Correlative Studies (Survey)",
+                                    "Other: Correlative Studies (Interview)",
+                                    "Behavioral: LivingLabReport"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Standard-of-care",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Receive standard-of-care from their treating healthcare provider.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Correlative Studies (Survey)",
+                                    "Other: Correlative Studies (Interview)",
+                                    "Behavioral: Standard-of-care & Adaptive Intervention"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Correlative Studies (Survey)",
+                            "InterventionDescription": "Administer surveys",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "GeneSHARE",
+                                    "LivingLabReport",
+                                    "Standard-of-care"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Correlative Studies (Interview)",
+                            "InterventionDescription": "In-depth interviews among a subset of participants after the 12-month follow-up survey to either: 1) determine additional resources and tailored message that would be helpful; or 2) assess the adaptive intervention",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "GeneSHARE",
+                                    "LivingLabReport",
+                                    "Standard-of-care"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "GeneSHARE",
+                            "InterventionDescription": "Access to GeneSHARE, a web-based toolkit which includes interactive and narrative components to enhance FC of genetic test results.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "GeneSHARE"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "LivingLabReport",
+                            "InterventionDescription": "Access to LivingLabReport, a website containing multiple resources including a summary of the patient's genetic test results, condition-specific information, recommended CRM, and information on accessing CRM services.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "LivingLabReport"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Standard-of-care & Adaptive Intervention",
+                            "InterventionDescription": "Receive standard-of-care from their treating healthcare provider. A subset of individuals will also be asked to test and pilot the adaptive intervention, which will consist of tailored resources to promote CRM and FC, after the 12-month follow-up survey.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard-of-care"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Change in FC of genetic test results (if P/LP variant result) or family history of cancer (if VUS result)",
+                            "PrimaryOutcomeDescription": "Having at least one additional at-risk adult, living relative with whom the participant has shared their test result, information about testing, or family history of cancer for the first time or has subsequently followed up with a relative",
+                            "PrimaryOutcomeTimeFrame": "12 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Change in CRM",
+                            "PrimaryOutcomeDescription": "Ongoing guideline-adherent CRM or a change towards guideline-adherent CRM per National Comprehensive Cancer Network (NCCN) CRM guidelines based on genetic test results as measured by survey data and verified through medical records where possible and/or appropriate.",
+                            "PrimaryOutcomeTimeFrame": "12 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nEnglish-speaking\nNot adopted (i.e., have information about their biological relatives)\nHave access to internet and a computer, tablet, or smartphone\nDocumented pathogenic/likely pathogenic variant or VUS in an inherited cancer gene that has CRM guidelines listed in the National Comprehensive Cancer Network (NCCN) Genetic/Familial Panel focused on Breast, Ovarian, and Pancreatic or Colorectal cancers\n\nMeet at least one of the following criteria:\n\nIntervention A (GeneSHARE) criteria: Have at least one at-risk adult, living relative who either:\n\nhas not been told about the genetic test result (if P/LP variant result) or family history of cancer (if VUS result) by the participant\nhas not had their own genetic testing if the participant has a P/LP variant\nIntervention B (LivingLabReport) criteria: Are non-adherent (i.e., either undertreatment or overtreatment) to at least one of the current NCCN CRM guidelines or if currently adherent, require ongoing cancer screening",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Anne Weidner, MPH",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "615-875-2444",
+                            "CentralContactEMail": "IMPACT@vumc.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Tuya Pal, MD",
+                            "OverallOfficialAffiliation": "Vanderbilt-Ingram Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Vanderbilt-Ingram Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Nashville",
+                            "LocationState": "Tennessee",
+                            "LocationZip": "37212",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Anne Weidner, MPH",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "615-875-2444"
+                                    },
+                                    {
+                                        "LocationContactName": "Tuya Pal, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34645413",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Cragun D, Beckstead J, Farmer M, Hooker G, Dean M, Matloff E, Reid S, Tezak A, Weidner A, Whisenant JG, Pal T. IMProving care After inherited Cancer Testing (IMPACT) study: protocol of a randomized trial evaluating the efficacy of two interventions designed to improve cancer risk management and family communication of genetic test results. BMC Cancer. 2021 Oct 13;21(1):1099. doi: 10.1186/s12885-021-08822-4."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "ICF",
+                            "LargeDocHasProtocol": "No",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "Yes",
+                            "LargeDocLabel": "Informed Consent Form",
+                            "LargeDocDate": "August 11, 2023",
+                            "LargeDocUploadDate": "08/30/2023 11:23",
+                            "LargeDocFilename": "ICF_001.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000016889",
+                            "ConditionMeshTerm": "Endometrial Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009386",
+                            "ConditionMeshTerm": "Neoplastic Syndromes, Hereditary"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014594",
+                            "ConditionAncestorTerm": "Uterine Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014591",
+                            "ConditionAncestorTerm": "Uterine Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030342",
+                            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16045",
+                            "ConditionBrowseLeafName": "Syndrome",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12021",
+                            "ConditionBrowseLeafName": "Neoplastic Syndromes, Hereditary",
+                            "ConditionBrowseLeafAsFound": "Inherited Cancer Syndromes",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M18925",
+                            "ConditionBrowseLeafName": "Endometrial Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Endometrial Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17032",
+                            "ConditionBrowseLeafName": "Uterine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17029",
+                            "ConditionBrowseLeafName": "Uterine Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23376",
+                            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

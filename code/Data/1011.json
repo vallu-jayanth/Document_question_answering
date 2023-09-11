@@ -1,0 +1,448 @@
+{
+    "Rank": 1011,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03937453",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "18-01"
+                },
+                "Organization": {
+                    "OrgFullName": "Nuvance Health",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Pancreatic Cancer Screening Study in Individuals With New-Onset or Deteriorating Diabetes Mellitus",
+                "OfficialTitle": "A PAncreatic Cancer Screening Study in Individuals With New-Onset or DeteriOrating Diabetes MEllitus (PANDOME Study)",
+                "Acronym": "PANDOME"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 19, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 19, 2028",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 19, 2028",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "April 5, 2019",
+                "StudyFirstSubmitQCDate": "May 2, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 3, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 8, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 10, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Richard Frank",
+                    "ResponsiblePartyInvestigatorTitle": "Director of Cancer Research",
+                    "ResponsiblePartyInvestigatorAffiliation": "Nuvance Health"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Nuvance Health",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main goal of this study is to explore the relationship between new-onset diabetes mellitus/deteriorating diabetes and a subsequent diagnosis of pancreatic cancer. Magnetic Resonance Imaging and Magnetic cholangiopancreatography (MRI/MRCP) will be utilized to screen for early stage pancreatic cancer or precursor lesions. Participants will be asked to donate a blood sample at specific intervals for the creation of a bio-bank necessary for the development of a blood based screening test for pancreatic cancer.",
+                "DetailedDescription": "Individuals over 50 years of age who have developed new-onset diabetes mellitus (diagnosed within the past 12 months) or deteriorating diabetes will be recruited through the offices of primary care physicians and endocrinologists. Those meeting initial criteria will meet with a research APRN and will undergo a secondary screen to determine eligibility. Individuals enrolled in the study will undergo a five-minute psychological survey and donation of a blood sample for bio-bank analysis every 6 months for 3 years. MRI will be performed at baseline. Any abnormalities on MRI will be reviewed by a multi-disciplinary tumor board and discussed with the participant. Additional MRI will be performed on case-by-case basis"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer",
+                        "Pancreatic Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Pancreas",
+                        "Cancer",
+                        "Diabetes Mellitus",
+                        "MRI",
+                        "Early Detection"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Serum sample"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "800",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "New-Onset Diabetes Mellitus",
+                            "ArmGroupDescription": "Diabetes Mellitus diagnosed within the past 12 months",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MRI/MRCP"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Deteriorating Diabetes Mellitus",
+                            "ArmGroupDescription": "History of Diabetes Mellitus with recent deteriorating within the past 6 months confirmed with repeat testing and not associated with weight gain or diabetes medication non-compliance",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: MRI/MRCP"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "MRI/MRCP",
+                            "InterventionDescription": "An MRI/MRCP with IV gadolinium contrast with high resolution imaging of the pancreas will be performed at baseline. Further imaging upon recommendation by study committee",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Deteriorating Diabetes Mellitus",
+                                    "New-Onset Diabetes Mellitus"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Early Stage Pancreatic Cancer or Precursor Lesions",
+                            "PrimaryOutcomeDescription": "Determine incidence of pancreatic cancer or precursor lesions in individuals with new-onset diabetes mellitus or deteriorating diabetes",
+                            "PrimaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Relative Risk of Pancreatic Cancer Among Individuals with New-Onset Diabetes",
+                            "SecondaryOutcomeDescription": "Assess utility of MRI as a screening tool for pancreatic cancer and ascertain relative risk of pancreatic cancer in study population of individuals with new-onset diabetes compared to a normal population of the same age",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Relative Risk of Pancreatic Cancer Among Individuals with Detiorating diabetes",
+                            "SecondaryOutcomeDescription": "Assess utility of MRI as a screening tool for pancreatic cancer and ascertain relative risk of pancreatic cancer in study population of individuals with deteriorating diabetes compared to a normal population of the same age",
+                            "SecondaryOutcomeTimeFrame": "Through study completion, up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge of at least 50 years.\nDM of Confirmed Duration: DM diagnosed within the past 12 months AND documentation of prior normal FPG, OGTT or HbA1c levels within the past 2 years. Requirement for HbA1c \u2265 6.5% OR\nDM of Unconfirmed Duration: DM diagnosed within the past 12 months BUT no prior record of normal FPG, HbA1c or OGTT within the past 2 years. Requirement for HbA1c \u2265 7.0% OR\nTransition from pre-Diabetes to Diabetes Mellitus within the past 12 months characterized by a change in the HbA1c of \u2265 0.5% OR\nDM With Only One FDR: DM diagnosed within the past 12 months that is of Confirmed or Unconfirmed Duration, in an individual with 1 FDR. Requirement for HbA1c \u2265 6.5%. OR\nDeteriorating Diabetes: DM with >2% spike in HbA1c within past 6 months confirmed with repeat testing and NOT associated with weight gain and diabetes medication non-compliance\nECOG Performance Status of 0-1.\nNo known contraindications to MRI examination or gadolinium contrast.\nWilling to undergo MRI and screening for metal implants or metal injury.\nRecent BUN and Cr\nEstimated GFR (eGFR) must be greater than 30 mL/min.\nAbility to provide informed consent.\nWilling to return to study site for all study assessments.\n\nExclusion Criteria:\n\nPrior history of pancreatic cancer.\nPresence of metastatic cancer or cancer requiring adjuvant chemotherapy within the past 5 years.\nReceived chemotherapy within the past 6 months. (Hormonal therapy is allowable if the disease free interval is at least 5 years).\nHereditary pancreatitis.\neGFR < 30 mL/min.\nContraindication to MRI examination or gadolinium contrast.\nPregnant or nursing women.\nCo-morbid illnesses or other concurrent disease which, in the judgment of the clinicians obtaining informed consent, would make the participant inappropriate for entry into this study.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "50+ years of age. New-onset diabetes mellitus (diagnosed with within the preceding 12 months) or Deteriorating diabetes mellitus (spike in HbA1c within past 6 months without weight gain and medication non-compliance)",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Tammy Lo, APRN",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "203-855-3551",
+                            "CentralContactEMail": "Tammy.Lo@nuvancehealth.org"
+                        },
+                        {
+                            "CentralContactName": "Pramila Krumholtz, RN",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "203-739-7997",
+                            "CentralContactEMail": "Pramila.Krumholtz@nuvancehealth.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Richard Frank, MD",
+                            "OverallOfficialAffiliation": "Nuvance Health",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Nuvance Health",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Norwalk",
+                            "LocationState": "Connecticut",
+                            "LocationZip": "06856",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tammy Lo, APRN",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "203-855-3551",
+                                        "LocationContactEMail": "Tammy.Lo@nuvancehealth.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Richard Frank, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "More information regarding the Pancreatic Cancer Screening Study may be found here",
+                            "SeeAlsoLinkURL": "https://www.nuvancehealth.org/about-us/research-and-innovation/cancer-research/pancreatic-cancer-research/pancreatic-cancer-screening-study"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "De-identified participant data for all primary and secondary outcome measures will be made available",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Informed Consent Form (ICF)",
+                        "Clinical Study Report (CSR)"
+                    ]
+                },
+                "IPDSharingTimeFrame": "Data will be available within 6 months of study completion",
+                "IPDSharingAccessCriteria": "Data access requests will be reviewed on an individual basis post submission. Requestors may be required to sign a data access agreement"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000003920",
+                            "ConditionMeshTerm": "Diabetes Mellitus"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000044882",
+                            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008659",
+                            "ConditionAncestorTerm": "Metabolic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M6805",
+                            "ConditionBrowseLeafName": "Diabetes Mellitus",
+                            "ConditionBrowseLeafAsFound": "Diabetes Mellitus",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11329",
+                            "ConditionBrowseLeafName": "Metabolic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M25093",
+                            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC18",
+                            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M22244",
+                            "InterventionBrowseLeafName": "Pancrelipase",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M12804",
+                            "InterventionBrowseLeafName": "Pancreatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

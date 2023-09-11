@@ -1,0 +1,238 @@
+{
+    "Rank": 281,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05405413",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "STUDY02001441"
+                },
+                "Organization": {
+                    "OrgFullName": "Dartmouth-Hitchcock Medical Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "CAncer TReatment INformed by the Molecular Tumor Board At Dartmouth",
+                "OfficialTitle": "CAncer TReatment INformed by the Molecular Tumor Board At Dartmouth",
+                "Acronym": "CATRINA"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2029",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2029",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 27, 2022",
+                "StudyFirstSubmitQCDate": "June 1, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 6, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 21, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 23, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Laura.J.Tafe",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator; Associate Professor, Department of Pathology & Laboratory Medicine",
+                    "ResponsiblePartyInvestigatorAffiliation": "Dartmouth-Hitchcock Medical Center"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Dartmouth-Hitchcock Medical Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a single-arm Phase II study to measure the impact of Molecular Tumor Board treatment recommendations on treatment decision-making in clinical practice at the Dartmouth Cancer Center. Following tumor genetic profiling, subjects will be screened for eligibility. Eligible subjects' cases will be evaluated by the Dartmouth Cancer Center Molecular Tumor Board, and treatment recommendations will be entered into the medical record as per standard procedure.\n\nThe primary endpoint is a survey response from the treating physician indicating how Molecular Tumor Board evaluation impacted treatment decisions. Secondary endpoints include: 1) Molecular Tumor Board treatment recommendation; 2) disease progression on line of therapy started after MTB recommendations were made. Surveys will be administered approximately 3 and 12 months after Molecular Tumor Board recommendations are made."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "174",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Subjects evaluated by Molecular Tumor Board",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Subjects whose cases are evaluated by Molecular Tumor Board",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Treatment recommendations made by Molecular Tumor Board."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Treatment recommendations made by Molecular Tumor Board.",
+                            "InterventionDescription": "Molecular Tumor Board recommendations may include any of the following:\n\n(A) a tumor-targeted drug (alone or in combination)\n\n(B) an antibody-based immunotherapy (alone or in combination)\n\n(C) neither (A) nor (B).\n\n(D) referral to the Familial Cancer Program\n\n(E) referral for germline genetic testing",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Subjects evaluated by Molecular Tumor Board"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of subjects for whom evaluation by Molecular Tumor Board impacts treatment decisions as reported by the treating physician.",
+                            "PrimaryOutcomeDescription": "Treating physicians will complete surveys at 3 months after Molecular Tumor Board recommendations are made. Survey response from the treating physician indicating how Molecular Tumor Board recommendations impacted treatment decisions.",
+                            "PrimaryOutcomeTimeFrame": "3 months after recommendation"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Proportion of subjects for whom evaluation by Molecular Tumor Board impacts treatment decisions as reported by the treating physician.",
+                            "PrimaryOutcomeDescription": "Treating physicians will complete surveys at 12 months after Molecular Tumor Board recommendations are made. Survey response from the treating physician indicating how Molecular Tumor Board recommendations impacted treatment decisions.",
+                            "PrimaryOutcomeTimeFrame": "12 months after recommendation"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of subjects for whom Molecular Tumor Board recommends treatment with a tumor-targeted therapy or immunotherapy.",
+                            "SecondaryOutcomeDescription": "Proportion of subjects for whom a tumor-targeted therapy or immunotherapy (i.e., not conventional chemotherapy) made by the Molecular Tumor Board will be collected.",
+                            "SecondaryOutcomeTimeFrame": "1 month after recommendation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of subjects who are treated with a Molecular Tumor Board-recommended tumor-targeted therapy or immunotherapy",
+                            "SecondaryOutcomeDescription": "Proportion of subjects who are treated with a Molecular Tumor Board-recommended tumor-targeted therapy or immunotherapy",
+                            "SecondaryOutcomeTimeFrame": "Approximately 3 months after recommendation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants with progression-free survival after Molecular Tumor Board recommendations were made.",
+                            "SecondaryOutcomeDescription": "Subjects' disease outcomes will be followed for up to 36 months following the date of Molecular Tumor Board recommendations. Progression-free survival is defined as the time from start of treatment to disease progression or death from any cause.",
+                            "SecondaryOutcomeTimeFrame": "Up to 36 months after recommendation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to treatment failure",
+                            "SecondaryOutcomeDescription": "Time to treatment failure is defined as the time from start of treatment to discontinuation of treatment for any reason, including disease progression, treatment toxicity, and death.",
+                            "SecondaryOutcomeTimeFrame": "Up to 36 months after recommendation"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion of subjects for whom Molecular Tumor Board-recommended germline genetic testing results in confirmation of a germline genetic lesion/mutation.",
+                            "SecondaryOutcomeDescription": "Determine the proportion of subjects for whom Molecular Tumor Board-recommended germline genetic testing results in confirmation of a germline genetic lesion/mutation.",
+                            "SecondaryOutcomeTimeFrame": "Approximately 3 months after recommendation"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSubject must provide verbal informed consent for study participation prior to MTB case evaluation.\nTumor genetic profiling performed as standard of care must include \u2265100 genes.\nTumor must contain at least one of the following genetic alterations: (A) an alteration known to be potentially associated with sensitization to a clinically available treatment. (the list of genetic alterations evolves as new information emerges and new drugs are developed); (B) an alteration suspected to be germline.\nSubject must have ECOG Performance Status of 0 to 2.\nSubject must have measurable or evaluable disease.\nSubjects who have previously enrolled in this study can be enrolled a second time if they undergo genetic profiling of a tumor that was biopsied/sampled AFTER progression on an intervening line of treatment started after the time of first enrollment. Re-enrollment of such subjects must be noted in REDCap to facilitate longitudinal analysis.\nAge \u226518 years.\n\nExclusion Criteria:\n\nSubjects with a tumor harboring a genetic alteration for which an FDA-approved drug is indicated that the patient has not yet received (example for exclusion: a melanoma with a BRAF-V600E mutation in a subject who has not yet been treated with a BRAF inhibitor).\nPregnant women.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Laura J Tafe, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "(603) 650-7211",
+                            "CentralContactEMail": "laura.j.tafe@hitchcock.org"
+                        },
+                        {
+                            "CentralContactName": "Jacob R Dubien",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "jacob.r.dubien@Hitchcock.org"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M9874",
+                            "InterventionBrowseLeafName": "Immunoglobulins",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3915",
+                            "InterventionBrowseLeafName": "Antibodies",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

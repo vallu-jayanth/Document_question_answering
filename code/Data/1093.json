@@ -1,0 +1,481 @@
+{
+    "Rank": 1093,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02462447",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "HUM00091201"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "R21CA191052-01",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/R21CA191052-01"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of Michigan",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Carbon-11 Labeled Sarcosine in Prostate Cancer",
+                "OfficialTitle": "Biodistribution and Mechanism of Action of the 11C-labeled PET Tracer Sarcosine in Patients With Prostate Cancer as Well as Radiation Dosimetry, Plasma Pharmacokinetics and Biodistribution in Healthy Volunteers"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2017",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 2015"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 8, 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 8, 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 27, 2015",
+                "StudyFirstSubmitQCDate": "June 1, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 4, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 7, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 9, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Morand Piert, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Michigan"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Michigan",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Institutes of Health (NIH)",
+                            "CollaboratorClass": "NIH"
+                        },
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Men with and without prostate cancer will have a PET/CT scan that measures the level of the amino acid sarcosine. PET is a scanning method that uses short lived radioactivity.",
+                "DetailedDescription": "Tissue levels of the amino acid sarcosine are elevated in prostate cancer compared to normal prostate tissues and further increased in metastases from prostate cancer. This research project is designed to test whether 11C-sarcosine (a chemical that is linked to short lived radioactivity) would be useful to detect prostate cancer in men using PET/CT imaging. The uptake and distribution of 11C-sarcosine in men with known or suspected prostate cancer will be determined and compared with results from 11C-choline PET/CT."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "prostate",
+                        "cancer",
+                        "biopsy",
+                        "PET"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Group 1 (prostate cancer patients):\n\nTissue biopsies from prostate cancer lesions are performed as part of routine clinical care. These tissues will however be used for research purposes.\n\nGroup 2 (healthy men):\n\nNo biopsies are performed in volunteers."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Prostate Cancer",
+                            "ArmGroupDescription": "Subjects will receive two PET/CT examinations, one with 11C-sarcosine and one with 11C-choline. These scans will take 30-45 minutes each.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: 11C-sarcosine",
+                                    "Drug: 11C-choline"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Healthy Volunteer",
+                            "ArmGroupDescription": "Subjects will receive one PET/CT examination, with 11C-sarcosine. This scan will take approximately 90 minutes.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: 11C-sarcosine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "11C-sarcosine",
+                            "InterventionDescription": "Radiotracer injection for PET/CT scan",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Healthy Volunteer",
+                                    "Prostate Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "11C-choline",
+                            "InterventionDescription": "Radiotracer injection for PET/CT scan",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Prostate Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluation of biodistribution of 11C-sarcosine in prostate cancer patients",
+                            "PrimaryOutcomeTimeFrame": "One Month"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Evaluation of radiation dosimetry of 11C-sarcosine in healthy volunteers",
+                            "PrimaryOutcomeTimeFrame": "One Month"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Comparison of the uptake measures of 11C-sarcosine with those from 11C-choline",
+                            "SecondaryOutcomeDescription": "Standardized uptake (SUV) values from tumor tissues relative to background, also called tumor-to-background ratios (TBR), will be determined from both, 11C-sarcosine and 11C-choline. Then TBR measurements from 11C-choline and 11C-sarcosine will be compared to identify whether 11C-sarcosine improves tumor to background image contrast relative to 11C-choline in prostate cancer.",
+                            "SecondaryOutcomeTimeFrame": "One Month"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of underlying metabolic pathways of sarcosine in prostate cancer tissues obtained from tissue materials",
+                            "SecondaryOutcomeTimeFrame": "One Month"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Evaluation of the relationship between sarcosine (and metabolite) tissue concentrations and 11C-sarcosine/11C-choline plasma and tissue uptake measures",
+                            "SecondaryOutcomeTimeFrame": "One Month"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMales 40 years of age or older\nConfirmed or suspected prostate cancer and will undergo a planned tissue biopsy of the known or suspected tumor (Prostate Cancer Group 1 only)\n\nExclusion Criteria:\n\nActive malignancy (except basal cell or squamous cell skin cancer) within the last 2 years\nBody weight > 350 lbs (158 kg)\nPrisoners\nSubject not willing or able to sign informed consent",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Male",
+                "MinimumAge": "40 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Group 1: Subjects with confirmed or suspected prostate cancer who will undergo a planned tissue biopsy of the known or suspected tumor\n\nGroup 2: Healthy volunteers.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Morand R Piert, MD",
+                            "OverallOfficialAffiliation": "University of Michigan Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Michigan Health Systems",
+                            "LocationCity": "Ann Arbor",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48109",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28302759",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Piert M, Shao X, Raffel D, Davenport MS, Montgomery J, Kunju LP, Hockley BG, Siddiqui J, Scott PJH, Chinnaiyan AM, Rajendiran T. Preclinical Evaluation of 11C-Sarcosine as a Substrate of Proton-Coupled Amino Acid Transporters and First Human Application in Prostate Cancer. J Nucl Med. 2017 Aug;58(8):1216-1223. doi: 10.2967/jnumed.116.173179. Epub 2017 Mar 16."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000002794",
+                            "InterventionMeshTerm": "Choline"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000008082",
+                            "InterventionAncestorTerm": "Lipotropic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000960",
+                            "InterventionAncestorTerm": "Hypolipidemic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000963",
+                            "InterventionAncestorTerm": "Antimetabolites"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000005765",
+                            "InterventionAncestorTerm": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000057847",
+                            "InterventionAncestorTerm": "Lipid Regulating Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018697",
+                            "InterventionAncestorTerm": "Nootropic Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M5724",
+                            "InterventionBrowseLeafName": "Choline",
+                            "InterventionBrowseLeafAsFound": "Level 1",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3968",
+                            "InterventionBrowseLeafName": "Hypolipidemic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3971",
+                            "InterventionBrowseLeafName": "Antimetabolites",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M8571",
+                            "InterventionBrowseLeafName": "Gastrointestinal Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M28573",
+                            "InterventionBrowseLeafName": "Lipid Regulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20464",
+                            "InterventionBrowseLeafName": "Nootropic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T443",
+                            "InterventionBrowseLeafName": "Choline",
+                            "InterventionBrowseLeafAsFound": "Level 1",
+                            "InterventionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "NootAg",
+                            "InterventionBrowseBranchName": "Nootropic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Lipd",
+                            "InterventionBrowseBranchName": "Lipid Regulating Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Vi",
+                            "InterventionBrowseBranchName": "Vitamins"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

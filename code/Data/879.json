@@ -1,0 +1,2011 @@
+{
+    "Rank": 879,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02502864",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MCC-18118"
+                },
+                "Organization": {
+                    "OrgFullName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Multicenter Study of Pharmacokinetic-Guided Docetaxel in Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide",
+                "OfficialTitle": "Multicenter Study Investigating Utilization of Pharmacokinetic(PK)-Guided Docetaxel in Senior Adult Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide (TC) Chemotherapy"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 9, 2016",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 29, 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "January 31, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 15, 2015",
+                "StudyFirstSubmitQCDate": "July 16, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 20, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "August 13, 2018",
+                "ResultsFirstSubmitQCDate": "September 18, 2018",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "October 18, 2018",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 9, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 11, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Saladax Biomedical, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to adjust the amount of docetaxel participants receive based on the level of docetaxel measured in their blood. This method of dose adjustment is called pharmacokinetic (PK)-adjusted docetaxel. The researchers believe that adjusting the dose of docetaxel using this method will lessen the side effects associated with docetaxel in cancer treatment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer",
+                        "Breast Cancer Female"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "senior adult",
+                        "postmenopausal"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 4"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "9",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Standard of Care + Surveys",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys. All participants will receive TC for cycle 1 with subsequent cycles repeated every 3 weeks for a total of 4 cycles. All initial dosing will be based on actual body weight and height. Participants will receive up to 4 doses of chemotherapy. Following their 4th dose of chemotherapy, or the last dose of chemotherapy in which blood level monitoring was performed, participants will be assessed for side effects from the chemotherapy and complete their final written 53 question survey about their quality of life.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Standard of Care: Docetaxel",
+                                    "Drug: Standard of Care: Cyclophosphamide",
+                                    "Other: Function Assessment of Cancer Therapy (FACT) Surveys"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Standard of Care: Docetaxel",
+                            "InterventionDescription": "Pharmacokinetic(PK)-guided docetaxel. Cycle 1: 75 mg/m^2, intravenously (IV) on Day 1 for 60 minutes. Beginning with cycle 2, the docetaxel dose will be individually adjusted before each cycle.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard of Care + Surveys"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Taxotere\u00ae"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Standard of Care: Cyclophosphamide",
+                            "InterventionDescription": "Cycle 1: 600 mg/m^2, via IV on Day 1 for 30 minutes. The cyclophosphamide dose will not be changed unless dictated by toxicity.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard of Care + Surveys"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Cytoxan\u00ae"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Function Assessment of Cancer Therapy (FACT) Surveys",
+                            "InterventionDescription": "Participants will complete the FACT-Taxane and FACT-Breast quality of life assessment written surveys at baseline, during each chemotherapy cycle, and 3-5 weeks following the last cycle in which PK monitoring was performed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard of Care + Surveys"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of Achieving Targeted Area Under the Curve (AUC)",
+                            "PrimaryOutcomeDescription": "Rate of PK guided dosing of docetaxel chemotherapy improving the ability to achieve a targeted AUC ( 2.5-3.7 mg*hr/L) within 4 cycles of therapy in patients > 65 years of age with breast cancer receiving TC (docetaxel and cyclophosphamide) as compared with historical non-PK guided therapy from patients receiving a similar regimen.",
+                            "PrimaryOutcomeTimeFrame": "Cycle 4 - Up to 6 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Incidence of Grade 3 and 4 Neutropenia and Febrile Neutropenia",
+                            "SecondaryOutcomeDescription": "The incidence of grade 3 and 4 neutropenia and febrile neutropenia in cycles following PK adjustment (cycles 2-4) will be compared with cycle 1 and historical non-PK guided therapy using the Wilcoxon-Rank sum assessment.",
+                            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association Between Scores - Chemotherapy Risk Assessment Scale for High-Age Patients",
+                            "SecondaryOutcomeDescription": "The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score will be reported as ordinal data (low, intermediate-low, intermediate-high, or high risk).",
+                            "SecondaryOutcomeTimeFrame": "Baseline and Post Cycle 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association Between Scores - Instrumental Activities of Daily Living",
+                            "SecondaryOutcomeDescription": "The Instrumental Activities of Daily Living (IADL) total score will be reported as binomial data (greater or less than 26 based on how it is incorporated into the CRASH score).",
+                            "SecondaryOutcomeTimeFrame": "Baseline and Post Cycle 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Association Between Scores - Cumulative Illness Rating Scale for Geriatrics",
+                            "SecondaryOutcomeDescription": "The Cumulative Illness Rating Scale for Geriatrics (CIRS-G) will be reported as discrete data out of a possible score of 65. The Wilcoxon-Rank sum and Chi-squared tests will be used as appropriate.",
+                            "SecondaryOutcomeTimeFrame": "Baseline and Post Cycle 1"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Comparison of Patient Profiles and Function Assessment of Cancer Therapy (FACT) Scores",
+                            "OtherOutcomeDescription": "The relationship between PK-guided docetaxel patient PK profiles and the Function Assessment of Cancer Therapy (FACT) Taxane and Breast Cancer scores will be described.",
+                            "OtherOutcomeTimeFrame": "Up to 6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMust have histologically confirmed localized or locally advanced breast cancer for which the treatment plan includes chemotherapy with 4 cycles of standard TC (docetaxel 75 mg/m^2 and cyclophosphamide 600mg/m^2)\nAge >/= 65 years (Senior adult focused study given increased risk for toxicity)\nParticipants must be female\nEastern Cooperative Oncology Group (ECOG) performance status <2\nMust have normal organ and marrow function\nNo pre-existing neuropathy grade > 1 per the NCI Common Toxicity Criteria for Adverse Effects (CTCAE) version 4.0\nBe postmenopausal (defined as amenorrheic for at least 12 months)\nMust be informed of the investigational nature of this study and be willing to provide written informed consent in accordance with Institutional guidelines and Good Clinical Practice (GCP) indicating that they understand the purpose of and procedures required for the study and are willing to participate prior to the beginning of any specific study procedures.\n\nExclusion Criteria:\n\nHave uncontrolled illness (including, but not limited to, ongoing or active infection, congestive heart failure, angina pectoris, or cardiac arrhythmia) that would limit compliance with study requirements\nHave psychiatric illness that would limit compliance with study requirements\nHave history of allergic reactions attributed to compounds of similar chemical or biologic composition to taxanes (docetaxel or paclitaxel) or cyclophosphamide\nHave known seropositivity for human immunodeficiency virus, hepatitis C virus, hepatitis B surface antigen, or syphilis. Does not require serologic confirmation as a study procedure.\nNot willing to follow protocol requirements or to give informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "65 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Christine Walko, Pharm.D.",
+                            "OverallOfficialAffiliation": "H. Lee Moffitt Cancer Center and Research Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "H. Lee Moffitt Cancer Center and Research Institute",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33612",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Moffitt Cancer Center Clinical Trials website",
+                            "SeeAlsoLinkURL": "http://www.moffitt.org/clinical-trials-research/"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowRecruitmentDetails": "Participants were enrolled at Moffitt Cancer Center, February 2016 through June 2017.",
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Standard of Care + Surveys",
+                            "FlowGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys. All participants will receive TC for cycle 1 with subsequent cycles repeated every 3 weeks for a total of 4 cycles. All initial dosing will be based on actual body weight and height. Participants will receive up to 4 doses of chemotherapy. Following their 4th dose of chemotherapy, or the last dose of chemotherapy in which blood level monitoring was performed, participants will be assessed for side effects from the chemotherapy and complete their final written 53 question survey about their quality of life.\n\nStandard of Care: Docetaxel: Pharmacokinetic(PK)-guided docetaxel. Cycle 1: 75 mg/m^2, intravenously (IV) on Day 1 for 60 minutes. Beginning with cycle 2, the docetaxel dose will be individually adjusted before each cycle."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "9"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "FlowDropWithdrawList": {
+                                "FlowDropWithdraw": [
+                                    {
+                                        "FlowDropWithdrawType": "Withdrawal by Subject",
+                                        "FlowReasonList": {
+                                            "FlowReason": [
+                                                {
+                                                    "FlowReasonGroupId": "FG000",
+                                                    "FlowReasonNumSubjects": "1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselinePopulationDescription": "All participants.",
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Standard of Care + Surveys",
+                            "BaselineGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "9"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Full Range",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "72",
+                                                                "BaselineMeasurementLowerLimit": "66",
+                                                                "BaselineMeasurementUpperLimit": "85"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Ethnicity (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Hispanic or Latino",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Not Hispanic or Latino",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "8"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race (NIH/OMB)",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "American Indian or Alaska Native",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Asian",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Native Hawaiian or Other Pacific Islander",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Black or African American",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "White",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "More than one race",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Unknown or Not Reported",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Rate of Achieving Targeted Area Under the Curve (AUC)",
+                            "OutcomeMeasureDescription": "Rate of PK guided dosing of docetaxel chemotherapy improving the ability to achieve a targeted AUC ( 2.5-3.7 mg*hr/L) within 4 cycles of therapy in patients > 65 years of age with breast cancer receiving TC (docetaxel and cyclophosphamide) as compared with historical non-PK guided therapy from patients receiving a similar regimen.",
+                            "OutcomeMeasurePopulationDescription": "All participants evaluable at time of analysis.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "Cycle 4 - Up to 6 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "8"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "AUC mg*hr/L: 2.5-3.7",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "5"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "AUC mg*hr/L: <2.5",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Incidence of Grade 3 and 4 Neutropenia and Febrile Neutropenia",
+                            "OutcomeMeasureDescription": "The incidence of grade 3 and 4 neutropenia and febrile neutropenia in cycles following PK adjustment (cycles 2-4) will be compared with cycle 1 and historical non-PK guided therapy using the Wilcoxon-Rank sum assessment.",
+                            "OutcomeMeasurePopulationDescription": "All participants.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "Up to 6 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "9"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Participants with Grade 3 or 4 neutropenia",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Participants with Febrile neutropenia",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Association Between Scores - Chemotherapy Risk Assessment Scale for High-Age Patients",
+                            "OutcomeMeasureDescription": "The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score will be reported as ordinal data (low, intermediate-low, intermediate-high, or high risk).",
+                            "OutcomeMeasurePopulationDescription": "Descriptive analysis was planned for 52 participants. Due to the small number of participants enrolled, analyzing additional correlations was not possible.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "Baseline and Post Cycle 1",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Association Between Scores - Instrumental Activities of Daily Living",
+                            "OutcomeMeasureDescription": "The Instrumental Activities of Daily Living (IADL) total score will be reported as binomial data (greater or less than 26 based on how it is incorporated into the CRASH score).",
+                            "OutcomeMeasurePopulationDescription": "Descriptive analysis was planned for 52 participants. Due to the small number of participants enrolled, analyzing additional correlations was not possible.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "Baseline and Post Cycle 1",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Association Between Scores - Cumulative Illness Rating Scale for Geriatrics",
+                            "OutcomeMeasureDescription": "The Cumulative Illness Rating Scale for Geriatrics (CIRS-G) will be reported as discrete data out of a possible score of 65. The Wilcoxon-Rank sum and Chi-squared tests will be used as appropriate.",
+                            "OutcomeMeasurePopulationDescription": "Descriptive analysis was planned for 52 participants. Due to the small number of participants enrolled, analyzing additional correlations was not possible.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "Baseline and Post Cycle 1",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Other Pre-specified",
+                            "OutcomeMeasureTitle": "Comparison of Patient Profiles and Function Assessment of Cancer Therapy (FACT) Scores",
+                            "OutcomeMeasureDescription": "The relationship between PK-guided docetaxel patient PK profiles and the Function Assessment of Cancer Therapy (FACT) Taxane and Breast Cancer scores will be described.",
+                            "OutcomeMeasurePopulationDescription": "Descriptive analysis was planned for 52 participants. Due to the small number of participants enrolled, analyzing additional correlations was not possible.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "Up to 6 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Standard of Care + Surveys",
+                                        "OutcomeGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventsTimeFrame": "1 year, 9 months",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Standard of Care + Surveys",
+                            "EventGroupDescription": "Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys.",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "9",
+                            "EventGroupSeriousNumAffected": "3",
+                            "EventGroupSeriousNumAtRisk": "9",
+                            "EventGroupOtherNumAffected": "9",
+                            "EventGroupOtherNumAtRisk": "9"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Fatigue",
+                            "SeriousEventOrganSystem": "General disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Non-cardiac chest pain",
+                            "SeriousEventOrganSystem": "General disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Sepsis",
+                            "SeriousEventOrganSystem": "Infections and infestations",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Urinary tract infection",
+                            "SeriousEventOrganSystem": "Infections and infestations",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Syncope",
+                            "SeriousEventOrganSystem": "Nervous system disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Anxiety",
+                            "SeriousEventOrganSystem": "Psychiatric disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Thromboembolic event",
+                            "SeriousEventOrganSystem": "Vascular disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Non-systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Constipation",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Diarrhea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry mouth",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Abdominal pain",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Oral pain",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Salivary duct inflammation",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fatigue",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "15",
+                                        "OtherEventStatsNumAffected": "9",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Edema limbs",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "7",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Bone pain",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Arthralgia",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Back pain",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Generalized muscle weakness",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Musculoskeletal and connective tissue disorder - Other",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Alopecia",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritus",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Neutrophil count decreased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "White blood cell decreased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Alkaline phosphatase increased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Lymphocyte count decreased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Platelet count decreased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Creatinine increased",
+                            "OtherEventOrganSystem": "Investigations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dizziness",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Headache",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Peripheral sensory neuropathy",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Syncope",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dyspnea",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Epistaxis",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pneumonitis",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sore throat",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dehydration",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyperkalemia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypoalbuminemia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypocalcemia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypokalemia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyponatremia",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypotension",
+                            "OtherEventOrganSystem": "Vascular disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypertension",
+                            "OtherEventOrganSystem": "Vascular disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry eye",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Watering eyes",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Papulopustular rash",
+                            "OtherEventOrganSystem": "Infections and infestations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sepsis",
+                            "OtherEventOrganSystem": "Infections and infestations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urinary tract infection",
+                            "OtherEventOrganSystem": "Infections and infestations",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Allergic reaction",
+                            "OtherEventOrganSystem": "Immune system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anxiety",
+                            "OtherEventOrganSystem": "Psychiatric disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hematuria",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Non-systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "9"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Christine M. Walko, Pharm.D., BCOP",
+                    "PointOfContactOrganization": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "PointOfContactEMail": "christine.walko@moffitt.org",
+                    "PointOfContactPhone": "813-745-1519"
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot_SAP",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "Yes",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+                            "LargeDocDate": "October 2, 2015",
+                            "LargeDocUploadDate": "08/13/2018 14:26",
+                            "LargeDocFilename": "Prot_SAP_000.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000003520",
+                            "InterventionMeshTerm": "Cyclophosphamide"
+                        },
+                        {
+                            "InterventionMeshId": "D000077143",
+                            "InterventionMeshTerm": "Docetaxel"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007166",
+                            "InterventionAncestorTerm": "Immunosuppressive Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018501",
+                            "InterventionAncestorTerm": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018906",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000477",
+                            "InterventionAncestorTerm": "Alkylating Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000019653",
+                            "InterventionAncestorTerm": "Myeloablative Agonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050257",
+                            "InterventionAncestorTerm": "Tubulin Modulators"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050256",
+                            "InterventionAncestorTerm": "Antimitotic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000050258",
+                            "InterventionAncestorTerm": "Mitosis Modulators"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M1668",
+                            "InterventionBrowseLeafName": "Docetaxel",
+                            "InterventionBrowseLeafAsFound": "Acute",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6417",
+                            "InterventionBrowseLeafName": "Cyclophosphamide",
+                            "InterventionBrowseLeafAsFound": "Time",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M147850",
+                            "InterventionBrowseLeafName": "Taxane",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9902",
+                            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20294",
+                            "InterventionBrowseLeafName": "Antirheumatic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20632",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3510",
+                            "InterventionBrowseLeafName": "Alkylating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25887",
+                            "InterventionBrowseLeafName": "Tubulin Modulators",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25886",
+                            "InterventionBrowseLeafName": "Antimitotic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ARhu",
+                            "InterventionBrowseBranchName": "Antirheumatic Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "Rank": 784,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05401877",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CE21096B"
+                },
+                "Organization": {
+                    "OrgFullName": "Taichung Veterans General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Factors Affecting Rehabilitation Time for Postoperative Complications Among Breast Cancer Patients",
+                "OfficialTitle": "Factors Affecting Rehabilitation Time for Postoperative Complications Among Breast Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 1, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 1, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 29, 2022",
+                "StudyFirstSubmitQCDate": "May 29, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 2, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 29, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 2, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Taichung Veterans General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Breast cancer patients who had undergone surgery, chemotherapy and radiotherapy suffered from complications, including shoulder stiffness, lymphedema and scar contracture. These symptoms impaired one's ADL function. Rehabilitation may relieved symptoms. However, it is difficult to estimate how long one should receive rehabilitation. The study is trying to establish a machine-learning based model in order to predict the period of rehabilitation.",
+                "DetailedDescription": "Breast cancer survivors suffered from complications after surgery, chemotherapy and radiotherapy. These complications include shoulder stiffness, upper limb lymphedema and scar contracture, which altogether impaired one's ADL function. Rehabilitation had been approved to relieved these symptoms effectively. However, many factor may interfere the patient's participation of rehabilitation, making it difficult to estimate how long one should receive rehabilitation. In Taiwan, National Health Insurance provides affordable, accessible and unlimited health care and medical service for all citizens, eliminating many social-economic barriers. Thus we are trying to establish a machine-learning based model in order to predict the period of rehabilitation.\n\nOur study is a retrospective case-control study. The objectives are breast cancer survivors who attended post-surgery rehabilitation at least once for complications. The following data are collected from e-HIS system:\n\nPatient characteristic: age, unilateral or bilateral cancer.\nSurgery type: total, partial or simple mastectomy.\nLymphatic surgery: ALND and SLNB\nOther surgical procedure: breast reconstruction, flap surgery.\nCombined therapy: chemotherapy, radiotherapy or hormone therapy.\nComplications: shoulder stiffness, lymphedema, scar contracture (ex., Axillary web syndrome), neurological deficit.\nThe first between operation and first time of rehabilitation.\n\nThe primary outcome is the total rehabilitation time, which will be divided as short term (less than 360 min) and long time (more than 360 min).\n\nThe data will be processed using WEKA and machine learning algorithms, including Logistic regression, supportive vector machine, K-nearest neighbors, decision tree and random forest."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "rehabilitation",
+                        "breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "300",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "short term rehabilitation",
+                            "ArmGroupDescription": "breast cancer survivors that recieved post-OP rehabilitation for equal or less than 300 minutes totally.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: therapies for breast cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "long term rehabilitation",
+                            "ArmGroupDescription": "breast cancer survivors that recieved post-OP rehabilitation for more than 300 minutes totally.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: therapies for breast cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "therapies for breast cancer",
+                            "InterventionDescription": "the type of tumor removal surgery, combined therapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "long term rehabilitation",
+                                    "short term rehabilitation"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "the rehabilitation time",
+                            "PrimaryOutcomeDescription": "total post-operation rehabilitation time (minute)",
+                            "PrimaryOutcomeTimeFrame": "since the first session of rehabilitation until one year after the last session"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\npatients who received operation for breast cancer\nattended rehabilitation at least once for breast cancer related complications\n\nExclusion Criteria:\n\npatients who received rehabilitation for other reasons rather than surgical complications\npatients who are transfered to other hospital for rehabilitation",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "20 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Breast cancer patients that are registered at the case management system of Taichung Vetetans General Hospital",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Yuchun Lee, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "886-4-23592525",
+                            "CentralContactPhoneExt": "3507",
+                            "CentralContactEMail": "lyczoj@vghtc.gov.tw"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Yuchun Lee, MD",
+                            "OverallOfficialAffiliation": "Taichung Veterans General Hospital",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Department of Physical Medicine and Rehabilitation",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Taichung City",
+                            "LocationZip": "40705",
+                            "LocationCountry": "Taiwan",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yuan-Yang Cheng, MD, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+886423592525",
+                                        "LocationContactPhoneExt": "3533",
+                                        "LocationContactEMail": "rifampin@gmail.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Yuan-Yang Cheng, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000011183",
+                            "ConditionMeshTerm": "Postoperative Complications"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13755",
+                            "ConditionBrowseLeafName": "Postoperative Complications",
+                            "ConditionBrowseLeafAsFound": "Postoperative Complications",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

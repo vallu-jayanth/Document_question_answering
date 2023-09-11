@@ -1,0 +1,509 @@
+{
+    "Rank": 732,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00025376",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "11049A"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "UCCRC-11049A"
+                        },
+                        {
+                            "SecondaryId": "NCI-3291"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "University of Chicago",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PS-341 in Treating Patients With Metastatic Kidney Cancer",
+                "OfficialTitle": "A Phase II Trial of PS-341 in Patients With Renal Cell Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2013",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2001"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2002",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2006",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "October 11, 2001",
+                "StudyFirstSubmitQCDate": "June 16, 2003",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 17, 2003",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "September 4, 2013",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 5, 2013",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Chicago",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It is not yet known which regimen of PS-341 is more effective in treating metastatic kidney cancer.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of PS-341 in treating patients who have metastatic kidney cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nDetermine the objective response rate in patients with metastatic renal cell cancer treated with bortezomib.\nDetermine the time to tumor progression and 1-year survival of patients treated with this drug.\nDetermine the toxicity profile of this drug in these patients.\n\nOUTLINE: This is a randomized, multicenter study. Patients are randomized to 1 of 2 treatment arms.\n\nArm I: Patients receive bortezomib IV over 3-5 seconds twice weekly on weeks 1 and 2. Treatment repeats every 3 weeks for 3 courses in the absence of disease progression or unacceptable toxicity. Patients then undergo core biopsy.\nArm II: Patients undergo core biopsy. Patients then receive bortezomib IV as in arm I.\n\nPatients undergo radiologic re-evaluation of measurable lesions. Patients with stable disease or a partial or complete response continue to receive bortezomib in the absence of disease progression or unacceptable toxicity.\n\nPatients are followed for 2 years.\n\nPROJECTED ACCRUAL: A total of 21-41 patients will be accrued for this study within 9-14 months."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Kidney Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage IV renal cell cancer",
+                        "recurrent renal cell cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "23",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pre-Treatment biopsy followed by PS-341 administration",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Pre-treatment tumor biopsy followed by 3 cycles of PS-341 given by IV infusion. Each cycle will last 3 weeks. PS-341 will be given 2 times a week for 2 weeks followed by a 'rest' week with no drug. After the 3rd cycle, subjects can continue to receive another 3 cycles of the study drug if their disease has not worsened.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: PS-341",
+                                    "Procedure: Tumor Biopsy"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "PS-341 administration followed by biopsy",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "3 cycles of PS-341 given by IV infusion. Each cycle will last 3 weeks. PS-341 will be given 2 times a week for 2 weeks followed by a 'rest' week with no drug. After the 3rd cycle, subjects will have a tumor biopsy and can continue to receive another 3 cycles of the study drug if their disease has not worsened.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: PS-341",
+                                    "Procedure: Tumor Biopsy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "PS-341",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PS-341 administration followed by biopsy",
+                                    "Pre-Treatment biopsy followed by PS-341 administration"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Tumor Biopsy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PS-341 administration followed by biopsy",
+                                    "Pre-Treatment biopsy followed by PS-341 administration"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Response Rate of PS-341 in colon cancer",
+                            "PrimaryOutcomeTimeFrame": "9 weeks"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nHistologically or cytologically confirmed metastatic renal cell cancer\n\nMeasurable disease\n\nAt least 2.0 cm in at least 1 dimension by physical exam OR at least 1.0 cm in at least 1 dimension by radiologic exam\nSingle measurable lesion must not be within prior radiotherapy portal\n\nTumor lesion amenable to core biopsy\n\nAt least 1 cm of tumor obtainable\n\nNo active CNS metastatic disease\n\nSingle previously resected CNS metastasis allowed provided no disease progression 8 weeks after therapy and no longer requiring steroids or antiseizure medications\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n18 and over\n\nPerformance status:\n\nNot specified\n\nLife expectancy:\n\nMore than 3 months\n\nHematopoietic:\n\nWBC at least 3,000/mm^3\nAbsolute neutrophil count at least 1,500/mm^3\nPlatelet count at least 100,000/mm^3\n\nHepatic:\n\nBilirubin no greater than 1.5 times upper limit of normal (ULN)\nAST/ALT no greater than 2.5 times ULN\n\nRenal:\n\nCreatinine no greater than 2.0 mg/dL\n\nCardiovascular:\n\nNo symptomatic congestive heart failure\nNo unstable angina pectoris\nNo cardiac arrhythmia\n\nOther:\n\nNo other uncontrolled concurrent illness\nNo ongoing or active infection\nNo psychiatric illness or social situation that would preclude study compliance\nNot pregnant or nursing\nNegative pregnancy test\nFertile patients must use effective barrier-method contraception during and for 3 months after study participation\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\nPrior immunotherapy or biotherapy allowed\n\nChemotherapy:\n\nNo prior chemotherapy\n\nEndocrine therapy:\n\nSee Disease Characteristics\n\nRadiotherapy:\n\nSee Disease Characteristics\nAt least 4 weeks since prior radiotherapy\nNo prior radiotherapy to 25% or more of bone marrow (i.e., whole pelvis)\n\nSurgery:\n\nSee Disease Characteristics\n\nOther:\n\nNo other concurrent investigational agents\nNo concurrent combination antiretroviral therapy for HIV-positive patients",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Walter M. Stadler, MD, FACP",
+                            "OverallOfficialAffiliation": "University of Chicago",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Chicago Cancer Research Center",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60637-1470",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Louis A. Weiss Memorial Hospital",
+                            "LocationCity": "Chicago",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60640",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Cancer Care Specialists of Central Illinois, S.C.",
+                            "LocationCity": "Decatur",
+                            "LocationState": "Illinois",
+                            "LocationZip": "62526",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Ingalls Memorial Hospital",
+                            "LocationCity": "Harvey",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60426",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "LaGrange Memorial Hospital",
+                            "LocationCity": "LaGrange",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60525",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Loyola University Medical Center",
+                            "LocationCity": "Maywood",
+                            "LocationState": "Illinois",
+                            "LocationZip": "60153",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oncology/Hematology Associates of Central Illinois, P.C.",
+                            "LocationCity": "Peoria",
+                            "LocationState": "Illinois",
+                            "LocationZip": "61602",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Fort Wayne Medical Oncology and Hematology, Inc.",
+                            "LocationCity": "Fort Wayne",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46885-5099",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Michiana Hematology/Oncology P.C.",
+                            "LocationCity": "South Bend",
+                            "LocationState": "Indiana",
+                            "LocationZip": "46617",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Oncology Care Associates, P.L.L.C.",
+                            "LocationCity": "Saint Joseph",
+                            "LocationState": "Michigan",
+                            "LocationZip": "49085",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002292",
+                            "ConditionMeshTerm": "Carcinoma, Renal Cell"
+                        },
+                        {
+                            "ConditionMeshId": "D000007680",
+                            "ConditionMeshTerm": "Kidney Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000000230",
+                            "ConditionAncestorTerm": "Adenocarcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002277",
+                            "ConditionAncestorTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007674",
+                            "ConditionAncestorTerm": "Kidney Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5238",
+                            "ConditionBrowseLeafName": "Carcinoma, Renal Cell",
+                            "ConditionBrowseLeafAsFound": "Kidney Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10393",
+                            "ConditionBrowseLeafName": "Kidney Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Kidney Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10388",
+                            "ConditionBrowseLeafName": "Kidney Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4906",
+                            "ConditionBrowseLeafName": "Renal Cell Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Kidney Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000069286",
+                            "InterventionMeshTerm": "Bortezomib"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M376",
+                            "InterventionBrowseLeafName": "Bortezomib",
+                            "InterventionBrowseLeafAsFound": "GnRH",
+                            "InterventionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

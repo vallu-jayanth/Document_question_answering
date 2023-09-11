@@ -1,0 +1,281 @@
+{
+    "Rank": 567,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05441098",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NCC3299"
+                },
+                "Organization": {
+                    "OrgFullName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Construction and Validation of an Assessment Model of PCR After NAT on Breast Cancer Patients With AI Technology",
+                "OfficialTitle": "Construction and Validation of an Assessment Model of Pathological Complete Response After Neoadjuvant Treatment (NAT) on Breast Cancer Patients With Artificial Intelligence (AI) Technology"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 1, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 1, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 28, 2022",
+                "StudyFirstSubmitQCDate": "June 30, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 1, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 30, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 1, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Peng Yuan",
+                    "ResponsiblePartyInvestigatorTitle": "Dr.",
+                    "ResponsiblePartyInvestigatorAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Breast cancer is a major cause of survival for women worldwide. Neoadjuvant therapy as an important treatment for locally advanced breast cancer has had many positive effects for breast cancer patients. As drug therapy for breast cancer continues to evolve, the percentage of pathologic complete responses continues to increase. However, at present, pCR can only be judged by pathological testing of surgically resected specimens, and the question of whether pCR can be accurately judged preoperatively has become an urgent issue.Therefore, this project plans to establish and validate a model for determining pCR after NAT in breast cancer based on clinical information, imaging and pathological information of breast cancer patients in multiple centers using artificial intelligence technology in accordance with international guidelines and domestic expert consensus on breast cancer NAT, in order to solve the problem of surgical decision making for patients after NAT, by combining experts from breast medicine, surgery, pathology and imaging departments in several tertiary care hospitals across China. The model will be validated to solve the problem of surgical decision making for post-NAT patients.",
+                "DetailedDescription": "Breast cancer is the most prevalent cancer among women worldwide. Neoadjuvant treatment (NAT) is part of the standardized treatment of breast cancer and is especially important for locally advanced breast cancer. Numerous studies have shown that patients who achieve pathological complete response (pCR) after NAT may have better disease-free and overall survival rates, thus making the survival advantage of radical surgery less significant. However, at present, pCR can only be judged by pathological testing of surgically resected specimens, and the question of whether pCR can be accurately judged preoperatively has become an urgent issue.\n\nArtificial intelligence (AI) technology is a branch of computer science that attempts to understand the essence of intelligence and produce a new intelligent machine that can respond in a similar way to human intelligence, of which image recognition is widely used in clinical research as an important component of AI. In recent years, with the development of AI and related algorithms, more and more researchers are working on the use of image images to determine the efficacy of NAT more precisely, trying to exempt a fraction of patients who achieve pCR from radical surgery and never achieve a better appearance and quality of survival.\n\nSimon's team selected 246 patients who attended Salzburg Oncology Center in Australia from 2006-2016, had pre-surgical DCE-MRI read by imaging scientists with more than 10 years of experience, and gave a judgment of complete remission, only to obtain a more pessimistic result: a positive predictive value of only 48%. jinsun's team selected patients who underwent NAT at Samsung Medical Center from 2007-2016. The results showed that the kappa value of the concordance test between radiologic complete response (rCR) and breast pCR was 0.459, and the kappa value of the concordance test between axillary rCR and axillary pCR Woo's and Erika's teams analyzed the subgroups that led to false-negative MRI determinations of pCR and suggested that patients with G1-2, Luminal A/B subtypes, and non-lumpy enhancement had difficulty assessing complete remission by MRI. It is evident that it is now difficult to use traditional modeling approaches for pCR to determine the level of clinical application.\n\nElizabeth's team used preoperative MRI, AI technology for feature extraction, and clinicopathological information to construct a pCR determination model, which performed well in the independent validation set with an AUC of 0.83 (95% CI: 0.71-0.94). Imon's team used Riesz feature extraction to determine pCR in triple-negative breast cancer patients undergoing NAT, and the final model ROC reached 0.85. Professor Yang Fan's team from the Department of Radiology, Wuhan Union Medical College Hospital, Wuhan, China, used multi-phase DCE-MRI parameters and machine learning algorithms to build the model, and the highest ROC area under the curve reached 0.919. The above results show that the pCR determination model of imaging histology with AI technology is a big improvement compared with the traditional model.\n\nAlthough an increasing number of studies have confirmed the importance of imaging histology for NAT pCR determination, many of the current studies have some flaws. When evaluated using the international standard imaging histology RQS score, it was found that most of the studies: (i) lacked external validation cohorts; (ii) did not provide appropriate descriptions of parameter extraction; (iii) lacked a standardized process for imaging parameters; and (iv) had small sample sizes. Therefore more systematic and standardized studies are yet to be carried out by the majority of researchers.\n\nTherefore, this project plans to establish and validate a model for determining pCR after NAT in breast cancer based on clinical information, imaging and pathological information of breast cancer patients in multiple centers using artificial intelligence technology in accordance with international guidelines and domestic expert consensus on breast cancer NAT, in order to solve the problem of surgical decision making for patients after NAT, by combining experts from breast medicine, surgery, pathology and imaging departments in several tertiary care hospitals across China. The model will be validated to solve the problem of surgical decision making for post-NAT patients."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Breast cancer",
+                        "Neoaduvant therapy",
+                        "Radiomics",
+                        "Pathologic complete response"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Other"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1821",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Neoadjuvant therapy",
+                            "ArmGroupDescription": "Patients with breast cancer treated with neoadjuvant therapy attending each center from 2010-2020.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Neoadjuvant therapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Neoadjuvant therapy",
+                            "InterventionDescription": "Preoperative systemic therapy for breast cancer patients",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Neoadjuvant therapy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "pathological complete response",
+                            "PrimaryOutcomeDescription": "Complete disappearance of breast cancer lesions from the pathology after chemotherapy",
+                            "PrimaryOutcomeTimeFrame": "Post surgery based on up to approximately 24 weeks neoadjuvant therapy"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\npatients admitted to each study center between January 1, 2010 and December 31, 2021.\n\u226518 years of age, female, with an ECOG score \u22642.\npathological biopsy confirmed invasive breast cancer.\nwere initially treated with neoadjuvant therapy.\nhave MRI imaging data prior to radical surgery after neoadjuvant treatment.\nunderwent surgery as planned after neoadjuvant therapy and obtained postoperative pathology information.\n\nExclusion Criteria:\n\nBilateral breast cancer, multiple lesions or occult breast cancer.\nno data related to breast MRI.\nno surgery after neoadjuvant therapy, no postoperative pathology results.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with breast cancer treated with neoadjuvant therapy and with MRI data attending each center from 2010-2020.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jian Yue, M.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86 18612621749",
+                            "CentralContactEMail": "sunlight_1985@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Peng Yuan, M.D.",
+                            "OverallOfficialAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100021",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jian Yue, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86 18612621749"
+                                    },
+                                    {
+                                        "LocationContactName": "Dingyuan Wang, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86 15002665058",
+                                        "LocationContactEMail": "dywang@hsc.pku.edu.cn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

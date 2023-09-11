@@ -1,0 +1,317 @@
+{
+    "Rank": 424,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03769415",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "LCCC 1829"
+                },
+                "Organization": {
+                    "OrgFullName": "UNC Lineberger Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Harnessing Analysis RNA Expression and Molecular Subtype to Optimize Novel TherapY MBCA",
+                "OfficialTitle": "HARMONY: Harnessing the Analysis of RNA Expression and Molecular Subtype to Optimize Novel TherapY for Metastatic Breast Cancer",
+                "Acronym": "HARMONY"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 6, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 15, 2030",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 15, 2030",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 29, 2018",
+                "StudyFirstSubmitQCDate": "December 6, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 7, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 22, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 23, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Veracyte, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The HARMONY trial is an interventional trial enrolling metastatic breast cancer (MBC). Current treatment of breast cancer uses clinical subtype information (e.g hormone receptor-postive (HR+)) to help guide treatment options. Breast cancer can also be characterized by molecular subtype, but it is not known if this information is helpful in determining treatment when breast cancer has become metastatic. HARMONY will give the treating physician of each participant the molecular subtype of the tumor based on PAM50 testing. The usefulness of this information will be determined through physician survey. Finding out the molecular subtype of each tumor also allows the investigators to determine if the molecular subtype is different from what is expected based on the clinical subtype. This study will help determine how new types of information about tumors can help choose treatments for MBC",
+                "DetailedDescription": "Primary Objectives:\n\nTo determine if clinical:molecular subtypes differ from expected results 15% of time\nTo determine if molecular information alters treatment plans, as perceived by treating physican through survey\n\nSubjects will be consented to the trial and archival tissue from primary tumor will be obtained. Stored tissue from metastatic sites will also be obtained. The physician will be asked what the preferred medications for next two lines of treatment. PAM50 testing to determine molecular subtype will be determined on primary and metastatic tissue. The molecular subtype results of the primary tissue will be returned to the physician, and the physician will again be asked the preferred medications for the next two lines of treatment. The number of times these medications change between the first and second surveys will be determined.\n\nSubjects active participation will only last as long as the consent process."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Intrinsic subtyping of Primary Breast Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Intrinsic subtype of primary breast tissue from metastatic breast cancer subject will be determined",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Intrinsic Subtyping of Primary Breast Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Intrinsic Subtyping of Primary Breast Cancer",
+                            "InterventionDescription": "Primary breast tissue will be sent for Nanostring PAM50 Testing to determine intrinsic subtype",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Intrinsic subtyping of Primary Breast Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Change of treatment plan based on physician survey",
+                            "PrimaryOutcomeDescription": "Number of times physicians change response to the question:\" What are the preferred next 2 lines of treatment?\" after knowledge of molecular subtype",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Overall rate of clinical:molecular primary tumor subtype incongruence",
+                            "PrimaryOutcomeDescription": "Number of times RNA-based molecular subtype differs from clinically determined subtype in primary breast tumors",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Intra-patient PFS ratio comparison",
+                            "SecondaryOutcomeDescription": "Number of days between initiation of therapy for each line and the date of progression or death (PFS) with adjustment for the expected PFS deterioration over lines of therapy",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Intra-patient PFS ratio separated by clinical subtype",
+                            "SecondaryOutcomeDescription": "Number of days between initiation of therapy for each line and the date of progression or death (PFS) with adjustment for the expected PFS deterioration over lines of therapy separated by each of the follow clinical subtypes: or HR+/HER2-, HR-/HER2+, HR+/HER2+ and HR-/HER2-",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients with HR+/HER2- MBC receiving endocrine therapy on each line of therapy",
+                            "SecondaryOutcomeDescription": "Number of patients with HR+/HER2- MBC receiving endocrine therapy based on medical record",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of molecular discordance",
+                            "SecondaryOutcomeDescription": "Number of times molecular subtypes determined from primary tissue and molecular subtype determine from metastatic tissue are different",
+                            "SecondaryOutcomeTimeFrame": "4 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "PFS comparison in concordant therapy",
+                            "SecondaryOutcomeDescription": "PFS for patients receiving clinically-concordant therapy .",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "PFS comparison in disconcordant therapy",
+                            "SecondaryOutcomeDescription": "PFS for patients receiving clinically-discordant therapy in congruent tumors",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nWomen or men at least 18 years of age\nPathologically documented diagnosis of measurable or evaluable metastatic breast cancer with known ER, PR, and HER2 status determined by the local laboratory on the primary tumor.\nEnrolled before or during first line of treatment for metastatic breast cancer. No more than 1 prior line of therapy in the metastatic setting.\nAccessible medical records for all treatment and response data in the metastatic setting.\nWilling and able to receive medical treatment or follow up by investigators at UNC-Chapel Hill.\nReceiving treatment for metastatic breast cancer.\nTreating physician considers patient well enough for standard of care therapy including chemotherapy.\nWilling to give blood for research purposes upon study enrollment and at first disease progression.\nAvailable archival primary tumor suitable for molecular analysis. If the primary is not available, willingness to obtain extra samples for research during planned standard of care biopsy, or willingness to undergo biopsy for repeat clinical receptors and molecular analyses.\nArchival metastatic sample available and suitable for molecular analysis. If not available, willingness to undergo biopsy for repeat clinical receptors and molecular analyses. If no archival metastatic sample is available and the metastasis is not amenable to biopsy per treating physician the patient may still be enrolled.\nBe willing and capable of providing informed consent, recognize the experimental nature of the trial, and sign the IRB-approved written informed consent documentations\n\nExclusion Criteria:\n\nDoes not have tissue available or suitable for molecular analysis, or is unwilling to provide tissue for research at the time of a clinically indicated procedure.\nHas dementia, altered mental status, or any psychiatric or co-morbid condition prohibiting the understanding or rending of informed consent.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "99 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Terri A Eubanks",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "919-966-4530",
+                            "CentralContactEMail": "teubanks@med.unc.edu"
+                        },
+                        {
+                            "CentralContactName": "Erin Kelly",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "919-966-0040",
+                            "CentralContactEMail": "erin_kelly@med.unc.edu"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "UNC Lineberger Comprehensive Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27599",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rebekah Craver",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "919-966-7490",
+                                        "LocationContactEMail": "Rebekah_Craver@med.unc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Terri Eubanks",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "9199664530",
+                                        "LocationContactEMail": "teubanks@med.unc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Lisa A Carey, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

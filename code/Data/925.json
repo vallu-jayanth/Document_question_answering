@@ -1,0 +1,486 @@
+{
+    "Rank": 925,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03504098",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "201701123RINC"
+                },
+                "Organization": {
+                    "OrgFullName": "National Taiwan University Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Folate One-carbon Malnutrition as the Metabostemness Risk Factor of Malignancy Tumor Development of NSCLC Patients",
+                "OfficialTitle": "Folate One-carbon Malnutrition as the Metabostemness Risk Factor of Malignancy Tumor Development and the Prognostic Predictor of Non-small Cell Lung Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 31, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 31, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 25, 2018",
+                "StudyFirstSubmitQCDate": "April 11, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 20, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 27, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "May 29, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "National Taiwan University Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Non-small cell lung cancer (NSCLC) accounts for more than two-thirds of lung cancer, which is the leading cause of cancer deaths in Taiwan. The overall prognosis of NSCLC is poor with low 5-year survival rates. Recent advances suggest that malignancy NSCLC cancers are the cancer stem cell (CSC) diseases. The stemness potentials of CSC with epithelial-mesenchymal transdifferentiation ensure their invasion and disseminate to metastsis organs. The self-renewal property of CSC mediates intrinsic drug resistance to cytotoxicity therapy and promoted aggressive relapse tumour. Metabolic reprogramming on bioenergetics of malignant cancer cells has been proposed as the key mediator in the stemness CSC development. Malignancy cells uptake glucose for fermented glycolysis to produce lactate which release resulted in acidified microenvironment to trigger the mTOR and sonic hedgehog metabolic stress signaling in supporting CSC stemness potentials. The metabostemness of cancer cells is the new-dimensional hallmark of malignancy tumour, which may serve as the diagnostic markers for the early detection of malignancy cancers. Folate-mediated one carbon metabolism coordinates glucose into amino acid metabolism to tailor the fuel metabolites in supporting macromolecule synthesis and to sustain the bioenergetics requirement. Acting as the metabolic stressor, low folate intake is associated with increased risks of lung cancers. Folate and one-carbon nutrient status of NSCLC patients in Taiwan, however, has not been assessed. The role of low folate metabolic stress (LFMS) in metabostemness marker and metastasis potentials of malignancy NSCLC is unexplored. The causal effect and the working mechanisms by which LFMS promoted NSCLC malignancy remain elusive."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer, Nonsmall Cell"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "One-carbon metabolism",
+                        "Folate",
+                        "Choline",
+                        "metabolomic marker",
+                        "Cancer risk"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "blood sample 10c.c\n\nlung tumor tissue\n\nnon-lung tumor tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "300",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Lung cancer patients tumor",
+                            "ArmGroupDescription": "Using to analysis metabolomic markers, one carbon folate nutrition levels in lung cancer patients."
+                        },
+                        {
+                            "ArmGroupLabel": "Lung cancer patients blood",
+                            "ArmGroupDescription": "Using to analysis folate, B12, homocysteine levels in plasma and RBC. Using to analysis cDNA gene test in buffy coat.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: nutrition consult"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Lung cancer patients",
+                            "ArmGroupDescription": "Supply nutrition counseling",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: nutrition consult"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "nutrition consult",
+                            "InterventionDescription": "Post-lung cancer operation diet pattern",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Lung cancer patients",
+                                    "Lung cancer patients blood"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Assessment of one-carbon nutrient (folate, choline, betaine, Vitamine B12) intake of lung cancer patients",
+                            "PrimaryOutcomeDescription": "Using semiquantitative food frequency questionnaires",
+                            "PrimaryOutcomeTimeFrame": "Past 0.5-1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Measure maternal blood biochemistry (folate, choline, betaine, homocysteine, Vitamine B2, Vitamine B6, Vitamine B12, etc.)",
+                            "SecondaryOutcomeDescription": "Using blood analysis to calculate the levels of one carbon nutrition",
+                            "SecondaryOutcomeTimeFrame": "At baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Assessment of one-carbon nutrient metabolomic markers in lung cancer patient tumor tissue",
+                            "SecondaryOutcomeDescription": "Using LC/MS or GC/MS to claculate metabolomic markers",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSurgeon diagnosed as the first time having non-small cell lung cancer from the surgical clinic of National Taiwan University Hospital\n\nExclusion Criteria:\n\nPatients Suffer from major diseases such as heart, liver, kidney, or peripheral arterial disease, or having mental illness\nDiabetes and non-lung cancer patients\nPregnancy, breast-feeding pregnant women",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "20 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients who was diagnosed as the first time having NSCLC from NTUH. Patients have no chronic disease / other cancer / chemotherapy / radiotherapy. Patients at least 20 years old.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jin-Shing Chen",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "8862-2312345670918",
+                            "CentralContactEMail": "chenjs@ntu.edu.tw"
+                        },
+                        {
+                            "CentralContactName": "Rwei-Fen S.Huang",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "8862-29052512",
+                            "CentralContactEMail": "034825@mail.fju.edu.tw"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Chin-Pao Cheng",
+                            "OverallOfficialAffiliation": "National Taiwan University Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "National Taiwan University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Taipei",
+                            "LocationZip": "100",
+                            "LocationCountry": "Taiwan",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jin-Shing Chen",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "8862-23123456-70918",
+                                        "LocationContactEMail": "chenjs@ntu.edu.tw"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000002289",
+                            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+                        },
+                        {
+                            "ConditionMeshId": "D000044342",
+                            "ConditionMeshTerm": "Malnutrition"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009748",
+                            "ConditionAncestorTerm": "Nutrition Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002283",
+                            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001984",
+                            "ConditionAncestorTerm": "Bronchial Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5236",
+                            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer, Nonsmall Cell",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M24996",
+                            "ConditionBrowseLeafName": "Malnutrition",
+                            "ConditionBrowseLeafAsFound": "Malnutrition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12374",
+                            "ConditionBrowseLeafName": "Nutrition Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5230",
+                            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4950",
+                            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC18",
+                            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M8308",
+                            "InterventionBrowseLeafName": "Folic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17236",
+                            "InterventionBrowseLeafName": "Vitamin B Complex",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17238",
+                            "InterventionBrowseLeafName": "Vitamin B 12",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M5724",
+                            "InterventionBrowseLeafName": "Choline",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9624",
+                            "InterventionBrowseLeafName": "Hydroxocobalamin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T446",
+                            "InterventionBrowseLeafName": "Folic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T447",
+                            "InterventionBrowseLeafName": "Folinic Acid",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T448",
+                            "InterventionBrowseLeafName": "Folate",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T475",
+                            "InterventionBrowseLeafName": "Vitamin B9",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T476",
+                            "InterventionBrowseLeafName": "Vitamin B12",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T443",
+                            "InterventionBrowseLeafName": "Choline",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T441",
+                            "InterventionBrowseLeafName": "Cobalamin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "T444",
+                            "InterventionBrowseLeafName": "Cyanocobalamin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Micro",
+                            "InterventionBrowseBranchName": "Micronutrients"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "NootAg",
+                            "InterventionBrowseBranchName": "Nootropic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Lipd",
+                            "InterventionBrowseBranchName": "Lipid Regulating Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Vi",
+                            "InterventionBrowseBranchName": "Vitamins"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

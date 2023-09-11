@@ -1,0 +1,472 @@
+{
+    "Rank": 696,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04900259",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "COVIDBC2021"
+                },
+                "Organization": {
+                    "OrgFullName": "Ankara Training and Research Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "The Effect of the COVID-19 Pandemic on Primary Bladder Cancer Presentations",
+                "OfficialTitle": "The Effect of the COVID-19 Pandemic on Primary Bladder Cancer Presentations"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2021",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 1, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 15, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 23, 2021",
+                "StudyFirstSubmitQCDate": "May 23, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 25, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 29, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 6, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Ali Kaan Yildiz",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Ankara Training and Research Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ankara Training and Research Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In this study, investigators aim to reveal how the COVID-19 pandemic process affects primary bladder cancer presentations, tumor stages and degrees, the time elapsed between diagnosis and intervention, tumor recurrence and progression, which are oncological results.",
+                "DetailedDescription": "The rapid spread of the 2019 coronavirus disease (COVID-19) caused by a novel betacoronavirus known as the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has had dramatic effects on individuals and health systems around the world. Beyond those infected with SARS-CoV-2, the intense demand for limited health system resources has led to reduced capacity, rapid depletion of healthcare systems, and hospitals becoming a source of virus transmission.\n\nUrology associations and reference centers have issued recommendations to inform urology care during the COVID-19 outbreak. It is essential that urologists give priority to patient safety. Potential delays in the diagnosis and treatment of urological conditions and the additional burden on healthcare resources must be balanced against the risks of exposure to COVID-19. While this situation aims to conserve healthcare resources, it has created the risk of delaying cancer treatment. As a result, the transformation of health services and the increasing interest of the public in avoiding exposure to the disease has led to a decrease in the number of hospital admissions.\n\nThe effects of the pandemic on patients with bladder cancer due to a decrease in emergency room and urology clinic admissions are not clear. During the COVID-19 outbreak, the EAU (European Association of Urology) panel of non-muscle invasive bladder cancer published an evidence-based guideline. According to this guideline, four priority groups were formed and a certain period of delaying treatment was defined for patients in each group according to their priorities."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer",
+                        "Covid19"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Bladder cancer",
+                        "COVID-19",
+                        "Transurethral resection"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "183",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "COVID-19 Bladder Cancer",
+                            "ArmGroupDescription": "Patients diagnosed with primary bladder cancer in the COVID-19 period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: COVID-19 pandemic"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "PreCOVID-19 Bladder Cancer",
+                            "ArmGroupDescription": "Patients diagnosed with primary bladder cancer in the preCOVID-19 period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: COVID-19 pandemic"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "COVID-19 pandemic",
+                            "InterventionDescription": "Patients diagnosed with primary bladder cancer by transurethral resection in the urology clinic during and before the COVID-19 pandemic will be retrospectively evaluated and compared.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "COVID-19 Bladder Cancer",
+                                    "PreCOVID-19 Bladder Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of tumor stages",
+                            "PrimaryOutcomeDescription": "Rate of tumor stages in patients who diagnosed with bladder cancer",
+                            "PrimaryOutcomeTimeFrame": "2 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPrimary bladder cancer\n\nExclusion Criteria:\n\nPrevious history of urinary tract tumor\nChronic kidney disease",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "GenderBased": "Yes",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients diagnosed with primary bladder cancer by transurethral resection in the urology clinic.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ali Kaan Yildiz",
+                            "OverallOfficialAffiliation": "Ankara Training and Resarch Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Ankara Training and Research Hospital",
+                            "LocationCity": "Ankara",
+                            "LocationState": "Altindag",
+                            "LocationZip": "06230",
+                            "LocationCountry": "Turkey"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "32532703",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Heldwein FL, Loeb S, Wroclawski ML, Sridhar AN, Carneiro A, Lima FS, Teoh JY. A Systematic Review on Guidelines and Recommendations for Urology Standard of Care During the COVID-19 Pandemic. Eur Urol Focus. 2020 Sep 15;6(5):1070-1085. doi: 10.1016/j.euf.2020.05.020. Epub 2020 Jun 5."
+                        },
+                        {
+                            "ReferencePMID": "32549074",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Esperto F, Pang KH, Albisinni S, Papalia R, Scarpa RM. Bladder Cancer at the time of COVID-19 Outbreak. Int Braz J Urol. 2020 Jul;46(suppl.1):62-68. doi: 10.1590/S1677-5538.IBJU.2020.S107."
+                        },
+                        {
+                            "ReferencePMID": "32414626",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Wallis CJD, Novara G, Marandino L, Bex A, Kamat AM, Karnes RJ, Morgan TM, Mottet N, Gillessen S, Bossi A, Roupret M, Powles T, Necchi A, Catto JWF, Klaassen Z. Risks from Deferring Treatment for Genitourinary Cancers: A Collaborative Review to Aid Triage and Management During the COVID-19 Pandemic. Eur Urol. 2020 Jul;78(1):29-42. doi: 10.1016/j.eururo.2020.04.063. Epub 2020 May 3."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000086382",
+                            "ConditionMeshTerm": "COVID-19"
+                        },
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000011024",
+                            "ConditionAncestorTerm": "Pneumonia, Viral"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011014",
+                            "ConditionAncestorTerm": "Pneumonia"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012141",
+                            "ConditionAncestorTerm": "Respiratory Tract Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007239",
+                            "ConditionAncestorTerm": "Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014777",
+                            "ConditionAncestorTerm": "Virus Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018352",
+                            "ConditionAncestorTerm": "Coronavirus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003333",
+                            "ConditionAncestorTerm": "Coronaviridae Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000030341",
+                            "ConditionAncestorTerm": "Nidovirales Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012327",
+                            "ConditionAncestorTerm": "RNA Virus Infections"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M2562",
+                            "ConditionBrowseLeafName": "COVID-19",
+                            "ConditionBrowseLeafAsFound": "COVID-19",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13594",
+                            "ConditionBrowseLeafName": "Pneumonia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13604",
+                            "ConditionBrowseLeafName": "Pneumonia, Viral",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9973",
+                            "ConditionBrowseLeafName": "Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6058",
+                            "ConditionBrowseLeafName": "Communicable Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14668",
+                            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17212",
+                            "ConditionBrowseLeafName": "Virus Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20180",
+                            "ConditionBrowseLeafName": "Coronavirus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6245",
+                            "ConditionBrowseLeafName": "Coronaviridae Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23375",
+                            "ConditionBrowseLeafName": "Nidovirales Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14839",
+                            "ConditionBrowseLeafName": "RNA Virus Infections",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC01",
+                            "ConditionBrowseBranchName": "Infections"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

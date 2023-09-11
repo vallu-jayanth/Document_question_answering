@@ -1,0 +1,233 @@
+{
+    "Rank": 148,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01937533",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "13/EE/0198 CCR3938"
+                },
+                "Organization": {
+                    "OrgFullName": "Institute of Cancer Research, United Kingdom",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Apparent Diffusion Coefficient as a Prognostic Biomarker in Cervical Cancer",
+                "OfficialTitle": "Diffusion-weighted MRI at 3T Using an Endovaginal Coil: Evaluating the Prognostic Value of the Apparent Diffusion Coefficient Distribution in Stage 1 Cervical Tumours"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2, 2013",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2019",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 31, 2019",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "August 29, 2013",
+                "StudyFirstSubmitQCDate": "September 7, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 9, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "January 27, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 28, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Nandita deSouza",
+                    "ResponsiblePartyInvestigatorTitle": "Professor of Translational Imaging",
+                    "ResponsiblePartyInvestigatorAffiliation": "Institute of Cancer Research, United Kingdom"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Institute of Cancer Research, United Kingdom",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Cancer Research UK",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to develop the technique of Diffusion-Weighted Magnetic Resonance Imaging(DW-MRI)for the assessment of stage 1 cervical cancers. An endovaginal receiver coil has been designed and developed at the Institute of Cancer Research and Royal Marsden NHS Foundation Trust for use at high field strengths(3T). This will be used to evaluate if DW-MRI at 3T can be used to differentiate different histological characteristics within whole tumours and so determine if the technique could be of prognostic value.\n\nThe study hypothesis is that this technique will be able to differentiate tumours with histological features known to be associated with poor prognosis (tumour type, grade and lymphovascular space invasion)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Magnetic Resonance Imaging"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "236",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cervical Cancer",
+                            "ArmGroupDescription": "Patients with presumed early cervical cancer being considered for curative surgery",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Magnetic Resonance Imaging using an endovaginal receiver coil"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Magnetic Resonance Imaging using an endovaginal receiver coil",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cervical Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "To obtain histogram metrics(centiles, skew, kurtosis, entropy) for cervical cancer and compare them between histologically poor prognosis and good prognosis groups.",
+                            "PrimaryOutcomeDescription": "Pixel by pixel analysis of ADC from tumour regions of interest will be used to derive histograms and the 10th, 25th, 50th, 75th and 90th centile values and histogram skew, kurtosis and entropy values for each tumour will be recorded. The number of regions will vary with tumour volume in each patient, given the mean size of lesions in patients studied in a pilot set, it is envisaged that we will analyse 1-5 regions of interest in each tumour. The data will be analysed separately by 2 observers who will be blinded to the histopathological characteristics and assuming good inter-observer agreement, an average of their results will be used for data analysis. The difference in mean centile ADC values of the distribution and the skewness, kurtosis and entropy values between squamous vs. adenocarcinoma, well/moderately differentiated vs. poorly differentiated tumour regions and the absence vs. the presence of lymphovascular space invasion in that region will be determined.",
+                            "PrimaryOutcomeTimeFrame": "1-2 months post imaging"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Establish ADC values associated with poor prognosis tumours",
+                            "SecondaryOutcomeDescription": "The centile measures of the ADC values will be summarised using means and standard deviations if the data are normally distributed and medians and ranges if the data are non-normally distributed. The unpaired t-test will be used to analyse normally distributed data and the Mann Whitney U test for non-parametric data. Point estimates for the differences between centile ADC values and other summary measures for tumour type, grade and presence or absence of lymphovascular space invasion will be derived and 95% confidence intervals attached where appropriate. The Bonferroni correction method will be used to adjust significance levels for multiple comparisons.\n\nThe key clinical question is whether or not the imaging can differentiate poor prognosis tumours from good prognosis ones from the histogram metrics.",
+                            "SecondaryOutcomeTimeFrame": "Duration of study, 2-3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll patients with presumed early stage cervical cancer being considered for curative surgery\n\nExclusion Criteria:\n\nFerromagnetic metal implants\nclaustrophobia (MRI incompatibility)",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Primary Care Clinic",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Nandita deSouza, Professor",
+                            "OverallOfficialAffiliation": "ICR",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The Institute of Cancer Research and Royal Marsden NHS Foundation Trust",
+                            "LocationCity": "Sutton",
+                            "LocationState": "Surrey",
+                            "LocationZip": "SM2 5PT",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4804",
+                            "ConditionBrowseLeafName": "Body Weight",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5520",
+                            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "Rank": 957,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05747443",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "220-115.001"
+                },
+                "Organization": {
+                    "OrgFullName": "Kaiser Permanente",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Multilevel Interventions to Increase Adherence to Lung Cancer Screening",
+                "OfficialTitle": "Multilevel Interventions to Increase Adherence to Lung Cancer Screening",
+                "Acronym": "Larch"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Enrolling by invitation",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 12, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "February 17, 2023",
+                "StudyFirstSubmitQCDate": "February 17, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 28, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 6, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 8, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Kaiser Permanente",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Fred Hutchinson Cancer Center",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "Hackensack Meridian Health",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Screening for lung cancer has the potential for a profound public health benefit. Repeat annual screening is necessary for early detection of lung cancer. The investigators will test two interventions which include patient education and reminders to improve adherence to lung cancer screening.",
+                "DetailedDescription": "Screening for lung cancer has the potential for a profound public health benefit.\n\nSuccessful population-based screening requires continuous monitoring to adherence repeat screening in high risk adults to achieve similar results. Repeat annual screening is necessary for early detection of lung cancer. Baseline or first LDCT scans detect prevalent lung cancer, when subsequent screening detects new nodules. However, adherence to screening is low, ranging at 28-38% from centers nationally.\n\nThe investigators developed two novel, patient-centered interventions to address patient education and offering reminders for on-time screening. To address these goals, the specific aims are to: 1) Compare effectiveness of two multilevel interventions relative to usual care in improving (a) rates of adherence to lung cancer screening, (b) patient-centered outcomes; and (c) clinic outcomes; and 2) Determine the patient-, clinician-, and system-level factors that influence changes in adherence to inform lung cancer screening programs."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Lung Cancer Screening"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung Cancer",
+                        "Low dose CT (LDCT)",
+                        "Lung Cancer Screening",
+                        "Stepped Reminders",
+                        "Educational Video",
+                        "User centered design",
+                        "Stakeholders",
+                        "Evaluation",
+                        "Qualitative",
+                        "Patient Partners",
+                        "Adherence"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Factorial Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1606",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patient Video only",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "About 3 weeks after the index LDCT, the study Medical Assistant (MA) will deliver a link to the Patient Voices Video, an educational video about lung cancer screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Patient Education"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Stepped Reminders only",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Prior to patient's next LDCT scan is due, MA begins Stepped Reminders intervention:\n\nMA pends LDCT orders to PCP to sign. MA sends reminders to patient when order is placed and follows up by phone if patient has not scheduled LDCT.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Stepped Reminders"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Patient Video and Stepped Reminders",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "See above. Those assigned to the Patient Video and Stepped Reminders will receive both interventions, as described above.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Stepped Reminders",
+                                    "Other: Patient Education"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Usual Care",
+                            "ArmGroupType": "No Intervention",
+                            "ArmGroupDescription": "Those assigned to the the Usual Care arm will continue to receive usual lung cancer screening care."
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Stepped Reminders",
+                            "InterventionDescription": "Stepped Reminders, which directly reminds providers to order the next LDCT scan and then reminds patients they are due and prompts them to schedule LDCT with Radiology.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patient Video and Stepped Reminders",
+                                    "Stepped Reminders only"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Patient Education",
+                            "InterventionDescription": "The Patient Voices Video is an educational video about lung cancer screening.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patient Video and Stepped Reminders",
+                                    "Patient Video only"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of repeat annual lung cancer screening",
+                            "PrimaryOutcomeDescription": "Electronic health records will be searched for screening low dose CT (LDCT).",
+                            "PrimaryOutcomeTimeFrame": "9-15 months after index LDCT"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Knowledge of lung cancer screening",
+                            "SecondaryOutcomeDescription": "Knowledge of lung cancer screening eligibility, time to return and cost on patient reported outcomes survey.",
+                            "SecondaryOutcomeTimeFrame": "8 weeks after index LDCT"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Attitudes and beliefs",
+                            "SecondaryOutcomeDescription": "The Lung Cancer Screening Health Belief Scales: 1) perceived risk of lung cancer (3 items); 2) perceived benefits of lung cancer screening (6 items); (3) perceived barriers to lung cancer screening (17 items); and (4) self-efficacy for lung cancer screening (9 items).",
+                            "SecondaryOutcomeTimeFrame": "8 weeks after index LDCT"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nKPWA members\nAged 50-78 years\nHave a negative screening LDCT scan\nSpeak English or Spanish\nMeet US Preventive Services Task Force guidelines\n\nExclusion Criteria:\n\nPatients who were previously diagnosed with lung cancer,\nPatients who have a positive scan,\nPatients who have an indicator for interpreter services, except for Spanish",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "78 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Karen Wernli, PhD",
+                            "OverallOfficialAffiliation": "Kaiser Permanente Washington",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Kaiser Permanente",
+                            "LocationCity": "Seattle",
+                            "LocationState": "Washington",
+                            "LocationZip": "98101",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

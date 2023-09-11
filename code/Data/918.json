@@ -1,0 +1,460 @@
+{
+    "Rank": 918,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04161755",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "19-039"
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study of Personalized Tumor Vaccines (PCVs) and a PD-L1 Blocker in Patients With Pancreatic Cancer That Can be Treated With Surgery",
+                "OfficialTitle": "Phase 1 Clinical Trial of Personalized Neoantigen Tumor Vaccines and Programmed Death-Ligand 1 (PD-L1) Blockade in Patients With Surgically Resected Pancreatic Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 13, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 11, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 11, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 12, 2019",
+                "StudyFirstSubmitQCDate": "November 12, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 13, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 29, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 3, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Genentech, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to evaluate the safety or treating pancreatic cancer with surgery to remove cancerour tissue, followed by atezolizumab, followed by a personalized cancer vaccine (PCV), and then with chemotherapy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "personalized tumor vaccines",
+                        "PCVs",
+                        "PD-L1 Blocker",
+                        "Memorial Sloan Kettering Cancer Center",
+                        "19-039"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "29",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pancreatic Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Radiologically resectable primary pancreatic tumors",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Atezolizumab",
+                                    "Biological: RO7198457",
+                                    "Drug: mFOLFIRINOX"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Atezolizumab",
+                            "InterventionDescription": "Atezolizumab will be administered 6 weeks post-tumor resection (+/- 2 weeks)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "RO7198457",
+                            "InterventionDescription": "RO7198457 will be administered 9 weeks post-tumor resection (+/- 2 weeks)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "mFOLFIRINOX",
+                            "InterventionDescription": "mFOLFIRINOX regimen will be administered 21 weeks post-tumor resection (+/- 2 weeks)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Drug related toxicity",
+                            "PrimaryOutcomeDescription": "The primary objective of this trial is to evaluate the safety of a personalized tumor vaccine combined with atezolizumab and mFOLFIRINOX",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects must be >/= 18 years of age at time of informed consent\nAble to comply with the study protocol, in the investigator's judgment\nSubjective with radiographically resectable primary pancreatic tumors with radiographic features consistent with adenocarcinoma will be evaluated for surgical resection\n\nTumors must be radiographically resectable, defined as:\n\nA clear fat plane around the celiac and superior mesenteric arteries\npatent superior mesenteric and portal veins without primary tumor involvement\nNo encasement of the superior mesenteric vein or portal veins\nNo encasement of the superior mesenteric or hepatic arteries\nNo metastatic disease\nNo extra-regional nodal disease\nSubjects with histologically confirmed resected ductal pancreatic adenocarcinoma with macroscopic complete resection (R0 and R1) will be selected for neoantigen vaccine creation. Subjects with neuroendocrine (and mixed type) tumors are excluded\n\nPancreatic cancer surgical staging: T 1-3, N0-2, M0\n\n\u00b0 Per AJCC 8th edition staging\n\nPerformance status of 0 or 1 on Eastern Cooperative Oncology Group (ECOG) Scale of Performance Status (Section 20.0 APPENDICES, Appendix1)\nSubjects must not have had prior chemotherapy, radiation therapy, or immunotherapy for PDAC\nSubjects must be able to read, understand, and sign informed consent\nWomen of childbearing potential must have a negative serum or urine pregnancy test within 14 days prior to study initiation\nFor women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures that result in a failure rate of less than (<) 1% per year during the treatment period and for at least 5 months after the last dose of atezolizumab and for at least 90 days after the last dose of RO7198457. A woman is considered to be of childbearing potential if she is postmenarcheal, has not reached a postmenopausal state (>/= 12 continuous months of amenorrhea with no identified cause other than menopause), and has not undergone surgical sterilization (removal of ovaries and/or uterus)\nFor men: agreement to remain abstinent (refrain from heterosexual intercourse) or use a condom during the entire study period and up to 90 days after last administration of RO7198457. Male participants should not donate sperm for 90 days after the last dose of RO7198457\nExamples of contraceptive methods with a failure rate of <1% per year include bilateral tubal ligation, male sterilization and established proper use of hormonal contraceptives that inhibit ovulation, hormone-releasing intrauterine devices and copper intrauterine devices\nHormonal contraceptive methods must be supplemented by a barrier method plus spermicide\nThe reliability of sexual abstinence should be evaluated in relation to the duration of the clinical trial and the preferred and usual lifestyle of the patient. Periodic abstinence (e.g., calendar, ovulation, symptothermal, or postovulation methods) and withdrawal are not acceptable methods of contraception\n\nExclusion Criteria:\n\nA subject will not be eligible for inclusion in this study if any of the following criteria apply:\n\nPrior neoadjuvant treatment or radiation therapy for PDAC\nPrior therapy with uPD-1 antibody or any other immune therapy\nBorderline resectable, locally unresectable or metastatic PDAC\nPancreas tumor histology other than PDAC\nPregnancy, breastfeeding, or intending to become pregnant during the study or within 90 days after the last dose of study treatment\nLife expectancy less than 12 weeks\nInability to comply with study and/or follow-up procedures\nAny other malignancy for which the patient is undergoing active treatment which will be concurrent with the investigational agent in this study.\nPatients with unresolved Clavien-Dindo >/= Grade 3 (Section 20.0 APPENDICES ,Appendix 2) postoperative complications\nActie, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy, defined as ongoing signs/symptoms related to the infection without improvement despite appropriate antibiotics, antiviral therapy, and/or other treatment\nActive tuberculosis\nKnown infection with hepatitis B or C, or history of human immunodeficiency virus (HIV) infection or subjects receiving immunosuppressive or myelosuppressive medications that would, in the opinion of the investigator, increase the risk of serious neutropenic complications\nKnown hypersensitivity or allergy to the active substance or to any of the excipients of RO7198457, atezolizumab, oxaliplatin, leucovorin, irinotecan, or fluorouracil\n\nSerious medical risk factors involving any of the major organ systems, or serious psychiatric disorders, which could compromise the subject's safety or the study data integrity. These include, but are not limited to:\n\nHistory of connective tissue disorders (e.g., lupus, scleroderma, arteritis nodosa)\nHistory of interstitial lung disease, slowly progressive dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis, or multiple allergies\nHistory of the following within 6 months prior to RO7198457 administration: a myocardial infarction, severe/unstable angina pectoris, coronary/peripheral artery bypass graft, New York Heart Association (NYHA) Class III-IV heart failure, uncontrolled hypertension, clinically significant cardiac dysthythmia, or electrocardiogram (ECG) abnormality (exceptions: atrial fibrillation, paroxysmal supraventricular tachycardia), cerebrovascular accident, transient ischemic attack,, or seizure disorder\n\nHistory or autoimmune disease, including but not limited to systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, vascular thrombosis associated with antiphospholipid syndrome Wegener's granulomatosis, Sjogren's syndrome, Bell's palsy, Guillain-Barre syndrome, multiple sclerosis, vasculitis, or glomerulonephritis with the following caveats:\n\nPatients with a history of autoimmune hypothyroidism on a stable dose of thyroid replacement hormone may be eligible\nPatient with controlled type 1 diabetes mellitus on a stable insulin regimen may be eligible\n\nPatients type 2 diabetes mellitus may be eligible\n\n\u00b0 Patients with eczema, psoriasis, lichen simplex chronicus, or vitiligo with dermatologic manifestations only (e.g., no psoriatic arthritis) may be eligible provided that they meet the following conditions:\n\nRash must cover less than 10% of the body surface area (BSA)\nDisease is well controlled at baseline and only requires low potency topical steroids\nNo acute exacerbations of underlying condition within the last 12 months (e.g., not requiring psorlen and ultraviolet A (PUVA) radiation, methotrexate retinoids, biologic agents, oral calcineurin inhibitors, high potency, or oral steroids)\nTreatment with systemic immunosuppressive medication (including but not limited to prednisone >10mg/day, cyclophosphamide, azathioprine, methotrexate, thalidomide, and TNF-x antagonists) within 2 weeks prior to RO7198457 administration. Patients who have received acute, low-dose, systemic immunosuppressant medication (e.g., a one-time dose of dexamethasone for nausea) may be enrolled in the study after discussion with and approval by the PI and Co-PI. The use of inhaled corticosteroids (e.g., fluticasone for chronic obstructive pulmonary disease) is allowed. The use of oral mineralocorticoids (e.g., flurocortisone for patients with orthostatic hypotension) is allowed. Physiologic doses of corticosteroids for adrenal insufficiency are allowed.\nSubjects with allergies to IV contrast agents requiring pretreatment with corticosteroids will be excluded. Corticosteroids are immunosuppressive and may interfere with RO7198457 tolerability and efficacy. Given that there are serial contrast agent-dependent follow-up imaging studies built into the study which will overlap with vaccination, subjects who require pretreatment with corticosteroids prior to IV contrast administration will be excluded\nHistory of idiopathic pulmonary fibrosis, pneumonitis (including drug induced), organizing pneumonia (i.e., bronchioloitis obliterans, cryptogenic organizing pneumonia, etc.), or evidence of active pneumonitis on screening chest CT scan. History of radiation pneumonitis in the radiation field (fibrosis) is permitted\nKnown primary immunodeficiencies, either cellular (e.g., DiGeorge syndrome, T-negative severe combined immunodeficiency [SCID]) or combined T- and B-cell immunodeficiencies (e.g., T- and B-negative SCID, Wiskott-Aldrich syndrome, ataxia telangiectasia, common variable immunodeficiency)\nPrior allogeneic bone marrow transplantation or prior solid organ transplantation\nAny other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding giving reasonable suspicion of a disease or condition that would contraindicate the use of an investigational drug\nKnown clinically significant liver disease, including active viral, alcoholic, or other hepatitis, cirrhosis, and inherited liver disease or current alcohol abuse\nPrevious splenectomy\nAdministration of a live, attenuated vaccine within 4 weeks before RO7198457 administration or anticipation that such a live attenuated vaccine will be required during the study. Influenza vaccination should be given during influenza season only. Patients must not receive live, attenuated influenza vaccine (e.g., FluMist) within 4 weeks prior to RO7198457 administration or at any time during the study, and for 90 days following the last study treatment",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Vinod Balachandran, MD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Basking Ridge (All Protocol Activities)",
+                            "LocationCity": "Basking Ridge",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07920",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Monmouth (All Protocol Activities)",
+                            "LocationCity": "Middletown",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07748",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Bergen (All Protocol Activities)",
+                            "LocationCity": "Montvale",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "07645",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center @ Commack (All Protocol Activities)",
+                            "LocationCity": "Commack",
+                            "LocationState": "New York",
+                            "LocationZip": "11725",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Westchester (All Protocol Activities)",
+                            "LocationCity": "Harrison",
+                            "LocationState": "New York",
+                            "LocationZip": "10604",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan Kettering Nassau (All Protocol Activities)",
+                            "LocationCity": "Rockville Centre",
+                            "LocationState": "New York",
+                            "LocationZip": "11570",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6535",
+                            "ConditionBrowseLeafName": "Death",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "C000594389",
+                            "InterventionMeshTerm": "Atezolizumab"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000082082",
+                            "InterventionAncestorTerm": "Immune Checkpoint Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        },
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M349350",
+                            "InterventionBrowseLeafName": "Atezolizumab",
+                            "InterventionBrowseLeafAsFound": "Team",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2343",
+                            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

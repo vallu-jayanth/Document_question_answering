@@ -1,0 +1,377 @@
+{
+    "Rank": 694,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04085510",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "STUDY19060359"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Pittsburgh",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Tomosynthesis vs. Contrast-Enhanced Mammography in Women With Personal History of Breast Cancer in Western Pennsylvania",
+                "OfficialTitle": "Improving Surveillance of Women With Personal History of Breast Cancer Using Contrast-Enhanced Mammography (CEM)",
+                "Acronym": "TOCEM"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 23, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 1, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 6, 2019",
+                "StudyFirstSubmitQCDate": "September 6, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 11, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 27, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 29, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Wendie Berg",
+                    "ResponsiblePartyInvestigatorTitle": "Professor of Radiology",
+                    "ResponsiblePartyInvestigatorAffiliation": "University of Pittsburgh"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Wendie Berg",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Breast Cancer Research Foundation",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a prospective clinical trial that will examine if contrast-enhanced mammography substantially improves breast cancer detection compared to mammography with tomosynthesis, with minimal increase in false-positives, in women with a personal history of breast cancer.",
+                "DetailedDescription": "The investigators expect to show in a prospective clinical trial that, in women with a personal history of breast cancer, contrast-enhanced mammography substantially improves breast cancer detection compared to mammography with tomosynthesis, with minimal increase in false positives. The investigators expect a substantial increase in node-negative invasive cancers in particular. Because DBT will be interpreted first by one reader, and CEM will be interpreted first, and independently, by a second reader, there will also be an assessment of performance of tomosynthesis alone or CEM alone in this population. Participants will be invited to three rounds of annual screening with CEM. CEM must be performed at the time of or within 6 weeks of routine annual mammogram with tomosynthesis."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer Female",
+                        "Breast Cancer",
+                        "Breast Neoplasms",
+                        "Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer screening",
+                        "digital breast tomosynthesis",
+                        "contrast-enhanced mammogram"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1650",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Contrast-enhanced mammogram",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "All women will receive both 3D mammography and contrast-enhanced mammography for breast cancer screening; the order of interpretation will vary for each of two radiologists",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: Contrast-enhanced mammogram"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "Contrast-enhanced mammogram",
+                            "InterventionDescription": "Contrast-enhanced mammography (CEM) is a new FDA-approved exam that is similar to magnetic resonance imaging (MRI) in depicting breast cancers due to increased and leaky blood vessels. Contrast-enhanced mammography is used as an adjunct following mammography and/or ultrasound examinations to localize a known or suspected lesion.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Contrast-enhanced mammogram"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Cancer Detection",
+                            "PrimaryOutcomeDescription": "Number of participants with cancer detected with contrast-enhanced mammography compared to tomosynthesis. Number of patients recalled for additional testing by each imaging test who do not have cancer (false positives). Outcomes will be assessed for both prevalence and incidence screens.",
+                            "PrimaryOutcomeTimeFrame": "48 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Reader Validation",
+                            "SecondaryOutcomeDescription": "Reader validation will be performed at study conclusion: number of cancers detected with contrast-enhanced mammography or tomosynthesis.",
+                            "SecondaryOutcomeTimeFrame": "48 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n-Asymptomatic women, ages 30-85, with a personal history of breast cancer who have had at least one routine mammogram since treatment.\n\nExclusion Criteria:\n\nWomen with a history of prior iodinated contrast reaction\nWomen with implant(s) in the breasts to be screened (as this creates artifacts and diagnostic performance of imaging in women with implants likely does not generalize to those without implants, and the sample size with implants would be too small to infer conclusions)\nWomen who have had bilateral mastectomy\nWomen with a history of kidney failure or estimated glomerular filtration rate (eGFR) < 45 mL/min\nPregnancy or lactation\nWomen actively being treated for cancer of any type with chemotherapy\nLump or other breast symptoms\nAbnormality on prior breast imaging that is being followed.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "30 Years",
+                "MaximumAge": "85 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Wendie Berg, MD, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "412-641-8283",
+                            "CentralContactEMail": "bergwa@upmc.edu"
+                        },
+                        {
+                            "CentralContactName": "Allysa Quick, BS",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "412-641-8278",
+                            "CentralContactEMail": "quicka@upmc.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Wendie Berg, MD, PhD",
+                            "OverallOfficialAffiliation": "University of Pittsburgh",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Magee Womancare Passavant Cranberry",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cranberry Township",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "16066",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "McKenna Rigling, BS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-8283",
+                                        "LocationContactEMail": "riglingmm@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Aerial Kendrick, MS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-6048",
+                                        "LocationContactEMail": "kendrickak@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Wendie Berg, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Magee Womancare Monroeville",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Monroeville",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15146",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Aerial Kendrick, MS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-8278",
+                                        "LocationContactEMail": "kendrickak@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "McKenna Rigling, BS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-8283",
+                                        "LocationContactEMail": "riglingmm@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Wendie Berg, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Magee Womens Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Pittsburgh",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "15213",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "McKenna Rigling, BS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-8283",
+                                        "LocationContactEMail": "riglingmm@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Aerial Kendrick, MS",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "412-641-8278",
+                                        "LocationContactEMail": "kendrickak@upmc.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Wendie Berg, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Images may be shared with secondary investigators, including commercial companies after removal of all identifiers. All participant identification (name, patient number, birth date) will be removed prior to sharing.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol"
+                    ]
+                },
+                "IPDSharingTimeFrame": "At study conclusion",
+                "IPDSharingAccessCriteria": "Participant imaging may be shared with secondary investigators, including commercial companies either by electronic transfers or via disc downloads. All participant identification will be removed prior to the images release."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

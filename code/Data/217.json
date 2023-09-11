@@ -1,0 +1,390 @@
+{
+    "Rank": 217,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00253500",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CASE3104"
+                },
+                "Organization": {
+                    "OrgFullName": "Case Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Epirubicin in Treating Women Who Are Undergoing Surgery for Stage I, Stage II, or Stage III Breast Cancer",
+                "OfficialTitle": "Prediction of Response or Resistance to Dose Intensified Pre-Operative Epirubicin Therapy of Operable Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 2002"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 2005",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2010",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "November 11, 2005",
+                "StudyFirstSubmitQCDate": "November 11, 2005",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 15, 2005",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 22, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 24, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Case Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "RATIONALE: Drugs used in chemotherapy, such as epirubicin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving epirubicin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.\n\nPURPOSE: This phase II trial is studying how well epirubicin works in treating women who are undergoing surgery for stage I, stage II, or stage III breast cancer.",
+                "DetailedDescription": "OBJECTIVES:\n\nPrimary\n\nDetermine the complete pathological and clinical response rate in women undergoing surgery for resectable stage I-III breast cancer treated with neoadjuvant dose-intensified epirubicin hydrochloride.\n\nSecondary\n\nDetermine the toxicity of this regimen in these patients.\nDetermine the predictive value of HER2 gene amplification and topoisomerase II-alpha gene amplification or deletion for disease progression and pathological and clinical complete response in patients treated with this regimen.\nCorrelate gene expression profiles with pathologic complete response, clinical complete response, less than complete response, and disease progression in patients treated with this regimen.\n\nOUTLINE: Patients receive epirubicin hydrochloride IV on day 1 and pegfilgrastim subcutaneously on day 2. Treatment repeats every 14 days for 4 courses in the absence of disease progression or unacceptable toxicity. Four weeks later, patients undergo partial mastectomy or simple mastectomy plus an axillary staging procedure.\n\nAfter completion of study treatment, patients are followed periodically.\n\nPROJECTED ACCRUAL: A total of 30 patients will be accrued for this study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "stage II breast cancer",
+                        "stage I breast cancer",
+                        "stage IIIA breast cancer",
+                        "stage IIIB breast cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "15",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Epirubicin",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: pegfilgrastim",
+                                    "Drug: epirubicin hydrochloride",
+                                    "Procedure: conventional surgery"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "pegfilgrastim",
+                            "InterventionDescription": "6 mg in a syringe",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Epirubicin"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Neulasta"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "epirubicin hydrochloride",
+                            "InterventionDescription": "120 MG q 2 weeks for 4 cycles",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Epirubicin"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "conventional surgery",
+                            "InterventionDescription": "to remove small piece of cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Epirubicin"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Biopsy will involve a small surgical incision to remove a piece of the cancer."
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Complete pathological response rate by tumor analysis after surgery",
+                            "PrimaryOutcomeDescription": "No evidence of microscopic invasive tumor at the primary tumor site in the surgical specimen.",
+                            "PrimaryOutcomeTimeFrame": "4 weeks"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Complete clinical response rate by diagnostic mammogram at baseline and at 8 weeks",
+                            "SecondaryOutcomeDescription": "Bilateral (if both breasts are present) Mammograms (within 4 weeks of study entry)",
+                            "SecondaryOutcomeTimeFrame": "4 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Toxicity by physical exam and medical history every 14 days prior to surgery",
+                            "SecondaryOutcomeDescription": "A physical exam Physical examination with recording of tumor size, if palpable.",
+                            "SecondaryOutcomeTimeFrame": "2-4 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Predictive value of HER2 gene amplification and topoisomerase II-alpha gene amplification or deletions for pathologic complete response, clinical complete response or disease progression after surgery",
+                            "SecondaryOutcomeDescription": "Patients whose tumors are positive for estrogen receptor (>1% staining by immunohistochemistry) or progesterone receptor (institutional definition) should receive post-operative hormonal therapy for 5 years.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Gene expression after surgery",
+                            "SecondaryOutcomeDescription": "Patients whose tumors are positive for estrogen receptor (>1% staining by immunohistochemistry) or progesterone receptor (institutional definition) should receive post-operative hormonal therapy for 5 years.",
+                            "SecondaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nHistologically confirmed invasive breast cancer\n\nStage I, II, or III disease (T1, T2, or T4; N0-2; M0)\n\nResectable disease\n\nUnidimensionally measurable disease\n\nPrimary tumor \u2265 2 cm\nNo known distant metastases\n\nHormone receptor status:\n\nNot specified\n\nPATIENT CHARACTERISTICS:\n\nSex\n\nFemale\n\nMenopausal status\n\nNot specified\n\nPerformance status\n\nECOG 0-2\n\nLife expectancy\n\nNot specified\n\nHematopoietic\n\nWBC \u2265 3,500/mm^3\nHemoglobin \u2265 8 g/dL\nPlatelet count \u2265 100,000/mm^3\nNo known untreated bleeding diathesis\n\nHepatic\n\nAST \u2264 2 times upper limits of normal\nBilirubin \u2264 1.5 mg/dL\n\nRenal\n\nCreatinine \u2264 1.5 mg/dL OR\nCreatinine clearance \u2265 60 mL/min\n\nCardiovascular\n\nLVEF \u2265 50% on echocardiogram, MUGA, or cardiac catheterization\n\nOther\n\nNot pregnant or breastfeeding\nFertile patients must use effective contraception\nNegative pregnancy test\nNo concurrent illness that would preclude study treatment\nNo known hypersensitivity to Escherichia coli-derived proteins, pegfilgrastim, filgrastim (G-CSF), or any other component of these products\n\nPRIOR CONCURRENT THERAPY: Not specified",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "120 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "George T. Budd, MD",
+                            "OverallOfficialAffiliation": "Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center",
+                            "LocationCity": "Cleveland",
+                            "LocationState": "Ohio",
+                            "LocationZip": "44195-9001",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database",
+                            "SeeAlsoLinkURL": "http://clinicaltrials.gov/ct2/results?term=case3104"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000015251",
+                            "InterventionMeshTerm": "Epirubicin"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000903",
+                            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059005",
+                            "InterventionAncestorTerm": "Topoisomerase II Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000059003",
+                            "InterventionAncestorTerm": "Topoisomerase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17644",
+                            "InterventionBrowseLeafName": "Epirubicin",
+                            "InterventionBrowseLeafAsFound": "Small cleaved cell",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3912",
+                            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3914",
+                            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infe",
+                            "InterventionBrowseBranchName": "Anti-Infective Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

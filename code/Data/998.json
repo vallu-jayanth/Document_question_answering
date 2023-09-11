@@ -1,0 +1,428 @@
+{
+    "Rank": 998,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05112016",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "TME-KSW"
+                },
+                "Organization": {
+                    "OrgFullName": "Kantonsspital Winterthur KSW",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Long-term Cohort Study of Mesorectal Excision for Rectal Cancer",
+                "OfficialTitle": "Long-term Cohort Study of Mesorectal Excision for Rectal Cancer",
+                "Acronym": "TME-KSW"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2021",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2007",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 31, 2028",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 6, 2021",
+                "StudyFirstSubmitQCDate": "October 27, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 8, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 27, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 8, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Kantonsspital Winterthur KSW",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The aim of this cohort study is to record, evaluate and compare the surgical, oncological as well as the functional outcome and Quality of life after mesorectal excision for rectal cancer",
+                "DetailedDescription": "Outcomes of mesorectal excision patients will be analysed. Medical records will be reviewed and perioperative outcomes retrieved, incl. long-term oncological and functional/quality of life data. A retrospective cohort over 10 years (2007-2016) will serve as a control to a prospective cohort over 10 further years (2017-2026) as to investigate trends in perioperative and oncological outcomes (min. follow-up of 5 years + adequate cohort size). Prospective data on bowel function, urogenital function and quality of life will measured at time of diagnosis and further. Variations in neoadjuvant/adjuvant treatment and surgical approaches will be assessed for their effect on the outcomes of interest."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rectum",
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "TME (total mesorectal excision)",
+                        "Transanal TME",
+                        "Laparoscopic TME",
+                        "Robotic TME",
+                        "Open TME",
+                        "Quality of life"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "10 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "250",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "TME for rectal cancer",
+                            "ArmGroupDescription": "Patients with rectal cancer treated by TME (laparoscopic TME, transanal TME, robotic TME, open TME)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Total mesorectal excision for rectal cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Total mesorectal excision for rectal cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "TME for rectal cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "TME"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Perioperative mortality",
+                            "PrimaryOutcomeDescription": "Reporting perioperative mortality with Clavien-Dindo & Comprehensive Complications Index",
+                            "PrimaryOutcomeTimeFrame": "90 days"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Age",
+                            "PrimaryOutcomeDescription": "Age (years)",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Body mass index",
+                            "PrimaryOutcomeDescription": "BM (kg/m2)",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Gender",
+                            "PrimaryOutcomeDescription": "Sex (male, female)",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "ASA score",
+                            "PrimaryOutcomeDescription": "American Society of Anesthesiologists score (I to V)",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Date of surgery",
+                            "PrimaryOutcomeDescription": "date of surgery (day-month-year)",
+                            "PrimaryOutcomeTimeFrame": "day of surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Tumor localisation",
+                            "PrimaryOutcomeDescription": "Description of tumor localisation",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Comorbidities",
+                            "PrimaryOutcomeDescription": "Charlson index",
+                            "PrimaryOutcomeTimeFrame": "day of surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Perioperative complications",
+                            "PrimaryOutcomeDescription": "Reporting and grading of postoperative surgical complications (according to Dindo-Clavien classification and/or comprehensive complications index)",
+                            "PrimaryOutcomeTimeFrame": "90 days"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Histological results",
+                            "PrimaryOutcomeDescription": "Histological staging and grading of the specimen by a pathologist",
+                            "PrimaryOutcomeTimeFrame": "30 days"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Quality of life, including functional and symptom scales, incontinence scores, sexual function",
+                            "PrimaryOutcomeDescription": "taTME survey (validated english, german, french versions); from 0 (worst) to 100 (best)",
+                            "PrimaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Perioperative treatment",
+                            "SecondaryOutcomeDescription": "Chemoradiation before or after surgery, other treatments necessary",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Surgery time",
+                            "SecondaryOutcomeDescription": "Duration of surgery in minutes",
+                            "SecondaryOutcomeTimeFrame": "day of surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Length of hospital stay",
+                            "SecondaryOutcomeDescription": "Length of hospital stay in days",
+                            "SecondaryOutcomeTimeFrame": "90 days"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Readmission rate",
+                            "SecondaryOutcomeDescription": "Number of patients readmitted within 90 days of index surgery divided by the total number of patients operated",
+                            "SecondaryOutcomeTimeFrame": "90 days"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Costs",
+                            "SecondaryOutcomeDescription": "At the level of individual patient Cost in terms of hospital charges and expenses in Swiss Francs. Actual costs and micro-costing",
+                            "SecondaryOutcomeTimeFrame": "10 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMen and Women >18 years\nPatients with rectal cancer\nUnderwent mesorectal excision\nAgreed to fill in a validated questionnaires before surgery and after stoma reversal\nInformed consent\n\nExclusion Criteria:\n\nAge < 18\nNo informed consent (no general consent, no consent to use personal data for research purpose)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with rectal cancer who benefit from surgical resection",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Michel Adamina, Prof/MD/MSc",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+41522663376",
+                            "CentralContactEMail": "michel.adamina@ksw.ch"
+                        },
+                        {
+                            "CentralContactName": "Kantonsspital Winterthur",
+                            "CentralContactRole": "Contact"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Michel Adamina, Prof/MD/MSc",
+                            "OverallOfficialAffiliation": "Kantonsspital Winterthur KSW",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Kantonsspital Winterthur",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Winterthur",
+                            "LocationState": "Z\u00fcrich",
+                            "LocationZip": "8401",
+                            "LocationCountry": "Switzerland",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Michel Adamina, Prof/MD/MSc",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+41522663634",
+                                        "LocationContactEMail": "michel.adamina@ksw.ch"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000012004",
+                            "ConditionMeshTerm": "Rectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000015179",
+                            "ConditionAncestorTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14536",
+                            "ConditionBrowseLeafName": "Rectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T6034",
+                            "ConditionBrowseLeafName": "Quality of Life",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

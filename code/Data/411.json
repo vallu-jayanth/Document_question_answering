@@ -1,0 +1,316 @@
+{
+    "Rank": 411,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05027347",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "79/GCN-HDDD 2021"
+                },
+                "Organization": {
+                    "OrgFullName": "University Medical Center Ho Chi Minh City (UMC)",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Detection of Plasma Circulating Tumor DNA in Gastric Cancer",
+                "OfficialTitle": "Detection of Plasma Circulating Tumor DNA in Gastric Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 10, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 30, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 30, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 25, 2021",
+                "StudyFirstSubmitQCDate": "August 25, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 30, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 27, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 28, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University Medical Center Ho Chi Minh City (UMC)",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The aim of this study is to develop a protocol for detection of circulating tumor DNA (ctDNA) in plasma of patients with early stages of gastric cancer.",
+                "DetailedDescription": "Gastric cancer (GC) is the fifth most common cancer worldwide and the third leading cause of cancer deaths. Earlier detection of GC can dramatically increases the five-year survival rate up to > 90%. The current endoscopy and tissue biopsy remain excessively expensive for middle-income nations, in addition to being fairly invasive, with possible complications. Additionally, most of serum-based biomarkers such as carcinoembryonic antigen (CEA), carbohydrate antigen 19-9 (CA19-9), carbohydrate antigen 72-4 (CA72-4), and carbohydrate antigen 125 (CA125) are not recommended for detection of GC due to the limit of specificity and sensitivity in the early stages of GC. Thus, it is essential to identify new biomarkers for diagnosis of early stages of GC. In this study, the investigators develop an ultradeep massive parallel sequencing (MPS) assay to detect tumor derived mutations (TDM) in plasma of early stages of GC. This study provides proof-of-principle for eventual clinical employment of circulating DNA, via liquid biopsy, for detection of early stages of GC."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Circulating Tumor DNA (ctDNA)",
+                        "Gastric Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "100 healthy people",
+                            "ArmGroupDescription": "10 ml blood and tissue biopsy were collected from each patient",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: plasma circulating tumor DNA"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "100 gastric cancer patients",
+                            "ArmGroupDescription": "10 ml blood and tissue biopsy were collected from each patient",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: plasma circulating tumor DNA"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "plasma circulating tumor DNA",
+                            "InterventionDescription": "A liquid biopsy assay for identification of tumor derived mutations in plasma of gastric cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "100 gastric cancer patients",
+                                    "100 healthy people"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The sensitivity and and specificity of our mutation-based assay for detecting early-stage gastric cancer patients",
+                            "PrimaryOutcomeDescription": "sensitivity and and specificity of our mutation-based assay for detecting early-stage gastric cancer patients",
+                            "PrimaryOutcomeTimeFrame": "1 months after collecting blood and specimen"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Limit of detection (LOD): the lowest variant allelic frequency that can be reliably detected",
+                            "SecondaryOutcomeDescription": "the lowest variant allelic frequency that can be reliably detected",
+                            "SecondaryOutcomeTimeFrame": "1 months after collecting blood and specimen"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The concordance rate of mutation results between plasma and tissue biopsy assay",
+                            "SecondaryOutcomeDescription": "The concordance rate of mutation results between plasma and tissue biopsy",
+                            "SecondaryOutcomeTimeFrame": "1 months after collecting blood and specimen"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or Female patients aged 18 years and older\nHistologically proven stage (I, II and IIIA) gastric adenocarcinoma\nNaivety to treatment.\nNo known other concomitant cancer diagnosis\nSigned informed consent\n\nExclusion Criteria:\n\nPathologically late stage (stage IIIB and IV) or metastatic gastric adenocarcinoma\nUnderwent any type of treatment\nUnable to undergo biopsy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients diagnosed with early and locally advanced stage (I, II and IIIA) gastric cancer",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Long D. Vo, MD.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+84918133915",
+                            "CentralContactEMail": "long.vd@umc.edu.vn"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Medical Center Ho Chi Minh City",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Ho Chi Minh City",
+                            "LocationZip": "700000",
+                            "LocationCountry": "Vietnam",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Long D. Vo, MD.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+84.918133915",
+                                        "LocationContactEMail": "long.vd@umc.edu.vn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

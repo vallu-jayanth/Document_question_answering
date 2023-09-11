@@ -1,0 +1,281 @@
+{
+    "Rank": 283,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02547961",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Breast Cancer CAR-T 001"
+                },
+                "Organization": {
+                    "OrgFullName": "Fuda Cancer Hospital, Guangzhou",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Chimeric Antigen Receptor-Modified T Cells for Breast Cancer",
+                "OfficialTitle": "Chimeric Antigen Receptor-Modified T Cells for HER-2 Positive Recurrent and Metastatic Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2020",
+                "OverallStatus": "Withdrawn",
+                "WhyStopped": "Project terminated due to revision of local regulations",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2015",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 15, 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 15, 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "September 4, 2015",
+                "StudyFirstSubmitQCDate": "September 10, 2015",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 14, 2015",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "July 14, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 16, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fuda Cancer Hospital, Guangzhou",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to evaluate the safety and efficacy of HER2-CAR-T cell Infusion for advanced HER2 positive breast cancer.",
+                "DetailedDescription": "By enrolling patients with advanced HER2 positive breast cancer adapted to enrolled criteria, this study will document for the first time the safety and the short and long term efficacy of HER2-CAR-T cell infusion for advanced HER2 positive breast cancer.The CAR consists of a HER-2 targeting antibody scFv with two intracellular signaling domains derived from CD3 zeta and CD28. Autologous T cells will be gene-engineered with the CAR gene using a retrovirus vector. Prior to T cell infusion, the patients will be subjected to preconditioning treatment. After T cell infusion, the patients will be evaluated for 24 months for adverse reactions, persistence of CAR T cells and efficacy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "HER2",
+                        "CAR-T cell"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "0",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "HER2-CAR-T",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In interventional studies, participants are assigned to accept HER-2-targeting CAR T Cells infusion so that researchers can evaluate the effects and safety of the CAR-T cell.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: HER-2-targeting CAR T Cells infusion"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "No Intervention",
+                            "ArmGroupType": "No Intervention"
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "HER-2-targeting CAR T Cells infusion",
+                            "InterventionDescription": "HER-2-targeting CAR t cells infusion in breast cancer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "HER2-CAR-T"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Number of participants with Adverse events",
+                            "PrimaryOutcomeTimeFrame": "24weeks"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Tumor load",
+                            "SecondaryOutcomeDescription": "Tumor load will be quantified with radiology, bone marrow and/or blood",
+                            "SecondaryOutcomeTimeFrame": "24weeks"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Progress free disease (PFS)",
+                            "OtherOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "OtherOutcomeMeasure": "Overall survival (OS)",
+                            "OtherOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nChemotherapy refractory Her2 positive breast cancer\uff1b\nRelapsed patients after anti-Her2 using antibody or kinase inhibitor therapy\uff1b\nPatients must be 18 years of age or older\uff1b\nPatients must have an ECOG (Eastern Cooperative Oncology Group )performance status of 0-2\uff1b\nPatients must have evidence of adequate bone marrow reserve, hepatic and renal function as evidenced by the following laboratory parameters:\n\nAbsolute neutrophil count greater than 1500/mm3. Platelet count greater than 100,000/mm3. Hemoglobin greater than 10g/dl (patients may receive transfusions to meet this parameter).\n\nTotal bilirubin < 1.5 times upper limits of normal. Serum creatinine less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70 ml/min/1.73m(2).\n\nSeronegative for HIV antibody.\nSeronegative for active hepatitis B, and seronegative for hepatitis C antibody.\nPatients must be willing to practice birth control during and for four months following treatment.NOTE:women of child-bearing age must have evidence of negative pregnancy test.\nPatients must be willing to sign an informed consent.\n\nExclusion Criteria:\n\n1. Patients with uncontrolled hypertension (> 160/95), unstable coronary disease evidenced by uncontrolled arrhythmias, unstable angina, decompensated congestive heart failure (> New York Heart Association Class II), or myocardial infarction within 6 months of study will be excluded.\n\n2.Patients with any of the follo wing pulmonary function abnormalities will be excluded: FEV(forced expiratory volume), < 30% predicted; DLCO (diffusing capacity of lung for carbon monoxide) < 30% predicted (post-bronchodilator); Oxygen Saturation less than 90% on room air.\n\n3.Patients with severe liver and kidney dysfunction or consciousness disorders will be excluded.\n\n4.Pregnant and/or lactating women will be excluded. 5.Patients with active infections, including HIV, will be excluded, due to unknown effects of the vaccine on lymphoid precursors.\n\n6.Patients with any type of primary immunodeficiencies will be excluded from the study.\n\n7.Patients requiring corticosteroids (other than inhaled) will be excluded. 8.Patients with history of T cell tumors will be excluded. 9.Patients who are participating or participated any other clinical trials in latest 30 days will be excluded.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Lizhi Niu, PhD",
+                            "OverallOfficialAffiliation": "Fuda Cancer Hospital",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Central laboratory in Fuda cancer hospital",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510000",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

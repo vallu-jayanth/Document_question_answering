@@ -1,0 +1,339 @@
+{
+    "Rank": 277,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03403296",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "4-2016-0433"
+                },
+                "Organization": {
+                    "OrgFullName": "Yonsei University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Validation Study of Relationships Among Genomic Gene Expression Profile, Prognosis and Prediction of Adjuvant Chemotherapy Benefit With Capecitabine and Oxaliplatin in Gastric Cancer Stage II and III (6th AJCC) Patients After D2 Surgery (CLASSIC)",
+                "OfficialTitle": "A Validation Study of Relationships Among Genomic Gene Expression Profile, Prognosis and Prediction of Adjuvant Chemotherapy Benefit With Capecitabine and Oxaliplatin in Gastric Cancer Stage II and III (6th AJCC) Patients After D2 Surgery Using a Phase 3 Randomized Clinical Trial Sample (CLASSIC)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 13, 2016",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 12, 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 12, 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 11, 2018",
+                "StudyFirstSubmitQCDate": "January 11, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 18, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 11, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 18, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Yonsei University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to validate a pre-defined single-patient classifier algorithm for predicting prognosis and benefit from adjuvant chemotherapy for patients who underwent D2 gastrectomy for stage II and III gastric cancer. This algorithm classifies gastric cancer into five groups according to its molecular characteristics based on RNA expression levels. The prognosis and response from adjuvant chemotherapy will be different according to prognostic and predictive clusters respectively based on these groups, thus this algorithm can identify as patients which will have benefit from adjuvant chemotherapy or which will not. Consequently, this algorithm can be translated into clinical practice to help doctors who decide the necessity of adjuvant chemotherapy after D2 gastrectomy for patients who had diagnosed stage II and III gastric cancer.",
+                "DetailedDescription": "The purpose of this study is to validate a pre-defined single-patient classifier algorithm for predicting prognosis and benefit from adjuvant chemotherapy for patients who underwent D2 gastrectomy for stage II and III gastric cancer. This algorithm classifies gastric cancer into five groups according to its molecular characteristics based on RNA expression levels. The prognosis and response from adjuvant chemotherapy will be different according to prognostic and predictive clusters respectively based on these groups, thus this algorithm can identify as patients which will have benefit from adjuvant chemotherapy or which will not. Consequently, this algorithm can be translated into clinical practice to help doctors who decide the necessity of adjuvant chemotherapy after D2 gastrectomy for patients who had diagnosed stage II and III gastric cancer.\n\nThe cohort for this validation study is from patients who were enrolled the CLASSIC (Capecitabine and oxaliplatin Adjuvant Study in Stomach Cancer) trial, a randomized, open-label, multicenter, parallel-group, phase 3 study which compared the effect of adjuvant capecitabine plus oxaliplatin (XELOX) after D2 gastrectomy with surgery alone strategy. This trial was conducted between June, 2006 and June, 2009. The patient were from both surgery alone arm and surgery plus adjuvant XELOX arm, and have tumor blocks available for RNA extraction."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Stage II-III Gastric Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "formalin-fixed paraffin-embedded tissue of resected tumor"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "640",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "CLASSIC cohort",
+                            "ArmGroupDescription": "Patients with stage II-III GC who underwent D2 resection were randomized (1:1) after surgery to receive adjuvant capecitabine and oxaliplatin (eight three-week cycles of oral capecitabine 1000 mg/m\u00b2 twice daily on days 1-14 plus intravenous oxaliplatin 130 mg/m\u00b2 on day 1) for 6 months or observation alone. Assessment whether patients were disease free were done by abdominal CT or MRI and chest radiograph at regular intervals as planned by protocol.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: nProfiler I Stomach Cancer Assay Kit"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "nProfiler I Stomach Cancer Assay Kit",
+                            "InterventionDescription": "qPCR by nProfiler I Stomach Cancer Assay Kit",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "CLASSIC cohort"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "nProfiler I Stomach Cancer Assay Kit (Novomics Co., Korea)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "overall survival(OS)",
+                            "PrimaryOutcomeDescription": "the time from randomization to the date of death from any cause.",
+                            "PrimaryOutcomeTimeFrame": "5 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\naged 18 years or older\nhistologically confirmed, American Joint Committee on Cancer/Union Internationale Contre le Cancer (6th edition) 2 stage II (T2N1, T1N2, T3N0), IIIA (T3N1, T2N2, T4N0), or IIIB (T3N2) gastric adenocarcinoma with no evidence of metastatic disease\nprevious D2 surgery with achieved R0 resection\nKarnofsky performance status of >70%\nadequate renal function (creatinine clearance >50 mL/min or serum creatinine \u22641\u00b75 times the upper limit of normal), hepatic function (total bilirubin \u22641\u00b75 times the upper limit of normal, aspartate or alanine aminotransferase \u22642\u00b75 times the upper limit of normal), and hematological function (absolute neutrophil count \u22651\u00b75 \u00d7 109/L or platelet count \u2265100 \u00d7 109/L)\nadequate hepatic function\nformalin-fixed paraffin-embedded (FFPE) tumor blocks, pathologic reports, and clinical information were all available.\n\nExclusion Criteria:\n\nchemotherapy, immunotherapy, or radiotherapy for GC prior to surgery\nno available FFPE tumor blocks\ninsufficient RNA quality to be analyzed.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "approximately 640 FFPE sample blocks from patients among 1035 enrolled in the CLASSIC trial (satisfied with below criteria)",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Department of Surgery, Yonsei University College of Medicine",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "03722",
+                            "LocationCountry": "Korea, Republic of"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "25439693",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Noh SH, Park SR, Yang HK, Chung HC, Chung IJ, Kim SW, Kim HH, Choi JH, Kim HK, Yu W, Lee JI, Shin DB, Ji J, Chen JS, Lim Y, Ha S, Bang YJ; CLASSIC trial investigators. Adjuvant capecitabine plus oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): 5-year follow-up of an open-label, randomised phase 3 trial. Lancet Oncol. 2014 Nov;15(12):1389-96. doi: 10.1016/S1470-2045(14)70473-5. Epub 2014 Oct 15."
+                        },
+                        {
+                            "ReferencePMID": "22226517",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Bang YJ, Kim YW, Yang HK, Chung HC, Park YK, Lee KH, Lee KW, Kim YH, Noh SI, Cho JY, Mok YJ, Kim YH, Ji J, Yeh TS, Button P, Sirzen F, Noh SH; CLASSIC trial investigators. Adjuvant capecitabine and oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): a phase 3 open-label, randomised controlled trial. Lancet. 2012 Jan 28;379(9813):315-21. doi: 10.1016/S0140-6736(11)61873-4. Epub 2012 Jan 7."
+                        },
+                        {
+                            "ReferencePMID": "17978289",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sakuramoto S, Sasako M, Yamaguchi T, Kinoshita T, Fujii M, Nashimoto A, Furukawa H, Nakajima T, Ohashi Y, Imamura H, Higashino M, Yamamura Y, Kurita A, Arai K; ACTS-GC Group. Adjuvant chemotherapy for gastric cancer with S-1, an oral fluoropyrimidine. N Engl J Med. 2007 Nov 1;357(18):1810-20. doi: 10.1056/NEJMoa072252. Erratum In: N Engl J Med. 2008 May 1;358(18):1977."
+                        },
+                        {
+                            "ReferencePMID": "25079317",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cancer Genome Atlas Research Network. Comprehensive molecular characterization of gastric adenocarcinoma. Nature. 2014 Sep 11;513(7517):202-9. doi: 10.1038/nature13480. Epub 2014 Jul 23."
+                        },
+                        {
+                            "ReferencePMID": "25894828",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cristescu R, Lee J, Nebozhyn M, Kim KM, Ting JC, Wong SS, Liu J, Yue YG, Wang J, Yu K, Ye XS, Do IG, Liu S, Gong L, Fu J, Jin JG, Choi MG, Sohn TS, Lee JH, Bae JM, Kim ST, Park SH, Sohn I, Jung SH, Tan P, Chen R, Hardwick J, Kang WK, Ayers M, Hongyue D, Reinhard C, Loboda A, Kim S, Aggarwal A. Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes. Nat Med. 2015 May;21(5):449-56. doi: 10.1038/nm.3850. Epub 2015 Apr 20."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M1674",
+                            "InterventionBrowseLeafName": "Oxaliplatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M377",
+                            "InterventionBrowseLeafName": "Capecitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

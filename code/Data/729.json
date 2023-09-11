@@ -1,0 +1,624 @@
+{
+    "Rank": 729,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03982641",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRST153.07"
+                },
+                "Organization": {
+                    "OrgFullName": "Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Emilia-Romagna Surgical Colorectal Cancer Audit- ESCA",
+                "OfficialTitle": "A Plan for Evaluating Costs and Outcomes of Colorectal Surgery in Emilia-Romagna (Emilia-Romagna Surgical Colorectal Cancer Audit-ESCA)",
+                "Acronym": "ESCA"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "April 16, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 28, 2019",
+                "StudyFirstSubmitQCDate": "June 10, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 11, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 10, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 11, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Focus of this project is to evaluate the possible financial benefit resulting from an optimization of surgical outcomes throughout a collaborative and systematic auditing activity.The primary objective of this analysis is to assess the employed resources by National Health System related to surgical activities for primary colorectal cancer during a collaborative and systematic auditing activity in 8 Surgical Units of Emilia-Romagna",
+                "DetailedDescription": "Focus of this project is to evaluate the possible financial benefit resulting from an optimization of surgical outcomes throughout a collaborative and systematic auditing activity.\n\nThe primary objective of this analysis is to assess the employed resources by National Health System related to surgical activities for primary colorectal cancer during a collaborative and systematic auditing activity in 8 Surgical Units of Emilia-Romagna. A project team composed by experts in colorectal cancer care will be created with the task of identifying the needed resources to allocate to the project and the set of administrative, economic and performance indicators to be measured during the project. A friendly, time-preserving dataset that includes all the items to be collected to measure established indicators will be developed. An analysis on costs and performance indicators will be conducted on colorectal procedures performed between 1 January 2019 and 31 December 2019 within the participating centers. From the second year auditing activity will be implemented among institutions of Emilia-Romagna. Analysis results obtained from the first year of collecting data will be used as a starting feedback report to implement the auditing activity dedicated to colorectal cancer. During the whole second year monthly feedback reports will be drafted and used for monitoring costs and performances outcomes of colorectal surgery procedures between 1 January 2020 and 31 December 2020.\n\nAt the end of the second year a final analysis will be performed to compare resources employed for colorectal cancer surgery between the first and second year. Economical and performance data will be collected.\n\nFocusing on costs, the main sources to be used are administrative databases. Full in-hospital costs will be collected for each patient for the time interval between the day of admission for surgery and the following post-operative 90-days. The Diagnosis Related Groups (DRG) standardized payments will be used to calculate inpatient costs.\n\nAnother source for cost and performance information is the clinical chart (paper or electronic) in all its parts. The investigators will focus primarily on set of data, that potentially could contribute to define the cost of care on basis of post-operative pathway. Key performance indicators common to both colon and rectal surgery or specific for one of the two surgical procedure will be considered."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Financial Benefit",
+                        "Colorectal Cancer",
+                        "Surgery",
+                        "Auditing Activity"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "colorectal cancer surgery",
+                        "auditing activity",
+                        "economical analysis",
+                        "surgical performance indicators"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "6 Months",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1400",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colon surgery",
+                            "ArmGroupDescription": "patients diagnosed with colon cancer, who undergone at least one surgical procedure at one of participating hospitals during the observational period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: all colorectal cancer surgical procedures"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Rectal surgery",
+                            "ArmGroupDescription": "patients diagnosed with rectal cancer, who undergone at least one surgical procedure at one of participating hospitals during the observational period",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: all colorectal cancer surgical procedures"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "all colorectal cancer surgical procedures",
+                            "InterventionDescription": "colorectal cancer surgical procedures",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colon surgery",
+                                    "Rectal surgery"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "health care resources utilization (HCRU)",
+                            "PrimaryOutcomeDescription": "To identify the resources delivered to surgical patients. Resource are retrieved from administrative database.",
+                            "PrimaryOutcomeTimeFrame": "90 day post surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Cost relate to HCRU",
+                            "PrimaryOutcomeDescription": "To identify the significant cost drivers for the surgical management of colorectal cancer patients and to verify the impact on economic resource consumption of the systematic auditing activities. Costs are retrieved from adminatrative database.",
+                            "PrimaryOutcomeTimeFrame": "90 day post-surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "% of patients with post-operative complications",
+                            "SecondaryOutcomeDescription": "To assess the frequency of post-operative complications, unplanned re-interventions and re-admission. This outcome is measured from data collected in Case Report Form (CRF)",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of mortality at 30 days",
+                            "SecondaryOutcomeDescription": "To assess mortality rates at 30 days. This outcome is measured from data collected in CRF and from administrative database.",
+                            "SecondaryOutcomeTimeFrame": "30 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of mortality at 90 days",
+                            "SecondaryOutcomeDescription": "To assess mortality rates at 90 days. This outcome is measured from data collected in CRF and from administrative database.",
+                            "SecondaryOutcomeTimeFrame": "90 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of mortality at 180 days",
+                            "SecondaryOutcomeDescription": "To assess mortality rates at 180 days. This outcome is measured from data collected in CRF and from administrative database.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "% of patients discussed in Multidisciplinary team meeting",
+                            "SecondaryOutcomeDescription": "To assess the number of patient discussed within a multidisciplinary team meeting before colon rectal surgery. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "% of patients who underwent minimally invasive resection",
+                            "SecondaryOutcomeDescription": "To assess the number of minimally invasive resections. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 day post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Conversion rate",
+                            "SecondaryOutcomeDescription": "to assess the rate of conversion surgery. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 day post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "% of patients with adequacy of lymph node sampling",
+                            "SecondaryOutcomeDescription": "To assess adequate intraoperative lymph node sampling of colorectal surgery. This outcome will be measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of anastomosis",
+                            "SecondaryOutcomeDescription": "To assess the rate of anastomosis after low anterior resection vs terminal colostomy. This outcome will be measured from relative data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of Miles procedure",
+                            "SecondaryOutcomeDescription": "to assess the rate of Miles procedures in rectal cancer patients. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Quality of Total Mesorectal Excision: rate of positive Circumferential Resection Margin in patients with rectal cancer.",
+                            "SecondaryOutcomeDescription": "To assess the rate of positive Circumferential Resection Margin in rectal cancer patient. This outcome will be measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of loop ileostomy in patients with rectal cancer",
+                            "SecondaryOutcomeDescription": "To assess the rate of loop ileostomy after rectal cancer resection. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "% of patients with rectal cancer who underwent preoperative chemo-radiation therapy",
+                            "SecondaryOutcomeDescription": "To assess the appropriateness of preoperative chemo-radiation therapy in rectal cancer patients. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of preoperative chemo-radiation therapy in patients with rectal cancer",
+                            "SecondaryOutcomeDescription": "To assess the rate of preoperative chemo-radiation therapy in rectal cancer patients. This outcome is measured from data collected in CRF.",
+                            "SecondaryOutcomeTimeFrame": "180 days post surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistological diagnosis of malignant colorectal cancer;\nUnderwent colorectal cancer surgery;\n\nExclusion Criteria:\n\n\u2022 multiple synchronous primary tumours;",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All consecutive patients diagnosed with malignant colorectal cancer, who undergone at least one surgical procedure at one of participating hospitals during the observational period will be collected",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Valentina Danesi, engineer",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "00390543739264",
+                            "CentralContactEMail": "valentina.danesi@irst.emr.it"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Mattia Altini, physician",
+                            "OverallOfficialAffiliation": "IRST",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Istituto Scientifico Romagnolo per lo studio e la cura dei tumori",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Meldola",
+                            "LocationState": "FC",
+                            "LocationZip": "47014",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Valentina Danesi, Biomedical Engineering",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "00390543739264",
+                                        "LocationContactEMail": "valentina.danesi@irst.emr.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Mattia Altini, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUO Chirurgia Generale e D'Urgenza Ospedale M.Bufalini",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cesena",
+                            "LocationState": "Forli-Cesena",
+                            "LocationZip": "47521",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Luca Ansaloni, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "luca.ansaloni@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Luca Ansaloni, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUO CHIRURGIA GENERALE OSPEDALE G. B. Morgagni- Pierantoni",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Forl\u00ec",
+                            "LocationState": "Forli-Cesena",
+                            "LocationZip": "47121",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giorgio Ercolani, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "giorgio.ercolani2@unibo.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Giorgio Ercolani, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Auo Chirurgia Generale Ospedale Degli Infermi",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Faenza",
+                            "LocationState": "Ravenna",
+                            "LocationZip": "48018",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Giampaolo Ugolini, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "giampaolo.ugolini@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Giampaolo Ugolini, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUO Chirurgia Generale Ospedale Umberto I",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Lugo",
+                            "LocationState": "Ravenna",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Rosario Mario Tranchino, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "rosariomario.tranchino@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Rosario Mario Tranchino, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUO Chirurgia Generale Ospedale Ceccarini",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Riccione",
+                            "LocationState": "Rimini",
+                            "LocationZip": "47838",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Andrea Lucchi, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "andrea.lucchi@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Andrea Lucchi, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AOU Chirurgia Generale Ospedale G. Da Saliceto",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Piacenza",
+                            "LocationZip": "29121",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Patrizio Capelli, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "p.capelli@ausl.pc.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Patrizio Capelli, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "AUO Chirurgia Generale ed Urgenza Ospedale S. Maria delle Croci",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Ravenna",
+                            "LocationZip": "48121",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Paolo Soliani, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "paolo.soliani@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Paolo Soliani, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Auo Chirurgia Generale Ospedale Degli Infermi",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rimini",
+                            "LocationZip": "47923",
+                            "LocationCountry": "Italy",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Gianluca Garulli, physician",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "gianluca.garulli@auslromagna.it"
+                                    },
+                                    {
+                                        "LocationContactName": "Gianluca Garulli, physician",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35779080",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Massa I, Ghignone F, Ugolini G, Ercolani G, Montroni I, Capelli P, Garulli G, Catena F, Lucchi A, Ansaloni L, Gentili N, Danesi V, Montella MT, Altini M; ESCA Collaborative Group. Emilia-Romagna Surgical Colorectal Cancer Audit (ESCA): a value-based healthcare retro-prospective study to measure and improve the quality of surgical care in colorectal cancer. Int J Colorectal Dis. 2022 Jul;37(7):1727-1738. doi: 10.1007/s00384-022-04203-w. Epub 2022 Jul 2."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "T120",
+                            "InterventionBrowseLeafName": "Cola",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "HB",
+                            "InterventionBrowseBranchName": "Herbal and Botanical"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

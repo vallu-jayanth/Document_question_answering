@@ -1,0 +1,394 @@
+{
+    "Rank": 906,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05883683",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CIT-CoPT-R01"
+                },
+                "Organization": {
+                    "OrgFullName": "Wuhan Union Hospital, China",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Molecular Study and Precision Medicine for Colorectal Cancer",
+                "OfficialTitle": "Precision Medicine for Advanced or Recurrent Colorectal Cancer Directed by High-throughput Sequencing and Tumor Organoids Model",
+                "Acronym": "MSPM"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 1, 2026",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 1, 2026",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 12, 2022",
+                "StudyFirstSubmitQCDate": "May 30, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 1, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "May 30, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 1, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Zheng Wang, MD/PhD",
+                    "ResponsiblePartyInvestigatorTitle": "Study chair, Clinical Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Wuhan Union Hospital, China"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Wuhan Union Hospital, China",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Researchers collect specimens from advanced or recurrent colorectal cancer (CRC) patients to conduct molecular profiling and establish tumor organoids (PDOs)/ patient-derived xenografts (PDXs). The aim of this study is to identify clinical actionable targets and predict in vivo response of the tumor to targeted drugs by using PDOs/ PDXs. And the above-mentioned studies will provide the patients with potential personalized cancer treatment options.",
+                "DetailedDescription": "Patient-derived organoid is a model that can recapitulate the histology and behavior of the cancer from which it is derived, and is increasingly used as a tool for drug development in pre-clinical settings. Clinical treatment option of colorectal cancer now is quite limited. By molecular profiling, clinical actionable alterations may be identified. And according to the genomic investigation results, we can find the matched targeted drugs, following further testing in the organoids and PDXs. This will provide an opportunity to guide the precision medicine."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Advanced Colorectal Carcinoma",
+                        "Recurrent Colorectal Carcinoma"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Tumour samples will be collected for molecular characterization and organoids establishment."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Colorectal Cancer",
+                            "ArmGroupDescription": "Colorectal cancer patients with advanced or recurrent tumors",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Molecular Profiling & drug testing in tumor organoids and PDXs"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Molecular Profiling & drug testing in tumor organoids and PDXs",
+                            "InterventionDescription": "Molecular profiling of native tumor will be performed and analyzed by using a self-designed panel. Tumor organoids will be cultured from fresh tumor tissues and patient-derived xenografts model will be established using the tumor organoids. Drugs will be tested in the two models. And the recommendation will be communicated to the clinicians.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Colorectal Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Identification of effective drugs or drug combinations",
+                            "PrimaryOutcomeDescription": "Viability of organoid is measured using CellTiter-Glo by quantifying ATP, which indicates the presence of metabolically active cells.",
+                            "PrimaryOutcomeTimeFrame": "up to 3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Comparison of clinical actionable alterations identified in native tumor and organoids.",
+                            "SecondaryOutcomeDescription": "Genomic gene mutation numbers are identified using the Next-Generation Sequencing (NGS).",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between organoid and PDX drug sensitivities",
+                            "SecondaryOutcomeDescription": "Size of the tumor is measured to reflect the drug response.",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female patients, age 18 to 75 years old\nPatients with a documented (histologically- or cytologically-proven) advanced or recurrent colorectal cancer\nPatients must have Eastern Cooperative Oncology Group (ECOG) performance status =< 1 and a life expectancy of at least 3 months\nPatients, both male and female, who are either not of childbearing potential or who agree to use a medically effective method of contraception during the study and for 3 months after the last dose of study drug.\nPatients with the ability to understand and give written informed consent for participation in this trial, including all evaluations and procedures as specified by this protocol.\n\nExclusion Criteria:\n\nPatients with any other life-threatening illness, significant organ system dysfunction, or clinically significant laboratory abnormality, which, in the opinion of the Investigator, would either compromise the patient's safety or interfere with evaluation of the safety of the study drug\nPatients with abnormal coagulation function, bleeding tendency, or receiving thrombolytic or anticoagulant therapy\nPatients with any other serious/active/uncontrolled infection, any infection requiring parenteral antibiotics, or unexplained fever > 38\u00baC within 2 weeks prior to first study drug administration.\nPatients with a history of human immunodeficiency virus (HIV) or any other immunodeficiency disease.\nPatients who are currently using certain drugs that are not permitted\nPatients with a psychiatric disorder or altered mental status that would preclude understanding of the informed consent process and/or completion of the necessary studies\nPatients with the inability, in the opinion of the Investigator, to comply with the protocol requirements",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients with advanced or recurrent colorectal cancer",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Zheng Wang, MD/PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86 2785726612",
+                            "CentralContactEMail": "zhengwang@hust.edu.cn"
+                        },
+                        {
+                            "CentralContactName": "Luming Xu",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86 2785726612",
+                            "CentralContactEMail": "lumingxu@hust.edu.cn"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Zheng Wang, MD/PhD",
+                            "OverallOfficialAffiliation": "Wuhan Union Hospital, China",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Wuhan Union Hospital, China",
+                            "LocationCity": "Wuhan",
+                            "LocationState": "Hubei",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Zheng Wang, MD/PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86278576612"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "28331002",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pauli C, Hopkins BD, Prandi D, Shaw R, Fedrizzi T, Sboner A, Sailer V, Augello M, Puca L, Rosati R, McNary TJ, Churakova Y, Cheung C, Triscott J, Pisapia D, Rao R, Mosquera JM, Robinson B, Faltas BM, Emerling BE, Gadi VK, Bernard B, Elemento O, Beltran H, Demichelis F, Kemp CJ, Grandori C, Cantley LC, Rubin MA. Personalized In Vitro and In Vivo Cancer Models to Guide Precision Medicine. Cancer Discov. 2017 May;7(5):462-477. doi: 10.1158/2159-8290.CD-16-1154. Epub 2017 Mar 22."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

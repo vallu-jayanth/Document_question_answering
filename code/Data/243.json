@@ -1,0 +1,329 @@
+{
+    "Rank": 243,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05203549",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "D1med-GC1001"
+                },
+                "Organization": {
+                    "OrgFullName": "D1 Medical Technology (Shanghai) Co., Ltd, China",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Consistency Between Treatment Responses in PDO Models and Clinical Outcomes in Gastric Cancer",
+                "OfficialTitle": "Consistency Between Treatment Responses in Patient-Derived Organoid (PDO) Models and Clinical Outcomes of Neoadjuvant Therapy, Conversion Therapy and Palliative Therapy in Gastric Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "June 30, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 10, 2022",
+                "StudyFirstSubmitQCDate": "January 10, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 24, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 10, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 24, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "D1 Medical Technology (Shanghai) Co., Ltd, China",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Shanghai Zhongshan Hospital",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Gastric cancer is the fourth leading cause of cancer-related death worldwide. Accurate assessment of the clinical responses to current treatment regimens is key to improving the prognosis and prolonging the survival of patients. In this study, two hundred and fifty patients with gastric cancer who ought to receive neoadjuvant therapy, conversion therapy or palliative chemotherapy will be enrolled, and patient-derived organoids from their tumor biopsies will be used to test the sensitivity of chemotherapy drugs which mainly include 5-fluorouracil, irinotecan, oxaliplatin and paclitaxel.",
+                "DetailedDescription": "Two hundred and fifty stage II-IV gastric cancer patients who should receive neoadjuvant therapy, conversion therapy or palliative chemotherapy will be enrolled in this study. Baseline information of the enrolled patients including medical history, physical examination records and clinical examination records will be collected. Tumor material of those patients will be obtained from gastric endoscopic biopsies or surgical resection. Patient-derived organoids (PDOs) will be established and cultured from gastric cancer tumor specimens. PDOs will then be treated with drugs of the chemotherapeutic regimens for gastric cancer. Organoid size and growth will be monitored before and after the treatment, and dose-response curves will be generated. As for the assessment of clinical outcomes of patients, tumor regression grade (TRG) systems will be used to evaluate tumor histological responses, and treatment responses will also be assessed by biomedical imaging according to the Response Evaluation Criteria in Solid Tumors (RECIST1.1). Consistency between treatment responses in PDO models and clinical outcomes of patients will be assessed by correlation analysis."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "A part of the tumor will be removed from the primary tumor."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "250",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Gastric cancer patients",
+                            "ArmGroupDescription": "Patients with gastric cancer will undergo tumor biopsy before receiving neoadjuvant therapy, conversion therapy, or palliative therapy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Tumor biopsy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Tumor biopsy",
+                            "InterventionDescription": "Patients with gastric cancer will undergo tumor biopsy before receiving neoadjuvant therapy, conversion therapy, or palliative therapy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Gastric cancer patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Establishment of patient-derived organoids",
+                            "PrimaryOutcomeDescription": "Patient-derived organoids (PDOs) will be established from gastric cancer tumor specimens and the rate of successful generation of gastric cancer organoids will be calculated.",
+                            "PrimaryOutcomeTimeFrame": "2021.05 - 2023.12"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Correlation between results of the drug sensitivity tests in patient-derived organoid models and clinical outcomes",
+                            "SecondaryOutcomeDescription": "The results from drug sensitivity tests in patient-derived organoid models will be compared with clinical outcomes after neoadjuvant therapy, conversion therapy and palliative therapy, followed by correlation analysis.",
+                            "SecondaryOutcomeTimeFrame": "2021.05 - 2023.12"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge from 18 to 70 years old, no gender limit\nThe primary tumor is diagnosed as gastric adenocarcinoma (papillary, tubular, signet ring cell, poorly differentiated and mucinous adenocarcinoma) by endoscopic biopsy sampling and follow-up histopathological staining\nThe pre-operative staging includes: a) Stage IVa\uff08cT4bNanyM0\uff09\uff0cresectable; b) Stage II-III\uff08cT1-2N1-3M0\u3001cT3-4aN0-3M0\uff09, gastro-oesophageal junction (GEJ) cancer\uff1bc) Stage III\uff08cT3-4aN1-3M0\uff09, non-GEJ cancer, appropriate for neoadjuvant therapy\nStage IVb or locally unresectable late-stage gastric or GEJ cancer, previously never received chemotherapy\nEastern Cooperative Oncology Group (ECOG) performance score 0 or 1\nThe function of major organs is normal, meeting the following criteria: a) routine blood tests (no blood transfusion in the past 14 days): HB\u226590g/L\uff1bANC \u22651.5\u00d7109/L\uff1bPLT \u226580\u00d7109/L\uff1bb\uff09blood biochemical parameters: BIL <1.5-fold upper limit of normal (ULN)\uff1bALT<2.5\u00d7ULN; AST<2.5\u00d7ULN\uff1bCrea\u22641\u00d7ULN\nFresh tumor tissue biopsies are obtainable and the clinical information of the patients is complete\nPatients have been informed and consented\n\nExclusion Criteria:\n\nPreviously received neoadjuvant therapy\nPreviously had other types of malignancy and received chemotherapy or radiotherapy\nPreviously had chicken pox, herpes zoster or other severe contagious diseases\nHave severe active ulcer (gastrointestinal tract, skin, etc.) or have developed a high fever\nHave a medical history of myocardial infarction, cerebral infarction, or pulmonary embolism\nHave complications of gastric cancer (bleeding, perforation and obstruction etc.) and need emergency operation\nPregnant or lactating women\nHave severe mental diseases\nAllergic to chemotherapy drugs\nHave metastatic brain cancer\nRefuse to cooperate and to complete a treatment",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Two hundred and fifty patients with gastric cancer who need to receive neoadjuvant therapy, conversion therapy or palliative chemotherapy are included in this study.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Hanqing Lin, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8615921348040",
+                            "CentralContactEMail": "linhq@d1med.com"
+                        },
+                        {
+                            "CentralContactName": "Zhaoqing Tang, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613817125778",
+                            "CentralContactEMail": "tang.zhaoqing@zs-hospital.sh.cn"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Xuefei Wang, MD",
+                            "OverallOfficialAffiliation": "Shanghai Zhongshan Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Zhongshan Hospital Fudan University",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shanghai",
+                            "LocationState": "Shanghai",
+                            "LocationZip": "200032",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Xuefei Wang, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+8613917270528",
+                                        "LocationContactEMail": "wang.xuefei@zs-hospital.sh.cn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

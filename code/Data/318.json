@@ -1,0 +1,354 @@
+{
+    "Rank": 318,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05587439",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "21-568"
+                },
+                "Organization": {
+                    "OrgFullName": "Dana-Farber Cancer Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Investigating Hereditary Risk In Thoracic Cancers (INHERIT)",
+                "OfficialTitle": "Investigating Hereditary Risk In Thoracic Cancers (INHERIT)",
+                "Acronym": "INHERIT"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Active, not recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 1, 2027",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "November 1, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 17, 2022",
+                "StudyFirstSubmitQCDate": "October 17, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 20, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 20, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 23, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Pasi Janne, MD, PhD",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Dana-Farber Cancer Institute"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Dana-Farber Cancer Institute",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this research study is to learn more about the inherited risk for developing lung cancer.",
+                "DetailedDescription": "Lung cancer is largely tobacco related, but the contribution of inherited susceptibility has been less well-studied, particularly among never-smokers. The goal of this study is to learn more about genetic susceptibility to lung cancer by studying individuals and families with known pathogenic germline mutations and/or family histories suggestive for heritable lung cancer, specifically in cases where tobacco exposure is minimal. Patients will be identified through somatic multi-gene panel testing (MGPT) as well as through reported personal and family histories of one or multiple cancers.\n\nThe overriding goal of this protocol is to follow patients with known germline mutations and strong family histories of lung cancer to better determine their risk of lung cancer and inform a screening paradigm based on this risk. This will allow us to observe the natural history of this disease and better understand the mechanisms underlying lung tumorigenesis in patients with susceptible germline backgrounds. These patients and their families will be enrolled as individuals with or without lung cancer who meet the following criteria: 1) individuals known to carry or at risk for carrying a germline EGFR mutation (T790M or other), identified through family members or by somatic genotyping at diagnosis, 2) individuals known to carry or at risk for carrying a pathogenic germline mutation in genes other than EGFR and with family history of lung cancer, or 3) individuals with no known germline mutation but with minimal exposure to tobacco and family history of lung cancer, personal history of other primary cancers, or multi-focal lung cancer.\n\nThis study is designed to create a data and specimen repository as well as follow patients over time to learn how to better predict lung cancer risk for those with certain genetic changes and family history of lung cancer, and to better understand how and why lung cancer develops in families.\n\nThe research study procedures include screening for eligibility, collection of information from participants' medical record, short questionnaires, and collecting blood and/or saliva samples. Procedures may also include use of tissue samples, access to medical records and stored specimens from deceased relatives, and contact information of family members.\n\nIt is expected that about 500 people will participant in this study."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer",
+                        "Genetic Disease",
+                        "Genetic Predisposition",
+                        "Hereditary Diseases"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung Cancer",
+                        "Genetic Disease",
+                        "Genetic Predisposition",
+                        "Hereditary Diseases"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Other"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Whole blood, serum, saliva, tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Germline EGFR Mutations",
+                            "ArmGroupDescription": "Individuals known to carry or at risk for carrying germline EGFR mutations (e.g., T790M, R776G/H/X, V769M, V834L, V843I, P848L, and others that will be identified). Patients with lung cancer with a somatic EGFR mutation prior to the initiation of treatment or who are found to have a suspected germline EGFR mutation via ctDNA analysis are also eligible.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Data and Specimen Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Germline Non-EGFR Mutations",
+                            "ArmGroupDescription": "Individuals known to carry or at risk for carrying non-EGFR germline mutations (e.g., HER2, BRCA2, MET, YAP1, and others that will be identified). Patients with lung cancer with a somatic variant suggestive of a possible hereditary lung cancer risk are also eligible.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Data and Specimen Collection"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Family History Or Multiple Primaries Or Multi-Focal Non-Small Cell Lung Cancer NSCLC",
+                            "ArmGroupDescription": "Individuals and families with history of lung cancer where no pathogenic germline variant has been identified, but ascertained through history of one or more of the following:\n\nMulti-generational or first-degree relative with lung cancer\nPersonal history of multiple primary lung cancers or other neoplasms\nMulti-focal lung cancer",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Data and Specimen Collection"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Data and Specimen Collection",
+                            "InterventionDescription": "Provide blood and/or saliva sample\nAnswer short questionnaires\n\nConsider consenting to other optional parts of the research such as:\n\nuse stored tissue samples related to prior cancer treatment\nAllow access to deceased relatives' medical records and stored specimens\nProvide blood 1x per year for up to 5 years\nProvide contact information of family members",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Family History Or Multiple Primaries Or Multi-Focal Non-Small Cell Lung Cancer NSCLC",
+                                    "Germline EGFR Mutations",
+                                    "Germline Non-EGFR Mutations"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of rare germline EGFR mutations",
+                            "PrimaryOutcomeDescription": "To determine the prevalence of rare germline EGFR T790M or other (e.g., EGFR V843I and R776H) mutations in lung cancer patients and in relatives of carriers of germline EGFR mutations",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of rare germline non-EGFR mutations",
+                            "PrimaryOutcomeDescription": "To determine the prevalence of rare germline non-EGFR mutations (e.g., HER2, BRCA2, MET, YAP1) in lung cancer patients and in relatives of carriers of germline non-EGFR mutations",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of rare pathogenic or likely pathogenic germline variants in familial lung cancers",
+                            "PrimaryOutcomeDescription": "To determine prevalence of rare pathogenic or likely pathogenic germline variants in individuals and families where lung cancer has occurred in multiple generations or across multiple family members of the same generation",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Prevalence of rare pathogenic or likely pathogenic germline variants in lung cancer patients with multiple primary cancers or multi-focal NSCLC",
+                            "PrimaryOutcomeDescription": "To determine prevalence of rare pathogenic or likely pathogenic germline variants in lung cancer patients with multiple primary cancers or multi-focal NSCLC",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Preliminary Assessment of History of Lung Cancers",
+                            "SecondaryOutcomeDescription": "To make a preliminary assessment of the natural history of lung cancers occurring in patients with germline EGFR mutations",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Estimate of Prevalence of Lung Nodules",
+                            "SecondaryOutcomeDescription": "To generate an initial estimate of the prevalence of CT-detected lung nodules in individuals with germline EGFR mutations",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Repository of Specimens and Data",
+                            "SecondaryOutcomeDescription": "Prospective registry of patients and families with hereditary or familial lung cancer to collect clinicopathologic information and biologic specimens.",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nCohort 1: individuals with or with high risk of carrying an EGFR T790M or other EGFR germline variant identified in blood or saliva, including via somatic single or multi-gene panel testing (MGPT). This includes both probands and family members.\n\nParticipants with variants of uncertain significance may be eligible at the PI's discretion\n\nCohort 2: individuals with or with high risk of carrying non-EGFR germline variants suggestive of a potential inherited lung cancer risk, identified in blood or saliva, including via somatic single or multi-gene panel testing (MGPT). This includes both probands and family members.\n\nParticipants with variants of uncertain significance may be eligible at the PI's discretion\n\nCohort 3: individuals with lung cancer who are not known to carry a pathogenic or likely pathogenic variant, and with one of the following:\n\nfirst-degree relative with lung cancer\nmulti-generational family history of lung cancer\npersonal history of multiple primary lung cancers or other neoplasms\nmultifocal lung cancer This includes both probands and their families.\n\nFor each cohort, the following applies:\n\nMay include blood relatives of individuals with the aforementioned variants or family history, who may be presumed obligate carriers or healthy controls\nDeceased patients may be included in the study. Pathology specimens and public records, such as death certificates, may be used to confirm information. If medical records and/or pathology specimens are needed, consent will be obtained from the descendant's next-of-kin. Next-of-kin refers to the following hierarchy of relatives: spouse, offspring, parents, and siblings. (Any further use of \"next-of-kin\" in this protocol refers to this hierarchy).\nData and specimens from previously consented eligible individuals (under Dana-Farber IRB protocol #12-360) will also be deposited into the study database and specimen banks from other investigators as long as their consents permit sharing of specimens and data. It is estimated that approximately 150 individuals may qualify under these criteria.\nSome of the variants identified initially through germline testing may ultimately be shown to not be germline but rather somatic mosaic (ACE or CHIP). These individuals will remain in the study cohort but will not be asked for ongoing questionnaire or repeat specimen donation\n\nExclusion Criteria:\n\nIndividuals who decline to consent\nIndividuals who are unable to give consent or assent and are without a designated healthcare proxy",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Dana-Farber Cancer Institute (DFCI), DFCI affiliates, satellites, or other sites clinics",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Pasi A J\u00e4nne, MD, PhD",
+                            "OverallOfficialAffiliation": "Dana-Farber Cancer Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Brigham and Women's Hospital",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Dana-Farber Cancer Institute",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02115",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Statistical Analysis Plan (SAP)",
+                        "Informed Consent Form (ICF)"
+                    ]
+                },
+                "IPDSharingTimeFrame": "Data can be shared no earlier than 1 year following the date of publication",
+                "IPDSharingAccessCriteria": "Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000030342",
+                            "ConditionMeshTerm": "Genetic Diseases, Inborn"
+                        },
+                        {
+                            "ConditionMeshId": "D000004198",
+                            "ConditionMeshTerm": "Disease Susceptibility"
+                        },
+                        {
+                            "ConditionMeshId": "D000020022",
+                            "ConditionMeshTerm": "Genetic Predisposition to Disease"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7070",
+                            "ConditionBrowseLeafName": "Disease Susceptibility",
+                            "ConditionBrowseLeafAsFound": "Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M21565",
+                            "ConditionBrowseLeafName": "Genetic Predisposition to Disease",
+                            "ConditionBrowseLeafAsFound": "Genetic Predisposition",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M23376",
+                            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+                            "ConditionBrowseLeafAsFound": "Hereditary Diseases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

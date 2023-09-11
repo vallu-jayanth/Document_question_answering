@@ -1,0 +1,630 @@
+{
+    "Rank": 552,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02016833",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "PX_DCtagTM_LeadIn_001"
+                },
+                "Organization": {
+                    "OrgFullName": "PX Biosolutions",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Development of Immunological Assays for the Evaluation of Tumor Antigen Specific Immunity",
+                "OfficialTitle": "Phase 0 Study for the Development of Immunological Assays for the Evaluation of WT-1, Survivin and HPV16 E7 Tumor Antigens Specific Immune Responses in Cancer Patients"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 2014",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 2014",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 5, 2013",
+                "StudyFirstSubmitQCDate": "December 15, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 20, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 29, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 30, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "PX Biosolutions",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study is a clinical study aiming at establishing immunological assays for the qualitative and quantitative evaluation of WT-1, Survivin and HPV16 E7-specific immune responses in cancer patients. Such a study will allow the development of suitable immunological tools to be used in assessing response in a subsequent phase I study aiming at evaluating therapeutic vaccine candidates targeting WT-1, Survivin and/or HPV16 E7-expressing tumors. In addition, this study will help defining the baseline cancer-associated immune responses in the selected patient population.\n\nCervical and ovarian cancer patients, as well as leukemia patients, will be included in this study.\n\nWT-1, Survivin and HPV-specific immune responses will be monitored in these patients by ex vivo and cultured IFNg ELISpot as well as tetramer staining."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Ovarian Serous Adenocarcinoma",
+                        "Undifferentiated Carcinoma of Ovary",
+                        "Cervical Cancer",
+                        "Cervical Intraepithelial Neoplasia, Grade 3",
+                        "Acute Myeloid Leukemia",
+                        "Chronic Myeloid Leukemia"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Ovarian Cancer",
+                        "Cervical Cancer",
+                        "Leukemia",
+                        "Immunity",
+                        "WT-1",
+                        "Survivin",
+                        "HPV"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Cross-Sectional"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "PBMCs isolated from whole blood"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "15",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer patients",
+                            "ArmGroupDescription": "Patient with histologically confirmed diagnosis of cervical cancer or cervical intraepithelial neoplasia (grade 3) or of high-grade serous (or undifferentiated) ovarian cancer or patients with AML or CML confirmed by bone marrow biopsy or peripheral blood Not treated - prior standard of care therapy acceptable one blood sampling performed on the visit day",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Blood Sampling"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Blood Sampling",
+                            "InterventionDescription": "Sampling of 80mL of whole blood",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Development and validation of ELISpot and tetramer assays for the detection of tumor-antigen specific T cell immune responses in cancer patients",
+                            "PrimaryOutcomeDescription": "Direct and cultured IFNg ELISpot as well as direct tetramer staining assays will be set up and qualified for the detection WT-1, survivin and HPV16 E7 specific immune responses in cancer patients",
+                            "PrimaryOutcomeTimeFrame": "Baseline"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Characterisation of WT1, Survivin and HPV16 E7 specific immune responses in cancer patients",
+                            "SecondaryOutcomeDescription": "Direct and Cultured IFNg ELISpot assays as well as tetramer staining assays will be used for the characterization of tumor specific immune responses in cancer patients",
+                            "SecondaryOutcomeTimeFrame": "Baseline"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSpecific Inclusion criteria\nFor ovarian cancer patients: Histologically confirmed surgical diagnosis of high-grade serous (or undifferentiated) ovarian cancer\nFor CIN3 and cervical cancer patients: Histologically confirmed diagnosis of CIN3 or cervical cancer\nFor AML and CML patients: HLA-A2 positivity and diagnosis of AML or CML confirmed by bone marrow biopsy or peripheral blood\nShared inclusion criteria\nNo evidence of active progressive disease. For ovarian cancer patients, a woman with a rising CA125 and negative imaging is acceptable\nAge \u2265 18 yrs and < 70 yrs\nECOG 0-2\nAdequate hematologic assessment (results from the previous standard of care visit):\nAbsolute neutrophil count (ANC) greater than or equal to 1.0 x 109/L\nPlatelets greater than or equal to 100 x 109/L.\nWritten informed consent\n\nExclusion Criteria:\n\nTreatment with chemotherapy, radiation therapy, other immunotherapy or non-topical steroids within the past 3 weeks prior to initiation of the study.\nImmunosuppressive therapy (excluding topical steroids) for any other condition.\nRecurrent/progressive disease confirmed clinically, radiologically or histologically before entry into the study. (exclude versus inclusion criteria)\nPersistent fever (>24 hours) documented by repeated measurement or active uncontrolled infection in the last 4 weeks.\nActive autoimmune disease, including, but not limited to, SLE, MS, ankylosing spondylitis.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Three type of patients will be enrolled in this study:\n\nWomen with a confirmed diagnosis of serous or undifferentiated ovarian cancer\nWomen with a confirmed diagnosis of CIN3 or cervical cancer\nHLA-A2 positive men or women with a confirmed diagnosis of AML of CML All these patients will be less than 70 years of age and will show no evidence of active progressive disease on follow up. For ovarian cancer patients, a woman with a rising CA125 and negative imaging is acceptable.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Linda Mileshkin, MD",
+                            "OverallOfficialAffiliation": "Peter MacCallum Cancer Centre, Australia",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Peter MacCallum Cancer Center",
+                            "LocationCity": "Melbourne",
+                            "LocationState": "Victoria",
+                            "LocationZip": "3002",
+                            "LocationCountry": "Australia"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000007938",
+                            "ConditionMeshTerm": "Leukemia"
+                        },
+                        {
+                            "ConditionMeshId": "D000007951",
+                            "ConditionMeshTerm": "Leukemia, Myeloid"
+                        },
+                        {
+                            "ConditionMeshId": "D000002583",
+                            "ConditionMeshTerm": "Uterine Cervical Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000015464",
+                            "ConditionMeshTerm": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+                        },
+                        {
+                            "ConditionMeshId": "D000002578",
+                            "ConditionMeshTerm": "Uterine Cervical Dysplasia"
+                        },
+                        {
+                            "ConditionMeshId": "D000018284",
+                            "ConditionMeshTerm": "Cystadenocarcinoma, Serous"
+                        },
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000000230",
+                            "ConditionAncestorTerm": "Adenocarcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014594",
+                            "ConditionAncestorTerm": "Uterine Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005833",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002577",
+                            "ConditionAncestorTerm": "Uterine Cervical Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014591",
+                            "ConditionAncestorTerm": "Uterine Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005831",
+                            "ConditionAncestorTerm": "Genital Diseases, Female"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009196",
+                            "ConditionAncestorTerm": "Myeloproliferative Disorders"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001855",
+                            "ConditionAncestorTerm": "Bone Marrow Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000006402",
+                            "ConditionAncestorTerm": "Hematologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002908",
+                            "ConditionAncestorTerm": "Chronic Disease"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011230",
+                            "ConditionAncestorTerm": "Precancerous Conditions"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003536",
+                            "ConditionAncestorTerm": "Cystadenocarcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018297",
+                            "ConditionAncestorTerm": "Neoplasms, Cystic, Mucinous, and Serous"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10635",
+                            "ConditionBrowseLeafName": "Leukemia",
+                            "ConditionBrowseLeafAsFound": "Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10645",
+                            "ConditionBrowseLeafName": "Leukemia, Myeloid",
+                            "ConditionBrowseLeafAsFound": "Myeloid Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17817",
+                            "ConditionBrowseLeafName": "Leukemia, Myeloid, Acute",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Undifferentiated Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12664",
+                            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M1704",
+                            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5520",
+                            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Cervical Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17813",
+                            "ConditionBrowseLeafName": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+                            "ConditionBrowseLeafAsFound": "Chronic Myeloid Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20119",
+                            "ConditionBrowseLeafName": "Cystadenocarcinoma, Serous",
+                            "ConditionBrowseLeafAsFound": "Serous Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12031",
+                            "ConditionBrowseLeafName": "Wilms Tumor",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5516",
+                            "ConditionBrowseLeafName": "Uterine Cervical Dysplasia",
+                            "ConditionBrowseLeafAsFound": "Cervical Intraepithelial Neoplasia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6431",
+                            "ConditionBrowseLeafName": "Cystadenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17032",
+                            "ConditionBrowseLeafName": "Uterine Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8635",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5515",
+                            "ConditionBrowseLeafName": "Uterine Cervical Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17029",
+                            "ConditionBrowseLeafName": "Uterine Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8633",
+                            "ConditionBrowseLeafName": "Genital Diseases, Female",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11839",
+                            "ConditionBrowseLeafName": "Myeloproliferative Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4824",
+                            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9180",
+                            "ConditionBrowseLeafName": "Hematologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5837",
+                            "ConditionBrowseLeafName": "Chronic Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13801",
+                            "ConditionBrowseLeafName": "Precancerous Conditions",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20131",
+                            "ConditionBrowseLeafName": "Neoplasms, Cystic, Mucinous, and Serous",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3995",
+                            "ConditionBrowseLeafName": "Myeloid Leukemia",
+                            "ConditionBrowseLeafAsFound": "Myeloid Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T182",
+                            "ConditionBrowseLeafName": "Acute Myeloid Leukemia",
+                            "ConditionBrowseLeafAsFound": "Acute Myeloid Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T188",
+                            "ConditionBrowseLeafName": "Acute Non Lymphoblastic Leukemia",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T1303",
+                            "ConditionBrowseLeafName": "Chronic Graft Versus Host Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4352",
+                            "ConditionBrowseLeafName": "Ovarian Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4354",
+                            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T170",
+                            "ConditionBrowseLeafName": "Acute Graft Versus Host Disease",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T1074",
+                            "ConditionBrowseLeafName": "Cervical Intraepithelial Neoplasia",
+                            "ConditionBrowseLeafAsFound": "Cervical Intraepithelial Neoplasia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T1309",
+                            "ConditionBrowseLeafName": "Chronic Myeloid Leukemia",
+                            "ConditionBrowseLeafAsFound": "Chronic Myeloid Leukemia",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5932",
+                            "ConditionBrowseLeafName": "Wilms' Tumor",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T200",
+                            "ConditionBrowseLeafName": "Adenocarcinoma of the Appendix",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T1311",
+                            "ConditionBrowseLeafName": "Chronic Myeloproliferative Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC15",
+                            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC16",
+                            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M259330",
+                            "InterventionBrowseLeafName": "BIRC5 protein, human",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

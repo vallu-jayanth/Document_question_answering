@@ -1,0 +1,484 @@
+{
+    "Rank": 362,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04969419",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "P045"
+                },
+                "Organization": {
+                    "OrgFullName": "Momentum Data",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Incidence of Melanoma and Non-melanoma Skin Cancer in People With Vitiligo",
+                "OfficialTitle": "Incidence of Melanoma and Non-melanoma Skin Cancer in People With Vitiligo: A Case-control Study in the United Kingdom, 2009-2020"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 18, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 31, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 4, 2023",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 1, 2021",
+                "StudyFirstSubmitQCDate": "July 16, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 20, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 15, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 16, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Momentum Data",
+                    "LeadSponsorClass": "INDUSTRY"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Pfizer",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study examines melanoma and nonmelanoma skin cancer in people diagnosed with vitiligo compared to matched controls.",
+                "DetailedDescription": "For the primary analysis, this study examines the risk of melanoma and nonmelanoma skin cancers: squamous cell carcinoma and basal cell carcinoma in people diagnosed with vitiligo. It also examines actinic keratoses. In secondary analysis, this study examines the prevalence of skin cancer in people diagnosed with vitiligo compared to matched controls.\n\nThis study also examines whether the susceptibility to melanoma and nonmelanoma skin cancer may vary between different patient subgroups, e.g. ethnicity, those who undergo phototherapy or treatment with the new targeted biologic immunosuppressive therapies."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Vitiligo",
+                        "Melanoma (Skin)",
+                        "Nonmelanoma Skin Cancer",
+                        "Squamous Cell Carcinoma",
+                        "Basal Cell Carcinoma",
+                        "Actinic Keratoses"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "45000",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cases",
+                            "ArmGroupDescription": "Patients with a confirmed diagnosis of Vitiligo within the study period will be included as cases for analysis.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Exposure of skin cancer of interest"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Controls",
+                            "ArmGroupDescription": "The controls will be defined by matching cases with people who have never been diagnosed with vitiligo either prior to or during the study period, by age and sex, at General Practice level.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Exposure of skin cancer of interest"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Exposure of skin cancer of interest",
+                            "InterventionDescription": "Melanoma and nonmelanoma skin cancers: squamous cell carcinoma, basal cell carcinoma and actinic keratoses.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cases",
+                                    "Controls"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Risk of new onset skin cancer in adult people diagnosed with vitiligo",
+                            "PrimaryOutcomeDescription": "Risk of new onset skin cancer assessed prospectively in vitiligo cases and matched controls. The skin cancer outcome comprises of the composite of melanoma and nonmelanoma skin cancers: squamous cell carcinoma and basal cell carcinoma.",
+                            "PrimaryOutcomeTimeFrame": "10 years from the index date"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Risk of new onset skin cancer in adult people diagnosed with vitiligo by sociodemographic subgroups",
+                            "PrimaryOutcomeDescription": "Risk of new onset skin cancer assessed prospectively in vitiligo cases and matched controls. Sociodemographic subgroups defined by age, sex, socioeconomic status and ethnicity.",
+                            "PrimaryOutcomeTimeFrame": "10 years from the index date"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Prevalence of skin cancer in adult people diagnosed with vitiligo",
+                            "SecondaryOutcomeDescription": "Skin cancer is defined as the composite of melanoma and nonmelanoma skin cancers: squamous cell carcinoma and basal cell carcinoma.",
+                            "SecondaryOutcomeTimeFrame": "At index date"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Prevalence of individual skin cancers in adult people diagnosed with vitiligo",
+                            "SecondaryOutcomeDescription": "Melanoma and nonmelanoma skin cancers: squamous cell carcinoma and basal cell carcinoma, and actinic keratoses.",
+                            "SecondaryOutcomeTimeFrame": "At index date."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAll eligible adult patients (aged \u2265 18) registered with General Practioner (GP) practices contributing data to OPCRD between January 1, 2010 and December 31, 2020, were eligible for inclusion in the study. People diagnosed with vitiligo prior to the study period (prevalent vitiligo) and people newly diagnosed with vitiligo during the study period (incident vitiligo) are included as cases.\n\nExclusion Criteria:\n\nPeople actively registered with the GP practice at that date without a history of vitiligo require a minimum one-year registration with their GP practice.",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This study will use routinely collected and collated data from Optimum Patient Care Research Database (OPCRD) to provide a broadly representative sample of the population of the UK.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Andrew McGovern, MD",
+                            "OverallOfficialAffiliation": "Momentum Data Ltd",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Momentum Data Ltd",
+                            "LocationCity": "London",
+                            "LocationZip": "WC1X 8QT",
+                            "LocationCountry": "United Kingdom"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "OPCRD data can be accessed by bone fide researchers for specific research projects, subject to approval by Anonymised Data Ethics & Protocol Transparency (ADEPT) Committee. The data utilised for this study cannot be made available without such approval.",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol"
+                    ]
+                },
+                "IPDSharingTimeFrame": "The data will be available subject to approvals for two years after the study publication date",
+                "IPDSharingAccessCriteria": "Data sharing is subject to ADEPT committee approval"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000002277",
+                            "ConditionMeshTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000008545",
+                            "ConditionMeshTerm": "Melanoma"
+                        },
+                        {
+                            "ConditionMeshId": "D000055623",
+                            "ConditionMeshTerm": "Keratosis, Actinic"
+                        },
+                        {
+                            "ConditionMeshId": "D000002280",
+                            "ConditionMeshTerm": "Carcinoma, Basal Cell"
+                        },
+                        {
+                            "ConditionMeshId": "D000012878",
+                            "ConditionMeshTerm": "Skin Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000007642",
+                            "ConditionMeshTerm": "Keratosis"
+                        },
+                        {
+                            "ConditionMeshId": "D000014820",
+                            "ConditionMeshTerm": "Vitiligo"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018358",
+                            "ConditionAncestorTerm": "Neuroendocrine Tumors"
+                        },
+                        {
+                            "ConditionAncestorId": "D000017599",
+                            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009373",
+                            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009380",
+                            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018326",
+                            "ConditionAncestorTerm": "Nevi and Melanomas"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011230",
+                            "ConditionAncestorTerm": "Precancerous Conditions"
+                        },
+                        {
+                            "ConditionAncestorId": "D000018295",
+                            "ConditionAncestorTerm": "Neoplasms, Basal Cell"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000017496",
+                            "ConditionAncestorTerm": "Hypopigmentation"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010859",
+                            "ConditionAncestorTerm": "Pigmentation Disorders"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11218",
+                            "ConditionBrowseLeafName": "Melanoma",
+                            "ConditionBrowseLeafAsFound": "Melanoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafAsFound": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M27958",
+                            "ConditionBrowseLeafName": "Keratosis, Actinic",
+                            "ConditionBrowseLeafAsFound": "Actinic Keratosis",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10358",
+                            "ConditionBrowseLeafName": "Keratosis",
+                            "ConditionBrowseLeafAsFound": "Keratosis",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5227",
+                            "ConditionBrowseLeafName": "Carcinoma, Basal Cell",
+                            "ConditionBrowseLeafAsFound": "Basal Cell Carcinoma",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5240",
+                            "ConditionBrowseLeafName": "Carcinoma, Squamous Cell",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15371",
+                            "ConditionBrowseLeafName": "Skin Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Skin Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17253",
+                            "ConditionBrowseLeafName": "Vitiligo",
+                            "ConditionBrowseLeafAsFound": "Vitiligo",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20185",
+                            "ConditionBrowseLeafName": "Neuroendocrine Tumors",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M19535",
+                            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20078",
+                            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12008",
+                            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12015",
+                            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12136",
+                            "ConditionBrowseLeafName": "Nevus",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12138",
+                            "ConditionBrowseLeafName": "Nevus, Pigmented",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20160",
+                            "ConditionBrowseLeafName": "Nevi and Melanomas",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13801",
+                            "ConditionBrowseLeafName": "Precancerous Conditions",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M20129",
+                            "ConditionBrowseLeafName": "Neoplasms, Basal Cell",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M19451",
+                            "ConditionBrowseLeafName": "Hypopigmentation",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13444",
+                            "ConditionBrowseLeafName": "Pigmentation Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4091",
+                            "ConditionBrowseLeafName": "Neuroendocrine Tumor",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4092",
+                            "ConditionBrowseLeafName": "Neuroepithelioma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2945",
+                            "ConditionBrowseLeafName": "Hypomelanotic Disorder",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

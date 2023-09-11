@@ -1,0 +1,319 @@
+{
+    "Rank": 783,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05991947",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IRB-2023-427"
+                },
+                "Organization": {
+                    "OrgFullName": "Zhejiang Cancer Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Preliminary Experimental Study on Key Technologies for Early Screening of Gastric Cancer",
+                "OfficialTitle": "Preliminary Experimental Study on Key Technologies for Early Screening of Gastric Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 7, 2023",
+                "StudyFirstSubmitQCDate": "August 7, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 15, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 7, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 15, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Xiangdong Cheng",
+                    "ResponsiblePartyInvestigatorTitle": "Secretary of the party committee",
+                    "ResponsiblePartyInvestigatorAffiliation": "Zhejiang Cancer Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Zhejiang Cancer Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This project aims to collect peripheral blood samples from newly diagnosed gastric cancer patients and healthy individuals. Various techniques such as cfDNA sequencing, proteomics, and fragmentomics will be employed to analyze differences in the expression of ctDNA mutations, fragmentomics, and protein biomarkers between gastric cancer patients and healthy individuals. A new comprehensive diagnostic model will be established and its diagnostic value (sensitivity, specificity, accuracy, etc.) for gastric cancer will be validated.\n\nSpecifically, the study will involve the following subjects and quantities: 700 participants from Zhejiang Cancer Hospital (350 gastric cancer patients and 350 healthy individuals), 200 participants from Sichuan Cancer Hospital (100 gastric cancer patients and 100 healthy individuals), and 200 participants from the Sixth Affiliated Hospital of Sun Yat-sen University (100 gastric cancer patients and 100 healthy individuals). Peripheral blood samples (a total of 15mL from each participant, collected in 3 tubes) will be collected from all subjects. The collected blood samples will undergo multi-omics sequencing including cfDNA methylation sequencing, proteomics, and genomics to establish a multi-omics-based early diagnostic model."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer",
+                        "Healthy"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Gastric Cancer",
+                        "Proteomics",
+                        "Diagnostic model"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "5 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "gastric cancer patients",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "healthy individuals",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: No intervention"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "No intervention",
+                            "InterventionDescription": "No intervention measures are needed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "gastric cancer patients",
+                                    "healthy individuals"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Differences in ctDNA gene and tumor-specific proteins expression",
+                            "PrimaryOutcomeDescription": "Collect 15ml of peripheral blood from subjects, extract ctDNA, and detect mutations in 18 genes (AKT1, APC, BRAF, CDKN2A, CTNNB1, EGFR, FBXW7, FGFR2, GNAS, HRAS, KRAS, NRAS, PIK3CA, PPP2R1A, PTEN, TP53, TOP2A, RNF43) and the expression levels of 9 tumor-specific proteins (CA-125, CA 19-9, CEA, HGF, IL-6, OPN, Prolactin, AFP, HE4) using the FireflyTM method based on amplicon library deep sequencing. Determine the performance indicators including sensitivity, specificity, and accuracy of the existing AccuScreen system and diagnostic model for early screening of gastric cancer. By conducting tests on 10 samples, explore the genomic fragments of gastric cancer, establish targets for ctDNA fragmentomics (fragment length, cleavage sites, end preferences, etc.), and analysis algorithms for gastric cancer fragmentomics, to further evaluate the feasibility of enhancing sensitivity and specificity for early gastric cancer screening through ctDNA fragmentomics detection.",
+                            "PrimaryOutcomeTimeFrame": "First day in hospital"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAge between 18 and 100 years.\nECOG performance status of 0 or 1.\nPathologically confirmed Stage I-III gastric cancer patients.\nPatients who have not undergone any anti-tumor treatment (including chemotherapy, radiotherapy, targeted therapy, surgery, anesthesia, etc.) before blood collection.\nSubjects and their family members who can comprehend the research protocol and are willing to participate in the study, providing written informed consent.\n\nExclusion Criteria:\n\nPresence of other hereditary diseases or other tumors.\nSevere inflammatory reactions caused by acute illnesses within 14 days prior to blood draw or use of steroids.\nPrevious organ transplantation, stem cell transplantation, bone marrow transplantation, or blood transfusion within the last month before enrollment.\nPregnant women.\nParticipation in other clinical trials requiring medication intake within the last 60 days (including anesthesia).\nSevere cardiovascular diseases, uncontrolled infections, or other uncontrollable comorbidities.\nSubjects or family members unable to comprehend the conditions and objectives of the study.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "100 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Number of Participants and Total Enrollment:\n\nZhejiang Cancer Hospital: 700/700 (350 cases of gastric cancer patients, 350 cases of healthy individuals) Sichuan Cancer Hospital: 200/200 (100 cases of gastric cancer patients, 100 cases of healthy individuals) The Sixth Affiliated Hospital of Sun Yat-sen University: 200/200 (100 cases of gastric cancer patients, 100 cases of healthy individuals)",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Xiangdong Cheng, Professor",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-13968032995",
+                            "CentralContactEMail": "chengxd@zjcc.org.cn"
+                        },
+                        {
+                            "CentralContactName": "Li Yuan, Professor",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-15558103169",
+                            "CentralContactEMail": "yuanli2768@zjcc.org.cn"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cancer Hospital of the University of Chinese Academy of Sciences (Zhejiang Cancer Hospital)",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Hangzhou",
+                            "LocationState": "Zhejiang",
+                            "LocationZip": "310000",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Xiangdong Cheng, PhD.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+0086-0571-88128041",
+                                        "LocationContactEMail": "chengxd516@126.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "This study does not involve clinical trials of drugs; it is solely designed to ensure the confidentiality of patient information. For participant information (such as names and ages), a coding system will be used instead of real names. After enrollment, each case will be assigned an enrollment number. Throughout the entire study, only the main researchers within the research team will have access to participants' real personal data (names, ages) in the electronic database. Distribution and sharing are prohibited. During the publication of articles, the main researchers within the research team will replace participant privacy information (names) with sample codes to achieve de-identification. Furthermore, the protection of participants' personal information will be maintained throughout the study, and any dissemination or leakage is strictly prohibited."
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

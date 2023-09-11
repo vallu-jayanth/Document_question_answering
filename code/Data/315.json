@@ -1,0 +1,1525 @@
+{
+    "Rank": 315,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01056601",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2009LSUC012"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "X05302",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Millennium Pharmaceuticals, Inc."
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Panobinostat & Bortezomib in Pancreatic Cancer Progressing on Gemcitabine Therapy",
+                "OfficialTitle": "Phase II Study of Panobinostat (LBH589) Given in Combination With Bortezomib (Velcade) in Patients With Pancreatic Cancer Progressing on Gemcitabine Therapy Alone or Gemcitabine in Combination"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2017",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Funding not available",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 2011",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2011",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "January 25, 2010",
+                "StudyFirstSubmitQCDate": "January 25, 2010",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 26, 2010",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "July 28, 2011",
+                "ResultsFirstSubmitQCDate": "July 28, 2011",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "August 26, 2011",
+                    "ResultsFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 3, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 28, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Novartis Pharmaceuticals",
+                            "CollaboratorClass": "INDUSTRY"
+                        },
+                        {
+                            "CollaboratorName": "Millennium Pharmaceuticals, Inc.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Cancer results from multiple mutations which cause cells to grow uncontrolled. It therefore may be necessary to inhibit several oncogenic targets to affect cancer cell growth. Studies have shown that panobinostat (LH589) causes a wide range of effect on endothelial cells that lead to inhibition of tumor angiogenesis (a fundamental step in the transition of tumors from a dormant state to a malignant one). Bortezomib triggers cell death in pancreatic cancer cells but the mechanism is not well defined but has been determined to be cytostatic. Combining these two drugs may work together in the treatment of pancreatic cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "insulinoma",
+                        "cancer of pancreas",
+                        "neoplasms, pancreas",
+                        "alpha-cell tumor",
+                        "glucagonoma",
+                        "beta-cell tumor",
+                        "somatostatinoma"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "7",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Pancreatic Cancer Patients",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib and panobinostat after progressing on gemcitabine.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Bortezomib",
+                                    "Drug: Panobinostat"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Bortezomib",
+                            "InterventionDescription": "1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer Patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Velcade"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Panobinostat",
+                            "InterventionDescription": "20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Pancreatic Cancer Patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "LBH589"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Progression-Free Survival",
+                            "PrimaryOutcomeDescription": "Median number of months before disease progressed in patient on gemcitabine when treated with the combination of panobinostat and bortezomib. Progression free survival is measured from randomization until the subject has documented disease progression by an objective measure. Subjects must be alive with no more than 20% increase in tumor size to qualify for progression free survival. Changes in tumor size are defined by RECIST criteria.",
+                            "PrimaryOutcomeTimeFrame": "Up to 1 Year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of Participants by Tumor Response",
+                            "SecondaryOutcomeDescription": "Number of patients whose tumor has responded to study therapy is determined using Response Evaluation Criteria In Solid Tumors. Progressive Disease (PD) is assessed if the sum of the diameters has increased by \u2265 20% and \u2265 5 mm from nadir (including baseline if it is the smallest sum). Objective response is measured by tumor reduction as defined in the RECIST criteria. Tumor shrinkage must be at least 30% to qualify as an objective response.",
+                            "SecondaryOutcomeTimeFrame": "Up to 1 Year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Duration of Response",
+                            "SecondaryOutcomeDescription": "Duration of response is calculated as (Date of First Disease Progression or Death as a Result of any Cause whichever Comes First - Date of First Objective Status Assessment of Confirmed Complete or Partial Response as defined by RECIST criteria).",
+                            "SecondaryOutcomeTimeFrame": "Up to 1 Year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistological diagnosis of locally advanced or metastatic pancreatic cancer (except neuroendocrine tumors, but including ampullary cancer) with progression after standard first line therapy that included gemcitabine (single agent or combination)\nMeasurable disease on computated tomography (CT) scan per Response Evaluation Criteria in Solid Tumors (RECIST) criteria\nAt least 28 days from previous systemic therapy, including investigational agents and 1st dose of study treatment and recovered from any acute toxic effects of that treatment before study enrollment.\nHas Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 1 - Ability to provide written consent\n\nMust meet hematology and biochemistry laboratory criteria within 14 days of study enrollment:\n\nNeutrophil count >1500/mm^3\nPlatelet count >100,000/mm^L\nHemoglobin > or = 9 g/dL\nAspartate aminotransferase (AST/SGOT) or Alanine transaminase (ALT/SGPT) < or = 2.5 times upper limit of normal (ULN)or \u2264 5.0 x ULN if the transaminase elevation is due to disease involvement\nSerum bilirubin < or = 1.5 x ULN\nSerum creatinine < or = 1.5 x ULN or 24-hour creatinine clearance \u2265 50 ml/min\nTotal serum calcium (corrected for serum albumin) or ionized calcium \u2265 lower limit of normal (LLN)\nSerum phosphorus > or = LLN\nSerum potassium > or = LLN\nSerum sodium \u2265 LLN\nSerum magnesium \u2265 LLN\nSerum albumin \u2265 LLN or 3g/dl\nPatients with any elevated Alkaline Phosphatase due to bone metastasis can be enrolled\nBaseline multi gated acquisition scan (MUGA) or echocardiogram (ECHO) must demonstration left ventricular ejection fraction (LVEF) > or = 50%\nNormal thyroid function within normal limits. Note: Patients are permitted to receive thyroid hormone supplements to treat underlying hypothyroidism.\nWomen of childbearing potential (WOCBP) must have a negative pregnancy tests within 7 days of study treatment administration and willing to use 2 methods of contraception\n\nExclusion Criteria:\n\n> 1 prior systemic treatment regimen for pancreatic cancer\nPrior histone deacetylase (HDAC), deacetylase (DAC), heat shock protein 90 (HSP90) inhibitors or valproic acid for treatment of cancer\nAnyone needing valproic acid for any medical condition during the study or 5 days prior to panobinostat treatment\n\nImpaired cardiac function\n\nComplete left bundle branch block or use of a permanent cardiac pacemaker, congenital long QT syndrome, history or presence of ventricular tachyarrhythmias, clinically significant resting bradycardia (<50 beats per minute), QTcF > 450 msec on screening ECG, or right bundle branch block + left anterior hemiblock (bifascicular block)\nPresence of atrial fibrillation (ventricular heart rate >100 bpm)\nPrevious history angina pectoris or acute myocardial infarction (MI) within 6 months of study enrollment\nCongestive heart failure (New York Heart Association functional classification III-IV) or baseline MUGA/Echo shows LVEF < 50%\nUncontrolled hypertension defined as hypertensive blood pressure of SBP > 140 or DBP > 90, despite antihypertensive medications\nHistory of deep vein thrombosis (DVT), pulmonary emboli or other blood clotting abnormality within 3 months of study enrollment\nOngoing need for anti-coagulation therapy except daily low dose aspirin (\u2264 100 mg/day) or low molecular weight heparin\nConcomitant use of drugs with risk of causing torsades de pointes\nAnyone with unresolved diarrhea > or = grade 2 at time of enrollment\nImpairment of gastrointestinal function or disease that may significantly alter the absorption of panobinostat\nGrade 2 or greater peripheral neuropathy within 14 days of enrollment\nSerious concomitant medical or psychiatric disorders (e.g., active infection, uncontrolled diabetes)\nPatients who have received chemotherapy, any investigational agent or undergone major surgery < 4 weeks prior to starting study drug\nMale patients whose sexual partners are WOCBP and not using double method of contraception during the study and 3 months following.\nKnown positivity for human immunodeficiency virus (HIV) or hepatitis C\nHypersensitivity to bortezomib, boron or mannitol History of another primary malignancy within 5 years other than curatively treated CIS of the cervix, or basal or squamous cell carcinoma of the skin",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Arkadiusz Dudek, MD",
+                            "OverallOfficialAffiliation": "Masonic Cancer Center, University of Minnesota",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Masonic Cancer Center, University of Minnesota",
+                            "LocationCity": "Minneapolis",
+                            "LocationState": "Minnesota",
+                            "LocationZip": "55455",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Pancreatic Cancer Patients",
+                            "FlowGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Pancreatic Cancer Patients",
+                            "BaselineGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine."
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "7"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "58",
+                                                                "BaselineMeasurementSpread": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "7"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Progression-Free Survival",
+                            "OutcomeMeasureDescription": "Median number of months before disease progressed in patient on gemcitabine when treated with the combination of panobinostat and bortezomib. Progression free survival is measured from randomization until the subject has documented disease progression by an objective measure. Subjects must be alive with no more than 20% increase in tumor size to qualify for progression free survival. Changes in tumor size are defined by RECIST criteria.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureAnticipatedPostingDate": "08/2011",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "Months",
+                            "OutcomeMeasureTimeFrame": "Up to 1 Year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Pancreatic Cancer Patients",
+                                        "OutcomeGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "7"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "2.1",
+                                                                "OutcomeMeasurementLowerLimit": "1.7",
+                                                                "OutcomeMeasurementUpperLimit": "2.3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Number of Participants by Tumor Response",
+                            "OutcomeMeasureDescription": "Number of patients whose tumor has responded to study therapy is determined using Response Evaluation Criteria In Solid Tumors. Progressive Disease (PD) is assessed if the sum of the diameters has increased by \u2265 20% and \u2265 5 mm from nadir (including baseline if it is the smallest sum). Objective response is measured by tumor reduction as defined in the RECIST criteria. Tumor shrinkage must be at least 30% to qualify as an objective response.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureAnticipatedPostingDate": "08/2011",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "Up to 1 Year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Pancreatic Cancer Patients",
+                                        "OutcomeGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "7"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Progressive Disease",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "5"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "No data available",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Objective Response",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Duration of Response",
+                            "OutcomeMeasureDescription": "Duration of response is calculated as (Date of First Disease Progression or Death as a Result of any Cause whichever Comes First - Date of First Objective Status Assessment of Confirmed Complete or Partial Response as defined by RECIST criteria).",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureAnticipatedPostingDate": "08/2011",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "Weeks",
+                            "OutcomeMeasureTimeFrame": "Up to 1 Year",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Pancreatic Cancer Patients",
+                                        "OutcomeGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "7"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "5",
+                "EventsTimeFrame": "Overall Study",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Pancreatic Cancer Patients",
+                            "EventGroupDescription": "Pancreatic cancer patients who received treatment with bortezomib (1.3 mg/m^2 administered intravenously twice daily on days 1 and 8 for 2 weeks followed by 10 day rest period) and panobinostat (20 milligrams administered orally 3 times weekly for 2 weeks on Days 1,3,5,8,10 and 12 followed by 9 day rest period) after progressing on gemcitabine.",
+                            "EventGroupSeriousNumAffected": "4",
+                            "EventGroupSeriousNumAtRisk": "7",
+                            "EventGroupOtherNumAffected": "7",
+                            "EventGroupOtherNumAtRisk": "7"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Dehyration",
+                            "SeriousEventOrganSystem": "Metabolism and nutrition disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Fever",
+                            "SeriousEventOrganSystem": "General disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "INR Increased",
+                            "SeriousEventOrganSystem": "Investigations",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Thromboembolic event",
+                            "SeriousEventOrganSystem": "Vascular disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "2",
+                                        "SeriousEventStatsNumAffected": "2",
+                                        "SeriousEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Upper gastrointestinal hemorrhage",
+                            "SeriousEventOrganSystem": "Gastrointestinal disorders",
+                            "SeriousEventSourceVocabulary": "CTCAE (4.0)",
+                            "SeriousEventAssessmentType": "Systematic Assessment",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Alkaline phosphatase increased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anorexia",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Blood bilirubin increased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Cardiac disorder, other",
+                            "OtherEventOrganSystem": "Cardiac disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Constipation",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Creatinine increased",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dehydration",
+                            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Diarrhea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry eye",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry mouth",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dyspnea",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Edema limbs",
+                            "OtherEventOrganSystem": "Endocrine disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Eye disorder, other",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fatigue",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "GGT increased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyperglycemia",
+                            "OtherEventOrganSystem": "Renal and urinary disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypoalbuminemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypokalemia",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Lower gastrointestinal hemorrhage",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Lung infection",
+                            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Neutrophil count decreased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Peripheral sensory neuropathy",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Platelet count decreased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "10",
+                                        "OtherEventStatsNumAffected": "7",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rectal hemorrhage",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Sinus tachycardia",
+                            "OtherEventOrganSystem": "Cardiac disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Skin ulceration",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vomiting",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Weight loss",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "White blood cell decreased",
+                            "OtherEventOrganSystem": "Blood and lymphatic system disorders",
+                            "OtherEventSourceVocabulary": "CTCAE (4.0)",
+                            "OtherEventAssessmentType": "Systematic Assessment",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "7"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Arkaduisz Dudek, M.D.",
+                    "PointOfContactOrganization": "Masonic Cancer Center, University of Minnesota",
+                    "PointOfContactEMail": "dudek002@umn.edu",
+                    "PointOfContactPhone": "612-624-0123"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10065",
+                            "ConditionBrowseLeafName": "Insulinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8734",
+                            "ConditionBrowseLeafName": "Glucagonoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15497",
+                            "ConditionBrowseLeafName": "Somatostatinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T3077",
+                            "ConditionBrowseLeafName": "Insulinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T2535",
+                            "ConditionBrowseLeafName": "Glucagonoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5286",
+                            "ConditionBrowseLeafName": "Somatostatinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000069286",
+                            "InterventionMeshTerm": "Bortezomib"
+                        },
+                        {
+                            "InterventionMeshId": "D000077767",
+                            "InterventionMeshTerm": "Panobinostat"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000056572",
+                            "InterventionAncestorTerm": "Histone Deacetylase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M376",
+                            "InterventionBrowseLeafName": "Bortezomib",
+                            "InterventionBrowseLeafAsFound": "T cells",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2986",
+                            "InterventionBrowseLeafName": "Gemcitabine",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M22244",
+                            "InterventionBrowseLeafName": "Pancrelipase",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1899",
+                            "InterventionBrowseLeafName": "Panobinostat",
+                            "InterventionBrowseLeafAsFound": "Soft Tissue Sarcoma",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M12804",
+                            "InterventionBrowseLeafName": "Pancreatin",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M28201",
+                            "InterventionBrowseLeafName": "Histone Deacetylase Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

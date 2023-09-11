@@ -1,0 +1,241 @@
+{
+    "Rank": 915,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03621124",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MCC-17-13470"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2018-01510",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "NCI CTRP"
+                        },
+                        {
+                            "SecondaryId": "P30CA016059",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA016059"
+                        },
+                        {
+                            "SecondaryId": "HM20009089",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "IRB No."
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Virginia Commonwealth University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Maladaptive Adipose Tissue Activity in Cancer",
+                "OfficialTitle": "Maladaptive Adipose Tissue Activity in Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2022",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "COVID-19 Pandemic",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 16, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 20, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 20, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "August 1, 2018",
+                "StudyFirstSubmitQCDate": "August 6, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 8, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 23, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 4, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Virginia Commonwealth University",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this pilot research is to study brown adipose tissue, a type of fat that increases metabolism (burns energy) during exposure to cold, and how it may contribute to the weight loss observed in cancer.",
+                "DetailedDescription": "The purpose of this research is to study brown adipose tissue, a type of fat that increases metabolism (burns energy) during exposure to cold, and how it may contribute to the weight loss observed in cancer. Many patients affected by cancer lose weight, despite normal or increased nutrition. It may progress to the condition called \"cancer-associated cachexia.\" Cancer associated cachexia is defined by an ongoing loss of skeletal muscle mass with or without the loss of fat mass, and may negatively affect quality of life and the ability to undergo cancer treatments. Metabolism is the breakdown of food by the body into the energy that your body needs."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer Nos"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "3",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Brown Adipose Tissue Positive patients",
+                            "ArmGroupDescription": "Patients with known malignancy and incidental finding of positron emission tomography/ computerized tomography (PET/CT) scans positive for brown adipose tissue (BAT). After obtaining informed consent and all initial screening visit procedures, patients will participate in two four-hour recording sessions in the whole room indirect calorimeter to assess resting energy expenditure, and patient's thermal (comfort) response to the temperature of the room.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Resting Energy Expenditure",
+                                    "Other: Thermal Comfort Questionnaire"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Brown Adipose Tissue Negative Patients",
+                            "ArmGroupDescription": "Patients with known malignancy and no evidence of brown adipose tissue BAT activity positron emission tomography/ computerized tomography (PET/CT) scans to be matched to group 1 for primary tumor and stage, sex, age (\u00b15 years), BMI (\u00b13 Kg/m2). After obtaining informed consent and all initial screening visit procedures, patients will participate in two four-hour recording sessions in the whole room indirect calorimeter to assess resting energy expenditure, and patient's thermal (comfort) response to the temperature of the room.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Procedure: Resting Energy Expenditure",
+                                    "Other: Thermal Comfort Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Resting Energy Expenditure",
+                            "InterventionDescription": "During each visit, the participant will be assessed in a resting state in a stable temperature controlled environment, and will undergo tests to find out how the body adjusts its metabolism to different temperatures.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Brown Adipose Tissue Negative Patients",
+                                    "Brown Adipose Tissue Positive patients"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "ENRGEXP"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Thermal Comfort Questionnaire",
+                            "InterventionDescription": "Patients will be given a questionnaire to assess their thermal response (whether they felt warmer or colder) during each study visit.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Brown Adipose Tissue Negative Patients",
+                                    "Brown Adipose Tissue Positive patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Difference in resting energy expenditure between brown adipose tissue (BAT)-positive and BAT-negative patients with cancer.",
+                            "PrimaryOutcomeDescription": "Characterization of the energy metabolism profiles of cancer patients with and without evidence of BAT activation will be assessed utilizing one sided t-test.",
+                            "PrimaryOutcomeTimeFrame": "27 Months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Difference in energy expenditure between room temperature and response to warm exposure (energy expenditure) in BAT-positive and BAT-negative cancer patients.",
+                            "SecondaryOutcomeDescription": "Assessment of environmental modulation as an effective strategy to mitigate maladaptive BAT activation in patients with malignancy will be assessed by two-sided t-test.",
+                            "SecondaryOutcomeTimeFrame": "27 Months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n\u2265 40 years of age\nHave active cancer diagnosis.\nHave had a PET/CT scan within the past 12 months at time of enrollment.\nAbility to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\nCurrent use of beta-blockers\nWomen who are pregnant or unsure of their pregnancy status\nWomen who are breastfeeding\nSuffers from severe claustrophobia\nDiagnosed with a serious psychiatric condition which could impede the judgement of the investigators, and/or the successful conduct of the recording.\nIn remission stage for cancer diagnosis",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients equal to or greater than forty years of age with an active cancer diagnosis.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Francesco S Celi, MD, MHSc",
+                            "OverallOfficialAffiliation": "Virginia Commonwealth University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Virginia Commonwealth University/ Massey Cancer Center",
+                            "LocationCity": "Richmond",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23298-0070",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

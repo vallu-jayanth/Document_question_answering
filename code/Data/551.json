@@ -1,0 +1,1117 @@
+{
+    "Rank": 551,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01496157",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J1191"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NA_00051395",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHMIRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of Prostate-specific Membrane Antigen (PSMA)-Based PET Imaging of Primary Prostate Cancer",
+                "OfficialTitle": "Evaluation of PSMA-based PET as an Imaging Biomarker of Primary Prostate Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2018",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 11, 2012",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 2015",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 17, 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "December 13, 2011",
+                "StudyFirstSubmitQCDate": "December 20, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "December 21, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "August 2, 2016",
+                "ResultsFirstSubmitQCDate": "July 31, 2018",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "August 28, 2018",
+                    "ResultsFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 31, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 28, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The objective of this study is to evaluate a radiolabeled urea-based small molecule inhibitor of prostate-specific membrane antigen (PSMA), [18F]DCFBC (DCFBC), as a PET imaging biomarker of prostate cancer detection and aggressiveness at initial diagnosis. PSMA is a well characterized histological marker of prostate cancer tumor aggressiveness but a quantitative non-invasive method for PSMA detection and monitoring is not currently available. Development of such an imaging biomarker would be useful to differentiate indolent from aggressive prostate cancer phenotypes and allow for selection of appropriate risk adaptive therapies. The investigators preliminary first-in-human studies demonstrate high specific DCFBC uptake in metastatic prostate cancer and feasibility for prostate cancer imaging. The investigators propose to study patients initially diagnosed with biopsy-positive prostate cancer to determine if DCFBC uptake and location by PET imaging will be positively correlated with prostate cancer by prostatectomy tissue step-section analysis. DCFBC uptake at sites of suspected metastatic disease will be compared to conventional imaging modalities (CT, bone scan) and biopsy results when available. In addition, DCFBC-PET uptake quantification will be compared with expression levels of PSMA and other prostate cancer relevant markers (PSA, Ki-67, TMPRSS2-ERG) by prostate tissue immunohistochemistry analysis and compared with clinical prognostic markers (PSA, Gleason score, clinical stage, Partin tables derived prediction of pathologic stage)."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Primary Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1",
+                        "Phase 2"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "15",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with Primary Prostate Cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients will be imaged with 18F-DCFBC",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: 18F-DCFBC"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "18F-DCFBC",
+                            "InterventionDescription": "A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with Primary Prostate Cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "PET Detection of Primary Prostate Cancer",
+                            "PrimaryOutcomeDescription": "To compare number of participants with positive or negative uptake of 18F-DCFBC in primary prostate cancer by DCFBC PET to prostatectomy pathology as determined by tissue step-section analysis in men with biopsy-positive prostate cancer (Gleason score > 4+3=7).",
+                            "PrimaryOutcomeTimeFrame": "24 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "PET Detection of Metastatic Disease at Initial Staging",
+                            "SecondaryOutcomeDescription": "To compare the detection of bone and nodal metastatic disease by DCFBC PET at initial staging to detection by available conventional imaging modalities (bone scan, CT, MRI) and biopsy pathology.",
+                            "SecondaryOutcomeTimeFrame": "24 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nNewly diagnosed prostate cancer pathologically proven by prostate biopsy\nProstate biopsy histology grade \u2265 Gleason 3+3=6.\nPatients considered as candidates for and medically fit to undergo prostatectomy\nAt least 10 days after most recent prostate biopsy\nNo known problems with peripheral IV or central line access\nAble to tolerate urinary straight catheter placement\nPatient is judged by the Investigator to have the initiative and means to be compliant with the protocol and be within geographical proximity to make the required study visits.\nPatients or their legal representatives must have the ability to read, understand and provide written informed consent for the initiation of any study related procedures.\n\nExclusion Criteria:\n\nPrior pelvic external beam radiation therapy or brachytherapy\nChemotherapy for prostate cancer\nHormone deprivation therapy\nInvestigational therapy for prostate cancer\nHemorrhagic cystitis or active prostatitis\nUnable to lie flat during or tolerate PET/CT\nPrior history of any other malignancy within the last 2 years, other than skin basal cell or cutaneous superficial squamous cell carcinoma that has not metastasized and superficial bladder cancer\nNo prostatectomy scheduled prior to follow-up visit (12 to 72 hours post imaging)\nSerum creatinine > 1.5 mg/dL or creatinine clearance < 50 mL/min/1.73m2",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "90 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Steven P Rowe, MD, PhD",
+                            "OverallOfficialAffiliation": "Johns Hopkins University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Johns Hopkins University",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21287",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "26069305",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Rowe SP, Gage KL, Faraj SF, Macura KJ, Cornish TC, Gonzalez-Roibon N, Guner G, Munari E, Partin AW, Pavlovich CP, Han M, Carter HB, Bivalacqua TJ, Blackford A, Holt D, Dannals RF, Netto GJ, Lodge MA, Mease RC, Pomper MG, Cho SY. (1)(8)F-DCFBC PET/CT for PSMA-Based Detection and Characterization of Primary Prostate Cancer. J Nucl Med. 2015 Jul;56(7):1003-1010. doi: 10.2967/jnumed.115.154336. Epub 2015 Jun 11."
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowPreAssignmentDetails": "2 enrolled participants were screen failures, therefore 13 started the study.",
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Patients With Primary Prostate Cancer",
+                            "FlowGroupDescription": "Patients will be imaged with 18F-DCFBC\n\n18F-DCFBC: A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "13"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "13"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Patients With Primary Prostate Cancer",
+                            "BaselineGroupDescription": "Patients will be imaged with 18F-DCFBC\n\n18F-DCFBC: A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push."
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "13"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Race and Ethnicity Not Collected",
+                            "BaselineMeasurePopulationDescription": "Race and Ethnicity were not collected from any participant.",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Prostate specific antigen (PSA)",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "ng/mL",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "8.36",
+                                                                "BaselineMeasurementSpread": "3.77"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Biopsy Gleason Score",
+                            "BaselineMeasureDescription": "The Gleason score is an indication of prognosis based on prostate pathology. The total score ranges from 2 to 10 (ie: \"1+1\" to \"5+5\") with a higher score reflecting less-differentiated tumors with worse prognosis. The total score is a sum of two numbers which are based on the microscopic appearance of cells. The first number is the score based on the dominant, cell morphology (scored 1-5) and the second number is based on the highest grade of the non-dominant cell pattern (scored 1-5).",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Gleason score 3+3",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason Score 3+4",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "5"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason Score 4+3",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason Score 4+4",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Prostatectomy gleason score",
+                            "BaselineMeasureDescription": "The Gleason score is an indication of prognosis based on prostate pathology. The total score ranges from 2 to 10 (ie: \"1+1\" to \"5+5\") with a higher score reflecting less-differentiated tumors with worse prognosis. The total score is a sum of two numbers which are based on the microscopic appearance of cells. The first number is the score based on the dominant, cell morphology (scored 1-5) and the second number is based on the highest grade of the non-dominant cell pattern (scored 1-5).",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "Gleason 3+3",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason 3+4",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "5"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason 4+3",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason 4+4",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason 4+5",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "3"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "BaselineClassTitle": "Gleason 5+3",
+                                        "BaselineClassDenomList": {
+                                            "BaselineClassDenom": [
+                                                {
+                                                    "BaselineClassDenomUnits": "Participants",
+                                                    "BaselineClassDenomCountList": {
+                                                        "BaselineClassDenomCount": [
+                                                            {
+                                                                "BaselineClassDenomCountGroupId": "BG000",
+                                                                "BaselineClassDenomCountValue": "13"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "1"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "PET Detection of Primary Prostate Cancer",
+                            "OutcomeMeasureDescription": "To compare number of participants with positive or negative uptake of 18F-DCFBC in primary prostate cancer by DCFBC PET to prostatectomy pathology as determined by tissue step-section analysis in men with biopsy-positive prostate cancer (Gleason score > 4+3=7).",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Count of Participants",
+                            "OutcomeMeasureUnitOfMeasure": "Participants",
+                            "OutcomeMeasureTimeFrame": "24 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patients With Primary Prostate Cancer",
+                                        "OutcomeGroupDescription": "Patients will be imaged with 18F-DCFBC\n\n18F-DCFBC: A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "13"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeClassTitle": "Prostate Cancer with Positive Uptake of 18F-DCFBC",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "6"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "OutcomeClassTitle": "Prostate Cancer with Negative Uptake of 18F-DCFBC",
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "7"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "PET Detection of Metastatic Disease at Initial Staging",
+                            "OutcomeMeasureDescription": "To compare the detection of bone and nodal metastatic disease by DCFBC PET at initial staging to detection by available conventional imaging modalities (bone scan, CT, MRI) and biopsy pathology.",
+                            "OutcomeMeasurePopulationDescription": "Data was not collected for this outcome measure.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureTimeFrame": "24 months",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Patients With Primary Prostate Cancer",
+                                        "OutcomeGroupDescription": "Patients will be imaged with 18F-DCFBC\n\n18F-DCFBC: A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push."
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "0"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "0",
+                "EventsTimeFrame": "Up to 3 years",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Patients With Primary Prostate Cancer",
+                            "EventGroupDescription": "Patients will be imaged with 18F-DCFBC\n\n18F-DCFBC: A bolus of 10 mCi (370 MBq) [9-11 mCi (333-407 MBq)] of 18F-DCFBC will be injected into the IV line by slow IV push.",
+                            "EventGroupDeathsNumAffected": "0",
+                            "EventGroupDeathsNumAtRisk": "13",
+                            "EventGroupSeriousNumAffected": "0",
+                            "EventGroupSeriousNumAtRisk": "13",
+                            "EventGroupOtherNumAffected": "0",
+                            "EventGroupOtherNumAtRisk": "13"
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "No",
+                    "AgreementRestrictiveAgreement": "No"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Steven Rowe, M.D, Ph.D",
+                    "PointOfContactOrganization": "Johns Hopkins University",
+                    "PointOfContactEMail": "srowe8@jhmi.edu",
+                    "PointOfContactPhone": "4105021520"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

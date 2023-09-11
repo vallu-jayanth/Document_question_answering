@@ -1,0 +1,427 @@
+{
+    "Rank": 562,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05558436",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "NFEC-2022-245"
+                },
+                "Organization": {
+                    "OrgFullName": "Nanfang Hospital, Southern Medical University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Comparison of Diagnostic Sensitivity Between ctDNA Methylation and CEA in Colorectal Cancer",
+                "OfficialTitle": "Comparison of Diagnostic Sensitivity Between Circulating Tumor DNA Methylation and Carcinoembryonic Antigen in Colorectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 1, 2022",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 1, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 1, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 25, 2022",
+                "StudyFirstSubmitQCDate": "September 25, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 28, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 23, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 25, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Nanfang Hospital, Southern Medical University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a comparative study. This study is to compare the diagnostic sensitivity between circulating tumor DNA methylation and carcinoembryonic antigen in detecting colorectal cancer. There are two steps in this study. Firstly, the diagnostic model is established based on tumor-specific plasma circulating tumor DNA methylation markers. Secondly, the sensitivity, specificity and accuracy of plasma circulating tumor DNA methylation are compared with that of carcinoembryonic antigen in detecting colorectal cancer.",
+                "DetailedDescription": "Colorectal cancer (CRC) is the third most common cancer worldwide, the second deadliest cancer. It is reported that patients prefer non-invasive methods rather than invasive methods for the detection of CRC. Carcinoembryonic antigen (CEA) is commonly employed in clinical practice for early detection of CRC, but it is limited for its low sensitivity, which is around 30%-40%. DNA methylation is a commonly used biomarker for non-invasive tumor detection in plasma. We aim to develop and validate a methylation-based blood test for CRC based on genome-wide methylation detection. There are two steps. Firstly, this prospective, clinical study aims to establish the diagnostic model based on tumor-specific plasma ctDNA methylation markers. Secondly, this study is to compare the sensitivity, specificity, accuracy, positive predictive value and negative predictive value of plasma circulating tumor DNA (ctDNA) methylation with CEA in detecting colorectal cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "colorectal cancer",
+                        "circulating tumor DNA methylation"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "4 Weeks",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Fresh plasma and tumor tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "712",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer group",
+                            "ArmGroupDescription": "Patients with colorectal cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Detection of ctDNA methylation"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Control group",
+                            "ArmGroupDescription": "Patients with benign colorectal disease.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Detection of ctDNA methylation"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Detection of ctDNA methylation",
+                            "InterventionDescription": "Detection for colorectal tumor-specific plasma ctDNA methylation markers before treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer group",
+                                    "Control group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Diagnostic sensitivity",
+                            "PrimaryOutcomeDescription": "The comparison of diagnostic sensitivity between ctDNA methylation and CEA in detecting colorectal cancer",
+                            "PrimaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Diagnostic specificity, accuracy, positive predictive value and negative predictive value",
+                            "SecondaryOutcomeDescription": "The comparison of diagnostic specificity, accuracy, positive predictive value and negative predictive value between ctDNA methylation and CEA in detecting colorectal cancer",
+                            "SecondaryOutcomeTimeFrame": "3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nCancer group\n\nPatients must have histologically confirmed colorectal cancer before or after drawing blood sample.\nPatients need to receive surgical resection or endoscopic resection.\nPatients have a performance status of \u22641 on the ECOG Performance Scale.\nWritten informed consent must be obtained.\n\nControl group\n\nWritten informed consent must be obtained.\nIndividuals must receive colonoscopy.\n\nExclusion Criteria:\n\nPatients received tumor treatment prior to the drawn of blood sample, including surgical resection,neoadjuvant chemotherapy, neoadjuvant chemoradiotherapy and targeted therapy.\nPatients received antibiotics regularly.\nPatients received blood transfusion two weeks before the drawn of blood sample.\nPatients with indications of emergency surgery, including bleeding, obstruction and perforation.\nPatients who are positive for Human Immunodeficiency Virus (HIV).\nPatients with abnormal liver and kidney function.\nPatients with the history of inflammatory bowel disease.\nPatients who had history of other malignancies.\nPatients who are pregnant or breastfeeding.\nAlcoholic or drug abusers.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with colorectal cancer and patients with benign colorectal diseases who admitted to Nanfang Hospital are enrolled. Patients must have baseline evaluations performed prior to the study and must meet all inclusion and exclusion criteria. In addition, the patient must be thoroughly informed about all aspects of the study, including the study visit schedule and required evaluations and all regulatory requirements for informed consent.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jun Yan, M.D., Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86 13825066546",
+                            "CentralContactEMail": "yanjunfudan@163.com"
+                        },
+                        {
+                            "CentralContactName": "Hongli Ji, M.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86 15603062685",
+                            "CentralContactEMail": "jihl1997@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jun Yan, M.D., Ph.D.",
+                            "OverallOfficialAffiliation": "Nanfang Hospital, Southern Medical University",
+                            "OverallOfficialRole": "Study Chair"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Nanfang Hospital, Southern Medical University",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Guangzhou",
+                            "LocationState": "Guangdong",
+                            "LocationZip": "510000",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jun Yan, M.D.,Ph.D",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "086-13825066546",
+                                        "LocationContactEMail": "yanjunfudan@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "33433946",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer Statistics, 2021. CA Cancer J Clin. 2021 Jan;71(1):7-33. doi: 10.3322/caac.21654. Epub 2021 Jan 12. Erratum In: CA Cancer J Clin. 2021 Jul;71(4):359."
+                        },
+                        {
+                            "ReferencePMID": "32877579",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Schilsky RL, Nass S, Le Beau MM, Benz EJ Jr. Progress in Cancer Research, Prevention, and Care. N Engl J Med. 2020 Sep 3;383(10):897-900. doi: 10.1056/NEJMp2007839. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "25326034",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Adler A, Geiger S, Keil A, Bias H, Schatz P, deVos T, Dhein J, Zimmermann M, Tauber R, Wiedenmann B. Improving compliance to colorectal cancer screening using blood and stool based tests in patients refusing screening colonoscopy in Germany. BMC Gastroenterol. 2014 Oct 17;14:183. doi: 10.1186/1471-230X-14-183."
+                        },
+                        {
+                            "ReferencePMID": "31894106",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Luo H, Zhao Q, Wei W, Zheng L, Yi S, Li G, Wang W, Sheng H, Pu H, Mo H, Zuo Z, Liu Z, Li C, Xie C, Zeng Z, Li W, Hao X, Liu Y, Cao S, Liu W, Gibson S, Zhang K, Xu G, Xu RH. Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer. Sci Transl Med. 2020 Jan 1;12(524):eaax7533. doi: 10.1126/scitranslmed.aax7533. Erratum In: Sci Transl Med. 2020 Apr 22;12(540):"
+                        },
+                        {
+                            "ReferencePMID": "11957811",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Grotowski M. [Antigens (CEA and CA 19-9) in diagnosis and prognosis colorectal cancer]. Pol Merkur Lekarski. 2002 Jan;12(67):77-80. Polish."
+                        },
+                        {
+                            "ReferencePMID": "25421652",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kanwal R, Gupta K, Gupta S. Cancer epigenetics: an introduction. Methods Mol Biol. 2015;1238:3-25. doi: 10.1007/978-1-4939-1804-1_1."
+                        },
+                        {
+                            "ReferencePMID": "30429608",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Shen SY, Singhania R, Fehringer G, Chakravarthy A, Roehrl MHA, Chadwick D, Zuzarte PC, Borgida A, Wang TT, Li T, Kis O, Zhao Z, Spreafico A, Medina TDS, Wang Y, Roulois D, Ettayebi I, Chen Z, Chow S, Murphy T, Arruda A, O'Kane GM, Liu J, Mansour M, McPherson JD, O'Brien C, Leighl N, Bedard PL, Fleshner N, Liu G, Minden MD, Gallinger S, Goldenberg A, Pugh TJ, Hoffman MM, Bratman SV, Hung RJ, De Carvalho DD. Sensitive tumour detection and classification using plasma cell-free DNA methylomes. Nature. 2018 Nov;563(7732):579-583. doi: 10.1038/s41586-018-0703-0. Epub 2018 Nov 14."
+                        },
+                        {
+                            "ReferencePMID": "29035356",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Xu RH, Wei W, Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Quan Q, Li K, Zheng L, Zhang H, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, Fu X, Zhu J, Duan Y, Yu M, Ying B, Zhang W, Wang J, Zhang E, Zhang C, Li O, Guo R, Carter H, Zhu JK, Hao X, Zhang K. Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma. Nat Mater. 2017 Nov;16(11):1155-1161. doi: 10.1038/nmat4997. Epub 2017 Oct 9."
+                        },
+                        {
+                            "ReferencePMID": "33028593",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Xie H, Mahoney DW, Foote PH, Burger KN, Doering KA, Taylor WR, Then SS, Cao X, McGlinch M, Berger CK, Wu TT, Hubbard JM, Allawi HT, Kaiser MW, Lidgard GP, Ahlquist DA, Kisiel JB. Novel Methylated DNA Markers in the Surveillance of Colorectal Cancer Recurrence. Clin Cancer Res. 2021 Jan 1;27(1):141-149. doi: 10.1158/1078-0432.CCR-20-2589. Epub 2020 Oct 7."
+                        },
+                        {
+                            "ReferencePMID": "34487783",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Cai G, Cai M, Feng Z, Liu R, Liang L, Zhou P; ColonAiQ Group; Zhu B, Mo S, Wang H, Lan X, Cai S, Xu Y, Wang R, Dai W, Han L, Xiang W, Wang B, Guo W, Zhang L, Zhou C, Luo B, Li Y, Nie Y, Ma C, Su Z. A Multilocus Blood-Based Assay Targeting Circulating Tumor DNA Methylation Enables Early Detection and Early Relapse Prediction of Colorectal Cancer. Gastroenterology. 2021 Dec;161(6):2053-2056.e2. doi: 10.1053/j.gastro.2021.08.054. Epub 2021 Sep 4. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "34131323",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Liang N, Li B, Jia Z, Wang C, Wu P, Zheng T, Wang Y, Qiu F, Wu Y, Su J, Xu J, Xu F, Chu H, Fang S, Yang X, Wu C, Cao Z, Cao L, Bing Z, Liu H, Li L, Huang C, Qin Y, Cui Y, Han-Zhang H, Xiang J, Liu H, Guo X, Li S, Zhao H, Zhang Z. Ultrasensitive detection of circulating tumour DNA via deep methylation sequencing aided by machine learning. Nat Biomed Eng. 2021 Jun;5(6):586-599. doi: 10.1038/s41551-021-00746-5. Epub 2021 Jun 15. Erratum In: Nat Biomed Eng. 2021 Nov;5(11):1402."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided",
+                "IPDSharingDescription": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M9708",
+                            "ConditionBrowseLeafName": "Hypersensitivity",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC20",
+                            "ConditionBrowseBranchName": "Immune System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

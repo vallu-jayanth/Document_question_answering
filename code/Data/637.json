@@ -1,0 +1,350 @@
+{
+    "Rank": 637,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00712569",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "08-079"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NIH"
+                        },
+                        {
+                            "SecondaryId": "NCI"
+                        },
+                        {
+                            "SecondaryId": "R03CA130591-01",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/R03CA130591-01"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Physician-Patient Communication About Breast Cancer-Related Internet Information and Its Effect on Patient Satisfaction and Anxiety",
+                "OfficialTitle": "Physician-Patient Communication About Breast Cancer-Related Internet Information and Its Effect on Patient Satisfaction and Anxiety"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2015",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "June 2008"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 2015",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 2015",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 7, 2008",
+                "StudyFirstSubmitQCDate": "July 7, 2008",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 10, 2008",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 5, 2015",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 6, 2015",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Institutes of Health (NIH)",
+                            "CollaboratorClass": "NIH"
+                        },
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to learn about how patients who have looked up cancer-related information on the internet talk with their doctors. We are interested in these conversations even if the patients do not think they will talk about the information with their doctor during their visit. We will audio record doctor-patient visits and listen to these recordings to learn about how patients who have looked up cancer-related internet information talk to their doctors and how their doctors talk to them. We will also give patients questionnaires before and after their appointments to learn about what they think about communicating with their doctors."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Communication",
+                        "Internet",
+                        "Physician",
+                        "Patient",
+                        "08-079"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Crossover"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "85",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "1",
+                            "ArmGroupDescription": "Patients in Category 1 are those who report before the visit that they intend to discuss cancer-related internet information and report after the visit that they did discuss such information.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: questionnaires"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "2",
+                            "ArmGroupDescription": "Patients in Category 2 are those who report before the visit that they intend to discuss cancer-related internet information, but report after the visit that they did not discuss such information.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: audio recordings , questionnaires"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "3",
+                            "ArmGroupDescription": "Patients in Category 3 are those who report before the visit that they do not intend to discuss cancer-related internet information and do not discuss it.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: audio recorded questionnaires"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "questionnaires",
+                            "InterventionDescription": "Patients in Category 1 are those who report before the visit that they intend to discuss cancer-related internet information and report after the visit that they did discuss such information. The coding of these patients' consultations with their physicians and analysis of their pre- and post-consultation questionnaires will address Aims 1 and 2.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "1"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "audio recordings , questionnaires",
+                            "InterventionDescription": "Patients in Category 2 are those who report before the visit that they intend to discuss cancer-related internet information, but report after the visit that they did not discuss such information. This category is important as our previous research indicates that sometimes patients do not discuss information because they feel there is not enough time or because the information is irrelevant or repetitive. These patients' audio recordings will be checked to verify that there was no internet information discussion. These audio recordings will not be coded.\n\nHowever, assessment of these patients' questionnaires will aid in addressing Aim 3 and may provide some pilot data on why patients who initially intend to discuss internet information do not.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "2"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "audio recorded questionnaires",
+                            "InterventionDescription": "Patients in Category 3 are those who report before the visit that they do not intend to discuss cancer-related internet information and do not discuss it. Assessment of these patients' questionnaires will aid in addressing Aim 3. These audio recordings will not be coded. It is important, however, that these consultations be audio recorded for two reasons: First, it allows the physician to remain blinded to the intent of the patient to discuss internet information. Second, it provides a method of verifying that the patient really did not discuss internet information. Although not expected, it is possible for a patient to go into a consultation without intending to discuss internet information, but does end up discussing it. We will note if this occurs.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "3"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "patients in Category 1 (those who have been recorded discussing internet information with their physician) are pt satisfaction & pt anxiety. PT satisfaction with the consultation is an outcome assessed only at the end of the consultation.",
+                            "PrimaryOutcomeTimeFrame": "conclusion of the study"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "To examine the effect of physician responses to cancer-related internet information on patient satisfaction and anxiety. (Category 1 patients).",
+                            "PrimaryOutcomeTimeFrame": "conclusion of study"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To identify cancer patients' reasons for not discussing cancer-related internet information with their physicians. (Category 2 and 3 patients).",
+                            "SecondaryOutcomeTimeFrame": "conclusion of study"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSubject Inclusion Criteria for Patients\n\nFemale\nDiagnosis of breast cancer\nPre-surgery (*for breast surgeon patients only)\nReport that they have read breast cancer-related internet information since their diagnosis with breast cancer.\nProvide informed consent\n\nSubject Inclusion Criteria Physicians\n\nBreast surgeon or breast medical oncologist\nAgree to participate in study and one of 10 selected participants\nProvide inform consent\n\nExclusion Criteria:\n\nExclusion Criteria for Patients\n\nLess than 21 years of age\nCognitive or physical impairment rendering patients incapable of providing informed consent to participate in the study\nAs the measures and coding system are all written in English, subjects who are not fluent in English will be excluded.\n\nExclusion Criteria for Physicians\n\nNone",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "21 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "physicians at the Breast Service and their patients will be recruited to participate in this study.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Smita Banerjee, PhD",
+                            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Memorial Sloan-Kettering Cancer Center at Commack",
+                            "LocationCity": "Commack",
+                            "LocationState": "New York",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memorial Sloan-Kettering Cancer Center",
+                            "LocationCity": "New York",
+                            "LocationState": "New York",
+                            "LocationZip": "10065",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "Memoral Sloan Kettering Cancer Center@Phelps",
+                            "LocationCity": "Sleepy Hollow",
+                            "LocationState": "New York",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Memorial Sloan-Kettering Cancer Center",
+                            "SeeAlsoLinkURL": "http://www.mskcc.org"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4014",
+                            "ConditionBrowseLeafName": "Anxiety Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

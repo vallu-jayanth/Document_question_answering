@@ -1,0 +1,619 @@
+{
+    "Rank": 842,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04798287",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2011P002580-207"
+                },
+                "Organization": {
+                    "OrgFullName": "Brigham and Women's Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Safety of TofAcitinib in Routine Care Patients With Rheumatoid Arthritis (STAR-RA)-Cancer Endpoints",
+                "OfficialTitle": "Safety of TofAcitinib in Routine Care Patients With Rheumatoid Arthritis (STAR-RA)-Cancer Endpoints",
+                "Acronym": "STAR-RA-Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 10, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 16, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 11, 2021",
+                "StudyFirstSubmitQCDate": "March 11, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 15, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 17, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 22, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Seoyoung C. Kim",
+                    "ResponsiblePartyInvestigatorTitle": "Associate Professor of Medicine",
+                    "ResponsiblePartyInvestigatorAffiliation": "Brigham and Women's Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Brigham and Women's Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "There are two main aims of this study.\n\nFirst aim is to compare the risk of composite cancer outcomes, between patients treated with tofacitinib and patients treated with TNF inhibitors (TNFi) for rheumatoid arthritis (RA) among, 1) \"real world evidence (RWE)\" cohorts including routine care patient population from the US and, 2) \"Randomized controlled trial (RCT) DUPLICATE\" cohorts including routine care patient population who meet inclusion and exclusion criteria of the Safety Study Of Tofacitinib Versus Tumor Necrosis Factor (TNF) Inhibitor In Subjects With Rheumatoid Arthritis (\"ORAL Surveillance\", NCT02092467) clinical trial.\n\nSecond aim is to examine the risk of common solid cancers (lung, colorectal, breast, prostate), hematological cancers, and non-melanoma skin cancer as separated endpoints when comparing tofacitinib with TNFi in patients with RA among, 1) \"real world evidence (RWE)\" cohort including routine care patient population from the US and, 2) \"Randomized controlled trial (RCT) DUPLICATE\" cohort including routine care patient population who meet inclusion and exclusion criteria of the Safety Study Of Tofacitinib Versus Tumor Necrosis Factor (TNF) Inhibitor In Subjects With Rheumatoid Arthritis (\"ORAL Surveillance\", NCT02092467) clinical trial."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Rheumatoid Arthritis"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "105711",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients treated with Tofacitinib",
+                            "ArmGroupDescription": "Real-World Evidence (RWE) and RCT-Duplicate",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Tofacitinib"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Patients treated with TNF inhibitors",
+                            "ArmGroupDescription": "Real-World Evidence (RWE) and RCT-Duplicate",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: TNF Inhibitor"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Tofacitinib",
+                            "InterventionDescription": "First eligible prescription for treating rheumatoid arthritis (RA)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients treated with Tofacitinib"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "TNF Inhibitor",
+                            "InterventionDescription": "First eligible prescription for treating rheumatoid arthritis (RA)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients treated with TNF inhibitors"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "infliximab",
+                                    "adalimumab",
+                                    "certolizumab pegol",
+                                    "etanercept",
+                                    "golimumab"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of any cancer (excluding NMSC and any carcinoma in situ diagnosis)",
+                            "PrimaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of lung cancer (excluding any carcinoma in situ diagnosis)",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of colorectal cancer (excluding any carcinoma in situ diagnosis)",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of breast cancer (excluding any carcinoma in situ diagnosis)",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of prostate cancer (excluding any carcinoma in situ diagnosis)",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of lymphatic/hematopoietic tissue cancers",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of lymphoma",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to second outpatient or inpatient diagnosis of leukemia",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Time to first procedure code occurring within 60 days of an outpatient or inpatient diagnosis of NMSC",
+                            "SecondaryOutcomeTimeFrame": "Through study time period (2012-2020)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Criteria:\n\nPlease see https://www.bwhprime.org/resources.html for full code and algorithm definitions.\n\nEligible cohort entry dates:\n\nFor US MarketScan, 2012-2018\nFor Optum, 2012-2020\nFor Medicare Claims Database (Parts A, B and D), 2012-2017\n\nCohort entry date:\n\nFirst TNFi or tofacitinib dispensation/administration date\n\nInclusion and Exclusion Criteria Common to RWE and RCT-duplicate Cohorts:\n\nInclusion Criteria\n\nPatients treated with tofacitinib or TNF inhibitors in IBM MarketScan, Optum, and Medicare fee-for-service\nA minimum of 365 days of continuous enrollment in health plan prior to (and including) the cohort entry date\nTwo diagnosis codes for RA in any setting in 365 days baseline period (diagnosis codes between 7 and 365 days apart)\n\nExclusion Criteria\n\nIndex drug in 365 days prior to cohort entry date (prevalent users)\nMissing data on age or gender\nAdmission to nursing facility or hospice on or prior to cohort entry date (ever look-back)\nDiagnosis of malignant cancer prior to cohort entry date (ever look-back period)\nTNFi users with history of any Janus kinase (JAK) inhibitors (tofacitinib, upadacitinib, or baricitinib) (ever look-back period)\nTNFi users initiating with more than one TNFi on same date\nTofacitinib users with a prescription of baricitinib, upadacitinib (ever look-back period)\nTofacitinib users initiating treatment on multiple JAK inhibitors on same day (tofacitinib and baricitinib, tofacitinib and upadacitinib)\n\nExclusion criteria specific to RWE cohorts:\n\nPatients less than 18 years of age (MarketScan and Optum) and 65 years of age (Medicare) at cohort entry\n\nInclusion criteria specific to RCT-duplicate cohorts:\n\nPatients with at least one methotrexate dispensation (six months look-back period)\nPatients with at least one cardiovascular risk factor (including smoking, hypertension, dyslipidemia, diabetes mellitus, ischemic heart disease, family history of ischemic heart disease) (one-year look-back period)\n\nExclusion criteria specific to RCT-duplicate cohorts:\n\nPatients less than 50 years of age (MarketScan and Optum) and 65 years\nPatients recently hospitalized with infections (30-day look-back period)\nPregnant patients (one year look-back period)",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "There will be two independent study populations:\n\nReal-World Evidence (RWE) cohorts: This study population will reflect the patients diagnosed with RA who are routinely treated and managed in setting of clinical practice.\nRCT-duplicate cohorts: This study population will emulate \"the Safety Study Of Tofacitinib Versus Tumor Necrosis Factor (TNF) Inhibitor In Subjects With Rheumatoid Arthritis\" clinical trial (\"ORAL Surveillance\", NCT02092467). The inclusion and exclusion criteria of this RCT will be applied to this study population.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Seoyoung C Kim, MD, ScD, MSCE",
+                            "OverallOfficialAffiliation": "Brigham and Women's Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Brigham And Women's Hospital",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02120",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35643956",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Khosrow-Khavar F, Desai RJ, Lee H, Lee SB, Kim SC. Tofacitinib and Risk of Malignancy: Results From the Safety of Tofacitinib in Routine Care Patients With Rheumatoid Arthritis (STAR-RA) Study. Arthritis Rheumatol. 2022 Oct;74(10):1648-1659. doi: 10.1002/art.42250. Epub 2022 Sep 1."
+                        }
+                    ]
+                }
+            }
+        },
+        "DocumentSection": {
+            "LargeDocumentModule": {
+                "LargeDocList": {
+                    "LargeDoc": [
+                        {
+                            "LargeDocTypeAbbrev": "Prot",
+                            "LargeDocHasProtocol": "Yes",
+                            "LargeDocHasSAP": "No",
+                            "LargeDocHasICF": "No",
+                            "LargeDocLabel": "Study Protocol",
+                            "LargeDocDate": "June 8, 2021",
+                            "LargeDocUploadDate": "06/08/2021 18:11",
+                            "LargeDocFilename": "Prot_002.pdf"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001168",
+                            "ConditionMeshTerm": "Arthritis"
+                        },
+                        {
+                            "ConditionMeshId": "D000001172",
+                            "ConditionMeshTerm": "Arthritis, Rheumatoid"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007592",
+                            "ConditionAncestorTerm": "Joint Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009140",
+                            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012216",
+                            "ConditionAncestorTerm": "Rheumatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003240",
+                            "ConditionAncestorTerm": "Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001327",
+                            "ConditionAncestorTerm": "Autoimmune Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007154",
+                            "ConditionAncestorTerm": "Immune System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4166",
+                            "ConditionBrowseLeafName": "Arthritis",
+                            "ConditionBrowseLeafAsFound": "Arthritis",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4170",
+                            "ConditionBrowseLeafName": "Arthritis, Rheumatoid",
+                            "ConditionBrowseLeafAsFound": "Rheumatoid Arthritis",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10311",
+                            "ConditionBrowseLeafName": "Joint Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11787",
+                            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14735",
+                            "ConditionBrowseLeafName": "Rheumatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6013",
+                            "ConditionBrowseLeafName": "Collagen Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6154",
+                            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4319",
+                            "ConditionBrowseLeafName": "Autoimmune Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M9890",
+                            "ConditionBrowseLeafName": "Immune System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC05",
+                            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC20",
+                            "ConditionBrowseBranchName": "Immune System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000068879",
+                            "InterventionMeshTerm": "Adalimumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000069285",
+                            "InterventionMeshTerm": "Infliximab"
+                        },
+                        {
+                            "InterventionMeshId": "C000529000",
+                            "InterventionMeshTerm": "Golimumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000068582",
+                            "InterventionMeshTerm": "Certolizumab Pegol"
+                        },
+                        {
+                            "InterventionMeshId": "D000079424",
+                            "InterventionMeshTerm": "Tumor Necrosis Factor Inhibitors"
+                        },
+                        {
+                            "InterventionMeshId": "D000068800",
+                            "InterventionMeshTerm": "Etanercept"
+                        },
+                        {
+                            "InterventionMeshId": "C000479163",
+                            "InterventionMeshTerm": "Tofacitinib"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000000893",
+                            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018501",
+                            "InterventionAncestorTerm": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000003879",
+                            "InterventionAncestorTerm": "Dermatologic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000005765",
+                            "InterventionAncestorTerm": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000894",
+                            "InterventionAncestorTerm": "Anti-Inflammatory Agents, Non-Steroidal"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018712",
+                            "InterventionAncestorTerm": "Analgesics, Non-Narcotic"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000700",
+                            "InterventionAncestorTerm": "Analgesics"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018689",
+                            "InterventionAncestorTerm": "Sensory System Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000018373",
+                            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007166",
+                            "InterventionAncestorTerm": "Immunosuppressive Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000075242",
+                            "InterventionAncestorTerm": "Janus Kinase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000047428",
+                            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M280",
+                            "InterventionBrowseLeafName": "Certolizumab Pegol",
+                            "InterventionBrowseLeafAsFound": "MBq",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M257987",
+                            "InterventionBrowseLeafName": "Tofacitinib",
+                            "InterventionBrowseLeafAsFound": "Tea",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M326",
+                            "InterventionBrowseLeafName": "Adalimumab",
+                            "InterventionBrowseLeafAsFound": "0.9",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M311",
+                            "InterventionBrowseLeafName": "Etanercept",
+                            "InterventionBrowseLeafAsFound": "Intubation",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M150398",
+                            "InterventionBrowseLeafName": "Golimumab",
+                            "InterventionBrowseLeafAsFound": "C1",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M375",
+                            "InterventionBrowseLeafName": "Infliximab",
+                            "InterventionBrowseLeafAsFound": "Breakfast",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2052",
+                            "InterventionBrowseLeafName": "Tumor Necrosis Factor Inhibitors",
+                            "InterventionBrowseLeafAsFound": "TNF inhibitor",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3907",
+                            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20294",
+                            "InterventionBrowseLeafName": "Antirheumatic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M6764",
+                            "InterventionBrowseLeafName": "Dermatologic Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M8571",
+                            "InterventionBrowseLeafName": "Gastrointestinal Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3908",
+                            "InterventionBrowseLeafName": "Anti-Inflammatory Agents, Non-Steroidal",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3722",
+                            "InterventionBrowseLeafName": "Analgesics",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20476",
+                            "InterventionBrowseLeafName": "Analgesics, Non-Narcotic",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9902",
+                            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1474",
+                            "InterventionBrowseLeafName": "Janus Kinase Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25510",
+                            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Infl",
+                            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ARhu",
+                            "InterventionBrowseBranchName": "Antirheumatic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Analg",
+                            "InterventionBrowseBranchName": "Analgesics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Gast",
+                            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Derm",
+                            "InterventionBrowseBranchName": "Dermatologic Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,639 @@
+{
+    "Rank": 1041,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05508568",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Arquer-US1"
+                },
+                "Organization": {
+                    "OrgFullName": "Arquer Diagnostics Ltd",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "A Performance Evaluation Study of Arquer's MCM5 Elisa Test (ADXBLADDER) to Aid in the Monitoring of Recurrence in Non-Muscle Invasive Bladder Cancer",
+                "OfficialTitle": "A Performance Evaluation Study of Arquer's MCM5 Elisa Test (ADXBLADDER) to Aid in the Monitoring of Recurrence in Non-Muscle Invasive Bladder Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 1, 2023",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 17, 2022",
+                "StudyFirstSubmitQCDate": "August 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 19, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "January 30, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 1, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Arquer Diagnostics Ltd",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUnapprovedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The objective of this prospective, multi-centre study is to evaluate the performance of ADXBLADDER, a urine MCM5 ELISA test, as an aid in the detection of bladder cancer recurrence. Patients undergoing cystoscopic surveillance in non-muscle invasive bladder cancer (NMIBC) follow-up will be recruited and asked to provide a urine sample to be tested with ADXBLADDER. To assess the diagnostic accuracy of the test, the MCM5 results will be compared with the gold standard cystoscopy and pathology of resected tissue."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Bladder Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Bladder Cancer",
+                        "Non-muscle invasive bladder cancer",
+                        "MCM5",
+                        "Biomarker",
+                        "Urinary biomarker",
+                        "Follow-up",
+                        "Surveillance"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Urine sediment lysate samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "650",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Non-muscle invasive bladder cancer patients in follow-up",
+                            "ArmGroupDescription": "Patients with a previous diagnosis of non-muscle invasive bladder cancer, attending a urology clinic for the purposes of bladder cancer recurrence monitoring.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: ADXBLADDER"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "ADXBLADDER",
+                            "InterventionDescription": "ADXBLADDER is a non-invasive, qualitative ELISA utilising a combination of two monoclonal antibodies for the detection of MCM5 in urine sediment. It is intended to aid in the monitoring of bladder cancer recurrence in non-muscle-invasive bladder cancer patients. Participants will be asked to provide a full void urine specimen, which will be centrifuged before the urine sediment is lysed. The lysed sample will then be tested with ADXBLADDER.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Non-muscle invasive bladder cancer patients in follow-up"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Sensitivity, specificity and negative predictive value (NPV) of ADXBLADDDER will be calculated to establish the diagnostic accuracy for the detection of bladder cancer recurrence.",
+                            "PrimaryOutcomeDescription": "The ADXBLADDER MCM5 results will be compared with the definitive diagnosis obtained by gold standard cystoscopy and pathological assessment of suspicious lesion(s) (where clinically indicated).",
+                            "PrimaryOutcomeTimeFrame": "Urine samples will be collected from participants immediately prior to cystoscopy and analysed for MCM5 within 6 months. Overall performance characteristics of ADXBLADDER will be established following study completion."
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients who have been diagnosed with NMIBC in the previous 2 years, and are attending the urology clinic for standard of care/routine monitoring cystoscopy\nPatients 22 years of age or older\nPatients who, in the opinion of the Investigator, are suitable for standard urological investigations as part of normal clinical practice\nPatients who are, in the opinion of the Investigator, able to understand the purpose of the study and provide a full void urine specimen\nPatients who are able to give voluntary, written informed consent to participate in this study\n\nExclusion Criteria:\n\nPatients with known active (symptomatic) calculi within the urino-genitary system\nPatients who provide less than 10mL of full void urine\nPatients undergoing active treatment for interstitial cystitis\nPatients currently undergoing systemic chemotherapy or systemic immunotherapy or radiotherapy. Intravesical chemotherapy or immunotherapy (BCG) is allowed\nPatients who have previously been diagnosed with renal cancer, prostate cancer, Muscle Invasive Bladder cancer, an upper tract tumour, or CiS in the prostatic urethra\nPatients who have had urological instrumentation to the urinary tract within 14 days prior to the test\nMale patients undergoing active treatment for prostatitis",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "22 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients undergoing cystoscopic surveillance for non-muscle invasive bladder cancer (NMIBC) follow-up.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jacqueline Stockley, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+44 191 516 6764",
+                            "CentralContactEMail": "jacqui@arquerdx.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Professor Ashish Kamat",
+                            "OverallOfficialAffiliation": "The University of Texas MD Anderson Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "The Urology Center of Colorado",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Denver",
+                            "LocationState": "Colorado",
+                            "LocationZip": "80211",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Larry Karsh, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Advanced Urology Institute",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Daytona Beach",
+                            "LocationState": "Florida",
+                            "LocationZip": "32114",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Martin K. Deneen, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "First Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Jeffersonville",
+                            "LocationState": "Indiana",
+                            "LocationZip": "47130",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "James Bailen, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Michigan Institute of Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Troy",
+                            "LocationState": "Michigan",
+                            "LocationZip": "48084",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jason Hafron, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "New Jersey Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Mount Laurel",
+                            "LocationState": "New Jersey",
+                            "LocationZip": "08054",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Louis Keeler, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Associated Medical Professionals of NY",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Syracuse",
+                            "LocationState": "New York",
+                            "LocationZip": "13210",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Christopher Pieczonka, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Clinical Research Solutions",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Cleveland",
+                            "LocationState": "Ohio",
+                            "LocationZip": "44130",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Lawrence A. Gervasi, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "MidLantic Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19004",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Laurence Belkoff, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Carolina Urologic Research Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Myrtle Beach",
+                            "LocationState": "South Carolina",
+                            "LocationZip": "29572",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Neal Shore, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Urology San Antonio",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "San Antonio",
+                            "LocationState": "Texas",
+                            "LocationZip": "78229",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Jose De La Cerda, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Virginia Urology Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Richmond",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23235",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Eugene Kramolowsky, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Urology of Virginia",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Virginia Beach",
+                            "LocationState": "Virginia",
+                            "LocationZip": "23462",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Michael Williams, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Spokane Urology",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Spokane",
+                            "LocationState": "Washington",
+                            "LocationZip": "99202",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Raymond Lance, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "32314931",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Roupret M, Gontero P, McCracken SRC, Dudderidge T, Stockley J, Kennedy A, Rodriguez O, Sieverink C, Vanie F, Allasia M, Witjes JA, Colombel M, Sylvester R, Longo F, Montanari E, Palou J. Diagnostic Accuracy of MCM5 for the Detection of Recurrence in Nonmuscle Invasive Bladder Cancer Followup: A Blinded, Prospective Cohort, Multicenter European Study. J Urol. 2020 Oct;204(4):685-690. doi: 10.1097/JU.0000000000001084. Epub 2020 Apr 21."
+                        },
+                        {
+                            "ReferencePMID": "32745350",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Gontero P, Montanari E, Roupret M, Longo F, Stockley J, Kennedy A, Rodriguez O, McCracken SRC, Dudderidge T, Sieverink C, Vanie F, Allasia M, Witjes JA, Sylvester R, Colombel M, Palou J. Comparison of the performances of the ADXBLADDER test and urinary cytology in the follow-up of non-muscle-invasive bladder cancer: a blinded prospective multicentric study. BJU Int. 2021 Feb;127(2):198-204. doi: 10.1111/bju.15194. Epub 2020 Aug 29."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001749",
+                            "ConditionMeshTerm": "Urinary Bladder Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000093284",
+                            "ConditionMeshTerm": "Non-Muscle Invasive Bladder Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000012008",
+                            "ConditionMeshTerm": "Recurrence"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000014571",
+                            "ConditionAncestorTerm": "Urologic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052776",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005261",
+                            "ConditionAncestorTerm": "Female Urogenital Diseases and Pregnancy Complications"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001745",
+                            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014570",
+                            "ConditionAncestorTerm": "Urologic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000020969",
+                            "ConditionAncestorTerm": "Disease Attributes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000002277",
+                            "ConditionAncestorTerm": "Carcinoma"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009375",
+                            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009370",
+                            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4720",
+                            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14540",
+                            "ConditionBrowseLeafName": "Recurrence",
+                            "ConditionBrowseLeafAsFound": "Recurrence",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2977",
+                            "ConditionBrowseLeafName": "Non-Muscle Invasive Bladder Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Non-muscle Invasive Bladder Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17010",
+                            "ConditionBrowseLeafName": "Urologic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26783",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M13817",
+                            "ConditionBrowseLeafName": "Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8089",
+                            "ConditionBrowseLeafName": "Female Urogenital Diseases and Pregnancy Complications",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4716",
+                            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17009",
+                            "ConditionBrowseLeafName": "Urologic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M22390",
+                            "ConditionBrowseLeafName": "Disease Attributes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12010",
+                            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12005",
+                            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M9874",
+                            "InterventionBrowseLeafName": "Immunoglobulins",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3915",
+                            "InterventionBrowseLeafName": "Antibodies",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3920",
+                            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

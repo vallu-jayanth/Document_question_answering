@@ -1,0 +1,198 @@
+{
+    "Rank": 617,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01458704",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "Cancer genome analysis"
+                },
+                "Organization": {
+                    "OrgFullName": "Seoul National University Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Cancer Genome Analysis",
+                "OfficialTitle": "Cancer Genome Analysis"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2011",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 2011"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "April 2013",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "October 23, 2011",
+                "StudyFirstSubmitQCDate": "October 24, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 25, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "October 24, 2011",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 25, 2011",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Seoul National University Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {},
+            "DescriptionModule": {
+                "BriefSummary": "Next generation sequencing (including targeted gene seqeuncing, exome and transcriptome sequencing) will be performed from fresh frozen tumor samples to understand the genetic alteration of tumors and to aid in optimal selection of further therapeutic agents."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Malignant Tumor"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "fresh frozen tumor tissue"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "fresh frozen tumor tissue",
+                            "ArmGroupDescription": "patients providing fresh frozen tumor tissue",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: next generation sequencing"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "next generation sequencing",
+                            "InterventionDescription": "next generation sequencing (including targeted gene sequencing, exome sequencing, transcriptome sequenicing)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "fresh frozen tumor tissue"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "targeted sequencing of cancer-relate genes",
+                            "PrimaryOutcomeDescription": "Identification and characterization of genetic alteration in cancer tissue",
+                            "PrimaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\npatients with malignant tumor\nreceiving or planning to receive chemotherapy\nwith fresh frozen tumor tissue\nwith informed consent",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "patients with malignant tumor receiving or planning to receive chemotherapy with fresh frozen tumor tissue with informed consent",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Tae-You Kim",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "82-2-2072-2228"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Tae-You Kim",
+                            "OverallOfficialAffiliation": "Seoul National University Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Seoul National University Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Seoul",
+                            "LocationZip": "110-744",
+                            "LocationCountry": "Korea, Republic of",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tae-You Kim",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "82-2-2072-2228",
+                                        "LocationContactEMail": "kimty@snu.ac.kr"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

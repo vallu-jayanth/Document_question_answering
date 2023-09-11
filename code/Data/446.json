@@ -1,0 +1,371 @@
+{
+    "Rank": 446,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05916261",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2022PCV001"
+                },
+                "Organization": {
+                    "OrgFullName": "Ruijin Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Personalized Tumor Vaccines and Pabolizumab in Patients With Advanced Pancreatic Cancer",
+                "OfficialTitle": "Clinical Study of Personalized Tumor Vaccines mRNA-0217/S001 and Pabolizumab in Patients With Advanced Pancreatic Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "May 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 1, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "November 30, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 30, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 23, 2023",
+                "StudyFirstSubmitQCDate": "June 14, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 23, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 14, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "June 23, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Ruijin Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main objective of this study was to observe and evaluate the safety and tolerability of mRNA-0217/S001 vaccine encoding personalized tumor neoantigens alone/in combination with Pembrolizumab injection for the treatment of Advanced Pancreatic Cancer. The secondary objective was to observe the preliminary efficacy of mRNA-0217/S001 personalized tumor vaccine in the treatment of advanced solid tumors with neoantigen-specific CD4+ and CD8+ T lymphocyte responses, objective tumor response rate (ORR) and disease control rate (DCR), progression-free survival (PFS) and overall survival (OS) caused by mRNA-0217/S001 personalized tumor vaccine."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Advanced Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Personalized neoantigen tumor vaccine"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Early Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignInterventionModelDescription": "The traditional 3+3 design will be used in dose escalation",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "54",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Personalized neoantigen vaccine or neoantigen tumor vaccine + Pembrolizumab",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "In dose escalation phase, subject will only receive personalized neoantigen tumor vaccine. In dose expansion phase, subject will receive personalized neoantigen tumor vaccine combination with Pembrolizumab .",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Biological: Personalized neoantigen tumor vaccine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Personalized neoantigen tumor vaccine",
+                            "InterventionDescription": "neoantigen tumor vaccine with or without Pembrolizumab In dose escalation phase, subjects will receive neoantigen tumor vaccine only. In dose expansion phase, subjects will receive neoantigen tumor vaccine combination with Pembrolizumab",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Personalized neoantigen vaccine or neoantigen tumor vaccine + Pembrolizumab"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Maximum tolerated dose (MTD) or Dose-limiting toxicity(DLT),If MTD is not reached, Biologically Effective Dose (BED)",
+                            "PrimaryOutcomeDescription": "The highest dose of a drug or treatment that does not cause unacceptable side effects.",
+                            "PrimaryOutcomeTimeFrame": "Up to 27 weeks"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Reaction of antigen-specific T cells in peripheral blood",
+                            "PrimaryOutcomeDescription": "mRNA-0217/S001 personalized tumor vaccine induced neoantigen-specific CD4+ and CD8+ T lymphocyte responses",
+                            "PrimaryOutcomeTimeFrame": "Up to 27 weeks"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Objective response rate (ORR)",
+                            "PrimaryOutcomeDescription": "ORR calculates the ratio of the number of patients whose best response is complete remission (CR) or partial remission (PR) to the total number of evaluable patients according to RECIST 1.1 criteria. Those who have not been evaluated for lesion and tumor response will be regarded as non-evaluable patients and will not be counted.",
+                            "PrimaryOutcomeTimeFrame": "Up to 105 weeks"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Disease control rate (DCR)",
+                            "PrimaryOutcomeDescription": "DCR calculates the ratio of the number of patients whose best response is complete remission (CR), or partial remission (PR), or stable disease (SD) to the total number of evaluable patients according to RECIST 1.1 criteria. Those who have not been evaluated for lesion and tumor response will be regarded as non-evaluable patients and will not be counted.",
+                            "PrimaryOutcomeTimeFrame": "Up to 105 weeks"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+                            "SecondaryOutcomeDescription": "During the trial conduction, all adverse events (including laboratory abnormality and clinical events) will be closely monitored, and all \u2265 grade 3 adverse events per CTCAE (v 5.0) will be recorded, including but not limited to the toxicities potentially suspected to relate to injection procedures and/or mRNA Tumor Vaccine therapy as listed below:\n\nLocal erythema at the injection site, local allergic reactions at the injection site, fatigue, fever, chills, flu-like manifestations, vomiting, centrocytopenia, other unexpected adverse events",
+                            "SecondaryOutcomeTimeFrame": "Up to 105 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression-free survival (PFS)",
+                            "SecondaryOutcomeDescription": "Progression-free Survival of Personalized mRNA Tumor Vaccine",
+                            "SecondaryOutcomeTimeFrame": "Up to 105 weeks"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "overall survival (OS)",
+                            "SecondaryOutcomeDescription": "Overall Survival of Personalized mRNA Tumor Vaccine",
+                            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects voluntarily signed written informed consent files,Able to comply with the study protocol, in the investigator's judgment\nSubjects must be >/= 18 years of age at time of informed consent, regardless of gender\nSubjects with locally advanced, recurrent or metastatic solid tumors confirmed by histology or cytology within the past 6 months, who have failed standard treatment or are currently not suitable for standard treatment\nNo copy number variations (CNVs) or loss of heterozygosity (Loss-of heterozygosity, LOH) were found in HLA-related genes and chromosomal regions by gene sequencing\nAdvanced or metastatic lesions confirmed by immunohistochemistry, and cryopreserved tissues/cells, enough for WES and RNAseq sequencing, and predicted by bioinformatics analysis, at least one antigen effectively presented by self-HLA was found , such as KRAS or TP53 mutations and correspondingly presented HLA types\nLife expectancy \u2265 4 months\nHave measurable disease per RECIST 1.1 as assessed by the local site investigator/radiology. Lesions situated in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions\nHave a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale\nHave adequate organand bone marrow function,No use of granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF), red blood cell transfusion and platelet transfusion within 14 days before the examination.\nFertile eligible patients (male and female) must agree to use reliable contraceptive methods (hormone or barrier method or abstinence) during the trial and at least 90 days after the last dose. female patients of childbearing age before the first dose A blood pregnancy test within 7 days must be negative.\nSubjects need to undergo virological examination: those without CMV and EBV, HIV, HBV, HCV, and syphilis infection (only in the baseline period)\n\nExclusion Criteria:\n\nHas had chemotherapy, hormone therapy, traditional Chinese medicine, or biological cancer(for mitomycin and nitrosoureas within 6 weeks from the first dose of the drug in this study)\uff0c prior to the first dose of study therapytherapy within 4 weeks ,Or within 5 half-lives of immunotherapy, molecular targeted therapy\nSubjects have undergone major surgical procedures other than the diagnosis or biopsy of the current tumor within 4 weeks before the first dose of mRNA-0217/S001, or are expected to undergo major surgery during the study period\nSubjects have received allogeneic hematopoietic stem cell transplantation or organ transplantation in the past, or those who plan to receive organ transplantation during this study\nSubjects have previously received other tumor vaccines or cell therapy\nBrain metastases with clinical symptoms, spinal cord compression, cancerous meningitis, or other evidence that the brain and spinal cord metastases have not been controlled, and the researchers judged that they are not suitable for enrollment\nOther malignant tumors known to be progressing or requiring active treatment in the past 2 years (except for non-melanoma skin cancer, superficial bladder cancer, and carcinoma in situ of the cervix that have been cured by surgical curative treatment)\nHistory of interstitial lung disease (ILD), pulmonary fibrosis\nHave a history of serious cardiovascular and cerebrovascular diseases, including but not limited to a) severe cardiac rhythm or conduction abnormalities, such as ventricular arrhythmia requiring clinical intervention, second-third degree atrioventricular block corrected QTc interval male > 450 milliseconds, female > 470 milliseconds, b) Acute coronary syndrome, congestive heart failure, aortic dissection, stroke or other cardiovascular and cerebrovascular events of grade 3 or above occurred within 6 months before the first administration, c) New York Heart Association (NYHA) \u2265 III heart failure or left ventricular ejection fraction (LVEF) < 50%.\nOther serious and/or uncontrollable diseases, which may affect the subject's participation in this study, include but not limited to a) a history of severe drug allergy, or is known to be allergic to any tumor vaccine and pembrolizumab formulation components or has had severe allergic reactions to other monoclonal antibodies in the past, b) A history of immunodeficiency, including HIV positive or other acquired or congenital immunodeficiency diseases, c) Evidence of severe or uncontrolled liver or kidney disease, d) Uncontrolled high blood pressure, diabetes, etc., e) Patients with active ulcers, gastrointestinal bleeding, f) Serious infection requiring intravenous antibiotics or hospitalization or uncontrolled active infection within 4 weeks before the first dose, g) have an active syphilis infection.\nParticipate in other clinical trials within 4 weeks before the first dose (except for screening failure)\nThose who are currently receiving systemic steroids (except those who have recently or currently used inhaled steroids)\nPregnant and lactating women\nImaging (CT or MRI) shows that the tumor invades large blood vessels and has a tendency to hemorrhage\nHave clinically significant thyroid dysfunction, and the investigator judges that they are not suitable for enrollment\nActive pneumonia found in chest CT scan during the screening period\nUncontrolled pleural effusion, pericardial effusion, or ascites that needs repeated drainage\nSubjects who have adverse reactions of the previous anti-tumor therapy have not recovered to NCI-CTCAE 5.0 grade evaluation \u2264 grade 1 (except for hair loss)\nHBsAg positive and peripheral blood HBV DNA detection value is higher than the upper limit of normal, and/or HCV Ab positive and HCV RNA detection value is higher than the upper limit of normal\nResearchers believe that there are other reasons that are not suitable for participating in clinical trials",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Xinjing Wang",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "18817821319",
+                            "CentralContactEMail": "newvista89@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Baiyong Shen, M.D.&Ph.D",
+                            "OverallOfficialAffiliation": "Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Ruijin-Hainan Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Qionghai",
+                            "LocationState": "Hainan",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M349349",
+                            "InterventionBrowseLeafName": "Pembrolizumab",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

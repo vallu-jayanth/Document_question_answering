@@ -1,0 +1,303 @@
+{
+    "Rank": 449,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02292485",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "PA14-0824"
+                },
+                "Organization": {
+                    "OrgFullName": "M.D. Anderson Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "PCORI-CER-1306-03385 Lung Cancer Screening Readiness Study",
+                "OfficialTitle": "Promoting Informed Decisions About Lung Cancer Screening: Lung Cancer Screening Readiness Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "January 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "October 20, 2014",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 2020",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 12, 2014",
+                "StudyFirstSubmitQCDate": "November 12, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 17, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "January 23, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "January 27, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "M.D. Anderson Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Patient-Centered Outcomes Research Institute",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Investigators will administer a brief, anonymous survey at the Texas Academy of Family Physicians (TAFP) annual Primary Care Summit to better understand the readiness of primary care physicians in Texas to implement lung cancer screening programs in their practice settings.",
+                "DetailedDescription": "For this project there will be up to 1000 participants. Physicians attending the annual CME event at the Texas Academy of Family Physicians event will be asked to fill out an anonymous survey to better understand their readiness to implement lung cancer screening programs in their practice settings. The surveys will be administered to physicians attending the TAFP education events in Houston, Texas, October 17-19, 2014 and in Dallas, Texas, November 7-9, 2014."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Lung Cancer Screening"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Lung Cancer Screening",
+                        "LCS",
+                        "Survey",
+                        "Questionnaire",
+                        "Texas Academy of Family Physicians"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "1000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Physicians - Texas Academy of Family Physicians",
+                            "ArmGroupDescription": "Physicians attending Texas Academy of Family Physicians event asked to fill out an anonymous survey to better understand their readiness to implement lung cancer screening programs in their practice settings. Surveys administered to physicians attending the TAFP education events in Houston, Texas, October 17-19, 2014 and in Dallas, Texas, November 7-9, 2014.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Survey"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Survey",
+                            "InterventionDescription": "Physicians complete survey to better understand their readiness to implement lung cancer screening programs in their practice settings. Surveys administered to physicians attending the TAFP education events in Houston, Texas, October 17-19, 2014 and in Dallas, Texas, November 7-9, 2014.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Physicians - Texas Academy of Family Physicians"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Questionnaire"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Lung Cancer Screening Program Readiness",
+                            "PrimaryOutcomeDescription": "Descriptive statistics (eg, rates) used to describe the readiness of primary care physicians to support lung cancer screening programs in their practices.",
+                            "PrimaryOutcomeTimeFrame": "1 day"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n1. Physicians attending the TAFP education events in Houston, Texas, October 17-19, 2014 and in Dallas, Texas, November 7-9, 2014.\n\nExclusion Criteria:\n\nN/A",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "21 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Physicians attending the TAFP education events in Houston, Texas, October 17-19, 2014 and in Dallas, Texas, November 7-9, 2014.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Robert Volk, PHD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "713-563-0020",
+                            "CentralContactEMail": "BVolk@mdanderson.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Robert Volk, PHD",
+                            "OverallOfficialAffiliation": "M.D. Anderson Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Texas MD Anderson Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Houston",
+                            "LocationState": "Texas",
+                            "LocationZip": "77030",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "University of Texas MD Anderson Cancer Center Website",
+                            "SeeAlsoLinkURL": "http://www.mdanderson.org"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Lung Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

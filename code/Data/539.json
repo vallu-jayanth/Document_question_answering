@@ -1,0 +1,235 @@
+{
+    "Rank": 539,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02708381",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MCC-18059"
+                },
+                "Organization": {
+                    "OrgFullName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Pilot Testing of a Real-Time Oncogeriatric Teleconsultation System Using the Total Cancer Care\u2122 Database",
+                "OfficialTitle": "Pilot Testing of a Real-Time Oncogeriatric Teleconsultation System Using the Total Cancer Care\u2122 Database"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "November 2022",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 19, 2015",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "February 9, 2016",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "February 9, 2016",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 12, 2016",
+                "StudyFirstSubmitQCDate": "March 9, 2016",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 15, 2016",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "November 10, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "November 14, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Lynn Cancer Institute",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The main purpose of this study is to pilot a real time electronic consultation with an Oncogeriatric Information Team (OGIT) located at Moffitt using Total Cancer Care (TCC). Investigators want to see for which type of patients this information is the most useful, and work out the practical ways of making this process work.",
+                "DetailedDescription": "This is a multicenter study to test a real time consultation system using the Total Cancer CareTM database (TCC) cohort at the H. Lee Moffitt Cancer Center, Tampa, Florida, USA. The purpose is to make Moffitt's expertise available to private practice oncologists throughout Florida. An oncologist seeing an older patient with a difficult case could send key patient parameters to a senior adult expert at Moffitt. The TCC concierge would extract from the TCC database patients with similar characteristics. The oncogeriatric information team (OGIT) would review those cases and provide a summary report of treatments received and outcomes. The treating oncologist could then use that as an on-demand case series to help in the decision making. In order to pilot and build up the large scale intervention, several steps are necessary. The first step was a scenario testing with vignettes, which allowed tracing the most effective way of retrieving and formatting the information. The next step will be a pilot testing of the intervention in real time with one private practice.\n\nPrimary Aims:\n\nTo assess which format of expert-vetted database consultation and patient selection is the most useful to a private practice oncologist. We will test a model of approach and gain feedback on subjective utility and objective treatment modification profiles, in order to target a future study towards the stakeholders most likely to benefit. Impact of the consultation on treatment plan (per pre-post e-mails). Availability of similar patients in the TCC database."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Oncology Problem"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Population 70 years and older",
+                        "Geriatric",
+                        "Oncogeriatric",
+                        "Senior adult"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "31",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Senior Adult Cancer Patients",
+                            "ArmGroupDescription": "Cancer patient population 70 years and older, eligible for screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Screening"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Screening",
+                            "InterventionDescription": "Screening for geriatric issues to be referred to the Moffitt Cancer Center Oncogeriatric Information Team (OGIT).",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Senior Adult Cancer Patients"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Availability of Matching Patients in Moffitt Database",
+                            "PrimaryOutcomeDescription": "Percentage of matching patients in Moffitt's Total Cancer Care (TCC) database. Percentage is expected to be greater than 80%.",
+                            "PrimaryOutcomeTimeFrame": "Up to 24 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Impact of Oncogeriatric Information Team (OGIT) Consultation on Treatment Plan",
+                            "SecondaryOutcomeDescription": "Percentage of patients whose treatment plan was influenced/modified due to OGIT Consultation. Percentage is expected to be equal or greater than 20%.",
+                            "SecondaryOutcomeTimeFrame": "Up to 24 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients aged 70 or older with a documented malignancy seen at Lynn Cancer Institute (LCI), as a new or established patient, and for whom a treatment decision has to be made.\nSigned written informed consent\n\nExclusion Criteria:\n\nPatients younger than 70 years of age\nInability to consent\nInability to complete the study questionnaires (assistance for physical impairments is allowed)\nUrgent treatment decision need",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Adult cancer patients 70 years of age and older being treated at Lynn Cancer Institute, with geriatric issues.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Martine Extermann, M.D., Ph.D.",
+                            "OverallOfficialAffiliation": "H. Lee Moffitt Cancer Center and Research Institute",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Lynn Cancer Institute, Boca Raton Regional Hospital",
+                            "LocationCity": "Boca Raton",
+                            "LocationState": "Florida",
+                            "LocationZip": "33486",
+                            "LocationCountry": "United States"
+                        },
+                        {
+                            "LocationFacility": "H. Lee Moffitt Cancer Center and Research Institute",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33612",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "29678669",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Dougoud-Chauvin V, Lee JJ, Santos E, Williams VL, Battisti NML, Ghia K, Sehovic M, Croft C, Kim J, Balducci L, Kish JA, Extermann M. Using Big Data in oncology to prospectively impact clinical patient care: A proof of concept study. J Geriatr Oncol. 2018 Nov;9(6):665-672. doi: 10.1016/j.jgo.2018.03.017. Epub 2018 Apr 17."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "Moffitt Cancer Center website",
+                            "SeeAlsoLinkURL": "https://moffitt.org/"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009369",
+                            "ConditionMeshTerm": "Neoplasms"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

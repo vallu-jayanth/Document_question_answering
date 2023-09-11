@@ -1,0 +1,274 @@
+{
+    "Rank": 1010,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02204462",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J13162"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NA_00084913",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "JHM IRB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "FBnTP Imaging of Breast Cancer",
+                "OfficialTitle": "FBnTP Positron Emission Mammography Imaging of Mitochondria Function - Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2021",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Lock of funding",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 12, 2015",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 13, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 13, 2021",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "July 28, 2014",
+                "StudyFirstSubmitQCDate": "July 29, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 30, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 14, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 15, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Our preclinical studies suggest the capacity of the positron emission tomography imaging agent 18F-fluorobenzyl triphenyl phosphonium (FBnTP) to detects early-stage small breast tumors (e.g., DCIS), and differentiates benign from malignant masses with better accuracy than that obtained by existing breast imaging tools.",
+                "DetailedDescription": "Breast cancer is the most widespread type of cancer among women in the USA, and the second leading cause of death. The National Cancer Institute estimates that in 2013, in the USA, 226,870 women will be diagnosed with breast cancer and 39,510 women will die of breast cancer, most of them of progressive metastatic disease. Early detection and treatment of the disease, when the tumor is still localized and at a high curability state, is the outmost important determinant of disease-free survival of breast cancer patients. Survival rate of women first diagnosed with pure early-stage noninvasive tumor (ductal carcinoma in situ- DCIS) is nearly 98%, which drops to 48% in patients with advanced disease.Yet, early detection of breast cancer is relatively poor. This is best exemplify by the astonishing percentage of benign biopsies; 80% of 1.7 million biopsies in the USA, at a cost of $3 billion; whereas, only small fraction (~20%) of newly diagnosed women are found to have pure DCIS.\n\nOur preclinical studies suggest the capacity of the positron emission tomography (PET) imaging agent 18F-fluorobenzyl triphenyl phosphonium (FBnTP) to detects early-stage small breast tumors (e.g., DCIS), and differentiates benign from malignant masses with better accuracy than that obtained by existing breast imaging tools. Accordingly, the present protocol is designed to extend the preclinical findings into clinical studies in breast cancer women, and to assess the effectiveness of 18F-FBnTP in detecting breast malignant lesions, in comparison with magnetic resonance imaging and fluorodeoxyglucose PET imaging."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "PET",
+                        "Positron Emission Tomography",
+                        "Breast Cancer",
+                        "Imaging"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "4",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Newly diagnosed breast cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients with newly-diagnosed invasive and/or intraductal breast cancer detected by core needle or vacuum-assisted biopsy (i.e. index cancer). Patients will undergo FBnTP PET imaging for detection of malignant breast cancer.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: FBnTP"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "FBnTP",
+                            "InterventionDescription": "A PET imaging radiotracer",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Newly diagnosed breast cancer"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Fluorobenzyl triphenyl phosphonium"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Malignant breast cancer detection",
+                            "PrimaryOutcomeDescription": "A feasibility study to assess the capacity of 18F-FBnTP PEM to detect and localize malignant breast lesions. Histopathology results will serve as reference standard.",
+                            "PrimaryOutcomeTimeFrame": "Pre-treatment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Imaging comparison",
+                            "SecondaryOutcomeDescription": "To evaluate the concordance in detecting malignant breast lesions between FBnTP PEM and available diagnostic tests such as mammogram, 18F-FDG PEM or MRI.",
+                            "SecondaryOutcomeTimeFrame": "Pre-treatment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nFemale patients with newly-diagnosed invasive and/or intraductal breast cancer detected by core needle or vacuum-assisted biopsy (i.e., index cancer)\nAge > 25 Ability and willingness to sign informed consent prior to any study procedure.\nPositive indication of disease on mammogram or MRI scan.\nCandidate for breast cancer surgery on the basis of recommendation of a breast cancer surgeon.\nAbility to undergo up to 90 minutes of PEM imaging.\n\nExclusion Criteria:\n\nAny active or chronic illness that, in the opinion of the investigators, would make the study unsafe or limit compliance with study procedures.\nPast or present history of active substance abuse (drug or alcohol).\nInability to tolerate venous access.\nPregnant females are excluded from this study. All females of child-bearing potential will undergo a serum pregnancy test within 48 hours prior to FBnTP administration.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "26 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Martin Pomper, MD",
+                            "OverallOfficialAffiliation": "Johns Hopkins University",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Johns Hopkins Hospital",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21287",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "via manuscripts publication"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,424 @@
+{
+    "Rank": 534,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05115474",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "MCC-21448"
+                },
+                "Organization": {
+                    "OrgFullName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Study of Screening Brain MRIs in Stage IV Breast Cancer",
+                "OfficialTitle": "Phase II Study of Screening Brain MRIs in Stage IV Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 21, 2021",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 31, 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 31, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 1, 2021",
+                "StudyFirstSubmitQCDate": "November 9, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 10, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 28, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 1, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Florida Breast Cancer Foundation",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The study is a single arm, nonrandomized phase II prospective study, with the goal of investigating the role of screening brain MRIs in neurologically asymptomatic patients with metastatic breast cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Triple Negative Breast Cancer",
+                        "HER2-positive Breast Cancer",
+                        "Hormone Receptor-positive Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Stage IV Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Only"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Blood samples will be collected to evaluate changes in surrogate biomarkers related to brain metastasis progression. Changes in biomarkers such as cytokines associated with T-cell activation and lymphocyte subpopulations may provide evidence of brain metastasis progression. Furthermore, circulating tumor DNA may identify populations of patients more likely to undergo CNS progression"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Participants with TNBC (triple negative breast cancer)",
+                            "ArmGroupDescription": "Participants will undergo a screening brain MRI. Patients will undergo a second brain MRI at first systemic progression or at 6 months whichever event occurs sooner.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Magnetic Resonance Imaging"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Participants with Human Epidermal Growth Factor Receptor 2 (HER2) + Breast Cancer",
+                            "ArmGroupDescription": "Participants will undergo a screening brain MRI. Patients will undergo a second brain MRI at first systemic progression or at 6 months whichever event occurs sooner.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Magnetic Resonance Imaging"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Participants with Hormone Receptor (HR) +Breast Cancer",
+                            "ArmGroupDescription": "Participants will undergo a screening brain MRI. Patients will undergo a second brain MRI at first systemic progression or at 6 months whichever event occurs sooner.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Magnetic Resonance Imaging"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Magnetic Resonance Imaging",
+                            "InterventionDescription": "Participants will undergo MRI imaging with and without contrast.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Participants with Hormone Receptor (HR) +Breast Cancer",
+                                    "Participants with Human Epidermal Growth Factor Receptor 2 (HER2) + Breast Cancer",
+                                    "Participants with TNBC (triple negative breast cancer)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRI"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of Brain Metastasis",
+                            "PrimaryOutcomeDescription": "Rate of brain metastasis by breast cancer subtype at baseline using MRI images.",
+                            "PrimaryOutcomeTimeFrame": "at Baseline"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Rate of Brain Metastasis",
+                            "PrimaryOutcomeDescription": "Rate of brain metastasis by breast cancer subtype at 6 months or first systemic progression using MRI images.",
+                            "PrimaryOutcomeTimeFrame": "up to 6 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Rate of Asymptomatic Leptomeningeal Disease",
+                            "SecondaryOutcomeDescription": "Rate of asymptomatic leptomeningeal disease by breast cancer subtype at baseline and at 6 months or first systemic progression, using MRI images.",
+                            "SecondaryOutcomeTimeFrame": "Baseline and at up to 6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of Brain Metastases",
+                            "SecondaryOutcomeDescription": "Number of Brain Metastases at Diagnosis by Breast Cancer Subtype, using MRI images.",
+                            "SecondaryOutcomeTimeFrame": "Baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival",
+                            "SecondaryOutcomeDescription": "Overall Survival (OS) will be measured from the initial on study date to the recorded date of death.",
+                            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of Participants Requiring Whole Brain Radiation Therapy vs Stereotactic Radiation",
+                            "SecondaryOutcomeDescription": "Number of Participants Requiring Whole Brain Radiation Therapy vs Stereotactic Radiation by breast cancer type.",
+                            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Brain Metastasis Specific Survival",
+                            "SecondaryOutcomeDescription": "Brain metastasis specific survival following brain metastasis by breast cancer subtype",
+                            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologic diagnosis of breast cancer with documentation of ER/PR/HER2 status\nRadiographic evidence of stage IV extracranial diease having progressed past first line therapy in HR+/HER2- patients\nRadiographic evidence of stage IV extracranial disease in TN and HER2+ patients\nAge \u2265 18\nLife expectancy \u2265 6 months\nEastern Cooperative Oncology Group performance status 0 to 2\nPatients must be able to understand and the willingness to sign an informed consent for study procedures\nStated willingness to comply with all study procedures and availability for the duration of the study\n\nExclusion Criteria:\n\nPrior diagnosis or treatment of brain metastases or leptomeningeal disease\nPatients with prior history of non-breast cancer malignancies should have no evidence of disease \u2265 2 years\nNeurologic symptoms warranting standard screening brain MRI in the judgement of the treating physician at time of enrollment\nIndications warranting brain MRI for other neurologic conditions at time of study entry\nContraindication towards MRI imaging with contrast\nChronic kidney disease stage IV or V or end stage renal disease",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Stage IV breast cancer patients at Moffitt Cancer Center",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Robin Dowell",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "813-745-0393",
+                            "CentralContactEMail": "Robin.Dowell@moffitt.org"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Kamran A Ahmed, MD",
+                            "OverallOfficialAffiliation": "Moffitt Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Moffitt Cancer Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Tampa",
+                            "LocationState": "Florida",
+                            "LocationZip": "33612",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Robin Dowell",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "813-745-0393",
+                                        "LocationContactEMail": "Robin.Dowell@moffitt.org"
+                                    },
+                                    {
+                                        "LocationContactName": "Avan Armaghani, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "John Arrington, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Ricardo Costa, MD, MSc",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Roberto Diaz, MD, PhD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Heather Han, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Hung Khong, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Kimberley Lee, MD, MHS",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Loretta Loftus, MD, MBA",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Marilin Rosa, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Hatem Soliman, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Aixa Soyano Muller, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Iman Washington, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000064726",
+                            "ConditionMeshTerm": "Triple Negative Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M30063",
+                            "ConditionBrowseLeafName": "Triple Negative Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Triple Negative Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M9479",
+                            "InterventionBrowseLeafName": "Hormones",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M11590",
+                            "InterventionBrowseLeafName": "Mitogens",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

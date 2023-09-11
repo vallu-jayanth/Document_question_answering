@@ -1,0 +1,310 @@
+{
+    "Rank": 144,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03343691",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IL-TM-B1-01"
+                },
+                "Organization": {
+                    "OrgFullName": "Todos Medical, Ltd.",
+                    "OrgClass": "INDUSTRY"
+                },
+                "BriefTitle": "Blood Test for Early Detection of Breast Cancer Using Todos Medical -Breast 1(TM-B1) Assay",
+                "OfficialTitle": "Blood Test for Early Detection of Breast Cancer Using Todos Medical -Breast 1(TM-B1) Assay",
+                "Acronym": "TM-B1"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2018",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "January 22, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 1, 2019",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 1, 2019",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "November 12, 2017",
+                "StudyFirstSubmitQCDate": "November 12, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "November 17, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 20, 2018",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 22, 2018",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Todos Medical, Ltd.",
+                    "LeadSponsorClass": "INDUSTRY"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Blood samples from a total of 200 women in two cohorts will be collected and analyzed by TM-B1 assay, which is based on TBIA (Total Biochemical Infrared Analysis) to confirm the presence of cancer. These two cohorts will yield 75 healthy women with no pathological findings, 75 women diagnosed as having benign breast tumor and 50 women diagnosed as having breast cancer.",
+                "DetailedDescription": "Prospective, two arms, observational, blinded, cohort study enrolling 200 women which intended to validate the cut-off points between women with malignant tumors, benign tumors, and women without tumors (controls) and to validate the sensitivity and specificity of TM-B1 for the detection of an invasive breast tumor.\n\nTwo cohorts will be tested with TM-B1. The cohorts will differ in the percentage of women that are expected to yield a positive finding for breast cancer. Any finding in TM-B1 will not influence medical standards of care."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples Without DNA",
+                    "BioSpecDescription": "Collect blood from the subject in two 6 ml K2 EDTA blood collection tube (total 12 ml blood) according to standardized phlebotomy procedures."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Screening Population",
+                            "ArmGroupDescription": "Cohort 1:Screening Population - Women presenting for routine XRM and / or breast US.\n\nParticipants will be followed for one year and the outcome of those who undergo an annual XRM / breast ultrasound will be recorded.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Screening Population"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Breast Cancer Population",
+                            "ArmGroupDescription": "Cohort 2:Breast Cancer Population - Women who were diagnosed with malignant breast tumors, as determined by biopsy, and have not yet begun any treatment for the disease.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Breast Cancer Population"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Screening Population",
+                            "InterventionDescription": "Blood samples taken from screening population",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Screening Population"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Breast Cancer Population",
+                            "InterventionDescription": "Blood samples taken from Breast Cancer population",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Breast Cancer Population"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "This study is intended to evaluate the sensitivity and specificity of the TM-B1 test compared to the Gold Standard diagnostic methods and clinical evaluations based on Digital X-Ray Mammography (XRM), and / or ultrasound, and / or MRI and / or pathology.",
+                            "PrimaryOutcomeDescription": "the subject's blood (Groups 1 and 2)will be tested for the presence of breast cancer",
+                            "PrimaryOutcomeTimeFrame": "Timepoint 1, day 1"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "For asymptomatic women who have dense breast tissue (parenchymal density > 50% on XRM), evaluate the performance, in terms of sensitivity and specificity, of the TM-B1 test and XRM together as a breast cancer screening procedure compared to the XRM alone",
+                            "SecondaryOutcomeDescription": "The subject's blood (Groups 1 and 2) will be tested for the presence of breast cancer",
+                            "SecondaryOutcomeTimeFrame": "Timepoint one, day 1"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nScreening Population:\n\nSubject signed the informed consent.\nSubject is aged 25 years and older.\nSubject is presenting for routine screening or diagnostic XRM and / or breast US.\n\nBreast Cancer Population\n\nSubject signed the informed consent form.\nSubject is aged 25 years and older.\nSubject was diagnosed with a malignant breast tumor, and has not yet started treatment.\n\nExclusion Criteria:\n\nAll Subjects:\n\nSubject has been diagnosed with any type of malignancy apart from breast cancer.\nSubject has been previously treated for breast cancer.\nSubject underwent any surgery within the previous year (apart from benign nevus removal).\nSubject was treated for benign tumor within the previous year (e.g. polyps or cysts).\nSubject has an active infection or inflammation from any type of infection (bacterial or viral) as determined clinically at screening.\nSubject is currently taking medications related directly to, or that can affect, the immune system such as steroids.\nSubject has any type of active autoimmune disease such as lupus or rheumatoid arthritis.\nDiagnostic drugs (e.g. contrast materials) were injected or given orally to subject within the last 7 days prior to sample collection for TM-B1 analysis.\nSubject has been taking any investigational drug which influence her health status within 30 days prior to sample collection for TM-B1 analysis.\nSubject is not feeling well at the time of blood collection for TM-B1 analysis due to suspected bacterial or viral infection or subject has symptoms such as high fever, diarrhea, headache, vomiting, dizziness etc.\nSubject is pregnant, lactating, or undergoing fertility treatment.\nSubject has participated in this study, in another cohort, and the TM-B1 test was performed.\n\nBreast Cancer Population only:\n\nThe subject's tumor has been surgically removed before sample collection for TM-B1 analysis.",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "GenderBased": "Yes",
+                "GenderDescription": "Women undergoing a breast biopsy or a screening mammography,",
+                "MinimumAge": "25 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Cohort 1: Screening Population - Women presenting for routine XRM and / or breast US.\n\nCohort 2: Breast Cancer Population - Women who were diagnosed with malignant breast tumors, as determined by biopsy, and have not yet begun any treatment for the disease.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Udi Zelig, Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "972-55-661-6945",
+                            "CentralContactEMail": "udi@todosmedical.com"
+                        },
+                        {
+                            "CentralContactName": "Meir S Silver, Ph.D.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "972-54-633-5855",
+                            "CentralContactEMail": "meir.s@todosmedical.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Tanir N Alweis, M.D.",
+                            "OverallOfficialAffiliation": "Kaplan Medical Center,Pasternak St., POB 1, Rehovot 76100, Israel",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Kaplan Medical Center",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Rehovot",
+                            "LocationZip": "76100",
+                            "LocationCountry": "Israel",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Tanir Alweis, M.D.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "972-50-787-4268",
+                                        "LocationContactEMail": "taniral@clalit.org.il"
+                                    },
+                                    {
+                                        "LocationContactName": "Tanir Alweis, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

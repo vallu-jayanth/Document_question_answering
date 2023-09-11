@@ -1,0 +1,352 @@
+{
+    "Rank": 1003,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04025970",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2019-01410"
+                },
+                "Organization": {
+                    "OrgFullName": "Region Stockholm",
+                    "OrgClass": "OTHER_GOV"
+                },
+                "BriefTitle": "Molecular Analysis of Blood Samples in Standardized Cancer Care Referrals for SCAN and CUP",
+                "OfficialTitle": "The Value of Molecular Biological Analysis of Blood Samples in Standardized Care Procedures in Suspected Cancer (SCAN) and Cancer of Unknown Primary (CUP)"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2019",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 30, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2021",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 15, 2019",
+                "StudyFirstSubmitQCDate": "July 15, 2019",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 19, 2019",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 3, 2019",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 4, 2019",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Christer Ericsson",
+                    "ResponsiblePartyInvestigatorTitle": "Senior scientist",
+                    "ResponsiblePartyInvestigatorAffiliation": "Region Stockholm"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Christer Ericsson",
+                    "LeadSponsorClass": "OTHER_GOV"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "Karolinska Institutet",
+                            "CollaboratorClass": "OTHER"
+                        },
+                        {
+                            "CollaboratorName": "iCellate Medical",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Patients with suspected cancer (SCAN) and cancer of unknown primary tumor (CUP) are vulnerable because the investigation is difficult and expensive and have poor prognosis because few effective established curative treatments are available. Great progress has been made, for example through highly qualified and systematic clinical investigations not least within the framework of the standardized care processes. However, there is a need for faster, less invasive and more cost-effective tests to confirm or exclude the diagnosis of carcinoma (epithelial cancer), primarily for SCAN and secondly for CUP, and partly to receive suggestions for localization of the primary tumor for primarily CUP and secondly SCAN. There is also a need for prediction of molecularly targeted therapies.\n\nNew research provides opportunities for using a blood test to acquire detailed and updated information about the individual patient's disease and thus also open new opportunities for faster, less invasive and more cost-effective diagnosis and prediction of molecularly targeted treatments based on individualized sampling and molecular stratification. It is important that these opportunities are tested in a timely fashion in practical health care, so the new opportunities can be taken advantage of and developed in the best way. The aim is to establish a new \"best practice\" for these hard-to-study and difficult-to-treat patients.\n\nSamples will be taken of epithelial cells circulating in the blood, and of the free circulating DNA.\n\nAs a reference, germ-line DNA will also be sampled, also from regular blood samples.\n\nThe analyses will show whether the cellular and molecular tests can work in the existing standardized care processes for SCAN and CUP, or if adaptations in routines, training or equipment need to be introduced.\n\nThe analyses will also give an indication of whether the cellular and molecular sample analyses provide practically useful information for confirming or refuting the diagnosis of cancer, suggesting from which organ the cancer originated and for predicting individualized therapies, and whether adaptations in routines, training or technology need to be introduced."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasms, Unknown Primary",
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Germ line DNA, gDNA",
+                        "Circulating tumor cell, CTC",
+                        "Circulating cell free DNA, cfDNA, ctDNA",
+                        "Screening",
+                        "Diagnostic",
+                        "Predictive"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Peripheral blood samples"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "200",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Cancer of Unknown Primary (CUP)",
+                            "ArmGroupDescription": "Subjects referred, based on standardised criteria, for investigation and diagnosis for possible cancer of unknown primary (CUP).\n\nBlood samples to be investigated for presence of circulating tumor cells and circulating tumor DNA.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Circulating tumor cell and circulating tumor DNA test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Suspected CANcer (SCAN)",
+                            "ArmGroupDescription": "Subjects referred, based on standardised criteria, for investigation and diagnosis for suspected cancer (SCAN) based on serious non-specific symptoms and signs of cancer.\n\nBlood samples to be investigated for presence of circulating tumor cells and circulating tumor DNA.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Circulating tumor cell and circulating tumor DNA test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Circulating tumor cell and circulating tumor DNA test",
+                            "InterventionDescription": "Patient stratification based on presence or absence of suspicious findings of cells and DNA",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Cancer of Unknown Primary (CUP)",
+                                    "Suspected CANcer (SCAN)"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Possibility of cellular and genomic sampling as part of the standardised care process",
+                            "PrimaryOutcomeDescription": "Can blood samples be taken, processed in a timely manner and processed for isolation and analysis of circulating epithelial cells and free circulating DNA within the framework of the standardized care process for SCAN and CUP?",
+                            "PrimaryOutcomeTimeFrame": "1 month"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Cellular and genomic sample analyses",
+                            "SecondaryOutcomeDescription": "Are the cellular and molecular sample analyses already practically useful for the universal confirmation or exclusion of the diagnosis of epithelial cancer, suggest from which anatomic location the cancer originated and predict individualised treatment, or should the test be re-focused on certain areas of diagnosis, or developed technically, in order to assist the diagnostic investigation and predict the treatment based on detailed information of the current state of the individual patient's disease?",
+                            "SecondaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n200 patients who were referred to be investigated and diagnosed at the Diagnostic Centre (DC) in S\u00f6dert\u00e4lje, Sweden, for suspected cancer (SCAN) with serious non-specific symptoms with signs of cancer, or with suspected cancer of unknown primary (CUP) and which give informed consent to participate in the study.\n\nExclusion Criteria:\n\nAll patients who have been referred and consented are included.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "125 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients who were referred to be investigated and diagnosed at the Diagnostic Centre (DC) in S\u00f6dert\u00e4lje, Sweden.",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Roland Soderholm, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "08-550 24493",
+                            "CentralContactEMail": "roland.soderholm@sll.se"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Charlotta Savblom, MD, PhD",
+                            "OverallOfficialAffiliation": "Region Stockholm",
+                            "OverallOfficialRole": "Study Director"
+                        },
+                        {
+                            "OverallOfficialName": "Christer Ericsson, PhD",
+                            "OverallOfficialAffiliation": "Karolinska Institutet",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Diagnostiskt Centrum, S\u00f6dert\u00e4lje Sjukhus",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "S\u00f6dert\u00e4lje",
+                            "LocationState": "Stockholm",
+                            "LocationZip": "152 86",
+                            "LocationCountry": "Sweden"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "30632871",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stenman E, Palmer K, Ryden S, Savblom C, Svensson I, Rose C, Ji J, Nilbert M, Sundquist J. Diagnostic spectrum and time intervals in Sweden's first diagnostic center for patients with nonspecific symptoms of cancer. Acta Oncol. 2019 Mar;58(3):296-305. doi: 10.1080/0284186X.2018.1537506. Epub 2019 Jan 11."
+                        },
+                        {
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Castro, J., Ericsson C., Cashin P., Mahteme H. Preliminary Finding: Detection of Circulating Cancer Cells in Blood from a Patient with Peritoneal Carcinomatosis Treated with Cytoreductive Surgery and Intraperitoneal Chemotherapy. Surgery: Current Research 2(3), 2012. doi: 10.4172/2161-1076.1000113"
+                        },
+                        {
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Castro, J., Sanchez, L., Alvarez Bedoya, P.H., Nunez, M.T., Lu, M., Castro, T., Sharifi, H.R., Ericsson, C. Screening Circulating Tumor Cells as a Non-invasive Cancer Test in 1,585 Asymptomatic Adults (ICELLATE1) J Integr Oncol 7(3), 2018 DOI 10.4172/2329-6771.1000212"
+                        },
+                        {
+                            "ReferencePMID": "29997714",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Castro J, Sanchez L, Nunez MT, Lu M, Castro T, Sharifi HR, Ericsson C. Screening Circulating Tumor Cells as a Noninvasive Cancer Test in 3388 Individuals from High-Risk Groups (ICELLATE2). Dis Markers. 2018 May 28;2018:4653109. doi: 10.1155/2018/4653109. eCollection 2018."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "The regional cancer centers of the public healthcare system will work to strengthen clinical cancer research in the region and in the country so that scientific advances will rapidly benefit cancer patients.",
+                            "SeeAlsoLinkURL": "https://www.cancercentrum.se/samverkan/vara-uppdrag/forskning/"
+                        },
+                        {
+                            "SeeAlsoLinkLabel": "iCellate Medical offers services in liquid biopsy, to detect, isolate and analyze circulating tumor cells (CTCs), circulating tumor DNA and germ-line DNA, from normal blood samples.",
+                            "SeeAlsoLinkURL": "https://icellate.se"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No",
+                "IPDSharingDescription": "There is no plan to make individual participant data (IPD) available to other researchers"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000009382",
+                            "ConditionMeshTerm": "Neoplasms, Unknown Primary"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009362",
+                            "ConditionAncestorTerm": "Neoplasm Metastasis"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11995",
+                            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12017",
+                            "ConditionBrowseLeafName": "Neoplasms, Unknown Primary",
+                            "ConditionBrowseLeafAsFound": "Neoplasms, Unknown Primary",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "Rank": 902,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05086601",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CRCC2021"
+                },
+                "Organization": {
+                    "OrgFullName": "Fudan University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "A Cohort of Molecular Characteristics and Prognosis of Colorectal Cancer",
+                "OfficialTitle": "A Cohort of Molecular Characteristics and Prognosis of Colorectal Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2021",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 1, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 9, 2022",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 9, 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 23, 2021",
+                "StudyFirstSubmitQCDate": "October 7, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "October 21, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 7, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 21, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fudan University",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This study aims to establish a colorectal cancer cohort, collect clinicopathological information, collect biological samples for multi-omics testing, and perform relevant analysis, to predict the prognosis of colorectal cancer, guide the diagnosis and treatment of colorectal cancer and the formulation of health policies.",
+                "DetailedDescription": "In this study, the investigators will establish a database to collect clinical pathological information, based on the medical data system of participating medical centers. The investigators will also collect corresponding tumor specimens and perform multiple omics tests such as genome, transcriptome, and proteome. The investigators will aggregate these data into a special database, and use appropriate methods to conduct big data analysis, to predict prognosis, guide diagnosis and treatment, and assist in formulating health policies."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer",
+                        "Surgery"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "2 Years",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "The specimens include primary tumor tissue, adjacent tissues, normal mucosa tissue, and peripheral venous blood. Tissue samples will be used for multiple omics tests, including genome, transcriptome, proteome, etc. Blood samples are used for tumor markers, immunology and other tests."
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "15000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "colorectal cancer surgery",
+                            "InterventionDescription": "Any surgery for primary tumor of colorectal cancer, including palliative resection, simple bowel stoma and exploratory surgery."
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Disease-free survival time",
+                            "PrimaryOutcomeDescription": "For patients received radical resection of colorectal cancer, disease-free survival time is defined as time from the surgery to any recurrence of disease or death, recorded in months.",
+                            "PrimaryOutcomeTimeFrame": "2 yeas after surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall survival time",
+                            "SecondaryOutcomeDescription": "Overall survival time is defined as time from the surgery to death, recorded in months.",
+                            "SecondaryOutcomeTimeFrame": "2 yeas after surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Pathological TNM stage",
+                            "SecondaryOutcomeDescription": "The pathological TNM stage included the pathological T stage, pathological N stage and M stage. The pathological T and N stage is decided according to the removed specimen of the primary tumor by the pathologist after surgery. The M stage is decided according to the imaging tests as CT, MRI and PET-CT.",
+                            "SecondaryOutcomeTimeFrame": "1 month after surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPathologically diagnosed as colorectal cancer\nReceiving any surgery of primary tumor, including palliative resection, simple enterostomy and exploratory surgery\n\nExclusion Criteria:\n\nThe patient refused to join the study\nThe patient refused to collect the biological sample\nThe patient refused to follow up",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients pathologically diagnosed as colorectal cancer, and receiving any surgery of primary tumor, including palliative resection, simple enterostomy and exploratory surgery",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jianmin Xu, Prof.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+86-021-64041990",
+                            "CentralContactEMail": "xujmin@aliyun.com"
+                        },
+                        {
+                            "CentralContactName": "Qingyang Feng, Dr.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactEMail": "fqy198921@163.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Zhongshan Hospital, Fudan University",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Shanghai",
+                            "LocationState": "Shanghai",
+                            "LocationZip": "200032",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Qingyang Feng, Dr.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-021-64041990",
+                                        "LocationContactEMail": "fqy198921@163.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Jianmin Xu, Prof.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactEMail": "xujmin@aliyun.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

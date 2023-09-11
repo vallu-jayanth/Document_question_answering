@@ -1,0 +1,470 @@
+{
+    "Rank": 154,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05550090",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "ZCHBC022"
+                },
+                "Organization": {
+                    "OrgFullName": "Zhejiang Cancer Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Dynamic Contrast-enhanced MRI Combined With IVIM-DWI for Early Prediction of Chemosensitivity in Liver MBC",
+                "OfficialTitle": "Clinical Study of Dynamic Contrast-enhanced Magnetic Resonance Imaging Combined With IVIM-DWI for Early Prediction of Chemosensitivity in Liver Metastasis of Breast Cance",
+                "Acronym": "DreaminLMBC"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 16, 2022",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 16, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 30, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "September 18, 2022",
+                "StudyFirstSubmitQCDate": "September 18, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "September 22, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 23, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 27, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Huang Ping",
+                    "ResponsiblePartyInvestigatorTitle": "Clinical Professor",
+                    "ResponsiblePartyInvestigatorAffiliation": "Zhejiang Cancer Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Zhejiang Cancer Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The purpose of this study is to further use DCE-MRI and ivim-dwi to predict the chemotherapy sensitivity of liver metastasis of breast cancer at an early stage, and to predict the treatment response of tumor at an early stage by using the changes of their functional parameters, and to compare the efficacy and advantages of IVIM functional parameters and DCE-MRI parameters in predicting the efficacy.To explore the efficacy of \"perfusion\" and \"diffusion\" parameters of magnetic resonance imaging as \"biomarkers\" for early prediction of chemotherapy response and prognosis of breast cancer patients with liver metastasis. And to provide guidance for optimizing the clinical treatment scheme of breast cancer patients with liver metastasis.\n\nAt the same time, this study will use the method of artificial intelligence to deeply mine the images, and further find out the indicators for early prediction of the therapeutic effect of liver metastasis of breast cancer.",
+                "DetailedDescription": "The first MR examination was arranged within 7 days before treatment (baseline). The MRI scanning sequence included conventional T1, T2 weighted imaging, T1+dynamic contrast enhanced imaging, and IVIM-DWI imaging.The second and third MR examinations were arranged within 7 days after the first chemotherapy and the second chemotherapy. The examination steps and parameters were the same as those of the first examination."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Metastatic Breast Cancer in the Liver"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Liver metastasis",
+                        "Breast cancer",
+                        "Efficacy prediction"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with liver metastasis from breast cancer requiring antitumor therapy",
+                            "ArmGroupDescription": "Patients with liver metastasis from breast cancer requiring antitumor therapy",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Chemotherapy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Chemotherapy",
+                            "InterventionDescription": "All patients were given 2 cycles of chemotherapy, including the chemotherapy recommended by the clinical treatment guidelines for advanced metastatic breast cancer, which can be combined with targeted or immune or endocrine therapy.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with liver metastasis from breast cancer requiring antitumor therapy"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Chemotherapy can be combined with targeted or immunotherapy or endocrine therapy."
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation between DCE-MRI parameters combined with IVIM parameters and short-term efficacy of chemotherapy in patients with liver metastasis of breast cancer",
+                            "PrimaryOutcomeDescription": "Correlation between DCE-MRI parameters (Ktrans, Ve, Kep) combined with IVIM parameters (D*, D, f) and short-term efficacy of chemotherapy in patients with liver metastasis of breast cancer",
+                            "PrimaryOutcomeTimeFrame": "September 2025"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Correlation between DCE-MRI parameters combined with IVIM parameters and long-term efficacy of chemotherapy in patients with liver metastasis of breast cancer",
+                            "PrimaryOutcomeDescription": "Correlation between DCE-MRI parameters (Ktrans, Ve, Kep) combined with IVIM parameters (D*, D, f) and long-term efficacy of chemotherapy in patients with liver metastasis of breast cancer",
+                            "PrimaryOutcomeTimeFrame": "September 2025"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The consistency of DCE-MRI parameters and IVIM parameters between different observers and the same observer.",
+                            "SecondaryOutcomeDescription": "The consistency of DCE-MRI parameters and IVIM parameters between different observers and the same observer.",
+                            "SecondaryOutcomeTimeFrame": "September 2025"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Using artificial intelligence method to deeply mine images, find out new indicators to predict the curative effect of liver metastasis treatment of breast cancer in early stage.",
+                            "SecondaryOutcomeDescription": "Using artificial intelligence method to deeply mine images, find out new indicators to predict the curative effect of liver metastasis treatment of breast cancer in early stage.",
+                            "SecondaryOutcomeTimeFrame": "September 2025"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nThe primary lesion was pathologically confirmed to be breast cancer, and the patients diagnosed by two imaging methods or pathologically confirmed to be liver metastasis of breast cancer had at least one liver metastasis with the longest diameter \u2265 10mm;\nNo second primary malignant tumor;\nECOG score, 0-2 ;\nThe organ function is normal and can tolerate chemotherapy and other anti-tumor treatments;\nThe patient plans to receive systemic chemotherapy or systemic anti-tumor treatment, and the whole process of cooperative treatment. The patient has good compliance with the planned treatment and follow-up, can understand the research process of this study and sign a written informed consent\uff1b\nContraception during the study period and within 6 months after treatment, non lactation period.\n\nExclusion Criteria:\n\nFor patients contraindicated to MR examination, such as built-in metal instruments and allergy to contrast agents;\nThe patient had diffuse liver metastasis or the number of liver metastatic tumors was more than 5;\nPatients who cannot complete 2 cycles of chemotherapy or systemic anti-tumor treatment;\nUnable to cooperate with follow-up\uff1b\nPatients who are not suitable for the study according to the investigator.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with liver metastasis from breast cancer requiring at least 2 cycles of systemic chemotherapy",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Ping Huang",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613685766632",
+                            "CentralContactEMail": "zlyyhp@163.com"
+                        },
+                        {
+                            "CentralContactName": "Xiaojia Wang",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613906500190",
+                            "CentralContactEMail": "wxiaojia0803@163.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Ping Huang",
+                            "OverallOfficialAffiliation": "Zhejiang Cancer Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Zhejiang Cancer Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Hangzhou",
+                            "LocationState": "Zhejiang",
+                            "LocationZip": "310022",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Ping Huang",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+86-13685766632",
+                                        "LocationContactEMail": "zlyyhp@163.com"
+                                    },
+                                    {
+                                        "LocationContactName": "Ping Huang",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "29464535",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Ruiz A, Sebagh M, Wicherts DA, Castro-Benitez C, van Hillegersberg R, Paule B, Castaing D, Vibert E, Cunha AS, Cherqui D, Morere JF, Adam R. Long-term survival and cure model following liver resection for breast cancer metastases. Breast Cancer Res Treat. 2018 Jul;170(1):89-100. doi: 10.1007/s10549-018-4714-1. Epub 2018 Feb 20."
+                        },
+                        {
+                            "ReferencePMID": "26628467",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Holm J, Li J, Darabi H, Eklund M, Eriksson M, Humphreys K, Hall P, Czene K. Associations of Breast Cancer Risk Prediction Tools With Tumor Characteristics and Metastasis. J Clin Oncol. 2016 Jan 20;34(3):251-8. doi: 10.1200/JCO.2015.63.0624. Epub 2015 Nov 30."
+                        },
+                        {
+                            "ReferencePMID": "20498394",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Kennecke H, Yerushalmi R, Woods R, Cheang MC, Voduc D, Speers CH, Nielsen TO, Gelmon K. Metastatic behavior of breast cancer subtypes. J Clin Oncol. 2010 Jul 10;28(20):3271-7. doi: 10.1200/JCO.2009.25.9820. Epub 2010 May 24."
+                        },
+                        {
+                            "ReferencePMID": "28196771",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Golse N, Adam R. Liver Metastases From Breast Cancer: What Role for Surgery? Indications and Results. Clin Breast Cancer. 2017 Jul;17(4):256-265. doi: 10.1016/j.clbc.2016.12.012. Epub 2017 Jan 9."
+                        },
+                        {
+                            "ReferencePMID": "23436068",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Varoquaux A, Rager O, Lovblad KO, Masterson K, Dulguerov P, Ratib O, Becker CD, Becker M. Functional imaging of head and neck squamous cell carcinoma with diffusion-weighted MRI and FDG PET/CT: quantitative analysis of ADC and SUV. Eur J Nucl Med Mol Imaging. 2013 Jun;40(6):842-52. doi: 10.1007/s00259-013-2351-9. Epub 2013 Feb 22."
+                        },
+                        {
+                            "ReferencePMID": "17515386",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Koh DM, Collins DJ. Diffusion-weighted MRI in the body: applications and challenges in oncology. AJR Am J Roentgenol. 2007 Jun;188(6):1622-35. doi: 10.2214/AJR.06.1403."
+                        },
+                        {
+                            "ReferencePMID": "27402526",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Pieper CC, Willinek WA, Meyer C, Ahmadzadehfar H, Kukuk GM, Sprinkart AM, Block W, Schild HH, Murtz P. Intravoxel Incoherent Motion Diffusion-Weighted MR Imaging for Prediction of Early Arterial Blood Flow Stasis in Radioembolization of Breast Cancer Liver Metastases. J Vasc Interv Radiol. 2016 Sep;27(9):1320-1328. doi: 10.1016/j.jvir.2016.04.018. Epub 2016 Jul 9."
+                        },
+                        {
+                            "ReferencePMID": "24408046",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Mungai F, Pasquinelli F, Mazzoni LN, Virgili G, Ragozzino A, Quaia E, Morana G, Giovagnoni A, Grazioli L, Colagrande S. Diffusion-weighted magnetic resonance imaging in the prediction and assessment of chemotherapy outcome in liver metastases. Radiol Med. 2014 Aug;119(8):625-33. doi: 10.1007/s11547-013-0379-3. Epub 2014 Jan 10."
+                        },
+                        {
+                            "ReferencePMID": "31293432",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Doudou NR, Kampo S, Liu Y, Ahmmed B, Zeng D, Zheng M, Mohamadou A, Wen QP, Wang S. Monitoring the Early Antiproliferative Effect of the Analgesic-Antitumor Peptide, BmK AGAP on Breast Cancer Using Intravoxel Incoherent Motion With a Reduced Distribution of Four b-Values. Front Physiol. 2019 Jun 21;10:708. doi: 10.3389/fphys.2019.00708. eCollection 2019."
+                        },
+                        {
+                            "ReferencePMID": "27462163",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Pieper CC, Meyer C, Sprinkart AM, Block W, Ahmadzadehfar H, Schild HH, Murtz P, Kukuk GM. The value of intravoxel incoherent motion model-based diffusion-weighted imaging for outcome prediction in resin-based radioembolization of breast cancer liver metastases. Onco Targets Ther. 2016 Jul 5;9:4089-98. doi: 10.2147/OTT.S104770. eCollection 2016."
+                        },
+                        {
+                            "ReferencePMID": "30961445",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Bai G, Wang Y, Zhu Y, Guo L. Prediction of Early Response to Chemotherapy in Breast Cancer Liver Metastases by Diffusion-Weighted MR Imaging. Technol Cancer Res Treat. 2019 Jan 1;18:1533033819842944. doi: 10.1177/1533033819842944."
+                        },
+                        {
+                            "ReferencePMID": "24738612",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Cho N, Im SA, Park IA, Lee KH, Li M, Han W, Noh DY, Moon WK. Breast cancer: early prediction of response to neoadjuvant chemotherapy using parametric response maps for MR imaging. Radiology. 2014 Aug;272(2):385-96. doi: 10.1148/radiol.14131332. Epub 2014 Apr 13."
+                        },
+                        {
+                            "ReferencePMID": "31267907",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Jun W, Cong W, Xianxin X, Daqing J. Meta-Analysis of Quantitative Dynamic Contrast-Enhanced MRI for the Assessment of Neoadjuvant Chemotherapy in Breast Cancer. Am Surg. 2019 Jun 1;85(6):645-653."
+                        },
+                        {
+                            "ReferencePMID": "29959141",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Kannan P, Kretzschmar WW, Winter H, Warren D, Bates R, Allen PD, Syed N, Irving B, Papiez BW, Kaeppler J, Markelc B, Kinchesh P, Gilchrist S, Smart S, Schnabel JA, Maughan T, Harris AL, Muschel RJ, Partridge M, Sharma RA, Kersemans V. Functional Parameters Derived from Magnetic Resonance Imaging Reflect Vascular Morphology in Preclinical Tumors and in Human Liver Metastases. Clin Cancer Res. 2018 Oct 1;24(19):4694-4704. doi: 10.1158/1078-0432.CCR-18-0033. Epub 2018 Jun 29."
+                        },
+                        {
+                            "ReferencePMID": "22596235",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "De Bruyne S, Van Damme N, Smeets P, Ferdinande L, Ceelen W, Mertens J, Van de Wiele C, Troisi R, Libbrecht L, Laurent S, Geboes K, Peeters M. Value of DCE-MRI and FDG-PET/CT in the prediction of response to preoperative chemotherapy with bevacizumab for colorectal liver metastases. Br J Cancer. 2012 Jun 5;106(12):1926-33. doi: 10.1038/bjc.2012.184. Epub 2012 May 17."
+                        },
+                        {
+                            "ReferencePMID": "27595835",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Yu J, Xu Q, Huang DY, Song JC, Li Y, Xu LL, Shi HB. Prognostic aspects of dynamic contrast-enhanced magnetic resonance imaging in synchronous distant metastatic rectal cancer. Eur Radiol. 2017 May;27(5):1840-1847. doi: 10.1007/s00330-016-4532-y. Epub 2016 Sep 5."
+                        },
+                        {
+                            "ReferencePMID": "31095923",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Allarakha A, Gao Y, Jiang H, Wang GL, Wang PJ. Predictive ability of DWI/ADC and DCE-MRI kinetic parameters in differentiating benign from malignant breast lesions and in building a prediction model. Discov Med. 2019 Mar;27(148):139-152."
+                        },
+                        {
+                            "ReferencePMID": "30695671",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Allarakha A, Gao Y, Jiang H, Wang PJ. Prediction and prognosis of biologically aggressive breast cancers by the combination of DWI/DCE-MRI and immunohistochemical tumor markers. Discov Med. 2019 Jan;27(146):7-15."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided",
+                "IPDSharingDescription": "Decide whether to share individual participant data after clinical research reaches a certain stage"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000091369",
+                            "InterventionMeshTerm": "Immunomodulating Agents"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafAsFound": "Potential",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

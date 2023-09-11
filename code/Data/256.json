@@ -1,0 +1,1636 @@
+{
+    "Rank": 256,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT00836407",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "J0834"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "BMS # CA184-081"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Ipilimumab +/- Vaccine Therapy in Treating Patients With Locally Advanced, Unresectable or Metastatic Pancreatic Cancer",
+                "OfficialTitle": "A Phase Ib Trial Evaluating the Safety and Feasibility of Ipilimumab (BMS-734016) Alone or in Combination With Allogeneic Pancreatic Tumor Cells Transfected With a GM-CSF Gene for the Treatment of Locally Advanced, Unresectable or Metastatic Pancreatic Adenocarcinoma"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 2009"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 2012",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2012",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 3, 2009",
+                "StudyFirstSubmitQCDate": "February 3, 2009",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 4, 2009",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "ResultsFirstSubmitDate": "October 16, 2013",
+                "ResultsFirstSubmitQCDate": "October 16, 2013",
+                "ResultsFirstPostDateStruct": {
+                    "ResultsFirstPostDate": "December 10, 2013",
+                    "ResultsFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "February 20, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 24, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Research Hypothesis: Ipilimumab (an antibody that blocks negative signals to T cells) administered alone or in combination with a pancreatic cancer vaccine (allogeneic pancreatic tumor cells transfected with a GM-CSF gene), has an acceptable safety profile in subjects with locally advanced, unresectable or metastatic pancreatic adenocarcinoma.\n\nPrimary Objective: To determine the safety profile of ipilimumab alone or in combination with a pancreatic cancer vaccine in subjects with locally advanced, unresectable or metastatic pancreatic adenocarcinoma.\n\nSecondary Objectives:\n\nTo estimate overall survival (OS) which will serve as the primary efficacy signal.\nTo explore an association of T cell responses and immunological responses with OS in patients receiving treatment.\nTo estimate overall response rate (ORR), immune related best overall response rate (irBOR), progression free survival (PFS), and duration of response in patients receiving treatment.\nTo explore an association between immune-related adverse events (IRAEs) and ORR.\nTo measure tumor marker kinetics (CA 19-9) in patients receiving treatment."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Pancreatic Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "pancreatic cancer",
+                        "vaccine",
+                        "immunotherapy",
+                        "antibody",
+                        "CTLA-4"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Phase 1"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Arm 1: Ipilimumab Alone",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Ipilimumab alone",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Ipilimumab"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Ipilimumab + Pancreatic Cancer Vaccine",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Ipilimumab",
+                                    "Biological: Pancreatic Cancer Vaccine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Ipilimumab",
+                            "InterventionDescription": "Ipilimumab (10mg/kg) will be administered intravenously at weeks 1, 4, 7 and 10. Subjects will also be offered maintenance phase dosing every 12 weeks.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Arm 1: Ipilimumab Alone",
+                                    "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "BMS-734016",
+                                    "MDX-010"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Biological",
+                            "InterventionName": "Pancreatic Cancer Vaccine",
+                            "InterventionDescription": "The Pancreatic Cancer Vaccine (5E8 cells) will be administered intradermally at weeks 1, 4, 7 and 10. Subjects will also be offered maintenance phase dosing every 12 weeks.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "PANC 10.05 pcDNA-1/GM-Neo and PANC 6.03 pcDNA-1 neo vaccine"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Percent of Patients Experiencing an Unacceptable Toxicity",
+                            "PrimaryOutcomeDescription": "Unacceptable toxicity is defined as drug related >grade 4 AEs or grade 3 AEs including IRAEs not improving to < grade 2 under therapy within 2 weeks. In addition, > grade 2 eye pain or reduction of visual acuity that does not respond to topical therapy and does not improve to < grade 1 severity within 2 weeks of starting therapy, or requires systemic therapy is an unacceptable toxicity.",
+                            "PrimaryOutcomeTimeFrame": "4 years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival (OS)",
+                            "SecondaryOutcomeDescription": "OS will be measured from date of randomization until death or end of follow-up (OS will be censored on the date the subject was last known to be alive for subjects without documentation of death at the time of analysis).",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Response Rate (ORR)",
+                            "SecondaryOutcomeDescription": "ORR is defined as the number of patients achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) during the first 6 months of treatment. CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions, progressive disease (PD) is >20% increase in sum of diameters of target lesions, stable disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions. Estimation based on the Kaplan-Meier curve.",
+                            "SecondaryOutcomeTimeFrame": "6 months"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Immune Related Best Overall Response Rate (irBOR)",
+                            "SecondaryOutcomeDescription": "Immune Related Best Overall Response (BOR) is the best response recorded from the start of the study treatment until the disease progression/recurrence based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1). Estimation based on the Kaplan-Meier curve.",
+                            "SecondaryOutcomeTimeFrame": "4 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Progression Free Survival (PFS)",
+                            "SecondaryOutcomeDescription": "PFS is defined as the number of months from the date of randomization to disease progression (progressive disease [PD] or relapse from complete response [CR] as assessed using RECIST 1.1 criteria) or death due to any cause. Per RECIST 1.1 criteria, CR = disappearance of all target lesions, Partial Response (PR) is =>30% decrease in sum of diameters of target lesions, Progressive Disease (PD) is >20% increase in sum of diameters of target lesions, Stable Disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions.",
+                            "SecondaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nDocumented cancer of the pancreas who have failed (or are not candidates for) standard therapy\nECOG Performance Status of 0 to 1\nAdequate organ function as defined by study-specified laboratory tests\nMust use acceptable form of birth control through the study and for 28 days after final dose of study drug\nSigned informed consent form\nWilling and able to comply with study procedures\n\nExclusion Criteria:\n\nCurrently have or have history of certain study-specified heart, liver, kidney, lung, neurological, immune or other medical conditions\nClinical metabolic or laboratory abnormalities defined as Grade 3 or 4 of the National Cancer Institute's (NCI's) Common Terminology Criteria for Adverse Events (CTCAE), version 3.0\nSystemically active steroids\nAnother investigational product within 28 days prior to receiving study drug\nMajor surgery or significant traumatic injury (or unhealed surgical wounds) occurring within 28 days prior to receiving study drug\nInfection with HIV, hepatitis B or C at screening\nPregnant or lactating\nConditions, including alcohol or drug dependence, or intercurrent illness that would affect the patient's ability to comply with study visits and procedures",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Dung Le, MD",
+                            "OverallOfficialAffiliation": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+                            "LocationCity": "Baltimore",
+                            "LocationState": "Maryland",
+                            "LocationZip": "21231-2410",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "23924790",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Le DT, Lutz E, Uram JN, Sugar EA, Onners B, Solt S, Zheng L, Diaz LA Jr, Donehower RC, Jaffee EM, Laheru DA. Evaluation of ipilimumab in combination with allogeneic pancreatic tumor cells transfected with a GM-CSF gene in previously treated pancreatic cancer. J Immunother. 2013 Sep;36(7):382-9. doi: 10.1097/CJI.0b013e31829fb7a2."
+                        },
+                        {
+                            "ReferencePMID": "29997287",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Hopkins AC, Yarchoan M, Durham JN, Yusko EC, Rytlewski JA, Robins HS, Laheru DA, Le DT, Lutz ER, Jaffee EM. T cell receptor repertoire features associated with survival in immunotherapy-treated pancreatic ductal adenocarcinoma. JCI Insight. 2018 Jul 12;3(13):e122092. doi: 10.1172/jci.insight.122092."
+                        }
+                    ]
+                }
+            }
+        },
+        "ResultsSection": {
+            "ParticipantFlowModule": {
+                "FlowGroupList": {
+                    "FlowGroup": [
+                        {
+                            "FlowGroupId": "FG000",
+                            "FlowGroupTitle": "Arm 1: Ipilimumab Alone",
+                            "FlowGroupDescription": "Ipilimumab (10mg/kg) will be administered intravenously at weeks 1, 4, 7 and 10. Subjects will also be offered maintenance phase dosing every 12 weeks."
+                        },
+                        {
+                            "FlowGroupId": "FG001",
+                            "FlowGroupTitle": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                            "FlowGroupDescription": "Drug: Ipilimumab Ipilimumab (10mg/kg) will be administered intravenously at weeks 1, 4, 7 and 10. Subjects will also be offered maintenance phase dosing every 12 weeks.\n\nBiological/Vaccine: Pancreatic Cancer Vaccine The Pancreatic Cancer Vaccine (5E8 cells) will be administered intradermally at weeks 1, 4, 7 and 10. Subjects will also be offered maintenance phase dosing every 12 weeks."
+                        }
+                    ]
+                },
+                "FlowPeriodList": {
+                    "FlowPeriod": [
+                        {
+                            "FlowPeriodTitle": "Overall Study",
+                            "FlowMilestoneList": {
+                                "FlowMilestone": [
+                                    {
+                                        "FlowMilestoneType": "STARTED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "15"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "15"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "4"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "FlowMilestoneType": "NOT COMPLETED",
+                                        "FlowAchievementList": {
+                                            "FlowAchievement": [
+                                                {
+                                                    "FlowAchievementGroupId": "FG000",
+                                                    "FlowAchievementNumSubjects": "11"
+                                                },
+                                                {
+                                                    "FlowAchievementGroupId": "FG001",
+                                                    "FlowAchievementNumSubjects": "8"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "BaselineCharacteristicsModule": {
+                "BaselineGroupList": {
+                    "BaselineGroup": [
+                        {
+                            "BaselineGroupId": "BG000",
+                            "BaselineGroupTitle": "Arm 1: Ipilimumab Alone",
+                            "BaselineGroupDescription": "Ipilimumab alone"
+                        },
+                        {
+                            "BaselineGroupId": "BG001",
+                            "BaselineGroupTitle": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                            "BaselineGroupDescription": "Ipilimumab + Pancreatic Cancer Vaccine"
+                        },
+                        {
+                            "BaselineGroupId": "BG002",
+                            "BaselineGroupTitle": "Total",
+                            "BaselineGroupDescription": "Total of all reporting groups"
+                        }
+                    ]
+                },
+                "BaselineDenomList": {
+                    "BaselineDenom": [
+                        {
+                            "BaselineDenomUnits": "Participants",
+                            "BaselineDenomCountList": {
+                                "BaselineDenomCount": [
+                                    {
+                                        "BaselineDenomCountGroupId": "BG000",
+                                        "BaselineDenomCountValue": "15"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG001",
+                                        "BaselineDenomCountValue": "15"
+                                    },
+                                    {
+                                        "BaselineDenomCountGroupId": "BG002",
+                                        "BaselineDenomCountValue": "30"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "BaselineMeasureList": {
+                    "BaselineMeasure": [
+                        {
+                            "BaselineMeasureTitle": "Age, Categorical",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "<=18 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "0"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "0"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Between 18 and 65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "10"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "19"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": ">=65 years",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "6"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "5"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "11"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Age, Continuous",
+                            "BaselineMeasureParamType": "Mean",
+                            "BaselineMeasureDispersionType": "Standard Deviation",
+                            "BaselineMeasureUnitOfMeasure": "years",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "62.3",
+                                                                "BaselineMeasurementSpread": "7.8"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "61.9",
+                                                                "BaselineMeasurementSpread": "8.9"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "62.1",
+                                                                "BaselineMeasurementSpread": "8.2"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Sex: Female, Male",
+                            "BaselineMeasureParamType": "Count of Participants",
+                            "BaselineMeasureUnitOfMeasure": "Participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineCategoryTitle": "Female",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "4"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "5"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "9"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "BaselineCategoryTitle": "Male",
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "11"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "10"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "21"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BaselineMeasureTitle": "Region of Enrollment",
+                            "BaselineMeasureParamType": "Number",
+                            "BaselineMeasureUnitOfMeasure": "participants",
+                            "BaselineClassList": {
+                                "BaselineClass": [
+                                    {
+                                        "BaselineClassTitle": "United States",
+                                        "BaselineCategoryList": {
+                                            "BaselineCategory": [
+                                                {
+                                                    "BaselineMeasurementList": {
+                                                        "BaselineMeasurement": [
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG000",
+                                                                "BaselineMeasurementValue": "15"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG001",
+                                                                "BaselineMeasurementValue": "15"
+                                                            },
+                                                            {
+                                                                "BaselineMeasurementGroupId": "BG002",
+                                                                "BaselineMeasurementValue": "30"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomeMeasuresModule": {
+                "OutcomeMeasureList": {
+                    "OutcomeMeasure": [
+                        {
+                            "OutcomeMeasureType": "Primary",
+                            "OutcomeMeasureTitle": "Percent of Patients Experiencing an Unacceptable Toxicity",
+                            "OutcomeMeasureDescription": "Unacceptable toxicity is defined as drug related >grade 4 AEs or grade 3 AEs including IRAEs not improving to < grade 2 under therapy within 2 weeks. In addition, > grade 2 eye pain or reduction of visual acuity that does not respond to topical therapy and does not improve to < grade 1 severity within 2 weeks of starting therapy, or requires systemic therapy is an unacceptable toxicity.",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Number",
+                            "OutcomeMeasureUnitOfMeasure": "Percentage of Participants",
+                            "OutcomeMeasureTimeFrame": "4 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm 1: Ipilimumab Alone",
+                                        "OutcomeGroupDescription": "Ipilimumab alone"
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                                        "OutcomeGroupDescription": "Ipilimumab + Pancreatic Cancer Vaccine"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "15"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "15"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "6.67"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "6.67"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Overall Survival (OS)",
+                            "OutcomeMeasureDescription": "OS will be measured from date of randomization until death or end of follow-up (OS will be censored on the date the subject was last known to be alive for subjects without documentation of death at the time of analysis).",
+                            "OutcomeMeasureReportingStatus": "Posted",
+                            "OutcomeMeasureParamType": "Median",
+                            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+                            "OutcomeMeasureUnitOfMeasure": "Months",
+                            "OutcomeMeasureTimeFrame": "4 years",
+                            "OutcomeGroupList": {
+                                "OutcomeGroup": [
+                                    {
+                                        "OutcomeGroupId": "OG000",
+                                        "OutcomeGroupTitle": "Arm 1: Ipilimumab Alone",
+                                        "OutcomeGroupDescription": "Ipilimumab alone"
+                                    },
+                                    {
+                                        "OutcomeGroupId": "OG001",
+                                        "OutcomeGroupTitle": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                                        "OutcomeGroupDescription": "Ipilimumab + Pancreatic Cancer Vaccine"
+                                    }
+                                ]
+                            },
+                            "OutcomeDenomList": {
+                                "OutcomeDenom": [
+                                    {
+                                        "OutcomeDenomUnits": "Participants",
+                                        "OutcomeDenomCountList": {
+                                            "OutcomeDenomCount": [
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG000",
+                                                    "OutcomeDenomCountValue": "15"
+                                                },
+                                                {
+                                                    "OutcomeDenomCountGroupId": "OG001",
+                                                    "OutcomeDenomCountValue": "15"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "OutcomeClassList": {
+                                "OutcomeClass": [
+                                    {
+                                        "OutcomeCategoryList": {
+                                            "OutcomeCategory": [
+                                                {
+                                                    "OutcomeMeasurementList": {
+                                                        "OutcomeMeasurement": [
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG000",
+                                                                "OutcomeMeasurementValue": "3.6",
+                                                                "OutcomeMeasurementLowerLimit": "2.5",
+                                                                "OutcomeMeasurementUpperLimit": "9.2"
+                                                            },
+                                                            {
+                                                                "OutcomeMeasurementGroupId": "OG001",
+                                                                "OutcomeMeasurementValue": "5.7",
+                                                                "OutcomeMeasurementLowerLimit": "4.3",
+                                                                "OutcomeMeasurementUpperLimit": "14.7"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Overall Response Rate (ORR)",
+                            "OutcomeMeasureDescription": "ORR is defined as the number of patients achieving a complete response (CR) or partial response (PR) based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) during the first 6 months of treatment. CR = disappearance of all target lesions, PR is =>30% decrease in sum of diameters of target lesions, progressive disease (PD) is >20% increase in sum of diameters of target lesions, stable disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions. Estimation based on the Kaplan-Meier curve.",
+                            "OutcomeMeasureReportingStatus": "Not Posted",
+                            "OutcomeMeasureTimeFrame": "6 months",
+                            "OutcomeMeasureDenomUnitsSelected": "Participants"
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Immune Related Best Overall Response Rate (irBOR)",
+                            "OutcomeMeasureDescription": "Immune Related Best Overall Response (BOR) is the best response recorded from the start of the study treatment until the disease progression/recurrence based on the Response Evaluation Criteria in Solid Tumors (RECIST 1.1). Estimation based on the Kaplan-Meier curve.",
+                            "OutcomeMeasureReportingStatus": "Not Posted",
+                            "OutcomeMeasureTimeFrame": "4 years",
+                            "OutcomeMeasureDenomUnitsSelected": "Participants"
+                        },
+                        {
+                            "OutcomeMeasureType": "Secondary",
+                            "OutcomeMeasureTitle": "Progression Free Survival (PFS)",
+                            "OutcomeMeasureDescription": "PFS is defined as the number of months from the date of randomization to disease progression (progressive disease [PD] or relapse from complete response [CR] as assessed using RECIST 1.1 criteria) or death due to any cause. Per RECIST 1.1 criteria, CR = disappearance of all target lesions, Partial Response (PR) is =>30% decrease in sum of diameters of target lesions, Progressive Disease (PD) is >20% increase in sum of diameters of target lesions, Stable Disease (SD) is <30% decrease or <20% increase in sum of diameters of target lesions.",
+                            "OutcomeMeasureReportingStatus": "Not Posted",
+                            "OutcomeMeasureTimeFrame": "6 months",
+                            "OutcomeMeasureDenomUnitsSelected": "Participants"
+                        }
+                    ]
+                }
+            },
+            "AdverseEventsModule": {
+                "EventsFrequencyThreshold": "5",
+                "EventGroupList": {
+                    "EventGroup": [
+                        {
+                            "EventGroupId": "EG000",
+                            "EventGroupTitle": "Arm 1: Ipilimumab Alone",
+                            "EventGroupDescription": "Ipilimumab alone",
+                            "EventGroupSeriousNumAffected": "3",
+                            "EventGroupSeriousNumAtRisk": "15",
+                            "EventGroupOtherNumAffected": "11",
+                            "EventGroupOtherNumAtRisk": "15"
+                        },
+                        {
+                            "EventGroupId": "EG001",
+                            "EventGroupTitle": "Arm 2: Ipilimumab + Pancreatic Cancer Vaccine",
+                            "EventGroupDescription": "Ipilimumab + Pancreatic Cancer Vaccine",
+                            "EventGroupSeriousNumAffected": "1",
+                            "EventGroupSeriousNumAtRisk": "15",
+                            "EventGroupOtherNumAffected": "15",
+                            "EventGroupOtherNumAtRisk": "15"
+                        }
+                    ]
+                },
+                "SeriousEventList": {
+                    "SeriousEvent": [
+                        {
+                            "SeriousEventTerm": "Nephritis",
+                            "SeriousEventOrganSystem": "Renal and urinary disorders",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "SeriousEventStatsGroupId": "EG001",
+                                        "SeriousEventStatsNumEvents": "0",
+                                        "SeriousEventStatsNumAffected": "0",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Colitis",
+                            "SeriousEventOrganSystem": "Gastrointestinal disorders",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "SeriousEventStatsGroupId": "EG001",
+                                        "SeriousEventStatsNumEvents": "0",
+                                        "SeriousEventStatsNumAffected": "0",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Guillain-Barre Syndrome",
+                            "SeriousEventOrganSystem": "Nervous system disorders",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "SeriousEventStatsGroupId": "EG001",
+                                        "SeriousEventStatsNumEvents": "0",
+                                        "SeriousEventStatsNumAffected": "0",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "SeriousEventTerm": "Pneumonitis",
+                            "SeriousEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+                            "SeriousEventStatsList": {
+                                "SeriousEventStats": [
+                                    {
+                                        "SeriousEventStatsGroupId": "EG000",
+                                        "SeriousEventStatsNumEvents": "0",
+                                        "SeriousEventStatsNumAffected": "0",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "SeriousEventStatsGroupId": "EG001",
+                                        "SeriousEventStatsNumEvents": "1",
+                                        "SeriousEventStatsNumAffected": "1",
+                                        "SeriousEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "OtherEventList": {
+                    "OtherEvent": [
+                        {
+                            "OtherEventTerm": "Adrenal insufficiency",
+                            "OtherEventOrganSystem": "Endocrine disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hypophysitis",
+                            "OtherEventOrganSystem": "Endocrine disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Conjuntivitis",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Colitis",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "4",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Arthralgia",
+                            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Anorexia",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "3",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Cramps",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Diarrhea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry eye",
+                            "OtherEventOrganSystem": "Eye disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Dry skin",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fatigue",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "7",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Fever",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "12",
+                                        "OtherEventStatsNumAffected": "5",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Flu-like symptoms",
+                            "OtherEventOrganSystem": "General disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "8",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Headache",
+                            "OtherEventOrganSystem": "Nervous system disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "6",
+                                        "OtherEventStatsNumAffected": "3",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Nausea",
+                            "OtherEventOrganSystem": "Gastrointestinal disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritis",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "5",
+                                        "OtherEventStatsNumAffected": "4",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "14",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Rash",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "7",
+                                        "OtherEventStatsNumAffected": "6",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "23",
+                                        "OtherEventStatsNumAffected": "9",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urticaria",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Blister, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "9",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Hyperpigmentation, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Pruritis, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "40",
+                                        "OtherEventStatsNumAffected": "14",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Erythema, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "48",
+                                        "OtherEventStatsNumAffected": "15",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Induration, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "53",
+                                        "OtherEventStatsNumAffected": "15",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Tenderness, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "33",
+                                        "OtherEventStatsNumAffected": "13",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Urticaria, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "1",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Vaccine Site Flare",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "11",
+                                        "OtherEventStatsNumAffected": "1",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "OtherEventTerm": "Warmth, vaccine site",
+                            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+                            "OtherEventStatsList": {
+                                "OtherEventStats": [
+                                    {
+                                        "OtherEventStatsGroupId": "EG000",
+                                        "OtherEventStatsNumEvents": "0",
+                                        "OtherEventStatsNumAffected": "0",
+                                        "OtherEventStatsNumAtRisk": "0"
+                                    },
+                                    {
+                                        "OtherEventStatsGroupId": "EG001",
+                                        "OtherEventStatsNumEvents": "2",
+                                        "OtherEventStatsNumAffected": "2",
+                                        "OtherEventStatsNumAtRisk": "15"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "MoreInfoModule": {
+                "CertainAgreement": {
+                    "AgreementPISponsorEmployee": "Yes",
+                    "AgreementRestrictiveAgreement": "No"
+                },
+                "PointOfContact": {
+                    "PointOfContactTitle": "Dr. Dung Le",
+                    "PointOfContactOrganization": "The Sidney Kimmel Comprehensive Cancer Center at Johns",
+                    "PointOfContactEMail": "dle@jhmi.edu"
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000010190",
+                            "ConditionMeshTerm": "Pancreatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004701",
+                            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010182",
+                            "ConditionAncestorTerm": "Pancreatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004700",
+                            "ConditionAncestorTerm": "Endocrine System Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M3275",
+                            "ConditionBrowseLeafName": "Adenocarcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12800",
+                            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7553",
+                            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12792",
+                            "ConditionBrowseLeafName": "Pancreatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M7552",
+                            "ConditionBrowseLeafName": "Endocrine System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T4387",
+                            "ConditionBrowseLeafName": "Pancreatic Cancer",
+                            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC19",
+                            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000074324",
+                            "InterventionMeshTerm": "Ipilimumab"
+                        },
+                        {
+                            "InterventionMeshId": "D000014612",
+                            "InterventionMeshTerm": "Vaccines"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000007155",
+                            "InterventionAncestorTerm": "Immunologic Factors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000074322",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000082082",
+                            "InterventionAncestorTerm": "Immune Checkpoint Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M17050",
+                            "InterventionBrowseLeafName": "Vaccines",
+                            "InterventionBrowseLeafAsFound": "Participants",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9874",
+                            "InterventionBrowseLeafName": "Immunoglobulins",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M3915",
+                            "InterventionBrowseLeafName": "Antibodies",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2854",
+                            "InterventionBrowseLeafName": "Immunomodulating Agents",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1348",
+                            "InterventionBrowseLeafName": "Ipilimumab",
+                            "InterventionBrowseLeafAsFound": "Topical",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9891",
+                            "InterventionBrowseLeafName": "Immunologic Factors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M1346",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M2343",
+                            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "Rank": 711,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03489057",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "LCCC 1713"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "1R01NR016990-01A1",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/1R01NR016990-01A1"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "UNC Lineberger Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Efficacy of a Couple-Focused mHealth Symptom Self-management Program",
+                "OfficialTitle": "Testing the Efficacy of a Couple-Focused, Tailored mHealth Intervention for Symptom Self-Management Among Men With Prostate Cancer and Their Partners"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2023",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "May 30, 2018",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 6, 2022",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 31, 2022",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "March 13, 2018",
+                "StudyFirstSubmitQCDate": "March 28, 2018",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "April 5, 2018",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "August 31, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 1, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Institute of Nursing Research (NINR)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "In this study, the investigators propose to test the efficacy of a couple-focused, web-based tailored prostate cancer symptom management program, Prostate Cancer Education and Resources for Couples (PERC) in a randomized clinical trial. A two-group (PERC versus National Cancer Institute (NCI) website plus treatment as usual) randomized controlled design will be used, and data will be collected at baseline (T1), 4 (T2), 8 (T3), and 12 months (T4) among 300 patients completing initial treatment for localized prostate cancer and their intimate partners (i.e., 600 participants in total).",
+                "DetailedDescription": "This randomized clinical trial aims to test the efficacy of a couple-focused, web-based tailored prostate cancer symptom management program, Prostate Cancer Education and Resources for Couples (PERC). The study participants will include 300 patients completing initial treatment for localized prostate cancer and their intimate partners (i.e., 300 dyads and 600 individuals). After informed consent, we will conduct baseline assessment (T1), randomly assign eligible participants to either PERC or the National Cancer Institute (NCI) website, and then collect data at 4 (T2), 8 (T3), and 12 months (T4) post-T1."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "symptom",
+                        "family research",
+                        "self-management",
+                        "caregiving",
+                        "social support",
+                        "mHealth",
+                        "healthy behavior",
+                        "self-efficacy",
+                        "quality of life",
+                        "care transition"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Supportive Care",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Triple",
+                        "DesignMaskingDescription": "The investigator and data collectors will be masked to intervention.",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Care Provider",
+                                "Investigator",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "560",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "PERC Program",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Prostate Cancer Education and Resources for Couples (PERC) program. Participants assigned to experimental condition will receive access to the PERC website.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Prostate Cancer Education and Resources for Couples (PERC)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "usual care plus NCI website",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants in this usual care plus NCI website group will be automatically directed to the NCI prostate cancer website after logging in to the study website homepage.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: usual care plus NCI website"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Prostate Cancer Education and Resources for Couples (PERC)",
+                            "InterventionDescription": "PERC uses mHealth technologies to dramatically increase couples' accessibility to posttreatment supportive care whenever and wherever they feel comfortable accessing it. PERC aims to improve QOL for both patients and partners by enhancing positive appraisals of illness and boosting self-efficacy, social support from multiple sources, and healthy behaviors for symptom self-management at home.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PERC Program"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "usual care plus NCI website",
+                            "InterventionDescription": "The usual care plus NCI website provides generic information about prostate cancer treatment options, research, causes, and statistics; coping resources that are not prostate cancer-specific; support from non-providers via a toll free phone and LiveHelp Online Chat about cancer-related questions, clinical trials, and quitting smoking.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "usual care plus NCI website"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Change in quality of life over time as assessed by Functional Assessment of Cancer Treatment (FACT-G) scores",
+                            "PrimaryOutcomeDescription": "FACT-G will be used to measure change in quality of life of patient and partner from baseline (T1) to T2 (4 months post-T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value. Functional assessment of Cancer Therapy-General (FACT-G) is a 27 item survey which assesses physical, social/family, emotional, and functional well being on a 5 point likert scale, with 0 indicating \"not at all\" and 4 indicating \"very much\" in response to item questions. Higher scores indicate better well-being.",
+                            "PrimaryOutcomeTimeFrame": "Baseline, month 12"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Pain from baseline to 4-, 8-, and 12-month post baseline as assessed by Patient-Reported Outcome Measurement Information System (PROMIS) scores",
+                            "SecondaryOutcomeDescription": "PROMIS Pain Interference - Short Form 6b will be used to measure change in Pain Interference among patients and their partners from Baseline (T1) to T2 (4 months post-T1), T3 (8-mon post-T1), and T4 (12-mon post-T1). Total raw scores will be translated into T scores for each participant, where the T score rescales the raw score into a standardized T score with a mean of 50 and a standard deviation (SD) of 10. Change from baseline is the post-Baseline values minus the Baseline value. The pain subscale measures the extent to which patients experience problems with pain over the past 7 days using a 5-point Likert scale. Higher scores reflect greater Pain Interference.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Fatigue from baseline to 4-, 8-, and 12-month post baseline as assessed by PROMIS scores",
+                            "SecondaryOutcomeDescription": "PROMIS Fatigue -Short Form 7a will be used to measure change in Fatigue among patients and their partners from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Total raw scores will be translated into T scores for each participant, where the T score rescales the raw score into a standardized T score with a mean of 50 and a standard deviation (SD) of 10. Change from baseline is the post-Baseline values minus the Baseline value.The fatigue sub-scale will measure the extent to which patients and their partners experience problems with fatigue over the past 7 days using a 5-point Likert scale. Higher scores reflect greater fatigue.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in sleep disturbance from baseline to 4-, 8-, and 12-month post baseline as assessed by PROMIS scores",
+                            "SecondaryOutcomeDescription": "PROMIS Sleep Disturbance Short Form 8b will be used to examine change in sleep quality of patients and their partners from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Total raw scores will be translated into T scores for each participant, where the T score rescales the raw score into a standardized T score with a mean of 50 and a standard deviation (SD) of 10. Change from baseline is the post-Baseline values minus the Baseline value.The sleep disturbance sub-scale measures the extent to which participant experience sleep disturbance over the past 7 days using a 5-point Likert scale. Higher scores reflect greater sleep disturbance.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Anxiety from baseline to 4-, 8-, and 12-month post baseline as assessed by PROMIS-Emotional Distress-Anxiety Short Form",
+                            "SecondaryOutcomeDescription": "PROMIS-Emotional Distress-Anxiety Short Form 7a will be used to examine change in anxiety among patients and their partners from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Total raw scores will be translated into T scores for each participant, where the T score rescales the raw score into a standardized T score with a mean of 50 and a standard deviation (SD) of 10. Change from baseline is the post-Baseline values minus the Baseline value.The anxiety sub-scale of the PROMIS item bank measures the extent to which participants experience anxiety symptoms over the past 7 days using a 5-point Likert scale, where higher scores reflect higher anxiety.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in depression from baseline to 4-, 8-, and 12-month post baseline as assessed by PROMIS-Emotional Distress-Depression",
+                            "SecondaryOutcomeDescription": "PROMIS-Emotional Distress-Depression Short From 8b will be used to measure change in depression scores among patients and their partners from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Total raw scores will be translated into T scores for each participant, where the T score rescales the raw score into a standardized T score with a mean of 50 and a standard deviation (SD) of 10. Change from baseline is the post-Baseline values minus the Baseline value. The depression sub-scale of the PROMIS item bank measures the extent to which participants experience depressive symptoms in the past 7 days using a 5-point Likert scale, where higher scores indicate greater depressive symptoms.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in prostate cancer patient function and bother scores from baseline to 4-, 8-, and 12-month post baseline as assessed by the Expanded Prostate Cancer Index Composite (EPIC)",
+                            "SecondaryOutcomeDescription": "The Expanded Prostate Cancer Index Composite (EPIC) is a comprehensive instrument designed to evaluate patient function and bother after prostate cancer treatment. EPIC will be used to measure change in health related quality of life scores among patients from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline value minus the Baseline value. It contains 26 items within 5 domains: Urinary Incontinence, Urinary Irritative/Obstructive, Bowel, Sexual, and Hormonal. Response options for each EPIC item form a Likert scale, and multi-item scale scores are transformed linearly to a 0-100 scale, with higher scores representing better health related quality of life.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in caregiver ratings of how patient's prostate cancer related symptoms affect their own life from baseline to 4-, 8-, and 12-month post baseline as assessed by the Prostate Cancer Related Symptoms Caregiver Short Form",
+                            "SecondaryOutcomeDescription": "The Prostate Cancer Related Symptoms Caregiver Short Form will be used to measure changes in caregiver scores from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline value minus the Baseline value.The questionnaire is a 4-item assessment about how the patient's hormone, sexual, bowel, and urinary function has affected the caregiver over the past 4 weeks. Items are ranked on a 5-point Likert Scale where higher scores indicate greater bother associated with the patient's symptoms.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in self-efficacy scores from baseline to 4-, 8-, and 12-month post baseline as assessed by the Lewis Cancer Self-Efficacy scale",
+                            "SecondaryOutcomeDescription": "The Lewis Cancer Self-Efficacy will be used to measure change in patient and partner feelings of self-efficacy in dealing with the patient's cancer diagnosis and treatment from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value. Patients will rate statements about how confident they feel on a scale from 1 to 10, where higher scores indicate higher self-efficacy.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Informational Support scores from baseline to 4-, 8-, and 12-month post baseline as assessed by PROMIS-Informational Support Short Form",
+                            "SecondaryOutcomeDescription": "PROMIS Informational Support Short Form 8a will be used to assess changes in patient and partner reported informational support system using a 5-point Likert scale from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Emotional Support System scores from baseline to 4-, 8-, and 12-month post baseline as measured by PROMIS-Emotional support",
+                            "SecondaryOutcomeDescription": "The PROMIS Emotional Support System-Short Form 8a will be used to assess changes in the self-reported emotional support system of patients and their partners using a 5-point Likert scale from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Instrumental Support scores from baseline to 4-, 8-, and 12-month post baseline as measured by PROMIS Instrumental Support-Short Form 8a",
+                            "SecondaryOutcomeDescription": "The PROMIS Instrumental Support-Short Form 8a will be used to assess changes in patient and partner reported instrumental support system from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Interpersonal Support scores from baseline to 4-, 8-, and 12-month post baseline as measured by Interpersonal Support Evaluation List -12 (ISEL-12)",
+                            "SecondaryOutcomeDescription": "The ISEL-12 will be used to measure change in social support from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1) among patients and their partners. The ISEL-12 is a 12 item measure, where higher scores indicate greater social support. Change from baseline is the post-Baseline values minus the Baseline value.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Appraisal of Illness scores from baseline to 4-, 8-, and 12-month post baseline as measured by Appraisal of Illness scale",
+                            "SecondaryOutcomeDescription": "Appraisal of Illness scale will be used to measure change in perception of prostate cancer and related issues among patients and their partners from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value.The Appraisal of Illness scale is a 20 item measure that uses Likert Scales ranging from Very False to Very True.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Dietary Risk Assessment scores from baseline to 4-, 8-, and 12-month post baseline as measured by Dietary Risk Assessment scale",
+                            "SecondaryOutcomeDescription": "Change in Dietary Risk Assessment scores will be used to measure changes in dietary risk from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value. Patients and their partners will be asked how often they consume different foods over the past month or week and will respond using a Likert Scale to report how much of each food item they have consumed.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Change in Older Adult's Sedentary Time from baseline to 4-, 8-, and 12-month post baseline as measured by Measure of Older Adult's Sedentary Time (MOST)",
+                            "SecondaryOutcomeDescription": "The Measure of Older Adult's Sedentary Time will be used to measure change in self-reported sedentary time from Baseline (T1) to T2 (4 months post T1), T3 (8-months post-T1), and T4 (12-months post-T1). Change from baseline is the post-Baseline values minus the Baseline value. Participants will self-report how much time they spend doing various sedentary activities during the past week.",
+                            "SecondaryOutcomeTimeFrame": "Baseline, month 4, 8, and 12"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nThe eligible patients must\n\nbe 40 to 75 years of age\nbe within 16 weeks (4 months) after completing initial treatment for localized prostate cancer as confirmed by patient and biopsy pathology report) with curative intent, i.e., surgery or radiotherapy +/- hormonal treatment;\nhave no previous cancer history within the past 2 years and not currently in treatment for cancer, or have a concurrent cancer (excluding non-melanomatous skin cancer);\nexperience prostate cancer-specific and/or general symptoms;\nhave a partner who is willing to participate.\n\nThe eligible partners must\n\nbe 18 years or older\nbe identified as the partner by the patient\nnot have been diagnosed with cancer or receiving treatment for cancer within the past 12 months (non-melanomatous skin cancer diagnosis/treatment is acceptable) so that couples can focus their efforts on managing prostate cancer.\n\nExclusion Criteria:\n\nPatients and their partners will be excluded from the study if they:\n\nDo not read and speak English (evidenced by their understanding and responses to screening questions and self-reported ability to read English);\nHave cognitive impairment (assessed by the Short Portable Mental Status Questionnaire).",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Lixin (Lee) Song, RN, PhD",
+                            "OverallOfficialAffiliation": "University of North Carolina, Chapel Hill",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of North Carolina at Chapel Hill",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27559",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "34983621",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Song L, Nielsen ME, Chen RC, Rini C, Keyserling TC, Idiagbonya E, Fuller GP, Northouse L, Palmer MH, Tan X. Testing the efficacy of a couple-focused, tailored eHealth intervention for symptom self-management among men with prostate cancer and their partners: the study protocol. Trials. 2022 Jan 4;23(1):12. doi: 10.1186/s13063-021-05948-5."
+                        }
+                    ]
+                },
+                "SeeAlsoLinkList": {
+                    "SeeAlsoLink": [
+                        {
+                            "SeeAlsoLinkLabel": "University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials",
+                            "SeeAlsoLinkURL": "http://unclineberger.org/patientcare/clinical-trials/clinical-trials"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T6034",
+                            "ConditionBrowseLeafName": "Quality of Life",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

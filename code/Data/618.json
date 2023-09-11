@@ -1,0 +1,384 @@
+{
+    "Rank": 618,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05934058",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "5523"
+                },
+                "Organization": {
+                    "OrgFullName": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Genomic and Dietary Aspects in Gastric Cancer Risk",
+                "OfficialTitle": "Interaction of Genomic and Dietary Aspects in Gastric Cancer Risk: the Global StoP Project",
+                "Acronym": "GenoStoP"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "June 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 25, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "January 25, 2025",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 25, 2027",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "June 12, 2023",
+                "StudyFirstSubmitQCDate": "June 28, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 6, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "June 28, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 6, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Boccia Stefania",
+                    "ResponsiblePartyInvestigatorTitle": "Full Professor of Hygiene and Preventive Medicine",
+                    "ResponsiblePartyInvestigatorAffiliation": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "University of Bologna",
+                            "CollaboratorClass": "OTHER"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "Gastric Cancer (GC) ranks fourth in the number of deaths worldwide and it is sixth in Italy with almost 9,000 deaths in 2020. Survival of GC is one of the lowest reported amongst major cancers, thus making prevention a central priority for its control. However there is currently a lack of evidence on gastric cancer determinants.\n\nOur study will pursue the following specific objectives:\n\nanalyze dietary and lifestyle habits for GC, also infrequent ones (WP1);\nanalyze major risk factors in rare patient subgroups (WP2);\ndevelop a Genome-wide Modelling of polygenic risk score (PRS) in GC (WP3)",
+                "DetailedDescription": "The Stomach cancer Pooling project (StoP) Consortium dataset has grown to the current number of 35 studies from Europe, America, Middle East and Eastern Asia. It will be used as the cornerstone upon which the investigation on the dietary and lifestyle determinants of gastric cancer (GC) will be built. It will allow the analyses of relatively infrequent habits or exposures, genetic factors as well as to perform sufficiently powered analyses of interactions and subgroups that may present relevant heterogeneity in the etiological correlates of GC.\n\nThe potential of genomics to personalize and thereby improve diagnosis, treatment, and prognosis of individuals has long been recognized, but so far evidence of the opportunity for genomics to drive prevention remains limited. Recent advances in research on Polygenic Risk Score (PRS) have created new interest about the use of genetic information in prevention of common diseases and its application to risk stratification. A long-lasting open question is whether common genetic variants used to build PRS are able to predict the risk of developing complex diseases with enough power to be used in a clinical setting.\n\nThe lack of large enough dataset able to allow an unbiased PRS validation, hampered this question to be answered for many years. This study builds upon the StoP project (a consortium collecting data from about 13,500 GC cases and 32,000 controls) and the UK Biobank (480 GC cases and 338,000 controls) to develop a Polygenic Risk Score for gastric cancer."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastric Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "gastric cancer",
+                        "StoP Consortium",
+                        "genomics",
+                        "dietary aspects",
+                        "Polygenic Risk Score",
+                        "gastric cardia carcinoma",
+                        "gastric neoplasm"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Case-Control"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "The study as a whole recruits a grand total of 383,980 participants but only genetic data from 342,130 individuals will be used.\n\nThis number can be further subdivided in:\n\n3,650 participants enrolled in the Stomach Cancer Pooling Project (http://stop-project.org/) These biological samples will be processed to extract DNA data.\n338,480 participants enrolled by the UK Biobank. These sample have already been processed. Informatized data from the biomarker samples will be used during the polygenic risk score development. For previously published details of UK Biobank, with anonymized data made available for researchers, please see: https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/biomarker-data"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "383980",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "StoP Consortium + UK Biobank",
+                            "ArmGroupDescription": "In the PRS development 338,480 cases and controls from the UK Biobank + 3,650 cases and controls from the StoP consortium studies are going to be enrolled.\n\nCases are defined as primary gastric carcinoma patients, with histological confirmation.\n\nControls are selected from cancer-free patients matched with the cases."
+                        },
+                        {
+                            "ArmGroupLabel": "StoP Consortium",
+                            "ArmGroupDescription": "In the analysis on the aetiology of Gastric Cancer 13,500 cases and 32,000 controls from the StoP consortium studies will be enrolled.\n\nCases are defined as primary gastric carcinoma patients, with histological confirmation.\n\nControls are selected from cancer-free patients matched with the cases."
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Impact of dietary and lifestyle habits, including infrequent ones on the aetiology of gastric cancer",
+                            "PrimaryOutcomeDescription": "Analysis of the association of dietary and lifestyle habits (e.g. caroteinoids, allium plant consumption, calcium, sodium intake, pipe and cigar smoking) from survey data with gastric cancer development",
+                            "PrimaryOutcomeTimeFrame": "The analysis will be completed in three years. Data about lifestyle and dietary habits were collected through a questionnaire at enrollment."
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Impact of major gastric cancer risk factors on its aetiology in rarer patients subgroups",
+                            "PrimaryOutcomeDescription": "Analysis of the association between major risk factors in subgroups of studies or in rare patient groups (e.g.: gastric cancer in young people, cancer occurring at gastric cancer) and gastric cancer",
+                            "PrimaryOutcomeTimeFrame": "The analysis will be completed in three years. Data about lifestyle and dietary habits were collected through a questionnaire at enrollment."
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Development of a genome-wide modelling of Polygenic risk score (PRS) in gastric cancer",
+                            "SecondaryOutcomeDescription": "Construction and evaluation of a PRS and a prediction model for gastric cancer, and evaluation of the performance in a validation sample",
+                            "SecondaryOutcomeTimeFrame": "Through study completition, three years. Blood samples were collected at the diagnosis (cases) or at the enrollment (controls)"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatients participating in studies that collaborate with the StoP Project\nPatient enrolled by the UK Biobank\n\nExclusion Criteria:\n\nAge <18 years old\nStudies with less than 80 cases of histologically confirmed Gastric Cancer",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients involved as GC cases or controls in the studies that are collaborating with the StoP project. Cases are primary gastric carcinoma patients, with histological confirmation. Controls are selected from cancer-free patients and matched with the cases.\n\nPatient enrolled by the UK Biobank",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Stefania Boccia, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+39 (0) 6 35001527",
+                            "CentralContactEMail": "stefania.boccia@policlinicogemelli.it"
+                        },
+                        {
+                            "CentralContactName": "Roberta Pastorino, PhD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+39 (0) 6 30154396",
+                            "CentralContactEMail": "roberta.pastorino@policlinicogemelli.it"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Stefania Boccia, PhD",
+                            "OverallOfficialAffiliation": "IRCCS Fondazione Policlinico Universitario Agostino Gemelli",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Dipartimento Universitario di Scienze della Vita e Sanit\u00e0 Pubblica",
+                            "LocationCity": "Roma",
+                            "LocationState": "Italia",
+                            "LocationZip": "00168",
+                            "LocationCountry": "Italy"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "24566154",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Pelucchi C, Lunet N, Boccia S, Zhang ZF, Praud D, Boffetta P, Levi F, Matsuo K, Ito H, Hu J, Johnson KC, Ferraroni M, Yu GP, Peleteiro B, Malekzadeh R, Derakhshan MH, Ye W, Zaridze D, Maximovitch D, Aragones N, Martin V, Pakseresht M, Pourfarzi F, Bellavia A, Orsini N, Wolk A, Mu L, Arzani D, Kurtz RC, Lagiou P, Trichopoulos D, Muscat J, La Vecchia C, Negri E. The stomach cancer pooling (StoP) project: study design and presentation. Eur J Cancer Prev. 2015 Jan;24(1):16-23. doi: 10.1097/CEJ.0000000000000017."
+                        },
+                        {
+                            "ReferencePMID": "28718913",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Rota M, Pelucchi C, Bertuccio P, Matsuo K, Zhang ZF, Ito H, Hu J, Johnson KC, Palli D, Ferraroni M, Yu GP, Muscat J, Lunet N, Peleteiro B, Ye W, Song H, Zaridze D, Maximovitch D, Guevara M, Fernandez-Villa T, Vioque J, Navarrete-Munoz EM, Wolk A, Orsini N, Bellavia A, Hakansson N, Mu L, Persiani R, Kurtz RC, Lagiou A, Lagiou P, Galeone C, Bonzi R, Boffetta P, Boccia S, Negri E, La Vecchia C. Alcohol consumption and gastric cancer risk-A pooled analysis within the StoP project consortium. Int J Cancer. 2017 Nov 15;141(10):1950-1962. doi: 10.1002/ijc.30891. Epub 2017 Aug 8. Erratum In: Int J Cancer. 2018 Oct 15;143(8):E10."
+                        },
+                        {
+                            "ReferencePMID": "27560662",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Praud D, Rota M, Pelucchi C, Bertuccio P, Rosso T, Galeone C, Zhang ZF, Matsuo K, Ito H, Hu J, Johnson KC, Yu GP, Palli D, Ferraroni M, Muscat J, Lunet N, Peleteiro B, Malekzadeh R, Ye W, Song H, Zaridze D, Maximovitch D, Aragones N, Castano-Vinyals G, Vioque J, Navarrete-Munoz EM, Pakseresht M, Pourfarzi F, Wolk A, Orsini N, Bellavia A, Hakansson N, Mu L, Pastorino R, Kurtz RC, Derakhshan MH, Lagiou A, Lagiou P, Boffetta P, Boccia S, Negri E, La Vecchia C. Cigarette smoking and gastric cancer in the Stomach Cancer Pooling (StoP) Project. Eur J Cancer Prev. 2018 Mar;27(2):124-133. doi: 10.1097/CEJ.0000000000000290."
+                        },
+                        {
+                            "ReferencePMID": "31584199",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Ferro A, Rosato V, Rota M, Costa AR, Morais S, Pelucchi C, Johnson KC, Hu J, Palli D, Ferraroni M, Zhang ZF, Bonzi R, Yu GP, Peleteiro B, Lopez-Carrillo L, Tsugane S, Hamada GS, Hidaka A, Zaridze D, Maximovitch D, Vioque J, Navarrete-Munoz EM, Aragones N, Martin V, Hernandez-Ramirez RU, Bertuccio P, Ward MH, Malekzadeh R, Pourfarzi F, Mu L, Lopez-Cervantes M, Persiani R, Kurtz RC, Lagiou A, Lagiou P, Boffetta P, Boccia S, Negri E, Camargo MC, Curado MP, La Vecchia C, Lunet N. Meat intake and risk of gastric cancer in the Stomach cancer Pooling (StoP) project. Int J Cancer. 2020 Jul 1;147(1):45-55. doi: 10.1002/ijc.32707. Epub 2019 Nov 22."
+                        },
+                        {
+                            "ReferencePMID": "3802833",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986 Sep;7(3):177-88. doi: 10.1016/0197-2456(86)90046-2."
+                        },
+                        {
+                            "ReferencePMID": "33002439",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Jin G, Lv J, Yang M, Wang M, Zhu M, Wang T, Yan C, Yu C, Ding Y, Li G, Ren C, Ni J, Zhang R, Guo Y, Bian Z, Zheng Y, Zhang N, Jiang Y, Chen J, Wang Y, Xu D, Zheng H, Yang L, Chen Y, Walters R, Millwood IY, Dai J, Ma H, Chen K, Chen Z, Hu Z, Wei Q, Shen H, Li L. Genetic risk, incident gastric cancer, and healthy lifestyle: a meta-analysis of genome-wide association studies and prospective cohort study. Lancet Oncol. 2020 Oct;21(10):1378-1386. doi: 10.1016/S1470-2045(20)30460-5. Erratum In: Lancet Oncol. 2020 Nov;21(11):e518."
+                        },
+                        {
+                            "ReferencePMID": "32777176",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Qiu L, Qu X, He J, Cheng L, Zhang R, Sun M, Yang Y, Wang J, Wang M, Zhu X, Guo W. Predictive model for risk of gastric cancer using genetic variants from genome-wide association studies and high-evidence meta-analysis. Cancer Med. 2020 Oct;9(19):7310-7316. doi: 10.1002/cam4.3354. Epub 2020 Aug 10."
+                        },
+                        {
+                            "ReferencePMID": "30281874",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Tanikawa C, Kamatani Y, Toyoshima O, Sakamoto H, Ito H, Takahashi A, Momozawa Y, Hirata M, Fuse N, Takai-Igarashi T, Shimizu A, Sasaki M, Yamaji T, Sawada N, Iwasaki M, Tsugane S, Naito M, Hishida A, Wakai K, Furusyo N, Murakami Y, Nakamura Y, Imoto I, Inazawa J, Oze I, Sato N, Tanioka F, Sugimura H, Hirose H, Yoshida T, Matsuo K, Kubo M, Matsuda K. Genome-wide association study identifies gastric cancer susceptibility loci at 12q24.11-12 and 20q11.21. Cancer Sci. 2018 Dec;109(12):4015-4024. doi: 10.1111/cas.13815. Epub 2018 Oct 31."
+                        },
+                        {
+                            "ReferencePMID": "32588423",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Choi J, Jia G, Wen W, Long J, Zheng W. Evaluating polygenic risk scores in assessing risk of nine solid and hematologic cancers in European descendants. Int J Cancer. 2020 Dec 15;147(12):3416-3423. doi: 10.1002/ijc.33176. Epub 2020 Jul 9."
+                        },
+                        {
+                            "ReferencePMID": "23555274",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Dudbridge F. Power and predictive accuracy of polygenic risk scores. PLoS Genet. 2013 Mar;9(3):e1003348. doi: 10.1371/journal.pgen.1003348. Epub 2013 Mar 21. Erratum In: PLoS Genet. 2013 Apr;9(4). doi: 10.1371/annotation/b91ba224-10be-409d-93f4-7423d502cba0."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000013274",
+                            "ConditionMeshTerm": "Stomach Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013272",
+                            "ConditionAncestorTerm": "Stomach Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M5224",
+                            "ConditionBrowseLeafName": "Carcinoma",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15754",
+                            "ConditionBrowseLeafName": "Stomach Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15752",
+                            "ConditionBrowseLeafName": "Stomach Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T5486",
+                            "ConditionBrowseLeafName": "Stomach Cancer",
+                            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "Rare",
+                            "ConditionBrowseBranchName": "Rare Diseases"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

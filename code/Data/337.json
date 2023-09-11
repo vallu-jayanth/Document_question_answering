@@ -1,0 +1,389 @@
+{
+    "Rank": 337,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04316000",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "QUALI-BANDING-SET"
+                },
+                "Organization": {
+                    "OrgFullName": "Hospital Universitari de Bellvitge",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Anxiety and Fear of Cancer Before and After Banding Without Resection in Small SET Management (QUALI-BANDING-SET)",
+                "OfficialTitle": "Anxiety, Fear of Cancer and Quality of Life Degree Before and After Endoscopic Band Ligation Without Resection in Subepithelial Tumours of the Digestive Tract \u226415-mm Management: a Multicenter Prospective Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "September 2021",
+                "OverallStatus": "Suspended",
+                "WhyStopped": "Due to SARS-CoV2 (Covid-19) pandemia and its implications for outcomes bias.",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 22, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "March 30, 2021",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "March 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "March 16, 2020",
+                "StudyFirstSubmitQCDate": "March 18, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "March 20, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "September 5, 2021",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "September 8, 2021",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Francesc Bas-Cutrina",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Hospital Universitari de Bellvitge"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Francesc Bas-Cutrina",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "To analyze the hypothetical improvement in anxiety degree, quality of life and fear of cancer in patients diagnosed with a small gastrointestinal subeptithelial tumor when opting for the removal of the lesion.",
+                "DetailedDescription": "This \"Quality of Life\" study is directly related to the \"BANDING-SET\" study (NCT03247231), whose main aim is to analyze the effectiveness and safety of endoscopic band ligation without resection in the small gastrointestinal subepithelial tumours management.\n\nUsing three validated tests (Hospital Anxiety and Depression Scale [HADS], Cancer Worry Scale [CWS] and European Five-Dimension Quality of Live test [EuroQol-5D]) patients are evaluated before and after the endoscopic procedure.\n\nThree main groups of patients are presented:\n\nGROUP A, in which the subephitelial tumour is successfully removed [hypothesis: anxiety and fear of cancer should decrease].\nGROUP B, in which the subephitelial tumour is not successfully removed due to various reasons (size >15-mm, not technical success,...) [hypothesis: anxiety and fear of cancer shuold be similar before-after].\nGROUP C, in which the subephitelial tumour is not observed or is a benign entity, which does not require further interventions for these patients [hypothesis: anxiety and fear of cancer should decrease]."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Gastrointestinal Subepithelial Tumors"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Tumourophobia",
+                        "Anxiety for Cancer",
+                        "Quality of Life",
+                        "Cancer Worry Scale (CWS)"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "150",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "A - Removal of the Subepithelial Tumour",
+                            "ArmGroupDescription": "The subephitelial tumour is successfully removed by endoscopic band ligation without resection.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Initial Anxiety and Fear of Cancer Test",
+                                    "Procedure: Endoscopic band ligation without resection of the subpetihelial tumour.",
+                                    "Other: 1-2 Months Anxiety and Fear of Cancer Test",
+                                    "Other: 1 Year Anxiety and Fear of Cancer Test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "B - Non Removal of the Subepithelial Tumour",
+                            "ArmGroupDescription": "The subephitelial tumour is not successfully removed due to various reasons (size >15-mm, not technical success,...).",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Initial Anxiety and Fear of Cancer Test",
+                                    "Other: 1-2 Months Anxiety and Fear of Cancer Test",
+                                    "Other: 1 Year Anxiety and Fear of Cancer Test"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "C - Not Observed or Benign Subepithelial Tumour",
+                            "ArmGroupDescription": "The subephitelial tumour is not observed or is a benign entity, which does not require further interventions for these patients.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Initial Anxiety and Fear of Cancer Test",
+                                    "Other: 1-2 Months Anxiety and Fear of Cancer Test"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Initial Anxiety and Fear of Cancer Test",
+                            "InterventionDescription": "Answer to Hospital Anxiety and Depression Scale (HADS), Cancer Worry Scale (CWS) and European Five-Dimension Quality of Live test (EuroQol-5D) before the initial endoscopic procedure.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "A - Removal of the Subepithelial Tumour",
+                                    "B - Non Removal of the Subepithelial Tumour",
+                                    "C - Not Observed or Benign Subepithelial Tumour"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Initial Test"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "Endoscopic band ligation without resection of the subpetihelial tumour.",
+                            "InterventionDescription": "Correct application of the elastic band in the subepithelial tumor, achieving its removal by self-amputation in the 4-6 weeks endoscopic ultrasonography (EUS) control.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "A - Removal of the Subepithelial Tumour"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Successful SET banding"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "1-2 Months Anxiety and Fear of Cancer Test",
+                            "InterventionDescription": "Answer to Hospital Anxiety and Depression Scale (HADS), Cancer Worry Scale (CWS) and European Five-Dimension Quality of Live test (EuroQol-5D) after 1-2 months of the initial endoscopic procedure, knowing whether the tumor has either been removed or not, is a benign entity or has not been observed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "A - Removal of the Subepithelial Tumour",
+                                    "B - Non Removal of the Subepithelial Tumour",
+                                    "C - Not Observed or Benign Subepithelial Tumour"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "1-2 Months Test"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "1 Year Anxiety and Fear of Cancer Test",
+                            "InterventionDescription": "Answer to Hospital Anxiety and Depression Scale (HADS), Cancer Worry Scale (CWS) and European Five-Dimension Quality of Live test (EuroQol-5D) after 1 year of the initial endoscopic procedure, knowing whether the tumor has either been removed or not.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "A - Removal of the Subepithelial Tumour",
+                                    "B - Non Removal of the Subepithelial Tumour"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "1 Year Test"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Initial Anxiety degree",
+                            "PrimaryOutcomeDescription": "At 1-2 months, number of patients with a total anxiety score of 8 or more points in the Hospital Anxiety and Depression Scale (HADS), anxiety subescale.\n\nHospital Anxiety and Depression Scale (HADS), anxiety subescale, legend:\n\n0-7 points: Normal.\n8-10 points: Borderline anxiety.\n11-21 points: Anxiety disorder.",
+                            "PrimaryOutcomeTimeFrame": "1-2 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Initial Fear of Cancer degree",
+                            "PrimaryOutcomeDescription": "At 1-2 months, number of patients with a total fear of cancer score of 11 or more points in the Cancer Worry Scale (CWS).\n\nCancer Worry Scale (CWS) legend:\n\n6-10 points: Low.\n11-15 points: Moderate.\n16-20 points: High.\n21-24 points: Very high.",
+                            "PrimaryOutcomeTimeFrame": "1-2 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Long-term Anxiety degree",
+                            "SecondaryOutcomeDescription": "At 1 year, number of patients with a total anxiety score of 8 or more points in the Hospital Anxiety and Depression Scale (HADS), anxiety subescale.\n\nHospital Anxiety and Depression Scale (HADS), anxiety subescale, legend:\n\n0-7 points: Normal.\n8-10 points: Borderline anxiety.\n11-21 points: Anxiety disorder.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Long-term Fear of Cancer degree",
+                            "SecondaryOutcomeDescription": "At 1 year, number of patients with a total fear of cancer score of 11 or more points in the Cancer Worry Scale (CWS).\n\nCancer Worry Scale (CWS) legend:\n\n6-10 points: Low.\n11-15 points: Moderate.\n16-20 points: High.\n21-24 points: Very high.",
+                            "SecondaryOutcomeTimeFrame": "1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "INCLUSION CRITERIA:\n\nAge between 18 and 80 years.\nPatient able to sign and understand the Informed Consent.\nPatient with a previously corroborated diagnosis of a subepithelial tumor (SET) by previous endoscopic ultrasonography (EUS), or possible diagnosis of SET by finding a subepithelial lesion (SEL) in a conventional endoscopy performed that will require a EUS study.\nAcceptance by the patient as a candidate of the BANDING-SET study (NCT03247231) of assessment of the effectiveness and safety of band ligation without resection of subepithelial tumors of the digestive tract \u226415-mm, with the prior signing of the Informed Consent of this study.\nPatient that understand the concept of the study and will complete all the time frame until the study end\n\nEXCLUSION CRITERIA:\n\nNo Informed Consent.\nNo BANDING-SET study (NCT03247231) Informed Consent.\nPatients with functional diversity, unable to understand the nature and possible consequences of the study.\nPatients unable to maintain subsequent follow-up (lack of adherence).\nPatients with a life expectancy of less than 12 months.",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "Patients with subepithelial lesions (SEL) in the gastrointestinal tract.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Francesc Bas-Cutrina, MD",
+                            "OverallOfficialAffiliation": "Endoscopy Unit; Digestive Diseases Department; H. Universitari de Bellvitge.",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Joan B Gornals, MD, PhD",
+                            "OverallOfficialAffiliation": "Endoscopy Unit; Digestive Diseases Department; H. Universitari de Bellvitge.",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Sebasti\u00e0 Videla, MD, PhD",
+                            "OverallOfficialAffiliation": "Department of Clinical Pharmacology; H. Universitari de Bellvitge.",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Hospital Universitari Germans Trias i Pujol (Can Ruti)",
+                            "LocationCity": "Badalona",
+                            "LocationState": "Barcelona, Catalonia",
+                            "LocationZip": "08916",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitari de Bellvitge",
+                            "LocationCity": "L'Hospitalet de Llobregat",
+                            "LocationState": "Barcelona, Catalonia",
+                            "LocationZip": "08907",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitari M\u00fatua de Terrassa",
+                            "LocationCity": "Terrassa",
+                            "LocationState": "Barcelona, Catalonia",
+                            "LocationZip": "08221",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital de Sant Pau i de la Santa Creu",
+                            "LocationCity": "Barcelona",
+                            "LocationState": "Catalonia",
+                            "LocationZip": "08041",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitari de Girona Doctor Josep Trueta",
+                            "LocationCity": "Girona",
+                            "LocationState": "Catalonia",
+                            "LocationZip": "17007",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitari Arnau de Vilanova de Lleida",
+                            "LocationCity": "Lleida",
+                            "LocationState": "Catalonia",
+                            "LocationZip": "25198",
+                            "LocationCountry": "Spain"
+                        },
+                        {
+                            "LocationFacility": "Hospital Universitari Joan XXIII de Tarragona",
+                            "LocationCity": "Tarragona",
+                            "LocationState": "Catalonia",
+                            "LocationZip": "43005",
+                            "LocationCountry": "Spain"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "6880820",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983 Jun;67(6):361-70. doi: 10.1111/j.1600-0447.1983.tb09716.x."
+                        },
+                        {
+                            "ReferencePMID": "11602124",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Herdman M, Badia X, Berra S. [EuroQol-5D: a simple alternative for measuring health-related quality of life in primary care]. Aten Primaria. 2001 Oct 15;28(6):425-30. doi: 10.1016/s0212-6567(01)70406-4. No abstract available. Spanish."
+                        },
+                        {
+                            "ReferencePMID": "8433390",
+                            "ReferenceType": "result",
+                            "ReferenceCitation": "Aaronson NK, Ahmedzai S, Bergman B, Bullinger M, Cull A, Duez NJ, Filiberti A, Flechtner H, Fleishman SB, de Haes JC, et al. The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology. J Natl Cancer Inst. 1993 Mar 3;85(5):365-76. doi: 10.1093/jnci/85.5.365."
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4014",
+                            "ConditionBrowseLeafName": "Anxiety Disorders",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "T6034",
+                            "ConditionBrowseLeafName": "Quality of Life",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXM",
+                            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

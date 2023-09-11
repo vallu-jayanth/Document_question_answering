@@ -1,0 +1,395 @@
+{
+    "Rank": 954,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05714774",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "69HCL22_0522"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "2022-A01958-35",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "IDRCB"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Hospices Civils de Lyon",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Evaluation of Different Methods of Ultrasound Image Analysis for Real-time Monitoring of HIFU Prostate Cancer Treatment",
+                "OfficialTitle": "Evaluation of Different Methods of Ultrasound Image Analysis for Real-time Monitoring of HIFU Prostate Cancer Treatment Feasibility Study",
+                "Acronym": "ELASTO-US"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "March 9, 2023",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "September 14, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "September 14, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 27, 2023",
+                "StudyFirstSubmitQCDate": "January 27, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 6, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "March 10, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "March 13, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Hospices Civils de Lyon",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "EDAP TMS S.A.",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The ELASTO-US study is a single center feasibility study to evaluate 3 methods of analyzing real-time ultrasound images acquired during High Intensity Focused Ultrasound (HIFU) treatment in patients with localized prostate cancer.\n\nReal-time ultrasound acquisitions will be programmed at specific times and recorded during HIFU treatment. At the end of the treatment, these recordings will be exported in an anonymized way and analyzed according to the 3 different methods.\n\nA multiparametric-MRI will be performed in addition to the usual practice within 5 days after the treatment in order to control the area necroticised by the treatment. The mp-MRI will be the reference method against which the results obtained by the 3 methods of ultrasound image analysis will be compared.\n\nTechniques capable of providing safe and robust information on the progress of HIFU-generated necrosis would greatly limit the risks of overtreatment that can lead to side effects such as urinary incontinence as well as the risks of under treatment that can lead to cancer recurrence."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostatic Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostatic Neoplasms",
+                        "HIFU",
+                        "Focal One",
+                        "Prostate cancer",
+                        "focal treatment",
+                        "total ablation",
+                        "hemi ablation"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Treatment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "40",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patients with localized prostate cancer",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Patients with localized prostate cancer for which focal treatment, hemi-ablation or total ablation of the prostate is indicated will be treated by HIFU applied by FocalOne device.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: HIFU treatment of prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "HIFU treatment of prostate cancer",
+                            "InterventionDescription": "HIFU treatment using Focal One (EDAP TMS) combined with the acquisition of additional ultrasound images before, between, and after HIFU shots will be performed.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patients with localized prostate cancer"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The percentage of analyses that could be completed for each of the three HIFU necrosis detection techniques",
+                            "PrimaryOutcomeDescription": "To determine the feasibility of implementing the Gray Level Histogram, The Nakagami imaging and proposed in this study, different factors will take into account : the quality of the acquired ultrasound images, the quality of the ultrasound image registration and the quality of the MRI image registration.\n\nThe implementation of passive elastography, one of the three new methods proposed in this study, requires the presence of a sufficient wavefield in the tissue under study. An ultrasound expert will evaluate this aspect and determine whether or not the mechanical properties of the tissue can be assessed by passive elastography.",
+                            "PrimaryOutcomeTimeFrame": "At day 0"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "To determinate the threshold to differenciate the necrotic area from the non necrotic area",
+                            "SecondaryOutcomeDescription": "The threshold of the necrotic area will be determined by optimizing the sensitivity/specificity between voxels (necrotic, partially necrotic or non-necrotic).\n\nOn post-op MRI, the prostate volume will be cut into voxels where each voxel will be classified according to its level of necrosis (total, partial or non-necrotic) by an expert radiologist.",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To determinate the threshold to differenciate the partially necrotic area from the non necrotic area",
+                            "SecondaryOutcomeDescription": "The threshold of the necrotic area will be determined by optimizing the sensitivity/specificity between voxels (necrotic, partially necrotic or non-necrotic).\n\nOn post-op MRI, the prostate volume will be cut into voxels where each voxel will be classified according to its level of necrosis (total, partial or non-necrotic) by an expert radiologist.",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To compare the segmentation of the necrotic zone obtained with the studied parameter to the segmentation obtained with the post treatment MRI",
+                            "SecondaryOutcomeDescription": "The Hausdorff distance, which evaluates the similarity with necrotic areas on post-op MRI, will be calculated for each parameter, for each patient and for each of the two segmentation modalities. A total of 12 Hausdorff distances per patient.",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To compare the segmentation of the partially necrotic zone obtained with the studied parameter to the segmentation obtained with the post treatment MRI.",
+                            "SecondaryOutcomeDescription": "The Hausdorff distance, which evaluates the similarity with necrotic areas on post-op MRI, will be calculated for each parameter, for each patient and for each of the two segmentation modalities. A total of 12 Hausdorff distances per patient.",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To assess of the impact of patient characteristics and treatment history for prostate cancer.",
+                            "SecondaryOutcomeDescription": "The segmentations obtained with the studied parameter will be analyzed with respect to the following patient characteristics:\n\nPre-treatment prostate volume.\nTreatment strategy (focal, hemi or total ablation)\nTreatment history (primary or retreatment)\nPossible associated surgical procedures (TURP, incision, ...)\nGleason score of the tumor",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "To assess of the tolerance",
+                            "SecondaryOutcomeDescription": "The tolerance of the treatment will be evaluated by recording the adverse events that occurred during the patient follow-up with regard to the prolongation of the anaesthesia (approximately 20 minutes) and the realization of the mp MRI with postoperative contrast injection",
+                            "SecondaryOutcomeTimeFrame": "at the latest on day 5 after HIFU treatment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nPatient who has been clearly informed of the study and has agreed, with sufficient time for reflection, to participate by signing the study informed consent form.\nMale aged \u2265 50 years,\nPSA \u2264 15 ng/mL\ndiagnosis of localized prostate cancer (stage T1 or T2) with a Gleason score of \u2264 7\nFocal, hemiablation or ablation HIFU treatment validated in Multidisciplinary Concerted Meeting\nPatient enrolled in Medicare or equivalent plan.\nInterpretable preoperative multiparametric MRI performed within 180 days prior to surgery\n\nExclusion Criteria:\n\nan ASA score >3\nbrachytherapy for prostate cancer\nPerson of full age protected by law (person under guardianship or curatorship).\nContraindication to HIFU treatment as defined in the Focal One instructions for use : - Multiple intraprostatic calcifications inducing, on ultrasound, a shadow cone in the prostate preventing the penetration of ultrasound and therefore the realization of the treatment.\nPresence of permanent radioactive implants in the rectal wall.\nPresence of an implant (stent, catheter) located less than 1 cm from the treatment area.\nFistula of the urinary tract or rectum.\nAnal or rectal fibrosis, anal or rectal stenosis or other abnormalities making insertion of the Focal One\u00ae catheter difficult.\nAnatomical abnormality of the rectum or rectal mucosa.\nPatient with an artificial sphincter, penile prosthesis or intraprostatic implant, such as a stent.\nHistory of inflammatory bowel disease.\nCurrent urogenital infection (infection should be treated prior to HIFU treatment).\nPatient allergic to latex with known severe reactionsCounter-indications to anesthesia",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "50 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "S\u00e9bastien Crouzet, Pr",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "04 72 11 03 25",
+                            "CentralContactPhoneExt": "+33",
+                            "CentralContactEMail": "Sebastien.crouzet@chu-lyon.fr"
+                        },
+                        {
+                            "CentralContactName": "Marjolaine Beaudoin, Msc",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "0472117494",
+                            "CentralContactPhoneExt": "+33",
+                            "CentralContactEMail": "Marjolaine.beaudoin@chu-lyon.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "S\u00e9bastien Crouzet, Pr",
+                            "OverallOfficialAffiliation": "Service d'Urologie et Chirurgie de la Transplantation - H\u00f4pital Edouard Herriot - Hospices Civils de Lyon",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Service d'Urologie et Chirurgie de la Transplantation - H\u00f4pital Edouard Herriot - Hospices Civils de Lyon",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69003",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "S\u00e9bastien Crouzet, Pr",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "04 72 11 03 25",
+                                        "LocationContactPhoneExt": "+33",
+                                        "LocationContactEMail": "Sebastien.crouzet@chu-lyon.fr"
+                                    },
+                                    {
+                                        "LocationContactName": "Marjolaine Beaudoin, Msc",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "0472117494",
+                                        "LocationContactPhoneExt": "+33",
+                                        "LocationContactEMail": "Marjolaine.beaudoin@chu-lyon.fr"
+                                    },
+                                    {
+                                        "LocationContactName": "S\u00e9bastien Crouzet, Pr",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Marc COLOMBEL, Pr",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Olivier ROUVIERE, Pr",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

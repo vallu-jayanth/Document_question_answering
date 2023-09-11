@@ -1,0 +1,294 @@
+{
+    "Rank": 830,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT03226405",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "17-183"
+                },
+                "Organization": {
+                    "OrgFullName": "Massachusetts General Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Patient Navigation to Improve Patient-Centered Cancer Care",
+                "OfficialTitle": "Patient Navigation to Improve Patient-Centered Cancer Care"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2020",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "November 1, 2017",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "October 2, 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "October 2, 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 19, 2017",
+                "StudyFirstSubmitQCDate": "July 20, 2017",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 21, 2017",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "April 20, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 21, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Sanja Percac-Lima, MD",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Massachusetts General Hospital"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Massachusetts General Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The MGH Cancer Center's patient navigation (PN) program, utilizes specially trained community-based personnel to improve cancer care in underserved communities by increasing cancer screening and removing barriers to timely care. This program incorporate rigorous evaluation to demonstrate the impact of innovation in healthcare delivery.",
+                "DetailedDescription": "This program allow cancer patients from MGH Community Health Centers (CHC) and surrounding communities who experience barriers to accessing care, including poverty, and limited English proficiency, and provide them navigation to receive timely, guideline-concordant treatment at MGH Cancer Center. By offering these vulnerable individuals a patient-centered approach to treatment, The investigators aim to promote patient engagement and increase access throughout the continuum of cancer care."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Health Services Research",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "400",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Patient Navigation Program",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The study team will identify, track, and provide navigation for all adult patients referred to Cancer Center from the CHC and community partners for cancer treatment.\n\nThe Patient Navigation Program include\n\nEducation,\nAppointment reminders,\nHelp with insurance,\nTransportation,\nNavigating the Cancer Center,\nAssisting in finding appropriate child care,\nInterpreting,\nConnecting the patient to psychosocial and/or palliative care teams,\nPhysically escorting the patient to appointments",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Patient Navigation Program"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Standard of Care",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "The patients will receive enhanced usual care,\nThis consist of personal phone call reminders about upcoming appointments at the MGH Cancer Center",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Usual Care"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Patient Navigation Program",
+                            "InterventionDescription": "PN program improve access, timeliness and adherence with cancer treatment",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Patient Navigation Program"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Usual Care",
+                            "InterventionDescription": "the standard of care provided by the institution",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Standard of Care"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Adherence With Cancer Treatment",
+                            "PrimaryOutcomeDescription": "Adherence with cancer treatment will be measured as no-show rate to scheduled oncology appointments.",
+                            "PrimaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "The Time From Cancer Diagnosis To First Oncology Appointment",
+                            "PrimaryOutcomeDescription": "Length of time in days from cancer diagnosis to first completed oncology appointment.",
+                            "PrimaryOutcomeTimeFrame": "2 Years"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Health Related Quality Of Life",
+                            "SecondaryOutcomeDescription": "Health related quality of life measured via the validated Functional Assessment of Cancer Therapy - General (FACT-G).",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Survival",
+                            "SecondaryOutcomeDescription": "Overall survival rate of the study population.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Proportion Of Patients Enrolled In Clinical Trials",
+                            "SecondaryOutcomeDescription": "Proportion of participants in the study that enroll on a clinical trial.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Overall Missed Health Care Visits",
+                            "SecondaryOutcomeDescription": "Number of scheduled health care visits missed by enrolled patients.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Emergency Department Visits",
+                            "SecondaryOutcomeDescription": "Number of emergency department visits by enrolled patients.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Unplanned Hospitalizations/Readmissions",
+                            "SecondaryOutcomeDescription": "Number of unplanned hospitalizations and/or readmissions by enrolled patients.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Inpatient Hospitalization Length Of Stay.",
+                            "SecondaryOutcomeDescription": "Number of days enrolled patients spent as a hospitalized inpatient.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Patient Satisfaction With Patient Navigation Program (PNP)",
+                            "SecondaryOutcomeDescription": "Patient satisfaction with patient navigation program (PNP) to be measured via the validated Patient Satisfaction with Navigation - 1 (PSN-1).",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Patient Engagement In Care",
+                            "SecondaryOutcomeDescription": "Patient engagement in care will be measured using the validated Perceived Efficacy in Patient-Physician Interactions (PEPPI) metric.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Patient's Financial Burden",
+                            "SecondaryOutcomeDescription": "Patient financial burden will be measured using the validated Comprehensive Score for Financial Toxicity (COST) instrument.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Patient Satisfaction with Cancer Care",
+                            "SecondaryOutcomeDescription": "Patient satisfaction with cancer care to be measured using the validated Cancer-Related Care Survey.",
+                            "SecondaryOutcomeTimeFrame": "2 years"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAdult patients (age 18 and older)\n\nNewly diagnosed with cancer referred from Massachusetts General Hospital (MGH) community health centers in\n\nRevere\nChelsea\nCharlestown\nsurrounding communities referred to receive cancer treatment at the MGH Cancer Center\n\nExclusion Criteria:\n\n-Patients that primary care providers exclude",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Emma Whited",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "617-724-1968",
+                            "CentralContactEMail": "ewhited@mgh.harvard.edu"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Sanja Percac-Lima, MD, PhD",
+                            "OverallOfficialAffiliation": "Massachusetts General Hospital",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Massachusetts General Hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Boston",
+                            "LocationState": "Massachusetts",
+                            "LocationZip": "02215",
+                            "LocationCountry": "United States",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Emma Whited",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "617-724-1968",
+                                        "LocationContactEMail": "ewhited@mgh.harvard.edu"
+                                    },
+                                    {
+                                        "LocationContactName": "Sanja Percac-Lima, MD, PhD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "No"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

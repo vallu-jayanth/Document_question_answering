@@ -1,0 +1,460 @@
+{
+    "Rank": 257,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04289974",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "LQ005"
+                },
+                "Organization": {
+                    "OrgFullName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Predicted Biomarkers of CDK4/6 Inhibitors (Palbociclib) in ER-positive Metastasis Breast Cancer",
+                "OfficialTitle": "An Open, Multicenter Study for the Predicted Biomarkers of CDK4/6 Inhibitors (Palbociclib) in ER-positive Metastasis Breast Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "February 2020",
+                "OverallStatus": "Unknown status",
+                "LastKnownStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 14, 2019",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "June 2020",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "April 2022",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 31, 2019",
+                "StudyFirstSubmitQCDate": "February 26, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 28, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "February 26, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "February 28, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "Li Qiao",
+                    "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+                    "ResponsiblePartyInvestigatorAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "OrigiMed",
+                            "CollaboratorClass": "INDUSTRY"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "Yes",
+                "IsFDARegulatedDevice": "No",
+                "IsUSExport": "Yes"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a multi-center, observational study designed to explore the regulatory mechanism of palbociclib correlative pathways in therapeutic process of breast cancer, employing next generation sequencing (NGS) on DNA and RNA. This study also monitor the clonal evolution of genes by tracing the ctDNA."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Palbociclib",
+                        "endocrinotherapy",
+                        "resistance"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Retrospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Formalin fixed paraffin-embedded (FFPE) tumor tissue for DNA sequencing obtained from surgical/needle biopsy; fresh or liquid nitrogen frozen tissues for RNA sequencing obtained from surgical biopsy; peripheral blood (PB) samples for ctDNA sequencing"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "100",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Palbociclib+fulvestrant",
+                            "ArmGroupDescription": "100 cases of patients with ER+, HER2- breast cancer, experienced resistance after first line endocrinotherapy, will be assigned participants into treatment regimen, including palbociclib combined with fulvestrant.\n\nFFPE blocks/sections or fresh tumor tissues/biopsies will be obtained from the hospitals on the points before administration and since resistance appearance. The tissue will be sequenced by a pan-cancer DNA panel (500+ genes) and whole transcriptome sequencing (WTS).\n\n5-10 ml peripheral blood will be collected from each patient on the points before administration, 1 month after treatment, every subsequent visit and resistance appearance. The liquid biopsy will be sequenced by a pan-cancer ctDNA panel (300+ genes).\n\nThe genomic characteristics of patients received resistance will be analyzed. The relevant pathway mechanisms will be identified.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Drug: Palbociclib"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Drug",
+                            "InterventionName": "Palbociclib",
+                            "InterventionDescription": "Palbociclib (125 mg PO qDay for Days 1-21 of each 28-day cycle) combined with Fulvestrant (500 mg IM on Days 1, 15, and 29, and then once monthly thereafter)",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Palbociclib+fulvestrant"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "Fulvestrant"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Pathway regulatory mechanism during palbociclib treatment on ER+/HER2- breast cancer.",
+                            "PrimaryOutcomeDescription": "Crosstalk patterns of genetic change processes with significant correlation with treatment of palbociclib combined endocrinotherapy, assessed by DNA and RNA sequencing.",
+                            "PrimaryOutcomeTimeFrame": "2 year"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Patterns of clonal changing on lesions during treatment of palbociclib combined endocrinotherapy.",
+                            "PrimaryOutcomeDescription": "The evolution patterns of genetic profiles since the begining of palbociclib combined endocrinotherapy until occurance of drug resistance obtained by collecting ctDNA variations dynamically.",
+                            "PrimaryOutcomeTimeFrame": "2 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Genetic indicators of effect and prognosis of palbociclib combined endocrinotherapy on ER+/HER2- breast cancer.",
+                            "SecondaryOutcomeDescription": "Indicator genes with measurable up/down regulated activities of ER+/HER2- breast cancer patients significantly correlated with treatment of palbociclib combined endocrinotherapy.",
+                            "SecondaryOutcomeTimeFrame": "2 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Genetic indicators of resistance of palbociclib combined endocrinotherapy on ER+/HER2- breast cancer.",
+                            "SecondaryOutcomeDescription": "Specific genetic aberrations in alternative pathways, i.e. CCND1 amplification or RB1 inactivation, before treatment of palbociclib combining with endocrinotherapy and after drug-resistance of the breast cancer patients.",
+                            "SecondaryOutcomeTimeFrame": "2 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nwomen aged 18-70 years old at the time of sign informed consent\npatients diagnosed as breast cancer with evidence supporting metastatic disease, unsuitable for radical operation or radiotherapy, with no chemotherapy indication\nfull histological or cytological assessment of ER+, HER2- breast cancer\nrefractory to the most recent endocrine therapy, or progression within 12 months of endocrine therapy\nEastern Cooperative Oncology Group (ECOG) performance status score 0 or 1, no refractory within recent 2 weeks\npatients with at least 1 measuralbe lesion; lesions will be excluded if received radiotherapy, unless had confirmed progression\nlife expectancy of 12 weeks or more\nclinical laboratory test indicators meet the following criteria:\nPLT\u2265100\u00d710^9/L\nANC\u22651.5\u00d710^9/L\nHgb\u226590 g/L\nTBil\u22641.5 ULN\nALT and AST \u22643 ULN\ncreatinine\u22641.5 ULN or creatinine clearance rate\u226550 mL/min\npatients who signed informed consents before any projects, sampling and analysis; be available of tumor tissue biopsy and liquid biopsy; be cooperative for observation period\npatients can swallow oral drugs\nIn addition to alopecia and stable peripheral neurotoxicity below grade 2, any clinical toxicity associated with previous treatment prior to enrollment must be restored to baseline or grade 1.\n\nExclusion Criteria:\n\nno prior treatment\nreceiving treatment other than the trial 4 weeks prior to the study, or participating in another clinical study\nunwilling to provide tissue and blood for genetic testing\nnon-resistant on endocrine therapy before treating with palbociclib\nprogress of \u2265 2nd line endocrine therapy\npatients with advanced disease, symptoms, visceral spread, and life-threatening complications in the short term (including large uncontrollable spills [thoracic, pericardium, abdominal cavity], pulmonary lymphangitis, and liver involvement>50%)\npatients with active, uncontrolled or symptomatic central nervous system metastases, cancerous meningitis or clinical signs suggesting pia mater disease, brain edema and/or tumor growth. Patients with a history of central nervous system metastasis or spinal cord compression, if they have received local treatment (such as radiation therapy, stereotactic surgery) and are clinically stable, they need to stop convulsions and steroids for at least 4 weeks before randomization.\npatients received major surgery, chemotherapy, radiation therapy, or other anticancer treatments within 2 weeks prior to enrollment\ndiagnosis of any other malignant tumor, within 3 years prior to the enrollment, except adequately treated basal/squamous cell skin cancer or cervical carcinoma\nassessed as not eligible to participate in the trial\ninfused whole blood without leukocytes removing within 120 days prior to sampling\nduring lactation or with positive blood or urine pregnancy test",
+                "HealthyVolunteers": "No",
+                "Gender": "Female",
+                "MinimumAge": "18 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "metastatic breast cancer patients of ER+/HER2- with resistance of first line endocrine therapy",
+                "SamplingMethod": "Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Qiao Li, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-10-87788120",
+                            "CentralContactEMail": "liqiaopumc@yahoo.cn"
+                        },
+                        {
+                            "CentralContactName": "Binghe Xu, PHD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86-10-87788495",
+                            "CentralContactEMail": "xubinghe@medmail.com.cn"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Binghe Xu, PHD",
+                            "OverallOfficialAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Cancer Hospital, ChineseAMS",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100021",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Qiao LI, MD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-10-87788120",
+                                        "LocationContactEMail": "liqiaopumc@yahoo.cn"
+                                    },
+                                    {
+                                        "LocationContactName": "Binghe XU, MD, PHD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "86-10-87788495",
+                                        "LocationContactEMail": "xubinghe@medmail.com.cn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionMeshList": {
+                    "InterventionMesh": [
+                        {
+                            "InterventionMeshId": "D000077267",
+                            "InterventionMeshTerm": "Fulvestrant"
+                        },
+                        {
+                            "InterventionMeshId": "C000500026",
+                            "InterventionMeshTerm": "Palbociclib"
+                        }
+                    ]
+                },
+                "InterventionAncestorList": {
+                    "InterventionAncestor": [
+                        {
+                            "InterventionAncestorId": "D000018931",
+                            "InterventionAncestorTerm": "Antineoplastic Agents, Hormonal"
+                        },
+                        {
+                            "InterventionAncestorId": "D000000970",
+                            "InterventionAncestorTerm": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionAncestorId": "D000065171",
+                            "InterventionAncestorTerm": "Estrogen Receptor Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004965",
+                            "InterventionAncestorTerm": "Estrogen Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000006727",
+                            "InterventionAncestorTerm": "Hormone Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000006730",
+                            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045505",
+                            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+                        },
+                        {
+                            "InterventionAncestorId": "D000047428",
+                            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000004791",
+                            "InterventionAncestorTerm": "Enzyme Inhibitors"
+                        },
+                        {
+                            "InterventionAncestorId": "D000045504",
+                            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+                        }
+                    ]
+                },
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M1723",
+                            "InterventionBrowseLeafName": "Fulvestrant",
+                            "InterventionBrowseLeafAsFound": "Femoral",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M223827",
+                            "InterventionBrowseLeafName": "Palbociclib",
+                            "InterventionBrowseLeafAsFound": "50%",
+                            "InterventionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M20656",
+                            "InterventionBrowseLeafName": "Antineoplastic Agents, Hormonal",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7806",
+                            "InterventionBrowseLeafName": "Estrogens",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7804",
+                            "InterventionBrowseLeafName": "Estrogen Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M30173",
+                            "InterventionBrowseLeafName": "Estrogen Receptor Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9479",
+                            "InterventionBrowseLeafName": "Hormones",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M9478",
+                            "InterventionBrowseLeafName": "Hormone Antagonists",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M25510",
+                            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "InterventionBrowseLeafId": "M7641",
+                            "InterventionBrowseLeafName": "Enzyme Inhibitors",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "ANeo",
+                            "InterventionBrowseBranchName": "Antineoplastic Agents"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

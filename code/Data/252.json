@@ -1,0 +1,295 @@
+{
+    "Rank": 252,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01299623",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "1R18HSO19339-01"
+                },
+                "Organization": {
+                    "OrgFullName": "University of Pennsylvania",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Breast Cancer Prevention Education",
+                "OfficialTitle": "Disseminating Breast Cancer Prevention to African American Women"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "August 2016",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 2010"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "May 2014",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "May 2014",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "February 17, 2011",
+                "StudyFirstSubmitQCDate": "February 17, 2011",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "February 18, 2011",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "August 17, 2016",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 19, 2016",
+                    "LastUpdatePostDateType": "Estimate"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "University of Pennsylvania",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "We will develop and evaluate a community-based approach for disseminating comparative effective reviews (CERs) about breast cancer prevention to African American women. The specific aims of our research, as shown below, will target this population because of persistent disparities in breast cancer morbidity and mortality among this population. Our primary aims are:\n\nTo evaluate uptake of a community-based strategy for disseminating CERs about breast cancer prevention to African American women based on sociodemographic characteristics, beliefs about medical research, and medical history. We predict that participation in a community forum will be higher among women with greater socioeconomic resources, those who have a family history of breast cancer, and women who have more positive beliefs about research.\nTo evaluate the impact of evidential versus non-evidential content about breast cancer prevention on psychological and behavioral outcomes that include: knowledge of breast cancer risk factors and prevention strategies, communication with individuals in their social and medical network, and distrust of medical research. We predict that women who receive evidential content that is specific for African American women will report greater knowledge about breast cancer risk factors and prevention strategies, will be more likely to discuss breast cancer prevention strategies with individuals in their social and medical network, and will report greater reductions in distrust of medical research compared to those who receive non-evidential content."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Breast Cancer Prevention"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "breast cancer",
+                        "breast cancer prevention",
+                        "African American women"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Triple",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Investigator",
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "366",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Evidential Group",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants in this group will receive education about breast cancer prevention and specific information about African American women and breast cancer risk.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Comparison of evidential versus non-evidential education on women's breast cancer prevention behaviors"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Non-Evidential Group",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants in this group will receive general information about breast cancer prevention without anything specific to African American women.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Comparison of evidential versus non-evidential education on women's breast cancer prevention behaviors"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Comparison of evidential versus non-evidential education on women's breast cancer prevention behaviors",
+                            "InterventionDescription": "Participants will be randomized to either the evidential or non-evidential group. Both groups will receive primarily the same information, except one group will receive information that is more tailored to African American women, while participants in the other group will receive general information about breast cancer prevention.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Evidential Group",
+                                    "Non-Evidential Group"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Intervention uptake",
+                            "PrimaryOutcomeDescription": "Assessment of participants' attendance at a session.",
+                            "PrimaryOutcomeTimeFrame": "1 session"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "knowledge about breast cancer prevention",
+                            "PrimaryOutcomeDescription": "Measurement of women's knowledge about breast cancer prevention at three and six months post intervention compared to baseline measurements.",
+                            "PrimaryOutcomeTimeFrame": "6 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Communication about breast cancer prevention",
+                            "PrimaryOutcomeDescription": "Assessment of the extent to which women discuss breast cancer prevention with their health care providers at three and six months post intervention compared to at baseline.",
+                            "PrimaryOutcomeTimeFrame": "6 months"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "Distrust of medical research",
+                            "PrimaryOutcomeDescription": "Assessment of the extent to which participants harbor distrust for the medical establishment three and six months post intervention compared to at baseline.",
+                            "PrimaryOutcomeTimeFrame": "6 months"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Education",
+                            "SecondaryOutcomeDescription": "Assessment of the relationship between participants' education and primary outcomes.",
+                            "SecondaryOutcomeTimeFrame": "baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Family history",
+                            "SecondaryOutcomeDescription": "Assessment of the relationship between participants' family history and the primary outcomes.",
+                            "SecondaryOutcomeTimeFrame": "baseline"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Beliefs about research",
+                            "SecondaryOutcomeDescription": "Assessment of the relationship between participants' beliefs about research and the primary outcomes.",
+                            "SecondaryOutcomeTimeFrame": "baseline"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAfrican American women\nAges 35-70\nNo personal history of cancer\nResident of Philadelphia metropolitan area\n\nExclusion Criteria:\n\nNon-African American\nMale\nUnder 35 or over 70 years of age\nPersonal history of cancer\nNot a resident of Philadelphia Metropolitan Area",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Female",
+                "MinimumAge": "35 Years",
+                "MaximumAge": "70 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Chanita H Halbert, PhD",
+                            "OverallOfficialAffiliation": "University of Pennsylvania",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of Pennsylvania Center for Community Based Research and Health Disparities",
+                            "LocationCity": "Philadelphia",
+                            "LocationState": "Pennsylvania",
+                            "LocationZip": "19104",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000001943",
+                            "ConditionMeshTerm": "Breast Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000001941",
+                            "ConditionAncestorTerm": "Breast Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012871",
+                            "ConditionAncestorTerm": "Skin Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M4910",
+                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Breast Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M4908",
+                            "ConditionBrowseLeafName": "Breast Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M15364",
+                            "ConditionBrowseLeafName": "Skin Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC17",
+                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

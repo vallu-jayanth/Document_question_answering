@@ -1,0 +1,679 @@
+{
+    "Rank": 1073,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT01774409",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "PROFILER"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "ET12-082",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Sponsor's number"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Centre Leon Berard",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Program to Establish the Genetic and Immunologic Profile of Patient's Tumor for All Types of Advanced Cancer",
+                "OfficialTitle": "Program to Establish the Genetic and Immunologic Profile of Patient's Tumor for All Types of Advanced Cancer",
+                "Acronym": "PROFILER"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "April 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "February 2013"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "July 2023",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "July 2023",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "January 16, 2013",
+                "StudyFirstSubmitQCDate": "January 21, 2013",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "January 24, 2013",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "April 8, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "April 11, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Centre Leon Berard",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "It is a non-randomized, multicentric, cohort study, combined with a biological sample collection, a clinical data collection and with a genetic and immunologic biomarkers study.\n\nThe ProfiLER program aims to implement a personalized cancer medicine approach by proposing to establish the genetic and immunologic profile of the tumor for patients with an advanced malignant tumor, in order to define a map of genetic (for the pre-identified target genes) and immunologic profiles for all the studied types of cancer. This study will also allow adapting the therapeutic management of these patients, if needed, by giving them targeted therapies or immunotherapies (commercialized on in ongoing clinical trials), based on the recommendations of the multidisciplinary molecular board.\n\nThe genetic and immunologic profile of the tumor will be determined from archival or fresh collected (biopsy of a reachable lesion) tumor sample and from a blood sample. The correlation between genetic profiles of the tumor, patients immunity status and clinical data (progression, tumor response, etc.) collected from the patient medical records will probably allow us to identify biomarkers with a potential predictive value and to determine if some genetic disorders are linked to immunity status alterations.",
+                "DetailedDescription": "Determination of the tumor profile and review in multidisciplinary molecular board:\n\nThe genetic and immunologic profile will be performed from the available tumor sample and from a blood sample.\n\nGenetic profile:\n\nResearch of mutations/insertions/deletions for an array of predefined genes in tumor deoxyribonucleic acid by high-throughput sequencing\nAnalysis of copy number variations of genes on tumor deoxyribonucleic acid by microarray-based comparative genomic hybridization\nAnalysis of rearrangements involving the gene Anaplastic Lymphoma Kinase that can't be detected by Next Generation Sequencing or array Comparative Genomic Hybridization (balanced translocations) by means of fluorescent hybridization probes on tumor samples Immunologic profile: analysis of the expression of relevant immunologic markers\n\nClinical data collection:\n\nPatients' clinical data will be collected from the patient medical record. This study is not a treatment evaluation. Patients' follow-up and treatment will be performed according to the center local practices or to the specificities of a clinical trial in which the patient would have been enrolled, depending on the recommendations given by the multidisciplinary molecular board, with the review of the tumor genetic profile."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasms"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "all advanced malignant tumor"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "N/A",
+                    "DesignInterventionModel": "Single Group Assignment",
+                    "DesignPrimaryPurpose": "Diagnostic",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "10000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Blood and tumor samples",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Genetic: Blood and tumor samples"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Genetic",
+                            "InterventionName": "Blood and tumor samples",
+                            "InterventionDescription": "Genetic: Establishment of the genetic and immunologic profile\n\nWhole blood sampling :\n\n1 tube for the constitutional DNA extraction;\n3 tubes for ancillary studies and research.\n\nCollection of the available archival tumor sample (frozen or FFPE). If there's no available sample, the investigator will prescribe a biopsy of a reachable lesion.\n\nWith the established profile, recommendations will be given by a multidisciplinary molecular board.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Blood and tumor samples"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Establish a map of genetic profiles (for the pre-identified target genes) for all types of advanced malignant tumors.",
+                            "PrimaryOutcomeDescription": "Description of the incidence rates of each detected genetic disorder among the pre-identified target genes in the global cohort and for each histological type.",
+                            "PrimaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Establish a map of immunologic profiles for all types of advanced malignant tumors.",
+                            "SecondaryOutcomeDescription": "Description of the incidence rates of each detected immunologic disorder in the global cohort and for each histological type.",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Determine for each histological type of tumor, characteristic profiles of genetic and/or immunologic disorders and disorders that might be common to several histological types.",
+                            "SecondaryOutcomeDescription": "Comparison of the genetic and immunologic profiles between patients with the same tumor type or between tumors of different types.",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Identify genetic and/or immunologic biomarkers (or molecular profiles) with a potential predictive value on response to treatments.",
+                            "SecondaryOutcomeDescription": "Tumor response (determined by the investigator and/or the radiologist) assessed after each treatment received by the patient during his/her whole participation to the study (if data are available in the medical record).",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Identify biomarkers (constitutional or somatic alterations in tumor cells) that might be correlated with systemic or local alterations of the immunity status observed in some patients with advanced cancers",
+                            "SecondaryOutcomeDescription": "lymphopenia, over-representation of Treg, dendritic cells alterations,",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Assess the changes of genetic and/or immunologic profiles in case of progressive disease",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Number of patients with a recommanded therapy based on their molecular profil and/or for whom the therapy hs been administrated and description of the recommanded therapy",
+                            "SecondaryOutcomeDescription": "A description will be done of therapie(s) recommanded and/or received by patients based on recommandation done by the Molecular Tumor Board after reviewing of molecular profil",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Describe the clinical impact of this molecular profiling in term of PFS",
+                            "SecondaryOutcomeDescription": "Progression free survival for each recommanded therapies received",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Describe the clinical impact of this molecular profiling in term of OS",
+                            "SecondaryOutcomeDescription": "Overall survival for each recommanded therapies received",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Describe the clinical impact of this molecular profiling in term of tumor response",
+                            "SecondaryOutcomeDescription": "Tumoral response (clinic and/or radiologic) for each recommanded therapies received",
+                            "SecondaryOutcomeTimeFrame": "at least 3 years after patient enrollment"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically or cytologically confirmed diagnosis of advanced (locally-advanced or metastatic) malignant tumor of any histological type\nTumor sample available to determine the genetic profile: either archival tumor sample [FFPE (formalin fixed and paraffin embedded)] or perform a new biopsy on an accessible lesion (left at the investigator's appreciation). For biopsies, presence of at least one tumor lesion with a diameter \u2265 20 mm, visible by medical imaging and accessible to repeatable percutaneous (needle biopsies 18 gauge or larger) sampling that permit core needle biopsy (ideally 4 cores) without unacceptable risk of a major procedural complication. Please note that brain and bone lesions are not considered as accessible lesions.\nPatient with 1st, 2nd or 3rd line therapy (NB: endocrine therapy (monotherapy) are not considered as line therapy) for advanced / metastatic cancer.\nFor patients over 70 years of age, a Performance Status (PS) of 0 on the ECOG scale.\nPatient must be covered by a medical insurance.\nInformed consent signed by the patient and/or by parents (or legal representative) for patients below 18.\n\nExclusion Criteria:\n\nNo tumor sample available.",
+                "HealthyVolunteers": "No",
+                "Gender": "All",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Child",
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Jean-Yves BLAY, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+33 4 78 78 51 26",
+                            "CentralContactEMail": "jean-yves.blay@lyon.unicancer.fr"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Jean-Yves BLAY, MD PhD",
+                            "OverallOfficialAffiliation": "Centre Leon Berard",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Centre Hospitalier Annecy Genevois",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Annecy",
+                            "LocationZip": "74370",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "M\u00e9lodie Carbonnaux, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Mathieu Baconnier, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Marie Louvel, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Emmanuel Maillard, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Aude Montchaud, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Oana Pop, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Laurence Renaud, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Sarah Sannicolo, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Laetitia Stefani, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Elsa Thimonier, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Marie Valee, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Groupement Hospitalier Mutualiste",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Grenoble",
+                            "LocationZip": "38028",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "C\u00e9cile LEYRONNAS, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "H\u00f4pital Edouard Herriot",
+                            "LocationStatus": "Not yet recruiting",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69003",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Julien FORESTIER, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Catherine LOMBARD BOHAS, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Thomas WALTER, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Centre L\u00e9on B\u00e9rard",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Lyon",
+                            "LocationZip": "69008",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Thomas BACHELOT, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Amine BELHABRI, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Christophe BERGERON, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Pierre BIRON, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Helen BOYLE, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Philippe CASSIER, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Patrick COMBEMALE, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Fran\u00e7oise DESSEIGNE, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "C\u00e9cile FAURE-CONTER, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "J\u00e9rome FAYETTE, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Aude FLECHON, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Christelle DE LA FOUCHARDIERE, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Herv\u00e9 GHESQUIERES, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Jean-Paul GUASTALLA, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Pierre GUIBERT, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Pierre-Etienne HEUDEL, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Sylvie NEGRIER, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Eve-Marie NEIDHARDT, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Emmanuelle NICOLAS-VIRELIZIER, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Maurice PEROL, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Isabelle RAY-COQUARD, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Paul REBATTU, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Catherine SEBBAN, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Olivier TREDAN, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Alice LEVARD, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Virginie AVRILLON, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Louis TASSY, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "LocationFacility": "Centre Hospitalier Lyon Sud",
+                            "LocationStatus": "Active, not recruiting",
+                            "LocationCity": "Pierre-B\u00e9nite Cedex",
+                            "LocationZip": "69495",
+                            "LocationCountry": "France"
+                        },
+                        {
+                            "LocationFacility": "CHU de Saint-Etienne H\u00f4pital Nord",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Saint-Etienne",
+                            "LocationZip": "42055",
+                            "LocationCountry": "France",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Pierre Fournel, MD",
+                                        "LocationContactRole": "Principal Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Claire Bosacki, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Aline Guillot, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Jean-Philippe Jacquin, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Thierry Muron, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "Romain Rivoirard, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "L\u00e9a Saban-Roche, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    },
+                                    {
+                                        "LocationContactName": "C\u00e9cile Vassal, MD",
+                                        "LocationContactRole": "Sub-Investigator"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "19360079",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Stratton MR, Campbell PJ, Futreal PA. The cancer genome. Nature. 2009 Apr 9;458(7239):719-24. doi: 10.1038/nature07943."
+                        },
+                        {
+                            "ReferencePMID": "18282144",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Diaz-Cano SJ. General morphological and biological features of neoplasms: integration of molecular findings. Histopathology. 2008 Jul;53(1):1-19. doi: 10.1111/j.1365-2559.2007.02937.x. Epub 2008 Feb 12."
+                        },
+                        {
+                            "ReferencePMID": "22304912",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dancey JE, Bedard PL, Onetto N, Hudson TJ. The genetic basis for cancer treatment decisions. Cell. 2012 Feb 3;148(3):409-20. doi: 10.1016/j.cell.2012.01.014."
+                        },
+                        {
+                            "ReferencePMID": "21406553",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chin L, Hahn WC, Getz G, Meyerson M. Making sense of cancer genomic data. Genes Dev. 2011 Mar 15;25(6):534-55. doi: 10.1101/gad.2017311. Erratum In: Genes Dev. 2012 May 1;26(9):1003."
+                        },
+                        {
+                            "ReferencePMID": "20393554",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "International Cancer Genome Consortium; Hudson TJ, Anderson W, Artez A, Barker AD, Bell C, Bernabe RR, Bhan MK, Calvo F, Eerola I, Gerhard DS, Guttmacher A, Guyer M, Hemsley FM, Jennings JL, Kerr D, Klatt P, Kolar P, Kusada J, Lane DP, Laplace F, Youyong L, Nettekoven G, Ozenberger B, Peterson J, Rao TS, Remacle J, Schafer AJ, Shibata T, Stratton MR, Vockley JG, Watanabe K, Yang H, Yuen MM, Knoppers BM, Bobrow M, Cambon-Thomsen A, Dressler LG, Dyke SO, Joly Y, Kato K, Kennedy KL, Nicolas P, Parker MJ, Rial-Sebbag E, Romeo-Casabona CM, Shaw KM, Wallace S, Wiesner GL, Zeps N, Lichter P, Biankin AV, Chabannon C, Chin L, Clement B, de Alava E, Degos F, Ferguson ML, Geary P, Hayes DN, Hudson TJ, Johns AL, Kasprzyk A, Nakagawa H, Penny R, Piris MA, Sarin R, Scarpa A, Shibata T, van de Vijver M, Futreal PA, Aburatani H, Bayes M, Botwell DD, Campbell PJ, Estivill X, Gerhard DS, Grimmond SM, Gut I, Hirst M, Lopez-Otin C, Majumder P, Marra M, McPherson JD, Nakagawa H, Ning Z, Puente XS, Ruan Y, Shibata T, Stratton MR, Stunnenberg HG, Swerdlow H, Velculescu VE, Wilson RK, Xue HH, Yang L, Spellman PT, Bader GD, Boutros PC, Campbell PJ, Flicek P, Getz G, Guigo R, Guo G, Haussler D, Heath S, Hubbard TJ, Jiang T, Jones SM, Li Q, Lopez-Bigas N, Luo R, Muthuswamy L, Ouellette BF, Pearson JV, Puente XS, Quesada V, Raphael BJ, Sander C, Shibata T, Speed TP, Stein LD, Stuart JM, Teague JW, Totoki Y, Tsunoda T, Valencia A, Wheeler DA, Wu H, Zhao S, Zhou G, Stein LD, Guigo R, Hubbard TJ, Joly Y, Jones SM, Kasprzyk A, Lathrop M, Lopez-Bigas N, Ouellette BF, Spellman PT, Teague JW, Thomas G, Valencia A, Yoshida T, Kennedy KL, Axton M, Dyke SO, Futreal PA, Gerhard DS, Gunter C, Guyer M, Hudson TJ, McPherson JD, Miller LJ, Ozenberger B, Shaw KM, Kasprzyk A, Stein LD, Zhang J, Haider SA, Wang J, Yung CK, Cros A, Liang Y, Gnaneshan S, Guberman J, Hsu J, Bobrow M, Chalmers DR, Hasel KW, Joly Y, Kaan TS, Kennedy KL, Knoppers BM, Lowrance WW, Masui T, Nicolas P, Rial-Sebbag E, Rodriguez LL, Vergely C, Yoshida T, Grimmond SM, Biankin AV, Bowtell DD, Cloonan N, deFazio A, Eshleman JR, Etemadmoghadam D, Gardiner BB, Kench JG, Scarpa A, Sutherland RL, Tempero MA, Waddell NJ, Wilson PJ, McPherson JD, Gallinger S, Tsao MS, Shaw PA, Petersen GM, Mukhopadhyay D, Chin L, DePinho RA, Thayer S, Muthuswamy L, Shazand K, Beck T, Sam M, Timms L, Ballin V, Lu Y, Ji J, Zhang X, Chen F, Hu X, Zhou G, Yang Q, Tian G, Zhang L, Xing X, Li X, Zhu Z, Yu Y, Yu J, Yang H, Lathrop M, Tost J, Brennan P, Holcatova I, Zaridze D, Brazma A, Egevard L, Prokhortchouk E, Banks RE, Uhlen M, Cambon-Thomsen A, Viksna J, Ponten F, Skryabin K, Stratton MR, Futreal PA, Birney E, Borg A, Borresen-Dale AL, Caldas C, Foekens JA, Martin S, Reis-Filho JS, Richardson AL, Sotiriou C, Stunnenberg HG, Thoms G, van de Vijver M, van't Veer L, Calvo F, Birnbaum D, Blanche H, Boucher P, Boyault S, Chabannon C, Gut I, Masson-Jacquemier JD, Lathrop M, Pauporte I, Pivot X, Vincent-Salomon A, Tabone E, Theillet C, Thomas G, Tost J, Treilleux I, Calvo F, Bioulac-Sage P, Clement B, Decaens T, Degos F, Franco D, Gut I, Gut M, Heath S, Lathrop M, Samuel D, Thomas G, Zucman-Rossi J, Lichter P, Eils R, Brors B, Korbel JO, Korshunov A, Landgraf P, Lehrach H, Pfister S, Radlwimmer B, Reifenberger G, Taylor MD, von Kalle C, Majumder PP, Sarin R, Rao TS, Bhan MK, Scarpa A, Pederzoli P, Lawlor RA, Delledonne M, Bardelli A, Biankin AV, Grimmond SM, Gress T, Klimstra D, Zamboni G, Shibata T, Nakamura Y, Nakagawa H, Kusada J, Tsunoda T, Miyano S, Aburatani H, Kato K, Fujimoto A, Yoshida T, Campo E, Lopez-Otin C, Estivill X, Guigo R, de Sanjose S, Piris MA, Montserrat E, Gonzalez-Diaz M, Puente XS, Jares P, Valencia A, Himmelbauer H, Quesada V, Bea S, Stratton MR, Futreal PA, Campbell PJ, Vincent-Salomon A, Richardson AL, Reis-Filho JS, van de Vijver M, Thomas G, Masson-Jacquemier JD, Aparicio S, Borg A, Borresen-Dale AL, Caldas C, Foekens JA, Stunnenberg HG, van't Veer L, Easton DF, Spellman PT, Martin S, Barker AD, Chin L, Collins FS, Compton CC, Ferguson ML, Gerhard DS, Getz G, Gunter C, Guttmacher A, Guyer M, Hayes DN, Lander ES, Ozenberger B, Penny R, Peterson J, Sander C, Shaw KM, Speed TP, Spellman PT, Vockley JG, Wheeler DA, Wilson RK, Hudson TJ, Chin L, Knoppers BM, Lander ES, Lichter P, Stein LD, Stratton MR, Anderson W, Barker AD, Bell C, Bobrow M, Burke W, Collins FS, Compton CC, DePinho RA, Easton DF, Futreal PA, Gerhard DS, Green AR, Guyer M, Hamilton SR, Hubbard TJ, Kallioniemi OP, Kennedy KL, Ley TJ, Liu ET, Lu Y, Majumder P, Marra M, Ozenberger B, Peterson J, Schafer AJ, Spellman PT, Stunnenberg HG, Wainwright BJ, Wilson RK, Yang H. International network of cancer genome projects. Nature. 2010 Apr 15;464(7291):993-8. doi: 10.1038/nature08987. Erratum In: Nature. 2010 Jun 17;465(7300):966. Himmelbaue, Heinz [corrected to Himmelbauer, Heinz]; Gardiner, Brooke A [corrected to Gardiner, Brooke B]; Cross, Anthony [corrected to Cros, Anthony]."
+                        },
+                        {
+                            "ReferencePMID": "12068308",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Davies H, Bignell GR, Cox C, Stephens P, Edkins S, Clegg S, Teague J, Woffendin H, Garnett MJ, Bottomley W, Davis N, Dicks E, Ewing R, Floyd Y, Gray K, Hall S, Hawes R, Hughes J, Kosmidou V, Menzies A, Mould C, Parker A, Stevens C, Watt S, Hooper S, Wilson R, Jayatilake H, Gusterson BA, Cooper C, Shipley J, Hargrave D, Pritchard-Jones K, Maitland N, Chenevix-Trench G, Riggins GJ, Bigner DD, Palmieri G, Cossu A, Flanagan A, Nicholson A, Ho JW, Leung SY, Yuen ST, Weber BL, Seigler HF, Darrow TL, Paterson H, Marais R, Marshall CJ, Wooster R, Stratton MR, Futreal PA. Mutations of the BRAF gene in human cancer. Nature. 2002 Jun 27;417(6892):949-54. doi: 10.1038/nature00766. Epub 2002 Jun 9."
+                        },
+                        {
+                            "ReferencePMID": "15016963",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Samuels Y, Wang Z, Bardelli A, Silliman N, Ptak J, Szabo S, Yan H, Gazdar A, Powell SM, Riggins GJ, Willson JK, Markowitz S, Kinzler KW, Vogelstein B, Velculescu VE. High frequency of mutations of the PIK3CA gene in human cancers. Science. 2004 Apr 23;304(5670):554. doi: 10.1126/science.1096502. Epub 2004 Mar 11. No abstract available."
+                        },
+                        {
+                            "ReferencePMID": "22298893",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Arteaga CL, Baselga J. Impact of genomics on personalized cancer medicine. Clin Cancer Res. 2012 Feb 1;18(3):612-8. doi: 10.1158/1078-0432.CCR-11-2019."
+                        },
+                        {
+                            "ReferencePMID": "15696205",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pao W, Wang TY, Riely GJ, Miller VA, Pan Q, Ladanyi M, Zakowski MF, Heelan RT, Kris MG, Varmus HE. KRAS mutations and primary resistance of lung adenocarcinomas to gefitinib or erlotinib. PLoS Med. 2005 Jan;2(1):e17. doi: 10.1371/journal.pmed.0020017. Epub 2005 Jan 25."
+                        },
+                        {
+                            "ReferencePMID": "16618717",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Lievre A, Bachet JB, Le Corre D, Boige V, Landi B, Emile JF, Cote JF, Tomasic G, Penna C, Ducreux M, Rougier P, Penault-Llorca F, Laurent-Puig P. KRAS mutation status is predictive of response to cetuximab therapy in colorectal cancer. Cancer Res. 2006 Apr 15;66(8):3992-5. doi: 10.1158/0008-5472.CAN-06-0191."
+                        },
+                        {
+                            "ReferencePMID": "20975063",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Macconaill LE, Garraway LA. Clinical implications of the cancer genome. J Clin Oncol. 2010 Dec 10;28(35):5219-28. doi: 10.1200/JCO.2009.27.4944. Epub 2010 Oct 25."
+                        },
+                        {
+                            "ReferencePMID": "11556830",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ray-Coquard I, Ghesquiere H, Bachelot T, Borg C, Biron P, Sebban C, LeCesne A, Chauvin F, Blay JY; ELYPSE Study Group. Identification of patients at risk for early death after conventional chemotherapy in solid tumours and lymphomas. Br J Cancer. 2001 Sep 14;85(6):816-22. doi: 10.1054/bjoc.2001.2011."
+                        },
+                        {
+                            "ReferencePMID": "15503313",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Borg C, Ray-Coquard I, Philip I, Clapisson G, Bendriss-Vermare N, Menetrier-Caux C, Sebban C, Biron P, Blay JY. CD4 lymphopenia as a risk factor for febrile neutropenia and early death after cytotoxic chemotherapy in adult patients with cancer. Cancer. 2004 Dec 1;101(11):2675-80. doi: 10.1002/cncr.20688."
+                        },
+                        {
+                            "ReferencePMID": "19549917",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Ray-Coquard I, Cropet C, Van Glabbeke M, Sebban C, Le Cesne A, Judson I, Tredan O, Verweij J, Biron P, Labidi I, Guastalla JP, Bachelot T, Perol D, Chabaud S, Hogendoorn PC, Cassier P, Dufresne A, Blay JY; European Organization for Research and Treatment of Cancer Soft Tissue and Bone Sarcoma Group. Lymphopenia as a prognostic factor for overall survival in advanced carcinomas, sarcomas, and lymphomas. Cancer Res. 2009 Jul 1;69(13):5383-91. doi: 10.1158/0008-5472.CAN-08-3845. Epub 2009 Jun 23."
+                        },
+                        {
+                            "ReferencePMID": "22754761",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Manuel M, Tredan O, Bachelot T, Clapisson G, Courtier A, Parmentier G, Rabeony T, Grives A, Perez S, Mouret JF, Perol D, Chabaud S, Ray-Coquard I, Labidi-Galy I, Heudel P, Pierga JY, Caux C, Blay JY, Pasqual N, Menetrier-Caux C. Lymphopenia combined with low TCR diversity (divpenia) predicts poor overall survival in metastatic breast cancer patients. Oncoimmunology. 2012 Jul 1;1(4):432-440. doi: 10.4161/onci.19545."
+                        },
+                        {
+                            "ReferencePMID": "19808962",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Menetrier-Caux C, Gobert M, Caux C. Differences in tumor regulatory T-cell localization and activation status impact patient outcome. Cancer Res. 2009 Oct 15;69(20):7895-8. doi: 10.1158/0008-5472.CAN-09-1642. Epub 2009 Oct 6."
+                        },
+                        {
+                            "ReferencePMID": "21697280",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Labidi-Galy SI, Sisirak V, Meeus P, Gobert M, Treilleux I, Bajard A, Combes JD, Faget J, Mithieux F, Cassignol A, Tredan O, Durand I, Menetrier-Caux C, Caux C, Blay JY, Ray-Coquard I, Bendriss-Vermare N. Quantitative and functional alterations of plasmacytoid dendritic cells contribute to immune tolerance in ovarian cancer. Cancer Res. 2011 Aug 15;71(16):5423-34. doi: 10.1158/0008-5472.CAN-11-0367. Epub 2011 Jun 22."
+                        },
+                        {
+                            "ReferencePMID": "22836755",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Sisirak V, Faget J, Gobert M, Goutagny N, Vey N, Treilleux I, Renaudineau S, Poyet G, Labidi-Galy SI, Goddard-Leon S, Durand I, Le Mercier I, Bajard A, Bachelot T, Puisieux A, Puisieux I, Blay JY, Menetrier-Caux C, Caux C, Bendriss-Vermare N. Impaired IFN-alpha production by plasmacytoid dendritic cells favors regulatory T-cell expansion that may contribute to breast cancer progression. Cancer Res. 2012 Oct 15;72(20):5188-97. doi: 10.1158/0008-5472.CAN-11-3468. Epub 2012 Jul 25."
+                        },
+                        {
+                            "ReferencePMID": "15569934",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Thompson RH, Gillett MD, Cheville JC, Lohse CM, Dong H, Webster WS, Krejci KG, Lobo JR, Sengupta S, Chen L, Zincke H, Blute ML, Strome SE, Leibovich BC, Kwon ED. Costimulatory B7-H1 in renal cell carcinoma patients: Indicator of tumor aggressiveness and potential therapeutic target. Proc Natl Acad Sci U S A. 2004 Dec 7;101(49):17174-9. doi: 10.1073/pnas.0406351101. Epub 2004 Nov 29."
+                        },
+                        {
+                            "ReferencePMID": "17360651",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Hamanishi J, Mandai M, Iwasaki M, Okazaki T, Tanaka Y, Yamaguchi K, Higuchi T, Yagi H, Takakura K, Minato N, Honjo T, Fujii S. Programmed cell death 1 ligand 1 and tumor-infiltrating CD8+ T lymphocytes are prognostic factors of human ovarian cancer. Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3360-5. doi: 10.1073/pnas.0611533104. Epub 2007 Feb 21."
+                        },
+                        {
+                            "ReferencePMID": "22658128",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Brahmer JR, Tykodi SS, Chow LQ, Hwu WJ, Topalian SL, Hwu P, Drake CG, Camacho LH, Kauh J, Odunsi K, Pitot HC, Hamid O, Bhatia S, Martins R, Eaton K, Chen S, Salay TM, Alaparthy S, Grosso JF, Korman AJ, Parker SM, Agrawal S, Goldberg SM, Pardoll DM, Gupta A, Wigginton JM. Safety and activity of anti-PD-L1 antibody in patients with advanced cancer. N Engl J Med. 2012 Jun 28;366(26):2455-65. doi: 10.1056/NEJMoa1200694. Epub 2012 Jun 2."
+                        },
+                        {
+                            "ReferencePMID": "22658127",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Topalian SL, Hodi FS, Brahmer JR, Gettinger SN, Smith DC, McDermott DF, Powderly JD, Carvajal RD, Sosman JA, Atkins MB, Leming PD, Spigel DR, Antonia SJ, Horn L, Drake CG, Pardoll DM, Chen L, Sharfman WH, Anders RA, Taube JM, McMiller TL, Xu H, Korman AJ, Jure-Kunkel M, Agrawal S, McDonald D, Kollia GD, Gupta A, Wigginton JM, Sznol M. Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. N Engl J Med. 2012 Jun 28;366(26):2443-54. doi: 10.1056/NEJMoa1200690. Epub 2012 Jun 2."
+                        },
+                        {
+                            "ReferencePMID": "20555106",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Pavlidis N, Hansen H, Stahel R. ESMO Clinical Practice Guidelines: development, implementation and dissemination. Ann Oncol. 2010 May;21 Suppl 5:v7-8. doi: 10.1093/annonc/mdq158. No abstract available. Erratum In: Ann Oncol. 2010 Aug;21(8):1736. Ann Oncol. 2010 Aug;21(8):1736."
+                        },
+                        {
+                            "ReferencePMID": "11870241",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kantarjian H, Sawyers C, Hochhaus A, Guilhot F, Schiffer C, Gambacorti-Passerini C, Niederwieser D, Resta D, Capdeville R, Zoellner U, Talpaz M, Druker B, Goldman J, O'Brien SG, Russell N, Fischer T, Ottmann O, Cony-Makhoul P, Facon T, Stone R, Miller C, Tallman M, Brown R, Schuster M, Loughran T, Gratwohl A, Mandelli F, Saglio G, Lazzarino M, Russo D, Baccarani M, Morra E; International STI571 CML Study Group. Hematologic and cytogenetic responses to imatinib mesylate in chronic myelogenous leukemia. N Engl J Med. 2002 Feb 28;346(9):645-52. doi: 10.1056/NEJMoa011573. Erratum In: N Engl J Med 2002 Jun 13;346(24):1923."
+                        },
+                        {
+                            "ReferencePMID": "12181401",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Demetri GD, von Mehren M, Blanke CD, Van den Abbeele AD, Eisenberg B, Roberts PJ, Heinrich MC, Tuveson DA, Singer S, Janicek M, Fletcher JA, Silverman SG, Silberman SL, Capdeville R, Kiese B, Peng B, Dimitrijevic S, Druker BJ, Corless C, Fletcher CD, Joensuu H. Efficacy and safety of imatinib mesylate in advanced gastrointestinal stromal tumors. N Engl J Med. 2002 Aug 15;347(7):472-80. doi: 10.1056/NEJMoa020461."
+                        },
+                        {
+                            "ReferencePMID": "14645423",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Heinrich MC, Corless CL, Demetri GD, Blanke CD, von Mehren M, Joensuu H, McGreevey LS, Chen CJ, Van den Abbeele AD, Druker BJ, Kiese B, Eisenberg B, Roberts PJ, Singer S, Fletcher CD, Silberman S, Dimitrijevic S, Fletcher JA. Kinase mutations and imatinib response in patients with metastatic gastrointestinal stromal tumor. J Clin Oncol. 2003 Dec 1;21(23):4342-9. doi: 10.1200/JCO.2003.04.190."
+                        },
+                        {
+                            "ReferencePMID": "16624552",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Debiec-Rychter M, Sciot R, Le Cesne A, Schlemmer M, Hohenberger P, van Oosterom AT, Blay JY, Leyvraz S, Stul M, Casali PG, Zalcberg J, Verweij J, Van Glabbeke M, Hagemeijer A, Judson I; EORTC Soft Tissue and Bone Sarcoma Group; Italian Sarcoma Group; Australasian GastroIntestinal Trials Group. KIT mutations and dose selection for imatinib in patients with advanced gastrointestinal stromal tumours. Eur J Cancer. 2006 May;42(8):1093-103. doi: 10.1016/j.ejca.2006.01.030. Epub 2006 Apr 18."
+                        },
+                        {
+                            "ReferencePMID": "21690468",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Guo J, Si L, Kong Y, Flaherty KT, Xu X, Zhu Y, Corless CL, Li L, Li H, Sheng X, Cui C, Chi Z, Li S, Han M, Mao L, Lin X, Du N, Zhang X, Li J, Wang B, Qin S. Phase II, open-label, single-arm trial of imatinib mesylate in patients with metastatic melanoma harboring c-Kit mutation or amplification. J Clin Oncol. 2011 Jul 20;29(21):2904-9. doi: 10.1200/JCO.2010.33.9275. Epub 2011 Jun 20."
+                        },
+                        {
+                            "ReferencePMID": "21426297",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Dienstmann R, Tabernero J. BRAF as a target for cancer therapy. Anticancer Agents Med Chem. 2011 Mar;11(3):285-95. doi: 10.2174/187152011795347469."
+                        },
+                        {
+                            "ReferencePMID": "21639808",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Chapman PB, Hauschild A, Robert C, Haanen JB, Ascierto P, Larkin J, Dummer R, Garbe C, Testori A, Maio M, Hogg D, Lorigan P, Lebbe C, Jouary T, Schadendorf D, Ribas A, O'Day SJ, Sosman JA, Kirkwood JM, Eggermont AM, Dreno B, Nolop K, Li J, Nelson B, Hou J, Lee RJ, Flaherty KT, McArthur GA; BRIM-3 Study Group. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med. 2011 Jun 30;364(26):2507-16. doi: 10.1056/NEJMoa1103782. Epub 2011 Jun 5."
+                        },
+                        {
+                            "ReferencePMID": "20979469",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Kwak EL, Bang YJ, Camidge DR, Shaw AT, Solomon B, Maki RG, Ou SH, Dezube BJ, Janne PA, Costa DB, Varella-Garcia M, Kim WH, Lynch TJ, Fidias P, Stubbs H, Engelman JA, Sequist LV, Tan W, Gandhi L, Mino-Kenudson M, Wei GC, Shreeve SM, Ratain MJ, Settleman J, Christensen JG, Haber DA, Wilner K, Salgia R, Shapiro GI, Clark JW, Iafrate AJ. Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer. N Engl J Med. 2010 Oct 28;363(18):1693-703. doi: 10.1056/NEJMoa1006448. Erratum In: N Engl J Med. 2011 Feb 10;364(6):588."
+                        },
+                        {
+                            "ReferencePMID": "22124364",
+                            "ReferenceType": "background",
+                            "ReferenceCitation": "Arteaga CL, Sliwkowski MX, Osborne CK, Perez EA, Puglisi F, Gianni L. Treatment of HER2-positive breast cancer: current status and future perspectives. Nat Rev Clin Oncol. 2011 Nov 29;9(1):16-32. doi: 10.1038/nrclinonc.2011.177."
+                        },
+                        {
+                            "ReferencePMID": "35050753",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Benezech S, Saintigny P, Attignon V, Pissaloux D, Paindavoine S, Faure-Conter C, Corradini N, Marec-Berard P, Bergeron C, Cassier P, Eberst L, Dufresne A, Wang Q, Agrapart V, De La Fouchardiere A, Perol D, Garin G, Corset V, Ben Abdesselem L, Chabaud S, Tredan O, Blay JY, Frappaz D. Tumor Molecular Profiling: Pediatric Results of the ProfiLER Study. JCO Precis Oncol. 2020 Nov;4:785-795. doi: 10.1200/PO.20.00023."
+                        },
+                        {
+                            "ReferencePMID": "30865223",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Tredan O, Wang Q, Pissaloux D, Cassier P, de la Fouchardiere A, Fayette J, Desseigne F, Ray-Coquard I, de la Fouchardiere C, Frappaz D, Heudel PE, Bonneville-Levard A, Flechon A, Sarabi M, Guibert P, Bachelot T, Perol M, You B, Bonnin N, Collard O, Leyronnas C, Attignon V, Baudet C, Sohier E, Villemin JP, Viari A, Boyault S, Lantuejoul S, Paindavoine S, Treillleux I, Rodriguez C, Agrapart V, Corset V, Garin G, Chabaud S, Perol D, Blay JY; ProfiLER investigators. Molecular screening program to select molecular-based recommended therapies for metastatic cancer patients: analysis from the ProfiLER trial. Ann Oncol. 2019 May 1;30(5):757-765. doi: 10.1093/annonc/mdz080."
+                        },
+                        {
+                            "ReferencePMID": "26317543",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Jiang X, Pissaloux D, De La Fouchardiere C, Desseigne F, Wang Q, Attignon V, Fondrevelle ME, De La Fouchardiere A, Perol M, Cassier P, Seigne C, Perol D, Ray-Coquard I, Meeus P, Fayette J, Flechon A, Le Cesne A, Penel N, Tredan O, Blay JY. The sum of gains and losses of genes encoding the protein tyrosine kinase targets predicts response to multi-kinase inhibitor treatment: Characterization, validation, and prognostic value. Oncotarget. 2015 Sep 22;6(28):26388-99. doi: 10.18632/oncotarget.4557."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            }
+        }
+    }
+}

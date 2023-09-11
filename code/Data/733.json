@@ -1,0 +1,397 @@
+{
+    "Rank": 733,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05482529",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "IOACCM"
+                },
+                "Organization": {
+                    "OrgFullName": "Daping Hospital and the Research Institute of Surgery of the Third Military Medical University",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Integrative Omics Analysis for Colorectal Cancer and Metastasis",
+                "OfficialTitle": "A Prospective Study of Integrative Omics Analysis for Colorectal Cancer and Metastasis"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "July 2022",
+                "OverallStatus": "Recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1, 2022",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2025",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "May 4, 2022",
+                "StudyFirstSubmitQCDate": "July 29, 2022",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 1, 2022",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 29, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "August 1, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor-Investigator",
+                    "ResponsiblePartyInvestigatorFullName": "fan li",
+                    "ResponsiblePartyInvestigatorTitle": "Prof.",
+                    "ResponsiblePartyInvestigatorAffiliation": "Daping Hospital and the Research Institute of Surgery of the Third Military Medical University"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "fan li",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "The pathogenesis of Colorectal cancer (CRC) metastasis remains unclear.We collect clinical data from our center and use Integrative omics to analyze and predict candidate biomarkers of colorectal cancer and distant metastasis.",
+                "DetailedDescription": "Colorectal cancer (CRC), one of the most common malignant cancer around the world, CRC patients with distant metastasis. However, the pathogenesis of metastasis remains unclear. Integrative omics have begun to enable personalized medicine at an extraordinarily detailed molecular level. All patients with colorectal cancer and metastasis in our center who meet the inclusion criteria and exclusion criteria will be enrolled. The specimen collected by surgery and clinical data will be collected . We use Integrative omics such as RNA-sequencing,ATAC-seq(Assay for Transposase-Accessible Chromatin using sequencing), CUT&Tag\uff08 Cleavage Under Targets and Tagmentation\uff09to analyze and predict candidate biomarkers of colorectal cancer and distant metastasis. This study will contribute to understanding the molecular mechanism of CRC metastasis in depth and contribute to the discovery of new appropriate molecular diagnostic and therapeutic targets, and more accurately prognose long term outcome in patients with CRC."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Colorectal Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Integrative omics",
+                        "colorectal cancer",
+                        "distant metastasis",
+                        "prognostic analysis"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "Yes",
+                "TargetDuration": "24 Months",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "BioSpec": {
+                    "BioSpecRetention": "Samples With DNA",
+                    "BioSpecDescription": "Colorectal cancer (CRC), adjacent colon, lymph nodes (LN) along colons, metastasis (DM), and adjacent of metastasis ,lymph nodes (LM) along metastasis ,and peripheral blood mononuclear cells (PBMC)"
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "20",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "colorectal cancer with metastasis",
+                            "ArmGroupDescription": "colorectal cancer patients with at least one distant metastasis(liver, lung)",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Other: Integrative omics"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Other",
+                            "InterventionName": "Integrative omics",
+                            "InterventionDescription": "Integrative omics such as RNA-sequencing,ATAC-seq(Assay for Transposase-Accessible Chromatin using sequencing), CUT&Tag\uff08 Cleavage Under Targets and Tagmentation\uff09to analyze and predict candidate biomarkers of colorectal cancer and distant metastasis.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "colorectal cancer with metastasis"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "overall survival rate",
+                            "PrimaryOutcomeDescription": "the oncological efficacy by 3-year follow-up according to the NCCN guideline. Participants should report every follow-up examinations which prove tumor recurrence and/or metastasis or not.",
+                            "PrimaryOutcomeTimeFrame": "3 years after surgery"
+                        },
+                        {
+                            "PrimaryOutcomeMeasure": "disease free survival rate",
+                            "PrimaryOutcomeDescription": "the oncological efficacy by 3-year follow-up according to the NCCN guideline. Participants should report every follow-up examinations which prove tumor recurrence and/or metastasis or not.",
+                            "PrimaryOutcomeTimeFrame": "3 years after surgery"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Quality of life outcomes evaluation(QLQ-CR38)",
+                            "SecondaryOutcomeDescription": "We examine before operation, 3 months after, 6 months after, 12 months after, 24 months after operation, by questionnaires (HRQoL).The General quality of life quality of life Questionnaires of Colorectal Cancer-38(QLQ-CR38) are used to evaluate the Quality of life outcomes. Items are scored on a four-point scale from 1(\"not at all) to 4 (\"very much\"). Raw scores are aggregated and converted to a linear scale ranging from 0 to 100, with higher scores representing a higher level of functioning or a higher level of symptoms",
+                            "SecondaryOutcomeTimeFrame": "0- 2 years after surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Quality of life outcomes evaluation(QLQ-C30)",
+                            "SecondaryOutcomeDescription": "We examine before operation, 3 months after, 6 months after, 12 months after, 24 months after operation, by questionnaires (HRQoL).The General quality of life Quality of life Questionnaires of Cancer-30 (QLQ-C30) are used to evaluate the Quality of life outcomes. Items are scored on a four-point scale from 1(\"not at all) to 4 (\"very much\"). Raw scores are aggregated and converted to a linear scale ranging from 0 to 100, with higher scores representing a higher level of functioning or a higher level of symptoms",
+                            "SecondaryOutcomeTimeFrame": "0- 2 years after surgery"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "R0 resection rate",
+                            "SecondaryOutcomeDescription": "The R0 resection rate by pathology outcome of specimen",
+                            "SecondaryOutcomeTimeFrame": "2 weeks after surgery"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\ncolorectal adenocarcinoma by biopsy\u3002\nat least 1 metastasis lesion comfirmed by at least 1 kind of imaging examination (CT, MRI and PET-CT )\n\nExclusion Criteria:\n\nrecent diagnosis with other malignancies\ncan not tolerate the surgery\nhistory of serious mental illness\npregnancy or lactating women\nthe researchers believe the patients should not enrolled in",
+                "Gender": "All",
+                "MinimumAge": "18 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "All patients with colorectal cancer and metastasis will be enrolled.",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "fan li, MD",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "86 023 68757958",
+                            "CentralContactEMail": "levinecq@163.com"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Daping hospital",
+                            "LocationStatus": "Recruiting",
+                            "LocationCity": "Chongqing",
+                            "LocationZip": "400042",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "fan Li, PhD",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "68729350",
+                                        "LocationContactEMail": "levinecq@163.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Undecided"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000015179",
+                            "ConditionMeshTerm": "Colorectal Neoplasms"
+                        },
+                        {
+                            "ConditionMeshId": "D000009362",
+                            "ConditionMeshTerm": "Neoplasm Metastasis"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000007414",
+                            "ConditionAncestorTerm": "Intestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005770",
+                            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004067",
+                            "ConditionAncestorTerm": "Digestive System Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000004066",
+                            "ConditionAncestorTerm": "Digestive System Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005767",
+                            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000003108",
+                            "ConditionAncestorTerm": "Colonic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000007410",
+                            "ConditionAncestorTerm": "Intestinal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012002",
+                            "ConditionAncestorTerm": "Rectal Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009385",
+                            "ConditionAncestorTerm": "Neoplastic Processes"
+                        },
+                        {
+                            "ConditionAncestorId": "D000010335",
+                            "ConditionAncestorTerm": "Pathologic Processes"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M11997",
+                            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+                            "ConditionBrowseLeafAsFound": "Metastases",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17580",
+                            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10138",
+                            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8576",
+                            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6946",
+                            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6945",
+                            "ConditionBrowseLeafName": "Digestive System Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8573",
+                            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M6026",
+                            "ConditionBrowseLeafName": "Colonic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10134",
+                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14534",
+                            "ConditionBrowseLeafName": "Rectal Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M12020",
+                            "ConditionBrowseLeafName": "Neoplastic Processes",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC23",
+                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC06",
+                            "ConditionBrowseBranchName": "Digestive System Diseases"
+                        }
+                    ]
+                }
+            },
+            "InterventionBrowseModule": {
+                "InterventionBrowseLeafList": {
+                    "InterventionBrowseLeaf": [
+                        {
+                            "InterventionBrowseLeafId": "M10800",
+                            "InterventionBrowseLeafName": "Liver Extracts",
+                            "InterventionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "InterventionBrowseBranchList": {
+                    "InterventionBrowseBranch": [
+                        {
+                            "InterventionBrowseBranchAbbrev": "Hemat",
+                            "InterventionBrowseBranchName": "Hematinics"
+                        },
+                        {
+                            "InterventionBrowseBranchAbbrev": "All",
+                            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

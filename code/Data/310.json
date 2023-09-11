@@ -1,0 +1,364 @@
+{
+    "Rank": 310,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT02131207",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "CASE6813"
+                },
+                "SecondaryIdInfoList": {
+                    "SecondaryIdInfo": [
+                        {
+                            "SecondaryId": "NCI-2014-00822",
+                            "SecondaryIdType": "Registry Identifier",
+                            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+                        },
+                        {
+                            "SecondaryId": "CASE6813",
+                            "SecondaryIdType": "Other Identifier",
+                            "SecondaryIdDomain": "Case Comprehensive Cancer Center"
+                        },
+                        {
+                            "SecondaryId": "P30CA043703",
+                            "SecondaryIdType": "U.S. NIH Grant/Contract",
+                            "SecondaryIdLink": "https://reporter.nih.gov/quickSearch/P30CA043703"
+                        }
+                    ]
+                },
+                "Organization": {
+                    "OrgFullName": "Case Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "MRI Before Biopsy in Diagnosing Patients With Prostate Cancer",
+                "OfficialTitle": "Novel Screening MRI for the Detection of Prostate Cancer"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2017",
+                "OverallStatus": "Terminated",
+                "WhyStopped": "Principal Investigator Left Institution",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "September 10, 2014",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 8, 2017",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 8, 2017",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "April 17, 2014",
+                "StudyFirstSubmitQCDate": "May 5, 2014",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "May 6, 2014",
+                    "StudyFirstPostDateType": "Estimate"
+                },
+                "LastUpdateSubmitDate": "December 19, 2017",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 21, 2017",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Case Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "National Cancer Institute (NCI)",
+                            "CollaboratorClass": "NIH"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "Yes",
+                "IsUSExport": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This pilot clinical trial studies how well magnetic resonance imaging (MRI) before biopsy works in diagnosing patients with prostate cancer. MRI is a procedure in which radio waves and a powerful magnet linked to a computer are used to create detailed pictures of areas inside the body. This diagnostic procedure may aid in identifying lesions in the prostate which may have cancer. The lesions can then be targeted during the prostate biopsy to improve the accuracy of identifying prostate cancer.",
+                "DetailedDescription": "PRIMARY OBJECTIVES:\n\nI. Identification of one of more lesions suspicious for prostate cancer using a novel MRI protocol, not identified by transrectal ultrasound (TRUS) alone and to determine if the lesions identified by MRI demonstrate clinically significant prostate cancer based on pathologic findings (ie. Gleason >= 7 or percentage of core involved with cancer > 50%).\n\nSECONDARY OBJECTIVES:\n\nI. Average time for MRI scan per patient. II. Correlation of lesions on MRI to radical prostatectomy specimens. III. To determine whether MRI 3 dimensional (3D) T2 half-Fourier acquired single turbo spin-echo (HASTE) or sampling perfection with application optimized contrast using different flip angle evolutions (SPACE) protocols provide improved rates of prostate cancer detection.\n\nIV. Yield of additional clinically significant prostate cancer diagnoses based on MRI targeted lesions on biopsy.\n\nV. Rate of benign pathology identified by MRI (i.e. false positives). VI. To compare costs associated with the use of MRI over TRUS biopsy alone.\n\nOUTLINE:\n\nParticipants undergo pelvic MRI. Within 1-2 weeks, patients undergo scheduled prostate biopsy."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Observational",
+                "PatientRegistry": "No",
+                "DesignInfo": {
+                    "DesignObservationalModelList": {
+                        "DesignObservationalModel": [
+                            "Cohort"
+                        ]
+                    },
+                    "DesignTimePerspectiveList": {
+                        "DesignTimePerspective": [
+                            "Prospective"
+                        ]
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "139",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Diagnostic (MRI and biopsy)",
+                            "ArmGroupDescription": "Participants undergo pelvic magnetic resonance imaging (MRI). Within 1-2 weeks, patients undergo scheduled prostate biopsy.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Device: magnetic resonance imaging",
+                                    "Procedure: prostate biopsy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Device",
+                            "InterventionName": "magnetic resonance imaging",
+                            "InterventionDescription": "Undergo pelvic MRI",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Diagnostic (MRI and biopsy)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "MRI",
+                                    "NMR imaging",
+                                    "NMRI",
+                                    "nuclear magnetic resonance imaging"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Procedure",
+                            "InterventionName": "prostate biopsy",
+                            "InterventionDescription": "Undergo prostate biopsy",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Diagnostic (MRI and biopsy)"
+                                ]
+                            },
+                            "InterventionOtherNameList": {
+                                "InterventionOtherName": [
+                                    "biopsy of prostate",
+                                    "prostatic biopsy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Increased detection of clinically significant prostate cancer",
+                            "PrimaryOutcomeDescription": "Percent increase of patients with positive prostate cancer biopsies detected with pelvic MRI quick scan from the anticipated detection rate of 40%",
+                            "PrimaryOutcomeTimeFrame": "Up to 1 year"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Detection of clinically significant prostate cancer using 3D T2 SPACE",
+                            "SecondaryOutcomeDescription": "Number of patients with positive prostate cancer detection using 3D T2 SPACE",
+                            "SecondaryOutcomeTimeFrame": "Up to 1 year"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Detection of clinically significant prostate cancer using 3D T2 HASTE",
+                            "SecondaryOutcomeDescription": "Number of patients with positive prostate cancer detection using 3D T2 HASTE",
+                            "SecondaryOutcomeTimeFrame": "Up to 1 year"
+                        }
+                    ]
+                },
+                "OtherOutcomeList": {
+                    "OtherOutcome": [
+                        {
+                            "OtherOutcomeMeasure": "Pathology specimen correlation with MRI findings",
+                            "OtherOutcomeDescription": "Statistical correlation of MRI findings with final pathology specimens in those patients who elect to be treated with radical prostatectomy for treatment of their biopsy detected prostate cancer with 0 showing no correlation and 1 showing perfect correlation between findings.",
+                            "OtherOutcomeTimeFrame": "Up to 1 year"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nAbnormal prostate-specific antigen (PSA) blood test\n\n> 2.5 ng/mL for men < 50 years (yrs) of age\n> 3.5 ng/mL for men < 60 yrs of age\n> 4.5 ng/mL for men < 70 yrs of age\nAbnormal digital rectal exam (i.e. palpable nodule, induration or firm area to the prostate)\nScheduled for a TRUS biopsy based on clinical suspicion for prostate cancer\n\nExclusion Criteria:\n\nIndividuals who have previously undergone biopsy of the prostate for diagnosis of prostate cancer\n\nContraindications to TRUS/prostate biopsy (BX)\n\nCurrently on blood thinning agents (Plavix, Coumadin etc.) or bleeding disorder\nActive urinary tract infection\nAcute painful perianal disorder (i.e. rectal abscess)\n\nContraindications to MRI\n\nPatients with ferromagnetic or otherwise non-MRI compatible aneurysm clips\nThe presence of an implanted pacemaker or implanted defibrillator device\nPatients with contraindications for MRI due to embedded foreign metallic objects: bullets, shrapnel, metalwork fragments, or other metallic material adds unnecessary risk to the patient\nImplanted medical device not described above that is not MRI-compatible\nKnown history of claustrophobia\nIndividuals with a short life expectancy (< 10 years)",
+                "HealthyVolunteers": "No",
+                "Gender": "Male",
+                "MinimumAge": "40 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                },
+                "StudyPopulation": "This is a pilot study of patients from the University Hospitals urology clinics who have not previously been given a diagnosis of prostate cancer but who are awaiting a prostate biopsy due to an elevated PSA or abnormal digital rectal exam",
+                "SamplingMethod": "Non-Probability Sample"
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Robert Abouassaly",
+                            "OverallOfficialAffiliation": "Case Comprehensive Cancer Center",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University Hospitals, Case Comprehensive Cancer Center",
+                            "LocationCity": "Cleveland",
+                            "LocationState": "Ohio",
+                            "LocationZip": "44106-5065",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

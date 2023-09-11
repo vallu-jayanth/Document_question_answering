@@ -1,0 +1,349 @@
+{
+    "Rank": 161,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT04432753",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "19-2709"
+                },
+                "Organization": {
+                    "OrgFullName": "UNC Lineberger Comprehensive Cancer Center",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Effect of Incidental Findings Information on Lung Cancer Screening Intent",
+                "OfficialTitle": "Effect of Incidental Findings Information on Lung Cancer Screening Intent: A Randomized Controlled Trial"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "December 2020",
+                "OverallStatus": "Completed",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "July 16, 2020",
+                    "StartDateType": "Actual"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "August 22, 2020",
+                    "PrimaryCompletionDateType": "Actual"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "August 22, 2020",
+                    "CompletionDateType": "Actual"
+                },
+                "StudyFirstSubmitDate": "May 28, 2020",
+                "StudyFirstSubmitQCDate": "June 11, 2020",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "June 16, 2020",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "December 8, 2020",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "December 10, 2020",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
+                    "LeadSponsorClass": "OTHER"
+                },
+                "CollaboratorList": {
+                    "Collaborator": [
+                        {
+                            "CollaboratorName": "UNC Cecil G. Sheps Center for Health Services Research",
+                            "CollaboratorClass": "UNKNOWN"
+                        }
+                    ]
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "No",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This online randomized controlled trial seeks to determine if inclusion of incidental findings information in a lung cancer screening decision aid affects screening intent among screening-eligible individuals. Participants will view either a decision aid with incidental findings information or without and indicate their intent to pursue lung cancer screening.\n\nHypothesis: Inclusion of incidental findings in a decision aid will decrease intent to screen among participants."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Neoplasm of Lung",
+                        "Decision Support Techniques",
+                        "Mass Screening"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Incidental Findings"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Double",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Participant",
+                                "Investigator"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "419",
+                    "EnrollmentType": "Actual"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Decision aid with incidental findings information",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Participants in this arm will view a video decision aid that include information on incidental findings in lung cancer screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Lung Cancer Screening Decision Aid with Incidental Findings Information"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Decision aid without incidental findings information",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Participants in this arm will view a video decision aid that does not include information on incidental findings in lung cancer screening.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Behavioral: Lung Cancer Screening Decision Aid without Incidental Findings Information"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Lung Cancer Screening Decision Aid with Incidental Findings Information",
+                            "InterventionDescription": "The intervention consists of a previously tested and developed brief lung cancer screening video decision aid with the addition of information on incidental findings for lung cancer screening.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Decision aid with incidental findings information"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Behavioral",
+                            "InterventionName": "Lung Cancer Screening Decision Aid without Incidental Findings Information",
+                            "InterventionDescription": "The intervention consists of a previously tested and developed brief lung cancer screening video decision aid that does not include information on incidental findings.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Decision aid without incidental findings information"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "Percentage of individuals who plan to pursue lung cancer screening",
+                            "PrimaryOutcomeDescription": "This will be assessed by a survey item where participants indicate their response to a statement of whether they plan to pursue lung cancer screening, with answer choices being strongly agree, agree, disagree and strongly disagree. Comparison between the intervention and control groups will be made.",
+                            "PrimaryOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "Mean score on scale of lung cancer screening knowledge",
+                            "SecondaryOutcomeDescription": "Lung cancer screening knowledge tested by 6 multiple choice questions on facts of the benefit and harms of screening. The questions will be answered before and after participants watch a lung cancer screening decision aid. Scores will be determined by the number of correct answers for questions.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Mean rating of benefit and harms of screening",
+                            "SecondaryOutcomeDescription": "Participants will rate (Likert 1-5 scale with 1 being less important and 5 being more important) 6 lung cancer screening benefits and harms on importance to them.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Percentage of Time Lung Cancer Screening Benefit and Harms are ranked first and last",
+                            "SecondaryOutcomeDescription": "Participants will rank six lung cancer screening benefits and harms.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Mean ranking of benefit and harms of screening",
+                            "SecondaryOutcomeDescription": "Participants will rank six lung cancer screening benefits and harms.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Percentage of time each lung cancer screening harm is ranked highest of the five potential harms",
+                            "SecondaryOutcomeDescription": "Participants will rank six lung cancer screening benefits and harms.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "Mean ranking of incidental findings attribute",
+                            "SecondaryOutcomeDescription": "Participants will rank six lung cancer screening benefits and harms, including one on incidental findings. Comparison of mean ranking will be made between the intervention and control groups.",
+                            "SecondaryOutcomeTimeFrame": "Day 1"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\n55-80 year old male or female\nCurrent or former smoker who quit within the last 15 years\nAt least 30 pack years of smoking\n\nExclusion Criteria:\n\nN/A",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "All",
+                "MinimumAge": "55 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Stephen Clark, MD",
+                            "OverallOfficialAffiliation": "University of North Carolina, Chapel Hill",
+                            "OverallOfficialRole": "Principal Investigator"
+                        },
+                        {
+                            "OverallOfficialName": "Daniel Jonas, MD, MPH",
+                            "OverallOfficialAffiliation": "University of North Carolina, Chapel Hill",
+                            "OverallOfficialRole": "Study Director"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "University of North Carolina at Chapel Hill",
+                            "LocationCity": "Chapel Hill",
+                            "LocationState": "North Carolina",
+                            "LocationZip": "27514",
+                            "LocationCountry": "United States"
+                        }
+                    ]
+                }
+            },
+            "ReferencesModule": {
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "ReferencePMID": "35113322",
+                            "ReferenceType": "derived",
+                            "ReferenceCitation": "Clark SD, Reuland DS, Brenner AT, Jonas DE. Effect of Incidental Findings Information on Lung Cancer Screening Intent: a Randomized Controlled Trial. J Gen Intern Med. 2022 Nov;37(14):3676-3683. doi: 10.1007/s11606-022-07409-4. Epub 2022 Feb 2."
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000008175",
+                            "ConditionMeshTerm": "Lung Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000012142",
+                            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000013899",
+                            "ConditionAncestorTerm": "Thoracic Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000008171",
+                            "ConditionAncestorTerm": "Lung Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000012140",
+                            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M10862",
+                            "ConditionBrowseLeafName": "Lung Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Neoplasm of Lung",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14669",
+                            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M16348",
+                            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M10858",
+                            "ConditionBrowseLeafName": "Lung Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14667",
+                            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC08",
+                            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

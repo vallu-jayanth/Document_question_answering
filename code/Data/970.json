@@ -1,0 +1,333 @@
+{
+    "Rank": 970,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05961514",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2022-1G-1021"
+                },
+                "Organization": {
+                    "OrgFullName": "Peking University Cancer Hospital & Institute",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "the Beijing Randomized Study Of Prostate Cancer Screening",
+                "OfficialTitle": "The Randomized Controlled Trial of Prostate Cancer Screening in Beijing, China",
+                "Acronym": "BROPCS"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "March 2023",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "August 1, 2023",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 31, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 31, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "July 17, 2023",
+                "StudyFirstSubmitQCDate": "July 17, 2023",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "July 27, 2023",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "July 17, 2023",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "July 27, 2023",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Peking University Cancer Hospital & Institute",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "BROPCS is a randomized trial study comparing the effectiveness of traditional systematic biopsies and bpMRI followed targeted biopsies with PSA > 4ng/ml in initial screening.",
+                "DetailedDescription": "The aim of BROPCS study is to explore a suitable prostate cancer screening model for Chinese population, which can increase the specificity in early detection of prostate cancer without decreasing the sensitivity of clinically significant prostate cancers, and can reduce prostate cancer-specific mortality.This study will use a cluster randomized controlled trial method with a total of approximately 30,000 participants. The subjects will be randomly assigned to a control group (about 20,000 people) and a screening group (about 10,000 people), and some basic information will be obtained through a questionnaire survey. The screening group will undergo initial prostate-specific antigen (PSA) screening, and high-risk subjects (PSA > 4ng/ml) will be randomly assigned to two groups. The standard biopsy group will undergo traditional systematic biopsy, while the precision screening group will undergo further MRI examination and targeted fusion biopsy for those with positive MRI results."
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate Cancer",
+                        "MRI",
+                        "Biopsy"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "None (Open Label)"
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "30000",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "Traditional",
+                            "ArmGroupType": "Other",
+                            "ArmGroupDescription": "The traditional/control arm consists of systematic biopsies of the prostate if PSA>4ng/ml.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: systemic biopsies"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "Experimental",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "The experimental arm consists of MRI tests and targeted biopsies if PI-RADS scores \u22653 or systematic biopsies if PSA>10ng/ml.",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Target biopsies"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Target biopsies",
+                            "InterventionDescription": "MRI/Fusion target biopsies combine magnetic resonance imaging (MRI) with ultrasound-guided biopsy techniques to obtain tissue samples from areas of the prostate gland that appear abnormal on MRI.",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Experimental"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "systemic biopsies",
+                            "InterventionDescription": "transrectal ultrasound (TRUS) guided prostate systemic biopsies",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "Traditional"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "detection of clinically significant prostate cancer \uff08Gleason Score \u22657\uff09",
+                            "PrimaryOutcomeDescription": "Cancers detected by pathological evaluation of biopsy specimen collected from the respective study arm",
+                            "PrimaryOutcomeTimeFrame": "At 2 months after the last included biopsy procedure"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "detection of clinically insignificant prostate cancer \uff08Gleason Score 3+3\uff09",
+                            "SecondaryOutcomeDescription": "Cancers detected by pathological evaluation of biopsy specimen collected from the respective study arm",
+                            "SecondaryOutcomeTimeFrame": "At 2 months after the last included biopsy procedure"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nHealthy men aged 60-75 with a life expectancy of more than 10 years;\nResiding continuously in the community for more than 3 years and not previously diagnosed with prostate cancer;\nWilling to participate in this project.\n\nExclusion Criteria:\n\nPreviously diagnosed with prostate cancer;\nPreviously diagnosed with any malignant tumor within the past 5 years;\nUsed medication within the past 3 months that can affect PSA values, mainly finasteride, dutasteride, and ketoconazole;\nRecently had acute prostatitis, acute urinary retention, or underwent transurethral procedures (such as urethral dilation, urinary catheterization, cystoscopy, etc.) within the past week;\nHave other serious illnesses or cannot perform activities of daily living independently.",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Male",
+                "MinimumAge": "60 Years",
+                "MaximumAge": "75 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Yudong Cao, Dr.",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8615110101301",
+                            "CentralContactEMail": "ydcao@bjmu.edu.cn"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Peking University Cancer Hospital &institute",
+                            "LocationCity": "Beijing",
+                            "LocationState": "Beijing",
+                            "LocationZip": "100036",
+                            "LocationCountry": "China",
+                            "LocationContactList": {
+                                "LocationContact": [
+                                    {
+                                        "LocationContactName": "Yudong Cao, Dr.",
+                                        "LocationContactRole": "Contact",
+                                        "LocationContactPhone": "+8615110101301",
+                                        "LocationContactEMail": "ydcao@bjmu.edu.cn"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "Rank": 356,
+    "Study": {
+        "ProtocolSection": {
+            "IdentificationModule": {
+                "NCTId": "NCT05025527",
+                "OrgStudyIdInfo": {
+                    "OrgStudyId": "2021076"
+                },
+                "Organization": {
+                    "OrgFullName": "Shanghai East Hospital",
+                    "OrgClass": "OTHER"
+                },
+                "BriefTitle": "Biparametric MRI in Prostate Cancer Screening: a Noninferior Randomized Controlled Study",
+                "OfficialTitle": "Biparametric MRI in Prostate Cancer Screening: a Noninferior Randomized Controlled Study"
+            },
+            "StatusModule": {
+                "StatusVerifiedDate": "October 2022",
+                "OverallStatus": "Not yet recruiting",
+                "ExpandedAccessInfo": {
+                    "HasExpandedAccess": "No"
+                },
+                "StartDateStruct": {
+                    "StartDate": "December 1, 2022",
+                    "StartDateType": "Anticipated"
+                },
+                "PrimaryCompletionDateStruct": {
+                    "PrimaryCompletionDate": "December 1, 2024",
+                    "PrimaryCompletionDateType": "Anticipated"
+                },
+                "CompletionDateStruct": {
+                    "CompletionDate": "December 1, 2024",
+                    "CompletionDateType": "Anticipated"
+                },
+                "StudyFirstSubmitDate": "August 23, 2021",
+                "StudyFirstSubmitQCDate": "August 23, 2021",
+                "StudyFirstPostDateStruct": {
+                    "StudyFirstPostDate": "August 27, 2021",
+                    "StudyFirstPostDateType": "Actual"
+                },
+                "LastUpdateSubmitDate": "October 26, 2022",
+                "LastUpdatePostDateStruct": {
+                    "LastUpdatePostDate": "October 28, 2022",
+                    "LastUpdatePostDateType": "Actual"
+                }
+            },
+            "SponsorCollaboratorsModule": {
+                "ResponsibleParty": {
+                    "ResponsiblePartyType": "Sponsor"
+                },
+                "LeadSponsor": {
+                    "LeadSponsorName": "Shanghai East Hospital",
+                    "LeadSponsorClass": "OTHER"
+                }
+            },
+            "OversightModule": {
+                "OversightHasDMC": "Yes",
+                "IsFDARegulatedDrug": "No",
+                "IsFDARegulatedDevice": "No"
+            },
+            "DescriptionModule": {
+                "BriefSummary": "This is a single centre non-inferiority randomized controlled trial in comparison of the bpMRI between the traditional pathway in prostate cancer screening"
+            },
+            "ConditionsModule": {
+                "ConditionList": {
+                    "Condition": [
+                        "Prostate Cancer"
+                    ]
+                },
+                "KeywordList": {
+                    "Keyword": [
+                        "Prostate Cancer",
+                        "screen",
+                        "bpMRI",
+                        "PSA"
+                    ]
+                }
+            },
+            "DesignModule": {
+                "StudyType": "Interventional",
+                "PhaseList": {
+                    "Phase": [
+                        "Not Applicable"
+                    ]
+                },
+                "DesignInfo": {
+                    "DesignAllocation": "Randomized",
+                    "DesignInterventionModel": "Parallel Assignment",
+                    "DesignPrimaryPurpose": "Screening",
+                    "DesignMaskingInfo": {
+                        "DesignMasking": "Single",
+                        "DesignWhoMaskedList": {
+                            "DesignWhoMasked": [
+                                "Outcomes Assessor"
+                            ]
+                        }
+                    }
+                },
+                "EnrollmentInfo": {
+                    "EnrollmentCount": "500",
+                    "EnrollmentType": "Anticipated"
+                }
+            },
+            "ArmsInterventionsModule": {
+                "ArmGroupList": {
+                    "ArmGroup": [
+                        {
+                            "ArmGroupLabel": "bpMRI",
+                            "ArmGroupType": "Experimental",
+                            "ArmGroupDescription": "Man receive the bpMRI for Prostate cancer(PCa) screening",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: biparametric MRI (bpMRI)"
+                                ]
+                            }
+                        },
+                        {
+                            "ArmGroupLabel": "PSA",
+                            "ArmGroupType": "Active Comparator",
+                            "ArmGroupDescription": "Man receive the PSA blood test for Prostate cancer screening",
+                            "ArmGroupInterventionList": {
+                                "ArmGroupInterventionName": [
+                                    "Diagnostic Test: Prostate cancer antigen (PSA)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "InterventionList": {
+                    "Intervention": [
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "biparametric MRI (bpMRI)",
+                            "InterventionDescription": "Men go for the bpMRI for PCa (prostate cancer) screening, those who had a suspicious result will go for the next confirmation test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "bpMRI"
+                                ]
+                            }
+                        },
+                        {
+                            "InterventionType": "Diagnostic Test",
+                            "InterventionName": "Prostate cancer antigen (PSA)",
+                            "InterventionDescription": "Men go for the PSA test for PCa screening, those who had a suspicious result will go for the next confirmation test",
+                            "InterventionArmGroupLabelList": {
+                                "InterventionArmGroupLabel": [
+                                    "PSA"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "OutcomesModule": {
+                "PrimaryOutcomeList": {
+                    "PrimaryOutcome": [
+                        {
+                            "PrimaryOutcomeMeasure": "The proportion of men with clinically significant cancer",
+                            "PrimaryOutcomeDescription": "The presence of a single biopsy core indicating disease of ISUP( international society of urological pathology) 2 or more",
+                            "PrimaryOutcomeTimeFrame": "Within 1 month after the biopsy"
+                        }
+                    ]
+                },
+                "SecondaryOutcomeList": {
+                    "SecondaryOutcome": [
+                        {
+                            "SecondaryOutcomeMeasure": "The proportion of men with clinically insignificant cancer",
+                            "SecondaryOutcomeDescription": "The presence of a single biopsy core indicating disease of ISUP( international society of urological pathology) 1",
+                            "SecondaryOutcomeTimeFrame": "Within 1 month after the biopsy"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The proportion of men who do not undergo biopsy",
+                            "SecondaryOutcomeDescription": "The proportion of men who do not need for further biopsy in this trial",
+                            "SecondaryOutcomeTimeFrame": "Within 1 month after the biopsy"
+                        },
+                        {
+                            "SecondaryOutcomeMeasure": "The proportion of men with adverse events after the intervention",
+                            "SecondaryOutcomeDescription": "Any of the adverse events during the trial",
+                            "SecondaryOutcomeTimeFrame": "Within 1 week after the biopsy"
+                        }
+                    ]
+                }
+            },
+            "EligibilityModule": {
+                "EligibilityCriteria": "Inclusion Criteria:\n\nage between 18 and 80 years old\nlife-expectancy at least 10 years\nfully understand the clinical trial protocol and sign the informed consent;\n\nExclusion Criteria:\n\nAlready diagnosis with prostate cancer;\ncannot tolerate prostate biopsy or has contraindication to biopsy;\ncannot tolerate prostate biopsy or has contraindication to MRI examination;\nundergo biopsy within 1 year\npatients judged by the investigator to be unsuitable to participate in the clinical trial;",
+                "HealthyVolunteers": "Accepts Healthy Volunteers",
+                "Gender": "Male",
+                "MinimumAge": "50 Years",
+                "MaximumAge": "80 Years",
+                "StdAgeList": {
+                    "StdAge": [
+                        "Adult",
+                        "Older Adult"
+                    ]
+                }
+            },
+            "ContactsLocationsModule": {
+                "CentralContactList": {
+                    "CentralContact": [
+                        {
+                            "CentralContactName": "Biming He",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8615502139410",
+                            "CentralContactEMail": "190589109@qq.com"
+                        },
+                        {
+                            "CentralContactName": "Haifeng Wang",
+                            "CentralContactRole": "Contact",
+                            "CentralContactPhone": "+8613681750891",
+                            "CentralContactEMail": "446720864@qq.com"
+                        }
+                    ]
+                },
+                "OverallOfficialList": {
+                    "OverallOfficial": [
+                        {
+                            "OverallOfficialName": "Haifeng Wang",
+                            "OverallOfficialAffiliation": "Shanghai East Hospital,Tongji University School of Medicine",
+                            "OverallOfficialRole": "Principal Investigator"
+                        }
+                    ]
+                },
+                "LocationList": {
+                    "Location": [
+                        {
+                            "LocationFacility": "Shanghai East Hospital, Tongji University School of Medicine",
+                            "LocationCity": "Shanghai",
+                            "LocationState": "Shanghai",
+                            "LocationZip": "200120",
+                            "LocationCountry": "China"
+                        }
+                    ]
+                }
+            },
+            "IPDSharingStatementModule": {
+                "IPDSharing": "Yes",
+                "IPDSharingDescription": "Once available, the results of this trial will be disseminated to an international peer-reviewed journal and presentations at international or national academic conferences. The data will be made available upon request to researchers a) who provide a methodologically sound proposal and b) whose proposed use of the data has been approved by an independent ethical review committee",
+                "IPDSharingInfoTypeList": {
+                    "IPDSharingInfoType": [
+                        "Study Protocol",
+                        "Statistical Analysis Plan (SAP)",
+                        "Informed Consent Form (ICF)",
+                        "Clinical Study Report (CSR)",
+                        "Analytic Code"
+                    ]
+                },
+                "IPDSharingTimeFrame": "Data will become available after publication with no end date"
+            }
+        },
+        "DerivedSection": {
+            "MiscInfoModule": {
+                "VersionHolder": "September 08, 2023"
+            },
+            "ConditionBrowseModule": {
+                "ConditionMeshList": {
+                    "ConditionMesh": [
+                        {
+                            "ConditionMeshId": "D000011471",
+                            "ConditionMeshTerm": "Prostatic Neoplasms"
+                        }
+                    ]
+                },
+                "ConditionAncestorList": {
+                    "ConditionAncestor": [
+                        {
+                            "ConditionAncestorId": "D000005834",
+                            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000014565",
+                            "ConditionAncestorTerm": "Urogenital Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009371",
+                            "ConditionAncestorTerm": "Neoplasms by Site"
+                        },
+                        {
+                            "ConditionAncestorId": "D000009369",
+                            "ConditionAncestorTerm": "Neoplasms"
+                        },
+                        {
+                            "ConditionAncestorId": "D000005832",
+                            "ConditionAncestorTerm": "Genital Diseases, Male"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091662",
+                            "ConditionAncestorTerm": "Genital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000091642",
+                            "ConditionAncestorTerm": "Urogenital Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000011469",
+                            "ConditionAncestorTerm": "Prostatic Diseases"
+                        },
+                        {
+                            "ConditionAncestorId": "D000052801",
+                            "ConditionAncestorTerm": "Male Urogenital Diseases"
+                        }
+                    ]
+                },
+                "ConditionBrowseLeafList": {
+                    "ConditionBrowseLeaf": [
+                        {
+                            "ConditionBrowseLeafId": "M14025",
+                            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+                            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+                            "ConditionBrowseLeafRelevance": "high"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8636",
+                            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M17005",
+                            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2877",
+                            "ConditionBrowseLeafName": "Genital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M8634",
+                            "ConditionBrowseLeafName": "Genital Diseases, Male",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M2876",
+                            "ConditionBrowseLeafName": "Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M14023",
+                            "ConditionBrowseLeafName": "Prostatic Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        },
+                        {
+                            "ConditionBrowseLeafId": "M26785",
+                            "ConditionBrowseLeafName": "Male Urogenital Diseases",
+                            "ConditionBrowseLeafRelevance": "low"
+                        }
+                    ]
+                },
+                "ConditionBrowseBranchList": {
+                    "ConditionBrowseBranch": [
+                        {
+                            "ConditionBrowseBranchAbbrev": "BC04",
+                            "ConditionBrowseBranchName": "Neoplasms"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "BXS",
+                            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                        },
+                        {
+                            "ConditionBrowseBranchAbbrev": "All",
+                            "ConditionBrowseBranchName": "All Conditions"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
